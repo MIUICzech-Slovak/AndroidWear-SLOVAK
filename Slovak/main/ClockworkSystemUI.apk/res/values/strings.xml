@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="emergency_dialer_package">com.google.android.apps.wearable.phone</string>
-    <string name="emergency_call_action">com.google.android.clockwork.phone.dialer.ACTION_EMERGENCY_DIAL</string>
-    <string name="app_name">System UI</string>
-    <string name="perm_label_control_keyguard">Control screen lock</string>
-    <string name="perm_description_control_keyguard">This app can control the screen lock.</string>
-    <string name="perm_label_broadcast_keyguard_changed">Receive screen lock updates</string>
-    <string name="perm_description_broadcast_keyguard_changed">This app can be notified when the screen is locked and unlocked.</string>
-    <string name="label_emergency_call">EMERGENCY CALL</string>
+  <string name="app_name">System UI</string>
+  <string name="emergency_call_action">com.google.android.clockwork.phone.dialer.ACTION_EMERGENCY_DIAL</string>
+  <string name="emergency_dialer_package">com.google.android.apps.wearable.phone</string>
+  <string name="label_emergency_call">EMERGENCY CALL</string>
+  <string name="perm_description_broadcast_keyguard_changed">This app can be notified when the screen is locked and unlocked.</string>
+  <string name="perm_description_control_keyguard">This app can control the screen lock.</string>
+  <string name="perm_label_broadcast_keyguard_changed">Receive screen lock updates</string>
+  <string name="perm_label_control_keyguard">Control screen lock</string>
 </resources>

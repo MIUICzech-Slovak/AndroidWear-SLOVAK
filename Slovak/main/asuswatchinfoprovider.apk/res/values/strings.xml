@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">AsusWatchInfoProvider</string>
-    <string name="companion_name">ZenWatch Manager 3</string>
-    <string name="product_name">Asus ZenWatch 3</string>
-    <string name="product_name_zenwatch2">ASUS ZenWatch 3</string>
+  <string name="app_name">AsusWatchInfoProvider</string>
+  <string name="companion_name">ZenWatch Manager 3</string>
+  <string name="product_name">Asus ZenWatch 3</string>
+  <string name="product_name_zenwatch2">ASUS ZenWatch 3</string>
 </resources>

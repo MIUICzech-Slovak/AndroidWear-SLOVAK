@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="dismiss_overlay_button_label">Quit</string>
-    <string name="app_name">Photos Watch Face</string>
-    <string name="watchface_name">Photos</string>
+  <string name="app_name">Photos Watch Face</string>
+  <string name="dismiss_overlay_button_label">Quit</string>
+  <string name="watchface_name">Photos</string>
 </resources>

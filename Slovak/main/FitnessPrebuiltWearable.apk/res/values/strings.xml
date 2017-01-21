@@ -1,1019 +1,1019 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="a_day">a day</string>
-    <string name="a_month">a month</string>
-    <string name="a_week">a week</string>
-    <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="account_chooser_label">Choose account for Fit</string>
-    <string name="acquiring_gps">Acquiring GPS</string>
-    <string name="acquiring_gps_phone">Acquiring GPS from phone</string>
-    <string name="activate_fit_title">Activate Google Fit on your phone</string>
-    <string name="active_calories_label">Active Calories</string>
-    <string name="active_kilojoules_label">Active Kilojoules</string>
-    <string name="active_mode_announce_session_paused">Session paused</string>
-    <string name="active_mode_announce_session_started">Session started</string>
-    <string name="active_mode_announcement_10_minutes_label">Every 10 minutes</string>
-    <string name="active_mode_announcement_1_km_label">Every Kilometer</string>
-    <string name="active_mode_announcement_1_mile_label">Every mile</string>
-    <string name="active_mode_announcement_1_minute_label">Every minute</string>
-    <string name="active_mode_announcement_30_seconds_label">Every 30 seconds</string>
-    <string name="active_mode_announcement_5_minutes_label">Every 5 minutes</string>
-    <string name="active_mode_announcement_average_pace">average pace: %s</string>
-    <string name="active_mode_announcement_average_speed">average speed: %s</string>
-    <string name="active_mode_announcement_completed">Session completed</string>
-    <string name="active_mode_announcement_distance">distance: %s</string>
-    <string name="active_mode_announcement_duration">duration: %s</string>
-    <string name="active_mode_announcement_half_km_label">Every 0.5 kilometers</string>
-    <string name="active_mode_announcement_half_mile_label">Every half mile</string>
-    <string name="active_mode_announcement_header">Session stats</string>
-    <string name="active_mode_announcement_none_label">No announcements</string>
-    <string name="active_mode_cheers_alright">Alright!</string>
-    <string name="active_mode_cheers_awesome">Awesome!</string>
-    <string name="active_mode_cheers_hustle">Good hustle!</string>
-    <string name="active_mode_cheers_job">Good job!</string>
-    <string name="active_mode_cheers_nice">Nice work!</string>
-    <string name="active_mode_low_battery">Battery is too low for active mode</string>
-    <string name="active_session_notification_body">Swipe to resume workout</string>
-    <string name="active_session_notification_title">Strength training in progress</string>
-    <string name="active_time_label">Active time</string>
-    <string name="activity_duration_today_0">0 min %s</string>
-    <string name="activity_duration_today_0_accessibility">0 minutes %s</string>
-    <string name="activity_duration_today_1">&lt; 1 min %s</string>
-    <string name="activity_duration_today_1_accessibility">&lt; 1 minute %s</string>
-    <string name="activity_duration_today_h">{count, plural, =1 {1 hr {activity}} other {# hr {activity}}}</string>
-    <string name="activity_duration_today_h_accessibility">{count, plural, =1 {1 hour {activity}} other {# hours {activity}}}</string>
-    <string name="activity_duration_today_h_m">%1$s hr %2$s min %3$s</string>
-    <string name="activity_duration_today_h_m_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {activity}</string>
-    <string name="activity_duration_today_m">{count, plural, =1 {1 min {activity}} other {# min {activity}}}</string>
-    <string name="activity_duration_today_m_accessibility">{count, plural, =1 {1 minute {activity}} other {# minutes {activity}}}</string>
-    <string name="activity_paused_label">Activity paused</string>
-    <string name="activity_selection_title">Select activity</string>
-    <string name="activity_type_aerobics">Aerobics</string>
-    <string name="activity_type_aerobics_verb">Aerobics</string>
-    <string name="activity_type_australian_football">Australian football</string>
-    <string name="activity_type_australian_football_verb">Australian football</string>
-    <string name="activity_type_backcountry_skiing">Backcountry skiing</string>
-    <string name="activity_type_backcountry_skiing_verb">Backcountry ski</string>
-    <string name="activity_type_badminton">Badminton</string>
-    <string name="activity_type_badminton_verb">Badminton</string>
-    <string name="activity_type_baseball">Baseball</string>
-    <string name="activity_type_baseball_verb">Baseball</string>
-    <string name="activity_type_basketball">Basketball</string>
-    <string name="activity_type_basketball_verb">Basketball</string>
-    <string name="activity_type_beach_volleyball">Beach volleyball</string>
-    <string name="activity_type_beach_volleyball_verb">Beach volleyball</string>
-    <string name="activity_type_biathlon">Biathlon</string>
-    <string name="activity_type_biathlon_verb">Biathlon</string>
-    <string name="activity_type_biking">Biking</string>
-    <string name="activity_type_biking_verb">Bike</string>
-    <string name="activity_type_boxing">Boxing</string>
-    <string name="activity_type_boxing_verb">Box</string>
-    <string name="activity_type_calisthenics">Calisthenics</string>
-    <string name="activity_type_calisthenics_verb">Calisthenics</string>
-    <string name="activity_type_circuit_training">Circuit training</string>
-    <string name="activity_type_circuit_training_verb">Circuit train</string>
-    <string name="activity_type_cricket">Cricket</string>
-    <string name="activity_type_cricket_verb">Cricket</string>
-    <string name="activity_type_cross_country_skiing">Cross-country skiing</string>
-    <string name="activity_type_cross_country_skiing_verb">Cross-country ski</string>
-    <string name="activity_type_cross_skating">Cross skating</string>
-    <string name="activity_type_cross_skating_verb">Cross skate</string>
-    <string name="activity_type_crossfit">CrossFit</string>
-    <string name="activity_type_crossfit_verb">CrossFit</string>
-    <string name="activity_type_curling">Curling</string>
-    <string name="activity_type_curling_verb">Curle</string>
-    <string name="activity_type_dancing">Dancing</string>
-    <string name="activity_type_dancing_verb">Dance</string>
-    <string name="activity_type_diving">Diving</string>
-    <string name="activity_type_diving_verb">Dive</string>
-    <string name="activity_type_downhill_skiing">Downhill skiing</string>
-    <string name="activity_type_downhill_skiing_verb">Downhill ski</string>
-    <string name="activity_type_elliptical">Elliptical</string>
-    <string name="activity_type_elliptical_verb">Elliptical</string>
-    <string name="activity_type_ergometer">Ergometer</string>
-    <string name="activity_type_ergometer_verb">Ergometer</string>
-    <string name="activity_type_fencing">Fencing</string>
-    <string name="activity_type_fencing_verb">Fence</string>
-    <string name="activity_type_fitness_walking">Fitness walking</string>
-    <string name="activity_type_fitness_walking_verb">Fitness walk</string>
-    <string name="activity_type_football">Football</string>
-    <string name="activity_type_football_verb">Football</string>
-    <string name="activity_type_frisbee">Frisbee</string>
-    <string name="activity_type_frisbee_verb">Frisbee</string>
-    <string name="activity_type_gardening">Gardening</string>
-    <string name="activity_type_gardening_verb">Garden</string>
-    <string name="activity_type_golf">Golf</string>
-    <string name="activity_type_golf_verb">Golf</string>
-    <string name="activity_type_gymnastics">Gymnastics</string>
-    <string name="activity_type_gymnastics_verb">Gymnastics</string>
-    <string name="activity_type_handball">Handball</string>
-    <string name="activity_type_handball_verb">Handball</string>
-    <string name="activity_type_handcycling">Handcycling</string>
-    <string name="activity_type_handcycling_verb">Handcycle</string>
-    <string name="activity_type_high_intensity_interval_training">High intensity interval training</string>
-    <string name="activity_type_high_intensity_interval_training_verb">High intensity interval train</string>
-    <string name="activity_type_hiking">Hiking</string>
-    <string name="activity_type_hiking_verb">Hike</string>
-    <string name="activity_type_hockey">Hockey</string>
-    <string name="activity_type_hockey_verb">Hockey</string>
-    <string name="activity_type_horseback_riding">Horseback riding</string>
-    <string name="activity_type_horseback_riding_verb">Horseback ride</string>
-    <string name="activity_type_housework">Housework</string>
-    <string name="activity_type_housework_verb">Housework</string>
-    <string name="activity_type_ice_skating">Ice skating</string>
-    <string name="activity_type_ice_skating_verb">Ice skate</string>
-    <string name="activity_type_indoor_skating">Indoor skating</string>
-    <string name="activity_type_indoor_skating_verb">Indoor skate</string>
-    <string name="activity_type_indoor_volleyball">Indoor volleyball</string>
-    <string name="activity_type_indoor_volleyball_verb">Indoor volleyball</string>
-    <string name="activity_type_inline_skating">Inline skating</string>
-    <string name="activity_type_inline_skating_verb">Inline skate</string>
-    <string name="activity_type_interval_training">Interval training</string>
-    <string name="activity_type_interval_training_verb">Interval train</string>
-    <string name="activity_type_jogging">Jogging</string>
-    <string name="activity_type_jogging_verb">Jog</string>
-    <string name="activity_type_jumping_rope">Jumping rope</string>
-    <string name="activity_type_jumping_rope_verb">Jumping rope</string>
-    <string name="activity_type_kayaking">Kayaking</string>
-    <string name="activity_type_kayaking_verb">Kayak</string>
-    <string name="activity_type_kettlebell">Kettlebell</string>
-    <string name="activity_type_kettlebell_verb">Kettlebell</string>
-    <string name="activity_type_kick_scooter">Kick scooter</string>
-    <string name="activity_type_kick_scooter_verb">Kick scooter</string>
-    <string name="activity_type_kickboxing">Kickboxing</string>
-    <string name="activity_type_kickboxing_verb">Kickbox</string>
-    <string name="activity_type_kite_skiing">Kite skiing</string>
-    <string name="activity_type_kite_skiing_verb">Kite ski</string>
-    <string name="activity_type_kitesurfing">Kitesurfing</string>
-    <string name="activity_type_kitesurfing_verb">Kitesurf</string>
-    <string name="activity_type_martial_arts">Martial arts</string>
-    <string name="activity_type_martial_arts_verb">Martial arts</string>
-    <string name="activity_type_meditating">Meditating</string>
-    <string name="activity_type_meditating_verb">Meditate</string>
-    <string name="activity_type_mixed_martial_arts">Mixed martial arts</string>
-    <string name="activity_type_mixed_martial_arts_verb">Mixed martial arts</string>
-    <string name="activity_type_mountain_biking">Mountain biking</string>
-    <string name="activity_type_mountain_biking_verb">Mountain bike</string>
-    <string name="activity_type_nordic_walking">Nordic walking</string>
-    <string name="activity_type_nordic_walking_verb">Nordic walk</string>
-    <string name="activity_type_open_water_swimming">Open water swimming</string>
-    <string name="activity_type_open_water_swimming_verb">Open water swim</string>
-    <string name="activity_type_other">Other</string>
-    <string name="activity_type_other_verb">Other</string>
-    <string name="activity_type_p90x">P90x</string>
-    <string name="activity_type_p90x_verb">P90x</string>
-    <string name="activity_type_paddle_boarding">Stand-up paddle boarding</string>
-    <string name="activity_type_paddle_boarding_verb">Paddle board</string>
-    <string name="activity_type_paragliding">Paragliding</string>
-    <string name="activity_type_paragliding_verb">Paraglide</string>
-    <string name="activity_type_pilates">Pilates</string>
-    <string name="activity_type_pilates_verb">Pilates</string>
-    <string name="activity_type_polo">Polo</string>
-    <string name="activity_type_polo_verb">Polo</string>
-    <string name="activity_type_pool_swimming">Pool Swimming</string>
-    <string name="activity_type_pool_swimming_verb">Pool Swim</string>
-    <string name="activity_type_racquetball">Racquetball</string>
-    <string name="activity_type_racquetball_verb">Racquetball</string>
-    <string name="activity_type_road_biking">Road biking</string>
-    <string name="activity_type_road_biking_verb">Road bike</string>
-    <string name="activity_type_rock_climbing">Rock climbing</string>
-    <string name="activity_type_rock_climbing_verb">Rock climb</string>
-    <string name="activity_type_roller_skiing">Roller skiing</string>
-    <string name="activity_type_roller_skiing_verb">Roller ski</string>
-    <string name="activity_type_rowing">Rowing</string>
-    <string name="activity_type_rowing_machine">Rowing machine</string>
-    <string name="activity_type_rowing_machine_verb">Rowing machine</string>
-    <string name="activity_type_rowing_verb">Rowe</string>
-    <string name="activity_type_rugby">Rugby</string>
-    <string name="activity_type_rugby_verb">Rugby</string>
-    <string name="activity_type_running">Running</string>
-    <string name="activity_type_running_verb">Run</string>
-    <string name="activity_type_sailing">Sailing</string>
-    <string name="activity_type_sailing_verb">Sail</string>
-    <string name="activity_type_sand_running">Sand running</string>
-    <string name="activity_type_sand_running_verb">Sand run</string>
-    <string name="activity_type_scuba_diving">Scuba diving</string>
-    <string name="activity_type_scuba_diving_verb">Scuba dive</string>
-    <string name="activity_type_skateboarding">Skateboarding</string>
-    <string name="activity_type_skateboarding_verb">Skateboard</string>
-    <string name="activity_type_skating">Skating</string>
-    <string name="activity_type_skating_verb">Skate</string>
-    <string name="activity_type_skiing">Skiing</string>
-    <string name="activity_type_skiing_verb">Ski</string>
-    <string name="activity_type_sledding">Sledding</string>
-    <string name="activity_type_sledding_verb">Sled</string>
-    <string name="activity_type_snowboarding">Snowboarding</string>
-    <string name="activity_type_snowboarding_verb">Snowboard</string>
-    <string name="activity_type_snowmobiling">Snowmobiling</string>
-    <string name="activity_type_snowmobiling_verb">Snowmobile</string>
-    <string name="activity_type_snowshoeing">Snowshoeing</string>
-    <string name="activity_type_snowshoeing_verb">Snowshoe</string>
-    <string name="activity_type_soccer">Soccer</string>
-    <string name="activity_type_soccer_verb">Soccer</string>
-    <string name="activity_type_spinning">Spinning</string>
-    <string name="activity_type_spinning_verb">Spin</string>
-    <string name="activity_type_squash">Squash</string>
-    <string name="activity_type_squash_verb">Squash</string>
-    <string name="activity_type_stair_climbing">Stair climbing</string>
-    <string name="activity_type_stair_climbing_machine">Stair climbing machine</string>
-    <string name="activity_type_stair_climbing_machine_verb">Stair climbing machine</string>
-    <string name="activity_type_stair_climbing_verb">Stair climb</string>
-    <string name="activity_type_stationary_biking">Stationary biking</string>
-    <string name="activity_type_stationary_biking_verb">Stationary bike</string>
-    <string name="activity_type_still">Inactive</string>
-    <string name="activity_type_still_verb">Inactive</string>
-    <string name="activity_type_strength_training">Strength training</string>
-    <string name="activity_type_strength_training_verb">Strength train</string>
-    <string name="activity_type_stroller_walking">Stroller walking</string>
-    <string name="activity_type_stroller_walking_verb">Stroller walk</string>
-    <string name="activity_type_surfing">Surfing</string>
-    <string name="activity_type_surfing_verb">Surf</string>
-    <string name="activity_type_swimming">Swimming</string>
-    <string name="activity_type_swimming_verb">Swim</string>
-    <string name="activity_type_table_tennis">Table tennis</string>
-    <string name="activity_type_table_tennis_verb">Table tennis</string>
-    <string name="activity_type_team_sport">Team sport</string>
-    <string name="activity_type_team_sport_verb">Team sport</string>
-    <string name="activity_type_tennis">Tennis</string>
-    <string name="activity_type_tennis_verb">Tennis</string>
-    <string name="activity_type_treadmill">Treadmill</string>
-    <string name="activity_type_treadmill_running">Treadmill running</string>
-    <string name="activity_type_treadmill_running_verb">Treadmill run</string>
-    <string name="activity_type_treadmill_verb">Treadmill</string>
-    <string name="activity_type_treadmill_walking">Treadmill walking</string>
-    <string name="activity_type_treadmill_walking_verb">Treadmill walk</string>
-    <string name="activity_type_utility_biking">Utility biking</string>
-    <string name="activity_type_utility_biking_verb">Utility bike</string>
-    <string name="activity_type_volleyball">Volleyball</string>
-    <string name="activity_type_volleyball_verb">Volleyball</string>
-    <string name="activity_type_wakeboarding">Wakeboarding</string>
-    <string name="activity_type_wakeboarding_verb">Wakeboarde</string>
-    <string name="activity_type_walking">Walking</string>
-    <string name="activity_type_walking_verb">Walk</string>
-    <string name="activity_type_water_polo">Water polo</string>
-    <string name="activity_type_water_polo_verb">Water polo</string>
-    <string name="activity_type_weight_lifting">Weight lifting</string>
-    <string name="activity_type_weight_lifting_verb">Weight lift</string>
-    <string name="activity_type_wheelchair">Wheelchair</string>
-    <string name="activity_type_wheelchair_verb">Wheelchair</string>
-    <string name="activity_type_windsurfing">Windsurfing</string>
-    <string name="activity_type_windsurfing_verb">Windsurf</string>
-    <string name="activity_type_yoga">Yoga</string>
-    <string name="activity_type_yoga_verb">Yoga</string>
-    <string name="activity_type_zumba">Zumba</string>
-    <string name="activity_type_zumba_verb">Zumba</string>
-    <string name="add_exercise">New exercise</string>
-    <string name="add_set">Add manual set</string>
-    <string name="announcement_velocity_pace_km">%1$s per kilometer</string>
-    <string name="announcement_velocity_pace_miles">%1$s per mile</string>
-    <string name="announcement_velocity_speed_km">{value, plural, =1 {1 kilometer per hour} other {# kilometers per hour}}</string>
-    <string name="announcement_velocity_speed_miles">{value, plural, =1 {1 mile per hour} other {# miles per hour}}</string>
-    <string name="app_name">Fit</string>
-    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
-    <string name="auth_google_play_services_client_google_display_name">Google</string>
-    <string name="average_pace_label">Average Pace</string>
-    <string name="average_velocity_pace_km">%1$s/km avg</string>
-    <string name="average_velocity_pace_miles">%1$s/mi avg</string>
-    <string name="average_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}} avg</string>
-    <string name="average_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}} avg</string>
-    <string name="avg_reps_10_sec">%1$.2f reps/10 sec</string>
-    <string name="best_guess">Our best guess:</string>
-    <string name="biking_accuracy_notice">Biked without your phone? May be missing some distance data.</string>
-    <string name="bpm">bpm</string>
-    <string name="calories">{count, plural, =1 {1 calorie} other {# calories}}</string>
-    <string name="calories_display_format_short">%1$.0f cal</string>
-    <string name="calories_label">Calories</string>
-    <string name="calories_need_height_weight">Activate calories on phone</string>
-    <string name="calories_unit">{count, plural, =1 {cal} other {cal}}</string>
-    <string name="challenge_chart_day">Day</string>
-    <string name="challenge_core">Sit-up challenge</string>
-    <string name="challenge_core_short">Sit-ups</string>
-    <string name="challenge_core_title">%1$s sit-ups</string>
-    <string name="challenge_duration_display_short_format">%1$01d:%2$02d</string>
-    <string name="challenge_duration_label">Duration</string>
-    <string name="challenge_empty_time">-:--</string>
-    <string name="challenge_go">Start</string>
-    <string name="challenge_mode_action_notification_label">Start challenge</string>
-    <string name="challenge_mode_continue_day_x">Continue day %1$s</string>
-    <string name="challenge_mode_continue_multiple">Continue your fitness challenge</string>
-    <string name="challenge_mode_continue_pushups">Continue your push-up challenge</string>
-    <string name="challenge_mode_continue_situps">Continue your sit-up challenge</string>
-    <string name="challenge_mode_continue_squats">Continue your squat challenge</string>
-    <string name="challenge_mode_encouragement_1">Keep it up!</string>
-    <string name="challenge_mode_encouragement_2">Great start!</string>
-    <string name="challenge_mode_encouragement_3">Only %1$s more!</string>
-    <string name="challenge_mode_encouragement_4">Just %1$s more!</string>
-    <string name="challenge_mode_encouragement_5">Almost there!</string>
-    <string name="challenge_mode_encouragement_6">Nice work!</string>
-    <string name="challenge_mode_retry_day_x">Retry day %1$s</string>
-    <string name="challenge_mode_start_day_x">Start day %1$s</string>
-    <string name="challenge_proper_form_title">Proper form</string>
-    <string name="challenge_pushup">Push-up challenge</string>
-    <string name="challenge_pushup_guidance_0">Find a flat surface</string>
-    <string name="challenge_pushup_guidance_1">Hands under shoulders</string>
-    <string name="challenge_pushup_guidance_2">Tighten stomach and butt</string>
-    <string name="challenge_pushup_guidance_3">Straight body, head to toe</string>
-    <string name="challenge_pushup_guidance_alt_1">Too hard? Try it on your knees</string>
-    <string name="challenge_pushup_guidance_alt_2">Keep body straight, knees bent</string>
-    <string name="challenge_pushup_guidance_alt_3">Ankles crossed, feet in air</string>
-    <string name="challenge_pushup_short">Push-ups</string>
-    <string name="challenge_pushup_title">%1$s push-ups</string>
-    <string name="challenge_situp_guidance_1">Knees bent, feet on the ground</string>
-    <string name="challenge_situp_guidance_2">Use your abs, not your arms</string>
-    <string name="challenge_situp_guidance_3">Exhale as you sit up</string>
-    <string name="challenge_squat">Squat challenge</string>
-    <string name="challenge_squat_guidance_1">Feet flat, knees straight out</string>
-    <string name="challenge_squat_guidance_2">Hips to knees or just below</string>
-    <string name="challenge_squat_guidance_3">Keep back straight, chest up</string>
-    <string name="challenge_squat_short">Squats</string>
-    <string name="challenge_squat_title">%1$s squats</string>
-    <string name="challenge_summary_title">Summary</string>
-    <string name="challenge_summary_title_complete">Challenge complete!</string>
-    <string name="change_metrics">Change metrics</string>
-    <string name="chart_friday_ultra_short_label">F</string>
-    <string name="chart_monday_ultra_short_label">M</string>
-    <string name="chart_saturday_ultra_short_label">S</string>
-    <string name="chart_sunday_ultra_short_label">S</string>
-    <string name="chart_thursday_ultra_short_label">T</string>
-    <string name="chart_tuesday_ultra_short_label">T</string>
-    <string name="chart_wednesday_ultra_short_label">W</string>
-    <string name="check_again">Check again</string>
-    <string name="choose_color">Choose Color</string>
-    <string name="choose_goal">Choose Goal</string>
-    <string name="color_black">Black</string>
-    <string name="color_blue">Blue</string>
-    <string name="color_cyan">Cyan</string>
-    <string name="color_grey">Grey</string>
-    <string name="color_purple">Purple</string>
-    <string name="color_red">Red</string>
-    <string name="color_white">White</string>
-    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
-    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
-    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
-    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
-    <string name="common_google_play_services_install_button">Get Google Play services</string>
-    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
-    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
-    <string name="common_google_play_services_install_title">Get Google Play services</string>
-    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
-    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
-    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
-    <string name="common_google_play_services_network_error_title">Network Error</string>
-    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
-    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
-    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
-    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
-    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
-    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
-    <string name="common_google_play_services_unsupported_title">Google Play services</string>
-    <string name="common_google_play_services_update_button">Update</string>
-    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
-    <string name="common_google_play_services_update_title">Update Google Play services</string>
-    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
-    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
-    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
-    <string name="common_open_on_phone">Open on phone</string>
-    <string name="common_signin_button_text">Sign in</string>
-    <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="configure">Idle nudge settings</string>
-    <string name="configure_goal_short_text">Goal</string>
-    <string name="confirm_exercise">Choose exercise</string>
-    <string name="confirm_set">Confirm set</string>
-    <string name="continue_title">Resume</string>
-    <string name="counting_reps">Counting reps...</string>
-    <string name="create_goal_error">"Couldn't save goal. Try again later."</string>
-    <string name="daily_goal_recurrence">Daily</string>
-    <string name="daily_step_goal">Daily step goal</string>
-    <string name="day">Day</string>
-    <string name="day_duration">{count, plural, =1 {1 day} other {# days}}</string>
-    <string name="day_hour_duration">%1$s d %2$s hr</string>
-    <string name="day_hour_duration_accessibility">{days, plural, =1 {1 day} other {# days}} {hours, plural, =1 {1 hour} other {# hours}}</string>
-    <string name="day_x_of_y">"Day %1$s of %2$s
+  <string name="a_day">a day</string>
+  <string name="a_month">a month</string>
+  <string name="a_week">a week</string>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_font_family_body_1_material">sans-serif</string>
+  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+  <string name="abc_font_family_button_material">sans-serif-medium</string>
+  <string name="abc_font_family_caption_material">sans-serif</string>
+  <string name="abc_font_family_display_1_material">sans-serif</string>
+  <string name="abc_font_family_display_2_material">sans-serif</string>
+  <string name="abc_font_family_display_3_material">sans-serif</string>
+  <string name="abc_font_family_display_4_material">sans-serif-light</string>
+  <string name="abc_font_family_headline_material">sans-serif</string>
+  <string name="abc_font_family_menu_material">sans-serif</string>
+  <string name="abc_font_family_subhead_material">sans-serif</string>
+  <string name="abc_font_family_title_material">sans-serif-medium</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="account_chooser_label">Choose account for Fit</string>
+  <string name="acquiring_gps">Acquiring GPS</string>
+  <string name="acquiring_gps_phone">Acquiring GPS from phone</string>
+  <string name="activate_fit_title">Activate Google Fit on your phone</string>
+  <string name="active_calories_label">Active Calories</string>
+  <string name="active_kilojoules_label">Active Kilojoules</string>
+  <string name="active_mode_announce_session_paused">Session paused</string>
+  <string name="active_mode_announce_session_started">Session started</string>
+  <string name="active_mode_announcement_10_minutes_label">Every 10 minutes</string>
+  <string name="active_mode_announcement_1_km_label">Every Kilometer</string>
+  <string name="active_mode_announcement_1_mile_label">Every mile</string>
+  <string name="active_mode_announcement_1_minute_label">Every minute</string>
+  <string name="active_mode_announcement_30_seconds_label">Every 30 seconds</string>
+  <string name="active_mode_announcement_5_minutes_label">Every 5 minutes</string>
+  <string name="active_mode_announcement_average_pace">average pace: %s</string>
+  <string name="active_mode_announcement_average_speed">average speed: %s</string>
+  <string name="active_mode_announcement_completed">Session completed</string>
+  <string name="active_mode_announcement_distance">distance: %s</string>
+  <string name="active_mode_announcement_duration">duration: %s</string>
+  <string name="active_mode_announcement_half_km_label">Every 0.5 kilometers</string>
+  <string name="active_mode_announcement_half_mile_label">Every half mile</string>
+  <string name="active_mode_announcement_header">Session stats</string>
+  <string name="active_mode_announcement_none_label">No announcements</string>
+  <string name="active_mode_cheers_alright">Alright!</string>
+  <string name="active_mode_cheers_awesome">Awesome!</string>
+  <string name="active_mode_cheers_hustle">Good hustle!</string>
+  <string name="active_mode_cheers_job">Good job!</string>
+  <string name="active_mode_cheers_nice">Nice work!</string>
+  <string name="active_mode_low_battery">Battery is too low for active mode</string>
+  <string name="active_session_notification_body">Swipe to resume workout</string>
+  <string name="active_session_notification_title">Strength training in progress</string>
+  <string name="active_time_label">Active time</string>
+  <string name="activity_duration_today_0">0 min %s</string>
+  <string name="activity_duration_today_0_accessibility">0 minutes %s</string>
+  <string name="activity_duration_today_1">&lt; 1 min %s</string>
+  <string name="activity_duration_today_1_accessibility">&lt; 1 minute %s</string>
+  <string name="activity_duration_today_h">{count, plural, =1 {1 hr {activity}} other {# hr {activity}}}</string>
+  <string name="activity_duration_today_h_accessibility">{count, plural, =1 {1 hour {activity}} other {# hours {activity}}}</string>
+  <string name="activity_duration_today_h_m">%1$s hr %2$s min %3$s</string>
+  <string name="activity_duration_today_h_m_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {activity}</string>
+  <string name="activity_duration_today_m">{count, plural, =1 {1 min {activity}} other {# min {activity}}}</string>
+  <string name="activity_duration_today_m_accessibility">{count, plural, =1 {1 minute {activity}} other {# minutes {activity}}}</string>
+  <string name="activity_paused_label">Activity paused</string>
+  <string name="activity_selection_title">Select activity</string>
+  <string name="activity_type_aerobics">Aerobics</string>
+  <string name="activity_type_aerobics_verb">Aerobics</string>
+  <string name="activity_type_australian_football">Australian football</string>
+  <string name="activity_type_australian_football_verb">Australian football</string>
+  <string name="activity_type_backcountry_skiing">Backcountry skiing</string>
+  <string name="activity_type_backcountry_skiing_verb">Backcountry ski</string>
+  <string name="activity_type_badminton">Badminton</string>
+  <string name="activity_type_badminton_verb">Badminton</string>
+  <string name="activity_type_baseball">Baseball</string>
+  <string name="activity_type_baseball_verb">Baseball</string>
+  <string name="activity_type_basketball">Basketball</string>
+  <string name="activity_type_basketball_verb">Basketball</string>
+  <string name="activity_type_beach_volleyball">Beach volleyball</string>
+  <string name="activity_type_beach_volleyball_verb">Beach volleyball</string>
+  <string name="activity_type_biathlon">Biathlon</string>
+  <string name="activity_type_biathlon_verb">Biathlon</string>
+  <string name="activity_type_biking">Biking</string>
+  <string name="activity_type_biking_verb">Bike</string>
+  <string name="activity_type_boxing">Boxing</string>
+  <string name="activity_type_boxing_verb">Box</string>
+  <string name="activity_type_calisthenics">Calisthenics</string>
+  <string name="activity_type_calisthenics_verb">Calisthenics</string>
+  <string name="activity_type_circuit_training">Circuit training</string>
+  <string name="activity_type_circuit_training_verb">Circuit train</string>
+  <string name="activity_type_cricket">Cricket</string>
+  <string name="activity_type_cricket_verb">Cricket</string>
+  <string name="activity_type_cross_country_skiing">Cross-country skiing</string>
+  <string name="activity_type_cross_country_skiing_verb">Cross-country ski</string>
+  <string name="activity_type_cross_skating">Cross skating</string>
+  <string name="activity_type_cross_skating_verb">Cross skate</string>
+  <string name="activity_type_crossfit">CrossFit</string>
+  <string name="activity_type_crossfit_verb">CrossFit</string>
+  <string name="activity_type_curling">Curling</string>
+  <string name="activity_type_curling_verb">Curle</string>
+  <string name="activity_type_dancing">Dancing</string>
+  <string name="activity_type_dancing_verb">Dance</string>
+  <string name="activity_type_diving">Diving</string>
+  <string name="activity_type_diving_verb">Dive</string>
+  <string name="activity_type_downhill_skiing">Downhill skiing</string>
+  <string name="activity_type_downhill_skiing_verb">Downhill ski</string>
+  <string name="activity_type_elliptical">Elliptical</string>
+  <string name="activity_type_elliptical_verb">Elliptical</string>
+  <string name="activity_type_ergometer">Ergometer</string>
+  <string name="activity_type_ergometer_verb">Ergometer</string>
+  <string name="activity_type_fencing">Fencing</string>
+  <string name="activity_type_fencing_verb">Fence</string>
+  <string name="activity_type_fitness_walking">Fitness walking</string>
+  <string name="activity_type_fitness_walking_verb">Fitness walk</string>
+  <string name="activity_type_football">Football</string>
+  <string name="activity_type_football_verb">Football</string>
+  <string name="activity_type_frisbee">Frisbee</string>
+  <string name="activity_type_frisbee_verb">Frisbee</string>
+  <string name="activity_type_gardening">Gardening</string>
+  <string name="activity_type_gardening_verb">Garden</string>
+  <string name="activity_type_golf">Golf</string>
+  <string name="activity_type_golf_verb">Golf</string>
+  <string name="activity_type_gymnastics">Gymnastics</string>
+  <string name="activity_type_gymnastics_verb">Gymnastics</string>
+  <string name="activity_type_handball">Handball</string>
+  <string name="activity_type_handball_verb">Handball</string>
+  <string name="activity_type_handcycling">Handcycling</string>
+  <string name="activity_type_handcycling_verb">Handcycle</string>
+  <string name="activity_type_high_intensity_interval_training">High intensity interval training</string>
+  <string name="activity_type_high_intensity_interval_training_verb">High intensity interval train</string>
+  <string name="activity_type_hiking">Hiking</string>
+  <string name="activity_type_hiking_verb">Hike</string>
+  <string name="activity_type_hockey">Hockey</string>
+  <string name="activity_type_hockey_verb">Hockey</string>
+  <string name="activity_type_horseback_riding">Horseback riding</string>
+  <string name="activity_type_horseback_riding_verb">Horseback ride</string>
+  <string name="activity_type_housework">Housework</string>
+  <string name="activity_type_housework_verb">Housework</string>
+  <string name="activity_type_ice_skating">Ice skating</string>
+  <string name="activity_type_ice_skating_verb">Ice skate</string>
+  <string name="activity_type_indoor_skating">Indoor skating</string>
+  <string name="activity_type_indoor_skating_verb">Indoor skate</string>
+  <string name="activity_type_indoor_volleyball">Indoor volleyball</string>
+  <string name="activity_type_indoor_volleyball_verb">Indoor volleyball</string>
+  <string name="activity_type_inline_skating">Inline skating</string>
+  <string name="activity_type_inline_skating_verb">Inline skate</string>
+  <string name="activity_type_interval_training">Interval training</string>
+  <string name="activity_type_interval_training_verb">Interval train</string>
+  <string name="activity_type_jogging">Jogging</string>
+  <string name="activity_type_jogging_verb">Jog</string>
+  <string name="activity_type_jumping_rope">Jumping rope</string>
+  <string name="activity_type_jumping_rope_verb">Jumping rope</string>
+  <string name="activity_type_kayaking">Kayaking</string>
+  <string name="activity_type_kayaking_verb">Kayak</string>
+  <string name="activity_type_kettlebell">Kettlebell</string>
+  <string name="activity_type_kettlebell_verb">Kettlebell</string>
+  <string name="activity_type_kick_scooter">Kick scooter</string>
+  <string name="activity_type_kick_scooter_verb">Kick scooter</string>
+  <string name="activity_type_kickboxing">Kickboxing</string>
+  <string name="activity_type_kickboxing_verb">Kickbox</string>
+  <string name="activity_type_kite_skiing">Kite skiing</string>
+  <string name="activity_type_kite_skiing_verb">Kite ski</string>
+  <string name="activity_type_kitesurfing">Kitesurfing</string>
+  <string name="activity_type_kitesurfing_verb">Kitesurf</string>
+  <string name="activity_type_martial_arts">Martial arts</string>
+  <string name="activity_type_martial_arts_verb">Martial arts</string>
+  <string name="activity_type_meditating">Meditating</string>
+  <string name="activity_type_meditating_verb">Meditate</string>
+  <string name="activity_type_mixed_martial_arts">Mixed martial arts</string>
+  <string name="activity_type_mixed_martial_arts_verb">Mixed martial arts</string>
+  <string name="activity_type_mountain_biking">Mountain biking</string>
+  <string name="activity_type_mountain_biking_verb">Mountain bike</string>
+  <string name="activity_type_nordic_walking">Nordic walking</string>
+  <string name="activity_type_nordic_walking_verb">Nordic walk</string>
+  <string name="activity_type_open_water_swimming">Open water swimming</string>
+  <string name="activity_type_open_water_swimming_verb">Open water swim</string>
+  <string name="activity_type_other">Other</string>
+  <string name="activity_type_other_verb">Other</string>
+  <string name="activity_type_p90x">P90x</string>
+  <string name="activity_type_p90x_verb">P90x</string>
+  <string name="activity_type_paddle_boarding">Stand-up paddle boarding</string>
+  <string name="activity_type_paddle_boarding_verb">Paddle board</string>
+  <string name="activity_type_paragliding">Paragliding</string>
+  <string name="activity_type_paragliding_verb">Paraglide</string>
+  <string name="activity_type_pilates">Pilates</string>
+  <string name="activity_type_pilates_verb">Pilates</string>
+  <string name="activity_type_polo">Polo</string>
+  <string name="activity_type_polo_verb">Polo</string>
+  <string name="activity_type_pool_swimming">Pool Swimming</string>
+  <string name="activity_type_pool_swimming_verb">Pool Swim</string>
+  <string name="activity_type_racquetball">Racquetball</string>
+  <string name="activity_type_racquetball_verb">Racquetball</string>
+  <string name="activity_type_road_biking">Road biking</string>
+  <string name="activity_type_road_biking_verb">Road bike</string>
+  <string name="activity_type_rock_climbing">Rock climbing</string>
+  <string name="activity_type_rock_climbing_verb">Rock climb</string>
+  <string name="activity_type_roller_skiing">Roller skiing</string>
+  <string name="activity_type_roller_skiing_verb">Roller ski</string>
+  <string name="activity_type_rowing">Rowing</string>
+  <string name="activity_type_rowing_machine">Rowing machine</string>
+  <string name="activity_type_rowing_machine_verb">Rowing machine</string>
+  <string name="activity_type_rowing_verb">Rowe</string>
+  <string name="activity_type_rugby">Rugby</string>
+  <string name="activity_type_rugby_verb">Rugby</string>
+  <string name="activity_type_running">Running</string>
+  <string name="activity_type_running_verb">Run</string>
+  <string name="activity_type_sailing">Sailing</string>
+  <string name="activity_type_sailing_verb">Sail</string>
+  <string name="activity_type_sand_running">Sand running</string>
+  <string name="activity_type_sand_running_verb">Sand run</string>
+  <string name="activity_type_scuba_diving">Scuba diving</string>
+  <string name="activity_type_scuba_diving_verb">Scuba dive</string>
+  <string name="activity_type_skateboarding">Skateboarding</string>
+  <string name="activity_type_skateboarding_verb">Skateboard</string>
+  <string name="activity_type_skating">Skating</string>
+  <string name="activity_type_skating_verb">Skate</string>
+  <string name="activity_type_skiing">Skiing</string>
+  <string name="activity_type_skiing_verb">Ski</string>
+  <string name="activity_type_sledding">Sledding</string>
+  <string name="activity_type_sledding_verb">Sled</string>
+  <string name="activity_type_snowboarding">Snowboarding</string>
+  <string name="activity_type_snowboarding_verb">Snowboard</string>
+  <string name="activity_type_snowmobiling">Snowmobiling</string>
+  <string name="activity_type_snowmobiling_verb">Snowmobile</string>
+  <string name="activity_type_snowshoeing">Snowshoeing</string>
+  <string name="activity_type_snowshoeing_verb">Snowshoe</string>
+  <string name="activity_type_soccer">Soccer</string>
+  <string name="activity_type_soccer_verb">Soccer</string>
+  <string name="activity_type_spinning">Spinning</string>
+  <string name="activity_type_spinning_verb">Spin</string>
+  <string name="activity_type_squash">Squash</string>
+  <string name="activity_type_squash_verb">Squash</string>
+  <string name="activity_type_stair_climbing">Stair climbing</string>
+  <string name="activity_type_stair_climbing_machine">Stair climbing machine</string>
+  <string name="activity_type_stair_climbing_machine_verb">Stair climbing machine</string>
+  <string name="activity_type_stair_climbing_verb">Stair climb</string>
+  <string name="activity_type_stationary_biking">Stationary biking</string>
+  <string name="activity_type_stationary_biking_verb">Stationary bike</string>
+  <string name="activity_type_still">Inactive</string>
+  <string name="activity_type_still_verb">Inactive</string>
+  <string name="activity_type_strength_training">Strength training</string>
+  <string name="activity_type_strength_training_verb">Strength train</string>
+  <string name="activity_type_stroller_walking">Stroller walking</string>
+  <string name="activity_type_stroller_walking_verb">Stroller walk</string>
+  <string name="activity_type_surfing">Surfing</string>
+  <string name="activity_type_surfing_verb">Surf</string>
+  <string name="activity_type_swimming">Swimming</string>
+  <string name="activity_type_swimming_verb">Swim</string>
+  <string name="activity_type_table_tennis">Table tennis</string>
+  <string name="activity_type_table_tennis_verb">Table tennis</string>
+  <string name="activity_type_team_sport">Team sport</string>
+  <string name="activity_type_team_sport_verb">Team sport</string>
+  <string name="activity_type_tennis">Tennis</string>
+  <string name="activity_type_tennis_verb">Tennis</string>
+  <string name="activity_type_treadmill">Treadmill</string>
+  <string name="activity_type_treadmill_running">Treadmill running</string>
+  <string name="activity_type_treadmill_running_verb">Treadmill run</string>
+  <string name="activity_type_treadmill_verb">Treadmill</string>
+  <string name="activity_type_treadmill_walking">Treadmill walking</string>
+  <string name="activity_type_treadmill_walking_verb">Treadmill walk</string>
+  <string name="activity_type_utility_biking">Utility biking</string>
+  <string name="activity_type_utility_biking_verb">Utility bike</string>
+  <string name="activity_type_volleyball">Volleyball</string>
+  <string name="activity_type_volleyball_verb">Volleyball</string>
+  <string name="activity_type_wakeboarding">Wakeboarding</string>
+  <string name="activity_type_wakeboarding_verb">Wakeboarde</string>
+  <string name="activity_type_walking">Walking</string>
+  <string name="activity_type_walking_verb">Walk</string>
+  <string name="activity_type_water_polo">Water polo</string>
+  <string name="activity_type_water_polo_verb">Water polo</string>
+  <string name="activity_type_weight_lifting">Weight lifting</string>
+  <string name="activity_type_weight_lifting_verb">Weight lift</string>
+  <string name="activity_type_wheelchair">Wheelchair</string>
+  <string name="activity_type_wheelchair_verb">Wheelchair</string>
+  <string name="activity_type_windsurfing">Windsurfing</string>
+  <string name="activity_type_windsurfing_verb">Windsurf</string>
+  <string name="activity_type_yoga">Yoga</string>
+  <string name="activity_type_yoga_verb">Yoga</string>
+  <string name="activity_type_zumba">Zumba</string>
+  <string name="activity_type_zumba_verb">Zumba</string>
+  <string name="add_exercise">New exercise</string>
+  <string name="add_set">Add manual set</string>
+  <string name="announcement_velocity_pace_km">%1$s per kilometer</string>
+  <string name="announcement_velocity_pace_miles">%1$s per mile</string>
+  <string name="announcement_velocity_speed_km">{value, plural, =1 {1 kilometer per hour} other {# kilometers per hour}}</string>
+  <string name="announcement_velocity_speed_miles">{value, plural, =1 {1 mile per hour} other {# miles per hour}}</string>
+  <string name="app_name">Fit</string>
+  <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+  <string name="auth_google_play_services_client_google_display_name">Google</string>
+  <string name="average_pace_label">Average Pace</string>
+  <string name="average_velocity_pace_km">%1$s/km avg</string>
+  <string name="average_velocity_pace_miles">%1$s/mi avg</string>
+  <string name="average_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}} avg</string>
+  <string name="average_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}} avg</string>
+  <string name="avg_reps_10_sec">%1$.2f reps/10 sec</string>
+  <string name="best_guess">Our best guess:</string>
+  <string name="biking_accuracy_notice">Biked without your phone? May be missing some distance data.</string>
+  <string name="bpm">bpm</string>
+  <string name="calories">{count, plural, =1 {1 calorie} other {# calories}}</string>
+  <string name="calories_display_format_short">%1$.0f cal</string>
+  <string name="calories_label">Calories</string>
+  <string name="calories_need_height_weight">Activate calories on phone</string>
+  <string name="calories_unit">{count, plural, =1 {cal} other {cal}}</string>
+  <string name="challenge_chart_day">Day</string>
+  <string name="challenge_core">Sit-up challenge</string>
+  <string name="challenge_core_short">Sit-ups</string>
+  <string name="challenge_core_title">%1$s sit-ups</string>
+  <string name="challenge_duration_display_short_format">%1$01d:%2$02d</string>
+  <string name="challenge_duration_label">Duration</string>
+  <string name="challenge_empty_time">-:--</string>
+  <string name="challenge_go">Start</string>
+  <string name="challenge_mode_action_notification_label">Start challenge</string>
+  <string name="challenge_mode_continue_day_x">Continue day %1$s</string>
+  <string name="challenge_mode_continue_multiple">Continue your fitness challenge</string>
+  <string name="challenge_mode_continue_pushups">Continue your push-up challenge</string>
+  <string name="challenge_mode_continue_situps">Continue your sit-up challenge</string>
+  <string name="challenge_mode_continue_squats">Continue your squat challenge</string>
+  <string name="challenge_mode_encouragement_1">Keep it up!</string>
+  <string name="challenge_mode_encouragement_2">Great start!</string>
+  <string name="challenge_mode_encouragement_3">Only %1$s more!</string>
+  <string name="challenge_mode_encouragement_4">Just %1$s more!</string>
+  <string name="challenge_mode_encouragement_5">Almost there!</string>
+  <string name="challenge_mode_encouragement_6">Nice work!</string>
+  <string name="challenge_mode_retry_day_x">Retry day %1$s</string>
+  <string name="challenge_mode_start_day_x">Start day %1$s</string>
+  <string name="challenge_proper_form_title">Proper form</string>
+  <string name="challenge_pushup">Push-up challenge</string>
+  <string name="challenge_pushup_guidance_0">Find a flat surface</string>
+  <string name="challenge_pushup_guidance_1">Hands under shoulders</string>
+  <string name="challenge_pushup_guidance_2">Tighten stomach and butt</string>
+  <string name="challenge_pushup_guidance_3">Straight body, head to toe</string>
+  <string name="challenge_pushup_guidance_alt_1">Too hard? Try it on your knees</string>
+  <string name="challenge_pushup_guidance_alt_2">Keep body straight, knees bent</string>
+  <string name="challenge_pushup_guidance_alt_3">Ankles crossed, feet in air</string>
+  <string name="challenge_pushup_short">Push-ups</string>
+  <string name="challenge_pushup_title">%1$s push-ups</string>
+  <string name="challenge_situp_guidance_1">Knees bent, feet on the ground</string>
+  <string name="challenge_situp_guidance_2">Use your abs, not your arms</string>
+  <string name="challenge_situp_guidance_3">Exhale as you sit up</string>
+  <string name="challenge_squat">Squat challenge</string>
+  <string name="challenge_squat_guidance_1">Feet flat, knees straight out</string>
+  <string name="challenge_squat_guidance_2">Hips to knees or just below</string>
+  <string name="challenge_squat_guidance_3">Keep back straight, chest up</string>
+  <string name="challenge_squat_short">Squats</string>
+  <string name="challenge_squat_title">%1$s squats</string>
+  <string name="challenge_summary_title">Summary</string>
+  <string name="challenge_summary_title_complete">Challenge complete!</string>
+  <string name="change_metrics">Change metrics</string>
+  <string name="chart_friday_ultra_short_label">F</string>
+  <string name="chart_monday_ultra_short_label">M</string>
+  <string name="chart_saturday_ultra_short_label">S</string>
+  <string name="chart_sunday_ultra_short_label">S</string>
+  <string name="chart_thursday_ultra_short_label">T</string>
+  <string name="chart_tuesday_ultra_short_label">T</string>
+  <string name="chart_wednesday_ultra_short_label">W</string>
+  <string name="check_again">Check again</string>
+  <string name="choose_color">Choose Color</string>
+  <string name="choose_goal">Choose Goal</string>
+  <string name="color_black">Black</string>
+  <string name="color_blue">Blue</string>
+  <string name="color_cyan">Cyan</string>
+  <string name="color_grey">Grey</string>
+  <string name="color_purple">Purple</string>
+  <string name="color_red">Red</string>
+  <string name="color_white">White</string>
+  <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+  <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+  <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+  <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+  <string name="common_google_play_services_install_button">Get Google Play services</string>
+  <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+  <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+  <string name="common_google_play_services_install_title">Get Google Play services</string>
+  <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+  <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+  <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+  <string name="common_google_play_services_network_error_title">Network Error</string>
+  <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+  <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+  <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+  <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+  <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play services</string>
+  <string name="common_google_play_services_update_button">Update</string>
+  <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+  <string name="common_google_play_services_update_title">Update Google Play services</string>
+  <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+  <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+  <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+  <string name="common_open_on_phone">Open on phone</string>
+  <string name="common_signin_button_text">Sign in</string>
+  <string name="common_signin_button_text_long">Sign in with Google</string>
+  <string name="configure">Idle nudge settings</string>
+  <string name="configure_goal_short_text">Goal</string>
+  <string name="confirm_exercise">Choose exercise</string>
+  <string name="confirm_set">Confirm set</string>
+  <string name="continue_title">Resume</string>
+  <string name="counting_reps">Counting reps...</string>
+  <string name="create_goal_error">"Couldn't save goal. Try again later."</string>
+  <string name="daily_goal_recurrence">Daily</string>
+  <string name="daily_step_goal">Daily step goal</string>
+  <string name="day">Day</string>
+  <string name="day_duration">{count, plural, =1 {1 day} other {# days}}</string>
+  <string name="day_hour_duration">%1$s d %2$s hr</string>
+  <string name="day_hour_duration_accessibility">{days, plural, =1 {1 day} other {# days}} {hours, plural, =1 {1 hour} other {# hours}}</string>
+  <string name="day_x_of_y">"Day %1$s of %2$s
 %3$s reps"</string>
-    <string name="debug_settings_label">Debug Tools</string>
-    <string name="delete_goal">Delete goal</string>
-    <string name="delete_goal_confirmation">Deleting goal.</string>
-    <string name="delete_goal_error">"Couldn't delete goal."</string>
-    <string name="detecting_exercise">Detecting exercise...</string>
-    <string name="difficulty_advanced">Advanced</string>
-    <string name="difficulty_beginner">Beginner</string>
-    <string name="difficulty_intermediate">Intermediate</string>
-    <string name="difficulty_selection_title">Select difficulty</string>
-    <string name="disabled_metric_value">--</string>
-    <string name="discard_set">Delete set</string>
-    <string name="dismiss_overlay_button_label">Quit</string>
-    <string name="distance_display_format_kilometers">%1$.2f km</string>
-    <string name="distance_display_format_miles">%1$.2f mi</string>
-    <string name="distance_display_format_no_unit">%1$.2f</string>
-    <string name="distance_display_format_no_unit_ambient">%1$.1f</string>
-    <string name="distance_km_value_zero">–– km</string>
-    <string name="distance_label">Distance</string>
-    <string name="distance_miles_value_zero">–– miles</string>
-    <string name="distance_need_height_weight">Activate distance on phone</string>
-    <string name="distance_need_permission">Need permission for distance</string>
-    <string name="duplicate_goal_error">You already have this goal.</string>
-    <string name="duplicate_name">You have already labeled an exercise with that name</string>
-    <string name="duration_display_ambient_hr_min_format">%1$01dhr %2$02d min</string>
-    <string name="duration_display_ambient_min_format">%1$01d min</string>
-    <string name="duration_display_format">%1$02d:%2$02d:%3$02d</string>
-    <string name="duration_display_short_format">%1$01d:%2$02d</string>
-    <string name="duration_label">Duration</string>
-    <string name="duration_time">time</string>
-    <string name="duration_unit_label">hr:min</string>
-    <string name="each_day">each day</string>
-    <string name="each_month">each month</string>
-    <string name="each_week">each week</string>
-    <string name="edit_goal">Edit goal</string>
-    <string name="end_activity_title">End activity</string>
-    <string name="end_challenge_title">End challenge</string>
-    <string name="end_workout">End workout</string>
-    <string name="energy_display_format_no_unit">%1$.0f</string>
-    <string name="energy_label">Energy</string>
-    <string name="error_active_mode_action">Could not perform active mode action. Please restart.</string>
-    <string name="error_title">Error</string>
-    <string name="failed_3p_launch_error_message">Failed to launch application</string>
-    <string name="first_idle_notification_body">Fit sends prompts like this to help you stay active. You can disable this notification using the Settings action below.</string>
-    <string name="first_idle_notification_title">"You've been idle for %1$s."</string>
-    <string name="fitness_disable_text">Google Fit App turned off</string>
-    <string name="floors_unit">{count, plural, =1 {floor} other {floors}}</string>
-    <string name="floors_value">{count, plural, =1 {1 floor} other {# floors}}</string>
-    <string name="found_abandoned_am_session_body">Tap to resume your Fit activity</string>
-    <string name="found_abandoned_am_session_title">Continue activity?</string>
-    <string name="friday_ultra_short_label">F</string>
-    <string name="generic_pace_value">-:--</string>
-    <string name="generic_value_zero">––</string>
-    <string name="goal_creation_customize">Customize</string>
-    <string name="goal_disabled_metric_value">--</string>
-    <string name="goal_distance_km">km</string>
-    <string name="goal_distance_miles">mi</string>
-    <string name="goal_energy_calories">cal</string>
-    <string name="goal_energy_kj">kJ</string>
-    <string name="goal_label">Goal</string>
-    <string name="goal_notification_motivational_message_1">Halfway there!</string>
-    <string name="goal_notification_motivational_message_10">Alright!</string>
-    <string name="goal_notification_motivational_message_11">Nice!</string>
-    <string name="goal_notification_motivational_message_12">Way to go!</string>
-    <string name="goal_notification_motivational_message_2">Good start!</string>
-    <string name="goal_notification_motivational_message_3">Good hustle!</string>
-    <string name="goal_notification_motivational_message_4">Keep it up!</string>
-    <string name="goal_notification_motivational_message_5">Nice work!</string>
-    <string name="goal_notification_motivational_message_6">Almost there!</string>
-    <string name="goal_notification_motivational_message_7">So close!</string>
-    <string name="goal_notification_motivational_message_8">You did it!</string>
-    <string name="goal_notification_motivational_message_9">Awesome!</string>
-    <string name="goal_steps">steps</string>
-    <string name="goal_with_metric_spec">%1$s %2$s %3$s</string>
-    <string name="goals_activity_active">Active</string>
-    <string name="goals_activity_calories">Burn</string>
-    <string name="goals_activity_distance_generic">Move</string>
-    <string name="goals_activity_take">Take</string>
-    <string name="goals_activity_walk">Walk</string>
-    <string name="goals_activity_workout">Workout</string>
-    <string name="goalv2_type_activity">Activity</string>
-    <string name="goalv2_type_distance">Distance</string>
-    <string name="goalv2_type_duration">Active time</string>
-    <string name="goalv2_type_energy_calories">Calories burned</string>
-    <string name="goalv2_type_energy_kilojoules">Kilojoules burned</string>
-    <string name="goalv2_type_steps">Steps</string>
-    <string name="gps_acquired">GPS acquired</string>
-    <string name="gps_acquired_phone">GPS acquired from phone</string>
-    <string name="gps_temporarily_lost_message">May be longer, temporarily lost GPS</string>
-    <string name="heart_rate">Heart rate</string>
-    <string name="heart_rate_avg_label">Avg. Heart Rate</string>
-    <string name="heart_rate_ecg_error">"Relax &amp; press your fingers on the watch's front frame"</string>
-    <string name="heart_rate_error">Tighten band and try again</string>
-    <string name="heart_rate_label">Heart Rate</string>
-    <string name="heart_rate_long_value">{count, plural, =1 {1 beat per minute} other {# beats per minute}}</string>
-    <string name="heart_rate_max_label">Max Heart Rate</string>
-    <string name="heart_rate_not_supported_error">No heart rate monitor on this watch</string>
-    <string name="heart_rate_value">{count, plural, =1 {1 bpm} other {# bpm}}</string>
-    <string name="history_label">History</string>
-    <string name="hour_duration">{count, plural, =1 {1 hr} other {# hr}}</string>
-    <string name="hour_duration_accessibility">{count, plural, =1 {1 hour} other {# hours}}</string>
-    <string name="hour_duration_unit">{count, plural, =1 {hour} other {hours}}</string>
-    <string name="hour_duration_unit_short">hr</string>
-    <string name="hour_minute_duration">%1$s hr %2$s min</string>
-    <string name="hour_minute_duration_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}}</string>
-    <string name="hour_minute_duration_numeric">%1$s:%2$s</string>
-    <string name="hour_minute_second_duration">%1$sh %2$sm %3$ss</string>
-    <string name="hour_minute_second_duration_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {seconds, plural, =1 {1 second} other {# seconds}}</string>
-    <string name="hour_minute_second_pace">%1$s:%2$s:%3$s</string>
-    <string name="hour_suffix">h</string>
-    <string name="hr_permission_required_message">Need permission to access heart rate data</string>
-    <string name="idle_alert">Idle alert</string>
-    <string name="idle_alert_body">"You've been idle for %1$s."</string>
-    <string name="idle_alert_off">OFF</string>
-    <string name="idle_alert_on">ON</string>
-    <string name="idle_alert_success_body_1">Way to get moving</string>
-    <string name="idle_alert_success_body_2">Way to stay active</string>
-    <string name="idle_alert_success_title_1">Nice job!</string>
-    <string name="idle_alert_success_title_2">On the move!</string>
-    <string name="idle_alert_success_title_3">Good hustle!</string>
-    <string name="idle_alert_success_title_4">Nice work!</string>
-    <string name="idle_alert_title_fresh_air">Time for some fresh air?</string>
-    <string name="idle_alert_title_stretch">Time for a stretch?</string>
-    <string name="idle_alert_title_walk">Ready to walk?</string>
-    <string name="idle_end_time">End time</string>
-    <string name="idle_end_time_error">End time must be at least 1 hr after start time</string>
-    <string name="idle_nudge">Idle nudge</string>
-    <string name="idle_start_time">Start time</string>
-    <string name="idle_start_time_error">Start time must be at least 1 hr before end time</string>
-    <string name="idle_time">Idle time</string>
-    <string name="idle_time_value">%1$d min</string>
-    <string name="initial_sync_body">It may take several minutes for your activity to appear on your wearable.</string>
-    <string name="initial_sync_title">Syncing activity...</string>
-    <string name="insig_calories">{count, plural, =1 {1 inactive cal} other {# inactive cal}}</string>
-    <string name="insig_kj">{count, plural, =1 {1 inactive kJ} other {# inactive kJ}}</string>
-    <string name="install_fit_goal_feature">Set daily goals</string>
-    <string name="install_fit_tracking_feature">Track with other fitness apps and devices</string>
-    <string name="install_fit_viewing_feature">See progress on any device and the web</string>
-    <string name="item_color">Color</string>
-    <string name="item_goal">Goal</string>
-    <string name="just_a_sec">Just a sec…</string>
-    <string name="kilojoules_display_format_short">%1$.0f kJ</string>
-    <string name="kilojoules_label">Kilojoules</string>
-    <string name="kj">{count, plural, =1 {1 kJ} other {# kJ}}</string>
-    <string name="kj_need_height_weight">Activate kJ on phone</string>
-    <string name="kj_unit">{count, plural, =1 {kJ} other {kJ}}</string>
-    <string name="km">{dist, plural, =1 {1 km} other {# km}}</string>
-    <string name="km_accessibility">{dist, plural, =1 {1 kilometer} other {# kilometers}}</string>
-    <string name="km_unit">kilometers</string>
-    <string name="km_unit_short">km</string>
-    <string name="label_abdominal_crunch">Abdominal crunch</string>
-    <string name="label_back_extension">Back extension</string>
-    <string name="label_bench_press">Bench press</string>
-    <string name="label_bent_over_row">Bent-over row</string>
-    <string name="label_bicep_curl">Bicep curl</string>
-    <string name="label_chest_fly">Chest fly</string>
-    <string name="label_chin_up">Chin-up</string>
-    <string name="label_deadlift">Deadlift</string>
-    <string name="label_dumbbell_tricep_extension">Dumbbell tricep extension</string>
-    <string name="label_exercise_none">Unknown Exercise</string>
-    <string name="label_exercise_select">(Exercise Type)</string>
-    <string name="label_high_knees_running_in_place">High knees running in place</string>
-    <string name="label_jumping_jacks">Jumping jacks</string>
-    <string name="label_kg">kg</string>
-    <string name="label_lb">lb</string>
-    <string name="label_lunge">Lunge</string>
-    <string name="label_overhead_press">Overhead press</string>
-    <string name="label_pull_down">Pull-down</string>
-    <string name="label_pull_up">Pull-up</string>
-    <string name="label_push_up">Push-up</string>
-    <string name="label_reps">Reps</string>
-    <string name="label_russian_twist">Russian twist</string>
-    <string name="label_shoulder_fly">Shoulder fly</string>
-    <string name="label_shoulder_shrug">Shoulder shrug</string>
-    <string name="label_sit_up">Sit-up</string>
-    <string name="label_squat">Squat</string>
-    <string name="label_standing_calf_raise">Standing calf raise</string>
-    <string name="label_strength_training">Strength training</string>
-    <string name="label_tricep_extension">Tricep extension</string>
-    <string name="label_unknown_exercise">(Unknown)</string>
-    <string name="label_upright_row">Upright row</string>
-    <string name="label_weight">Weight</string>
-    <string name="less_than_minute_duration">&lt; 1 min</string>
-    <string name="less_than_minute_duration_accessibility">&lt; 1 minute</string>
-    <string name="metric_calories">Calories</string>
-    <string name="metric_distance">Distance</string>
-    <string name="metric_duration">Active time</string>
-    <string name="metric_kilojoules">Kilojoules</string>
-    <string name="metric_label">Daily stats</string>
-    <string name="metric_selection_title">Select metric</string>
-    <string name="metric_steps">Steps</string>
-    <string name="miles">{dist, plural, =1 {1 mile} other {# miles}}</string>
-    <string name="miles_accessibility">{dist, plural, =1 {1 mile} other {# miles}}</string>
-    <string name="miles_unit">miles</string>
-    <string name="miles_unit_short">mi</string>
-    <string name="millions_suffix">M</string>
-    <string name="minute_duration">{count, plural, =1 {1 min} other {# min}}</string>
-    <string name="minute_duration_accessibility">{count, plural, =1 {1 minute} other {# minutes}}</string>
-    <string name="minute_duration_unit_accessibility">{count, plural, =1 {minute} other {minutes}}</string>
-    <string name="minute_duration_unit_short">min</string>
-    <string name="minute_second_duration">%1$sm %2$ss</string>
-    <string name="minute_second_duration_accessibility">{minutes, plural, =1 {1 minute} other {# minutes}} {seconds, plural, =1 {1 second} other {# seconds}}</string>
-    <string name="minute_second_pace">%1$s:%2$s</string>
-    <string name="minute_suffix">m</string>
-    <string name="monday_ultra_short_label">M</string>
-    <string name="month">Month</string>
-    <string name="monthly_goal_recurrence">Monthly</string>
-    <string name="name_exercise">Name exercise</string>
-    <string name="need_permission">Need permission</string>
-    <string name="need_phone">Need phone</string>
-    <string name="new_set">New set</string>
-    <string name="no_gps">No GPS</string>
-    <string name="nothing_detected">Exercise not detected</string>
-    <string name="nothing_detected_summary">No exercise detected</string>
-    <string name="off">Off</string>
-    <string name="ok_title">OK</string>
-    <string name="on">On</string>
-    <string name="open_on_phone_error">"Sorry, that didn't work"</string>
-    <string name="open_on_phone_label">Open on phone</string>
-    <string name="pace_label">Pace</string>
-    <string name="passive_add_goal">Add goal</string>
-    <string name="passive_create_your_own">Create your own</string>
-    <string name="passive_daily_goals_header">Daily Goals</string>
-    <string name="passive_goals_header">Goals</string>
-    <string name="passive_heart_rate_ecg_error">"Relax &amp; press your fingers on the watch's front frame"</string>
-    <string name="passive_heart_rate_error">Tighten band and try again</string>
-    <string name="passive_heart_rate_header">Heart rate</string>
-    <string name="passive_heart_rate_measuring">Measuring...</string>
-    <string name="passive_heart_rate_permission_error">Permission needed</string>
-    <string name="passive_pick_a_goal">Pick a goal</string>
-    <string name="passive_settings_activate_on_phone">Activate Fit on phone</string>
-    <string name="passive_settings_enable_fit">Google Fit App</string>
-    <string name="passive_settings_enable_notifications">Notifications</string>
-    <string name="passive_settings_off_label">Off</string>
-    <string name="passive_settings_on_label">On</string>
-    <string name="passive_settings_select_goal">Goal</string>
-    <string name="passive_settings_title">Fit Settings</string>
-    <string name="pause">Pause</string>
-    <string name="paused_label">Paused</string>
-    <string name="place_autocomplete_clear_button">Clear search</string>
-    <string name="place_autocomplete_search_hint">Search</string>
-    <string name="preferences_distance_unit_imperial_label">Miles</string>
-    <string name="preferences_distance_unit_metric_label">Kilometers</string>
-    <string name="preferences_distance_unit_title">Distance</string>
-    <string name="preferences_energy_unit_calorie_label">Calories</string>
-    <string name="preferences_energy_unit_kilojoule_label">Kilojoules</string>
-    <string name="preferences_energy_unit_title">Energy</string>
-    <string name="preferences_height_unit_imperial_label">Feet &amp; Inches</string>
-    <string name="preferences_height_unit_metric_label">Centimeters</string>
-    <string name="preferences_height_unit_title">Height</string>
-    <string name="preferences_start_of_week_monday_label">Monday</string>
-    <string name="preferences_start_of_week_sunday_label">Sunday</string>
-    <string name="preferences_start_of_week_title">Start week on</string>
-    <string name="preferences_user_gender_decline_label">Decline to state</string>
-    <string name="preferences_user_gender_female_label">Female</string>
-    <string name="preferences_user_gender_male_label">Male</string>
-    <string name="preferences_user_gender_other_label">Other</string>
-    <string name="preferences_user_gender_title">Gender</string>
-    <string name="preferences_weight_unit_kilogram_label">Kilograms</string>
-    <string name="preferences_weight_unit_pound_label">Pounds</string>
-    <string name="preferences_weight_unit_stone_label">Stones</string>
-    <string name="preferences_weight_unit_title">Weight</string>
-    <string name="primes_marker">PrImEs</string>
-    <string name="primes_version">130315753</string>
-    <string name="ready_new_set">Ready for a new set.</string>
-    <string name="realtime_app_name_v1">Fit Activity</string>
-    <string name="rep_of_y">of %1$s</string>
-    <string name="rep_x_of_y">%1$s of %2$s</string>
-    <string name="reps_label">Reps</string>
-    <string name="reset_challenge_confirmed">Challenge reset</string>
-    <string name="reset_challenge_label">Reset challenge</string>
-    <string name="resting_calories_label">Inactive Calories</string>
-    <string name="resting_kilojoules_label">Resting Kilojoules</string>
-    <string name="resume_detection">Resume detection</string>
-    <string name="saturday_ultra_short_label">S</string>
-    <string name="second_duration">{count, plural, =1 {1s} other {#s}}</string>
-    <string name="second_duration_accessibility">{count, plural, =1 {1 second} other {# seconds}}</string>
-    <string name="second_pace">0:%1$s</string>
-    <string name="second_pace_sub_10">0:0%1$s</string>
-    <string name="segment_count_description">{count, plural, =1 {1 time} other {# times}}</string>
-    <string name="session_afternoon">Afternoon %1$s</string>
-    <string name="session_early_morning">Early morning %1$s</string>
-    <string name="session_late_night">Late night %1$s</string>
-    <string name="session_lunch">Lunch %1$s</string>
-    <string name="session_morning">Morning %1$s</string>
-    <string name="session_night">Evening %1$s</string>
-    <string name="set_metadata_onerepmax_kg_time">(%1$s kg 1RM, %2$01d:%3$02d)</string>
-    <string name="set_metadata_onerepmax_lb_time">(%1$s lb 1RM, %2$01d:%3$02d)</string>
-    <string name="set_metadata_time">(%1$01d:%2$02d)</string>
-    <string name="set_number">({current, plural, =1 {1} other {#}}/{total, plural, =1 {1} other {#}})</string>
-    <string name="settings_activity_on_phone">Activate Fit on phone</string>
-    <string name="settings_enable_fit">Google Fit App</string>
-    <string name="settings_enable_notifications">Notifications</string>
-    <string name="settings_label">Settings</string>
-    <string name="settings_title">Fit Settings</string>
-    <string name="show_details_label">Show details</string>
-    <string name="single_km_unit">kilometer</string>
-    <string name="single_miles_unit">mile</string>
-    <string name="single_unit_minutes_long">minute</string>
-    <string name="start">Start</string>
-    <string name="start_active_mode_label">Start activity</string>
-    <string name="start_open_on_phone_label">Open on phone</string>
-    <string name="start_passive_label">History</string>
-    <string name="start_realtime_label">Start activity</string>
-    <string name="start_set">Start</string>
-    <string name="start_settings_label">Settings</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="steps_display_format">%1$.0f steps</string>
-    <string name="steps_display_format_no_unit">%1$.0f</string>
-    <string name="steps_label">Steps</string>
-    <string name="steps_unit">{count, plural, =1 {step} other {steps}}</string>
-    <string name="steps_value">{count, plural, =1 {1 step} other {# steps}}</string>
-    <string name="steps_value_zero">–– steps</string>
-    <string name="summary_title">Summary</string>
-    <string name="sunday_ultra_short_label">S</string>
-    <string name="tap_below_settings">Tap below for Settings</string>
-    <string name="thousands_suffix">k</string>
-    <string name="thursday_ultra_short_label">T</string>
-    <string name="time_difference_now">now</string>
-    <string name="time_difference_short_days_and_hours">%1$s %2$s</string>
-    <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
-    <string name="time_of_day_label">Time of Day</string>
-    <string name="timeline_event_title_activity_0">0 min %s</string>
-    <string name="timeline_event_title_activity_0_accessibility">0 minutes %s</string>
-    <string name="timeline_event_title_activity_1">&lt; 1 min %s</string>
-    <string name="timeline_event_title_activity_1_accessibility">&lt; 1 minute %s</string>
-    <string name="timeline_event_title_activity_calories_expended">{count, plural, =1 {1 calorie {activity}} other {# calories {activity}}}</string>
-    <string name="timeline_event_title_activity_calories_expended_accessibility">{count, plural, =1 {1 calorie {activity}} other {# calories {activity}}}</string>
-    <string name="timeline_event_title_activity_distance_accessibility">No distance %s</string>
-    <string name="timeline_event_title_activity_distance_km">{dist, plural, =1 {1 km {activity}} other {# km {activity}}}</string>
-    <string name="timeline_event_title_activity_distance_km_accessibility">{dist, plural, =1 {1 kilometer {activity}} other {# kilometers {activity}}}</string>
-    <string name="timeline_event_title_activity_distance_miles">{dist, plural, =1 {1 mile {activity}} other {# miles {activity}}}</string>
-    <string name="timeline_event_title_activity_distance_miles_accessibility">{dist, plural, =1 {1 mile {activity}} other {# miles {activity}}}</string>
-    <string name="timeline_event_title_activity_h">{count, plural, =1 {1 hr {activity}} other {# hr {activity}}}</string>
-    <string name="timeline_event_title_activity_h_accessibility">{count, plural, =1 {1 hour {activity}} other {# hours {activity}}}</string>
-    <string name="timeline_event_title_activity_h_m">%1$s hr %2$s min %3$s</string>
-    <string name="timeline_event_title_activity_h_m_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {activity}</string>
-    <string name="timeline_event_title_activity_kj_expended">{count, plural, =1 {1 kJ {activity}} other {# kJ {activity}}}</string>
-    <string name="timeline_event_title_activity_kj_expended_accessibility">{count, plural, =1 {1 kilojoule {activity}} other {# kilojoules {activity}}}</string>
-    <string name="timeline_event_title_activity_m">{count, plural, =1 {1 min {activity}} other {# min {activity}}}</string>
-    <string name="timeline_event_title_activity_m_accessibility">{count, plural, =1 {1 minute {activity}} other {# minutes {activity}}}</string>
-    <string name="timeline_event_title_activity_steps">{count, plural, =1 {1 step {activity}} other {# steps {activity}}}</string>
-    <string name="timeline_event_title_activity_steps_accessibility">No steps %s</string>
-    <string name="times_unit">{count, plural, =1 {time} other {times}}</string>
-    <string name="times_value">{count, plural, =1 {1 time} other {# times}}</string>
-    <string name="today_label">Today</string>
-    <string name="tomorrow_at_time">Tomorrow, %1$s</string>
-    <string name="total_pace_label">Overall pace</string>
-    <string name="total_reps_label">Total reps</string>
-    <string name="total_time_label">Total duration</string>
-    <string name="trend_delta_kg">{count, plural, =1 {1 kg} other {# kg}} since {date}</string>
-    <string name="trend_delta_kg_yesterday">{count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
-    <string name="trend_delta_lb">{count, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_delta_lb_yesterday">{count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_delta_st">{count, plural, =1 {1 st} other {# st}} since {date}</string>
-    <string name="trend_delta_st_lb">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_delta_st_lb_yesterday">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_delta_st_yesterday">{count, plural, =1 {1 st} other {# st}} since yesterday</string>
-    <string name="trend_down_kg">Lost {count, plural, =1 {1 kg} other {# kg}} since {date}</string>
-    <string name="trend_down_kg_yesterday">Lost {count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
-    <string name="trend_down_lb">Lost {count, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_down_lb_yesterday">Lost {count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_down_st">Lost {count, plural, =1 {1 st} other {# st}} since {date}</string>
-    <string name="trend_down_st_lb">Lost {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_down_st_lb_yesterday">Lost {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_down_st_yesterday">Lost {count, plural, =1 {1 st} other {# st}} since yesterday</string>
-    <string name="trend_no_change">No change since {date}</string>
-    <string name="trend_no_change_average">No change from weekly average</string>
-    <string name="trend_no_change_yesterday">No change since yesterday</string>
-    <string name="trend_up_kg">Gained {count, plural, =1 {1 kg} other {# kg}} since {date}</string>
-    <string name="trend_up_kg_yesterday">Gained {count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
-    <string name="trend_up_lb">Gained {count, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_up_lb_yesterday">Gained {count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_up_st">Gained {count, plural, =1 {1 st} other {# st}} since {date}</string>
-    <string name="trend_up_st_lb">Gained {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
-    <string name="trend_up_st_lb_yesterday">Gained {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
-    <string name="trend_up_st_yesterday">Gained {count, plural, =1 {1 st} other {# st}} since yesterday</string>
-    <string name="tuesday_ultra_short_label">T</string>
-    <string name="unit_bpm">bpm</string>
-    <string name="unit_bpm_short">bpm</string>
-    <string name="unit_cal">calories</string>
-    <string name="unit_calories_long">calories</string>
-    <string name="unit_calories_long_singular">calorie</string>
-    <string name="unit_calories_short">cal</string>
-    <string name="unit_centimetres_long">centimeters</string>
-    <string name="unit_centimetres_short">cm</string>
-    <string name="unit_duration">duration</string>
-    <string name="unit_feet_long">feet</string>
-    <string name="unit_feet_long_label">{count, plural, =1 {1 foot} other {# feet}}</string>
-    <string name="unit_feet_short">ft</string>
-    <string name="unit_feet_short_label">{count, plural, =1 {1 ft} other {# ft}}</string>
-    <string name="unit_hours_long">hours</string>
-    <string name="unit_hours_short">hr</string>
-    <string name="unit_inches_long">inches</string>
-    <string name="unit_inches_short">in</string>
-    <string name="unit_kilograms_long">kilogram</string>
-    <string name="unit_kilograms_long_label">{count, plural, =1 {1 kilogram} other {# kilograms}}</string>
-    <string name="unit_kilograms_short">kg</string>
-    <string name="unit_kilograms_short_label">{count, plural, =1 {1 kg} other {# kg}}</string>
-    <string name="unit_kilojoules_long">kilojoules</string>
-    <string name="unit_kilojoules_long_singular">kilojoule</string>
-    <string name="unit_kilojoules_short">kJ</string>
-    <string name="unit_kilometers_long">kilometers</string>
-    <string name="unit_kilometers_short">km</string>
-    <string name="unit_kj">kJ</string>
-    <string name="unit_km">km</string>
-    <string name="unit_meters_long_label">{count, plural, =1 {1 meter} other {# meters}}</string>
-    <string name="unit_meters_short_label">{count, plural, =1 {1 m} other {# m}}</string>
-    <string name="unit_mi">miles</string>
-    <string name="unit_miles_long">miles</string>
-    <string name="unit_miles_short">mi</string>
-    <string name="unit_minutes_long">minutes</string>
-    <string name="unit_minutes_long_singular">minute</string>
-    <string name="unit_minutes_short">min</string>
-    <string name="unit_pace_km">/km</string>
-    <string name="unit_pace_mi">/mi</string>
-    <string name="unit_pounds_long">pound</string>
-    <string name="unit_pounds_long_label">{count, plural, =1 {1 pound} other {# pounds}}</string>
-    <string name="unit_pounds_short">lb</string>
-    <string name="unit_pounds_short_label">{count, plural, =1 {1 lb} other {# lb}}</string>
-    <string name="unit_seconds_long">seconds</string>
-    <string name="unit_seconds_short">sec</string>
-    <string name="unit_speed_km">km/h</string>
-    <string name="unit_speed_mi">mph</string>
-    <string name="unit_steps">steps</string>
-    <string name="unit_steps_singular">step</string>
-    <string name="unit_stone_long">stone</string>
-    <string name="unit_stone_long_label">{count, plural, =1 {1 stone} other {# stone}}</string>
-    <string name="unit_stone_pound_long_label">{st, plural, =1 {1 stone} other {# stone}} {lb, plural, =1 {1 pound} other {# pounds}}</string>
-    <string name="unit_stone_pound_short_label">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}}</string>
-    <string name="unit_stone_short">st</string>
-    <string name="unit_stone_short_label">{count, plural, =1 {1 st} other {# st}}</string>
-    <string name="unit_time_of_day">time</string>
-    <string name="unit_times_long">times</string>
-    <string name="unit_times_short">times</string>
-    <string name="upgrade_needed">Update Fit app on phone</string>
-    <string name="velocity_pace_km">%1$s/km</string>
-    <string name="velocity_pace_miles">%1$s/mi</string>
-    <string name="velocity_pace_no_unit">%1$s</string>
-    <string name="velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
-    <string name="velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
-    <string name="velocity_speed_no_unit">{value, plural, =1 {1} other {#}}</string>
-    <string name="watch_face_aggregate">Google Fit Today</string>
-    <string name="watch_face_analog">Google Fit Analog</string>
-    <string name="watch_face_digital">Google Fit Digital</string>
-    <string name="watch_face_settings_title">Fit Watch Face</string>
-    <string name="wear_activity_dialog_yesterday">Yesterday</string>
-    <string name="wear_average_velocity_pace_km">%1$s/km avg</string>
-    <string name="wear_average_velocity_pace_miles">%1$s/mi avg</string>
-    <string name="wear_average_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}} avg</string>
-    <string name="wear_average_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}} avg</string>
-    <string name="wear_breakdown_calories_display_format">{count, plural, =1 {1 cal} other {# cal}}</string>
-    <string name="wear_breakdown_distance_km_display_format">{count, plural, =1 {1 km} other {# km}}</string>
-    <string name="wear_breakdown_distance_miles_display_format">{count, plural, =1 {1 mi} other {# mi}}</string>
-    <string name="wear_breakdown_kj_display_format">{count, plural, =1 {1 kJ} other {# kJ}}</string>
-    <string name="wear_breakdown_steps_display_format">{count, plural, =1 {1 step} other {# steps}}</string>
-    <string name="wear_generic_pace_value">-:--</string>
-    <string name="wear_goal_25_1">Good start!</string>
-    <string name="wear_goal_25_2">On the move!</string>
-    <string name="wear_goal_25_3">Keep at it!</string>
-    <string name="wear_goal_50_1">Halfway there!</string>
-    <string name="wear_goal_50_2">Nice work!</string>
-    <string name="wear_goal_50_3">Keep it up!</string>
-    <string name="wear_goal_75_1">Almost there!</string>
-    <string name="wear_goal_75_2">Great work!</string>
-    <string name="wear_goal_75_3">You can do it!</string>
-    <string name="wear_goal_completed">"You've met your goal!"</string>
-    <string name="wear_hour_duration_xs">{count, plural, =1 {1 h} other {# h}}</string>
-    <string name="wear_hour_minute_duration">%1$s hr %2$s min</string>
-    <string name="wear_hour_minute_duration_xs">%1$s h %2$s m</string>
-    <string name="wear_hour_minute_second_duration">%1$sh %2$sm %3$ss</string>
-    <string name="wear_hour_minute_second_pace">%1$s:%2$s:%3$s</string>
-    <string name="wear_last_updated">Updated %1$s</string>
-    <string name="wear_less_than_minute_duration">&lt; 1 min</string>
-    <string name="wear_less_than_minute_duration_xs">&lt; 1 m</string>
-    <string name="wear_minute_duration_xs">{count, plural, =1 {1 m} other {# m}}</string>
-    <string name="wear_minute_second_duration">%1$sm %2$ss</string>
-    <string name="wear_minute_second_pace">%1$s:%2$s</string>
-    <string name="wear_second_duration">{count, plural, =1 {1s} other {#s}}</string>
-    <string name="wear_second_pace">0:%1$s</string>
-    <string name="wear_today_date_string">Today</string>
-    <string name="wear_today_label">Today</string>
-    <string name="wear_tomorrow_date_string">Tomorrow</string>
-    <string name="wear_velocity_pace_km">%1$s/km</string>
-    <string name="wear_velocity_pace_km_disabled">-- /km</string>
-    <string name="wear_velocity_pace_miles">%1$s/mi</string>
-    <string name="wear_velocity_pace_miles_disabled">-- /mi</string>
-    <string name="wear_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
-    <string name="wear_velocity_speed_km_disabled">-- kph</string>
-    <string name="wear_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
-    <string name="wear_velocity_speed_miles_disabled">-- mph</string>
-    <string name="wear_wheel_calories_expended_value">"{count, plural, =1 {1 calorie
+  <string name="debug_settings_label">Debug Tools</string>
+  <string name="delete_goal">Delete goal</string>
+  <string name="delete_goal_confirmation">Deleting goal.</string>
+  <string name="delete_goal_error">"Couldn't delete goal."</string>
+  <string name="detecting_exercise">Detecting exercise...</string>
+  <string name="difficulty_advanced">Advanced</string>
+  <string name="difficulty_beginner">Beginner</string>
+  <string name="difficulty_intermediate">Intermediate</string>
+  <string name="difficulty_selection_title">Select difficulty</string>
+  <string name="disabled_metric_value">--</string>
+  <string name="discard_set">Delete set</string>
+  <string name="dismiss_overlay_button_label">Quit</string>
+  <string name="distance_display_format_kilometers">%1$.2f km</string>
+  <string name="distance_display_format_miles">%1$.2f mi</string>
+  <string name="distance_display_format_no_unit">%1$.2f</string>
+  <string name="distance_display_format_no_unit_ambient">%1$.1f</string>
+  <string name="distance_km_value_zero">–– km</string>
+  <string name="distance_label">Distance</string>
+  <string name="distance_miles_value_zero">–– miles</string>
+  <string name="distance_need_height_weight">Activate distance on phone</string>
+  <string name="distance_need_permission">Need permission for distance</string>
+  <string name="duplicate_goal_error">You already have this goal.</string>
+  <string name="duplicate_name">You have already labeled an exercise with that name</string>
+  <string name="duration_display_ambient_hr_min_format">%1$01dhr %2$02d min</string>
+  <string name="duration_display_ambient_min_format">%1$01d min</string>
+  <string name="duration_display_format">%1$02d:%2$02d:%3$02d</string>
+  <string name="duration_display_short_format">%1$01d:%2$02d</string>
+  <string name="duration_label">Duration</string>
+  <string name="duration_time">time</string>
+  <string name="duration_unit_label">hr:min</string>
+  <string name="each_day">each day</string>
+  <string name="each_month">each month</string>
+  <string name="each_week">each week</string>
+  <string name="edit_goal">Edit goal</string>
+  <string name="end_activity_title">End activity</string>
+  <string name="end_challenge_title">End challenge</string>
+  <string name="end_workout">End workout</string>
+  <string name="energy_display_format_no_unit">%1$.0f</string>
+  <string name="energy_label">Energy</string>
+  <string name="error_active_mode_action">Could not perform active mode action. Please restart.</string>
+  <string name="error_title">Error</string>
+  <string name="failed_3p_launch_error_message">Failed to launch application</string>
+  <string name="first_idle_notification_body">Fit sends prompts like this to help you stay active. You can disable this notification using the Settings action below.</string>
+  <string name="first_idle_notification_title">"You've been idle for %1$s."</string>
+  <string name="fitness_disable_text">Google Fit App turned off</string>
+  <string name="floors_unit">{count, plural, =1 {floor} other {floors}}</string>
+  <string name="floors_value">{count, plural, =1 {1 floor} other {# floors}}</string>
+  <string name="found_abandoned_am_session_body">Tap to resume your Fit activity</string>
+  <string name="found_abandoned_am_session_title">Continue activity?</string>
+  <string name="friday_ultra_short_label">F</string>
+  <string name="generic_pace_value">-:--</string>
+  <string name="generic_value_zero">––</string>
+  <string name="goal_creation_customize">Customize</string>
+  <string name="goal_disabled_metric_value">--</string>
+  <string name="goal_distance_km">km</string>
+  <string name="goal_distance_miles">mi</string>
+  <string name="goal_energy_calories">cal</string>
+  <string name="goal_energy_kj">kJ</string>
+  <string name="goal_label">Goal</string>
+  <string name="goal_notification_motivational_message_1">Halfway there!</string>
+  <string name="goal_notification_motivational_message_10">Alright!</string>
+  <string name="goal_notification_motivational_message_11">Nice!</string>
+  <string name="goal_notification_motivational_message_12">Way to go!</string>
+  <string name="goal_notification_motivational_message_2">Good start!</string>
+  <string name="goal_notification_motivational_message_3">Good hustle!</string>
+  <string name="goal_notification_motivational_message_4">Keep it up!</string>
+  <string name="goal_notification_motivational_message_5">Nice work!</string>
+  <string name="goal_notification_motivational_message_6">Almost there!</string>
+  <string name="goal_notification_motivational_message_7">So close!</string>
+  <string name="goal_notification_motivational_message_8">You did it!</string>
+  <string name="goal_notification_motivational_message_9">Awesome!</string>
+  <string name="goal_steps">steps</string>
+  <string name="goal_with_metric_spec">%1$s %2$s %3$s</string>
+  <string name="goals_activity_active">Active</string>
+  <string name="goals_activity_calories">Burn</string>
+  <string name="goals_activity_distance_generic">Move</string>
+  <string name="goals_activity_take">Take</string>
+  <string name="goals_activity_walk">Walk</string>
+  <string name="goals_activity_workout">Workout</string>
+  <string name="goalv2_type_activity">Activity</string>
+  <string name="goalv2_type_distance">Distance</string>
+  <string name="goalv2_type_duration">Active time</string>
+  <string name="goalv2_type_energy_calories">Calories burned</string>
+  <string name="goalv2_type_energy_kilojoules">Kilojoules burned</string>
+  <string name="goalv2_type_steps">Steps</string>
+  <string name="gps_acquired">GPS acquired</string>
+  <string name="gps_acquired_phone">GPS acquired from phone</string>
+  <string name="gps_temporarily_lost_message">May be longer, temporarily lost GPS</string>
+  <string name="heart_rate">Heart rate</string>
+  <string name="heart_rate_avg_label">Avg. Heart Rate</string>
+  <string name="heart_rate_ecg_error">"Relax &amp; press your fingers on the watch's front frame"</string>
+  <string name="heart_rate_error">Tighten band and try again</string>
+  <string name="heart_rate_label">Heart Rate</string>
+  <string name="heart_rate_long_value">{count, plural, =1 {1 beat per minute} other {# beats per minute}}</string>
+  <string name="heart_rate_max_label">Max Heart Rate</string>
+  <string name="heart_rate_not_supported_error">No heart rate monitor on this watch</string>
+  <string name="heart_rate_value">{count, plural, =1 {1 bpm} other {# bpm}}</string>
+  <string name="history_label">History</string>
+  <string name="hour_duration">{count, plural, =1 {1 hr} other {# hr}}</string>
+  <string name="hour_duration_accessibility">{count, plural, =1 {1 hour} other {# hours}}</string>
+  <string name="hour_duration_unit">{count, plural, =1 {hour} other {hours}}</string>
+  <string name="hour_duration_unit_short">hr</string>
+  <string name="hour_minute_duration">%1$s hr %2$s min</string>
+  <string name="hour_minute_duration_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}}</string>
+  <string name="hour_minute_duration_numeric">%1$s:%2$s</string>
+  <string name="hour_minute_second_duration">%1$sh %2$sm %3$ss</string>
+  <string name="hour_minute_second_duration_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {seconds, plural, =1 {1 second} other {# seconds}}</string>
+  <string name="hour_minute_second_pace">%1$s:%2$s:%3$s</string>
+  <string name="hour_suffix">h</string>
+  <string name="hr_permission_required_message">Need permission to access heart rate data</string>
+  <string name="idle_alert">Idle alert</string>
+  <string name="idle_alert_body">"You've been idle for %1$s."</string>
+  <string name="idle_alert_off">OFF</string>
+  <string name="idle_alert_on">ON</string>
+  <string name="idle_alert_success_body_1">Way to get moving</string>
+  <string name="idle_alert_success_body_2">Way to stay active</string>
+  <string name="idle_alert_success_title_1">Nice job!</string>
+  <string name="idle_alert_success_title_2">On the move!</string>
+  <string name="idle_alert_success_title_3">Good hustle!</string>
+  <string name="idle_alert_success_title_4">Nice work!</string>
+  <string name="idle_alert_title_fresh_air">Time for some fresh air?</string>
+  <string name="idle_alert_title_stretch">Time for a stretch?</string>
+  <string name="idle_alert_title_walk">Ready to walk?</string>
+  <string name="idle_end_time">End time</string>
+  <string name="idle_end_time_error">End time must be at least 1 hr after start time</string>
+  <string name="idle_nudge">Idle nudge</string>
+  <string name="idle_start_time">Start time</string>
+  <string name="idle_start_time_error">Start time must be at least 1 hr before end time</string>
+  <string name="idle_time">Idle time</string>
+  <string name="idle_time_value">%1$d min</string>
+  <string name="initial_sync_body">It may take several minutes for your activity to appear on your wearable.</string>
+  <string name="initial_sync_title">Syncing activity...</string>
+  <string name="insig_calories">{count, plural, =1 {1 inactive cal} other {# inactive cal}}</string>
+  <string name="insig_kj">{count, plural, =1 {1 inactive kJ} other {# inactive kJ}}</string>
+  <string name="install_fit_goal_feature">Set daily goals</string>
+  <string name="install_fit_tracking_feature">Track with other fitness apps and devices</string>
+  <string name="install_fit_viewing_feature">See progress on any device and the web</string>
+  <string name="item_color">Color</string>
+  <string name="item_goal">Goal</string>
+  <string name="just_a_sec">Just a sec…</string>
+  <string name="kilojoules_display_format_short">%1$.0f kJ</string>
+  <string name="kilojoules_label">Kilojoules</string>
+  <string name="kj">{count, plural, =1 {1 kJ} other {# kJ}}</string>
+  <string name="kj_need_height_weight">Activate kJ on phone</string>
+  <string name="kj_unit">{count, plural, =1 {kJ} other {kJ}}</string>
+  <string name="km">{dist, plural, =1 {1 km} other {# km}}</string>
+  <string name="km_accessibility">{dist, plural, =1 {1 kilometer} other {# kilometers}}</string>
+  <string name="km_unit">kilometers</string>
+  <string name="km_unit_short">km</string>
+  <string name="label_abdominal_crunch">Abdominal crunch</string>
+  <string name="label_back_extension">Back extension</string>
+  <string name="label_bench_press">Bench press</string>
+  <string name="label_bent_over_row">Bent-over row</string>
+  <string name="label_bicep_curl">Bicep curl</string>
+  <string name="label_chest_fly">Chest fly</string>
+  <string name="label_chin_up">Chin-up</string>
+  <string name="label_deadlift">Deadlift</string>
+  <string name="label_dumbbell_tricep_extension">Dumbbell tricep extension</string>
+  <string name="label_exercise_none">Unknown Exercise</string>
+  <string name="label_exercise_select">(Exercise Type)</string>
+  <string name="label_high_knees_running_in_place">High knees running in place</string>
+  <string name="label_jumping_jacks">Jumping jacks</string>
+  <string name="label_kg">kg</string>
+  <string name="label_lb">lb</string>
+  <string name="label_lunge">Lunge</string>
+  <string name="label_overhead_press">Overhead press</string>
+  <string name="label_pull_down">Pull-down</string>
+  <string name="label_pull_up">Pull-up</string>
+  <string name="label_push_up">Push-up</string>
+  <string name="label_reps">Reps</string>
+  <string name="label_russian_twist">Russian twist</string>
+  <string name="label_shoulder_fly">Shoulder fly</string>
+  <string name="label_shoulder_shrug">Shoulder shrug</string>
+  <string name="label_sit_up">Sit-up</string>
+  <string name="label_squat">Squat</string>
+  <string name="label_standing_calf_raise">Standing calf raise</string>
+  <string name="label_strength_training">Strength training</string>
+  <string name="label_tricep_extension">Tricep extension</string>
+  <string name="label_unknown_exercise">(Unknown)</string>
+  <string name="label_upright_row">Upright row</string>
+  <string name="label_weight">Weight</string>
+  <string name="less_than_minute_duration">&lt; 1 min</string>
+  <string name="less_than_minute_duration_accessibility">&lt; 1 minute</string>
+  <string name="metric_calories">Calories</string>
+  <string name="metric_distance">Distance</string>
+  <string name="metric_duration">Active time</string>
+  <string name="metric_kilojoules">Kilojoules</string>
+  <string name="metric_label">Daily stats</string>
+  <string name="metric_selection_title">Select metric</string>
+  <string name="metric_steps">Steps</string>
+  <string name="miles">{dist, plural, =1 {1 mile} other {# miles}}</string>
+  <string name="miles_accessibility">{dist, plural, =1 {1 mile} other {# miles}}</string>
+  <string name="miles_unit">miles</string>
+  <string name="miles_unit_short">mi</string>
+  <string name="millions_suffix">M</string>
+  <string name="minute_duration">{count, plural, =1 {1 min} other {# min}}</string>
+  <string name="minute_duration_accessibility">{count, plural, =1 {1 minute} other {# minutes}}</string>
+  <string name="minute_duration_unit_accessibility">{count, plural, =1 {minute} other {minutes}}</string>
+  <string name="minute_duration_unit_short">min</string>
+  <string name="minute_second_duration">%1$sm %2$ss</string>
+  <string name="minute_second_duration_accessibility">{minutes, plural, =1 {1 minute} other {# minutes}} {seconds, plural, =1 {1 second} other {# seconds}}</string>
+  <string name="minute_second_pace">%1$s:%2$s</string>
+  <string name="minute_suffix">m</string>
+  <string name="monday_ultra_short_label">M</string>
+  <string name="month">Month</string>
+  <string name="monthly_goal_recurrence">Monthly</string>
+  <string name="name_exercise">Name exercise</string>
+  <string name="need_permission">Need permission</string>
+  <string name="need_phone">Need phone</string>
+  <string name="new_set">New set</string>
+  <string name="no_gps">No GPS</string>
+  <string name="nothing_detected">Exercise not detected</string>
+  <string name="nothing_detected_summary">No exercise detected</string>
+  <string name="off">Off</string>
+  <string name="ok_title">OK</string>
+  <string name="on">On</string>
+  <string name="open_on_phone_error">"Sorry, that didn't work"</string>
+  <string name="open_on_phone_label">Open on phone</string>
+  <string name="pace_label">Pace</string>
+  <string name="passive_add_goal">Add goal</string>
+  <string name="passive_create_your_own">Create your own</string>
+  <string name="passive_daily_goals_header">Daily Goals</string>
+  <string name="passive_goals_header">Goals</string>
+  <string name="passive_heart_rate_ecg_error">"Relax &amp; press your fingers on the watch's front frame"</string>
+  <string name="passive_heart_rate_error">Tighten band and try again</string>
+  <string name="passive_heart_rate_header">Heart rate</string>
+  <string name="passive_heart_rate_measuring">Measuring...</string>
+  <string name="passive_heart_rate_permission_error">Permission needed</string>
+  <string name="passive_pick_a_goal">Pick a goal</string>
+  <string name="passive_settings_activate_on_phone">Activate Fit on phone</string>
+  <string name="passive_settings_enable_fit">Google Fit App</string>
+  <string name="passive_settings_enable_notifications">Notifications</string>
+  <string name="passive_settings_off_label">Off</string>
+  <string name="passive_settings_on_label">On</string>
+  <string name="passive_settings_select_goal">Goal</string>
+  <string name="passive_settings_title">Fit Settings</string>
+  <string name="pause">Pause</string>
+  <string name="paused_label">Paused</string>
+  <string name="place_autocomplete_clear_button">Clear search</string>
+  <string name="place_autocomplete_search_hint">Search</string>
+  <string name="preferences_distance_unit_imperial_label">Miles</string>
+  <string name="preferences_distance_unit_metric_label">Kilometers</string>
+  <string name="preferences_distance_unit_title">Distance</string>
+  <string name="preferences_energy_unit_calorie_label">Calories</string>
+  <string name="preferences_energy_unit_kilojoule_label">Kilojoules</string>
+  <string name="preferences_energy_unit_title">Energy</string>
+  <string name="preferences_height_unit_imperial_label">Feet &amp; Inches</string>
+  <string name="preferences_height_unit_metric_label">Centimeters</string>
+  <string name="preferences_height_unit_title">Height</string>
+  <string name="preferences_start_of_week_monday_label">Monday</string>
+  <string name="preferences_start_of_week_sunday_label">Sunday</string>
+  <string name="preferences_start_of_week_title">Start week on</string>
+  <string name="preferences_user_gender_decline_label">Decline to state</string>
+  <string name="preferences_user_gender_female_label">Female</string>
+  <string name="preferences_user_gender_male_label">Male</string>
+  <string name="preferences_user_gender_other_label">Other</string>
+  <string name="preferences_user_gender_title">Gender</string>
+  <string name="preferences_weight_unit_kilogram_label">Kilograms</string>
+  <string name="preferences_weight_unit_pound_label">Pounds</string>
+  <string name="preferences_weight_unit_stone_label">Stones</string>
+  <string name="preferences_weight_unit_title">Weight</string>
+  <string name="primes_marker">PrImEs</string>
+  <string name="primes_version">130315753</string>
+  <string name="ready_new_set">Ready for a new set.</string>
+  <string name="realtime_app_name_v1">Fit Activity</string>
+  <string name="rep_of_y">of %1$s</string>
+  <string name="rep_x_of_y">%1$s of %2$s</string>
+  <string name="reps_label">Reps</string>
+  <string name="reset_challenge_confirmed">Challenge reset</string>
+  <string name="reset_challenge_label">Reset challenge</string>
+  <string name="resting_calories_label">Inactive Calories</string>
+  <string name="resting_kilojoules_label">Resting Kilojoules</string>
+  <string name="resume_detection">Resume detection</string>
+  <string name="saturday_ultra_short_label">S</string>
+  <string name="second_duration">{count, plural, =1 {1s} other {#s}}</string>
+  <string name="second_duration_accessibility">{count, plural, =1 {1 second} other {# seconds}}</string>
+  <string name="second_pace">0:%1$s</string>
+  <string name="second_pace_sub_10">0:0%1$s</string>
+  <string name="segment_count_description">{count, plural, =1 {1 time} other {# times}}</string>
+  <string name="session_afternoon">Afternoon %1$s</string>
+  <string name="session_early_morning">Early morning %1$s</string>
+  <string name="session_late_night">Late night %1$s</string>
+  <string name="session_lunch">Lunch %1$s</string>
+  <string name="session_morning">Morning %1$s</string>
+  <string name="session_night">Evening %1$s</string>
+  <string name="set_metadata_onerepmax_kg_time">(%1$s kg 1RM, %2$01d:%3$02d)</string>
+  <string name="set_metadata_onerepmax_lb_time">(%1$s lb 1RM, %2$01d:%3$02d)</string>
+  <string name="set_metadata_time">(%1$01d:%2$02d)</string>
+  <string name="set_number">({current, plural, =1 {1} other {#}}/{total, plural, =1 {1} other {#}})</string>
+  <string name="settings_activity_on_phone">Activate Fit on phone</string>
+  <string name="settings_enable_fit">Google Fit App</string>
+  <string name="settings_enable_notifications">Notifications</string>
+  <string name="settings_label">Settings</string>
+  <string name="settings_title">Fit Settings</string>
+  <string name="show_details_label">Show details</string>
+  <string name="single_km_unit">kilometer</string>
+  <string name="single_miles_unit">mile</string>
+  <string name="single_unit_minutes_long">minute</string>
+  <string name="start">Start</string>
+  <string name="start_active_mode_label">Start activity</string>
+  <string name="start_open_on_phone_label">Open on phone</string>
+  <string name="start_passive_label">History</string>
+  <string name="start_realtime_label">Start activity</string>
+  <string name="start_set">Start</string>
+  <string name="start_settings_label">Settings</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="steps_display_format">%1$.0f steps</string>
+  <string name="steps_display_format_no_unit">%1$.0f</string>
+  <string name="steps_label">Steps</string>
+  <string name="steps_unit">{count, plural, =1 {step} other {steps}}</string>
+  <string name="steps_value">{count, plural, =1 {1 step} other {# steps}}</string>
+  <string name="steps_value_zero">–– steps</string>
+  <string name="summary_title">Summary</string>
+  <string name="sunday_ultra_short_label">S</string>
+  <string name="tap_below_settings">Tap below for Settings</string>
+  <string name="thousands_suffix">k</string>
+  <string name="thursday_ultra_short_label">T</string>
+  <string name="time_difference_now">now</string>
+  <string name="time_difference_short_days_and_hours">%1$s %2$s</string>
+  <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
+  <string name="time_of_day_label">Time of Day</string>
+  <string name="timeline_event_title_activity_0">0 min %s</string>
+  <string name="timeline_event_title_activity_0_accessibility">0 minutes %s</string>
+  <string name="timeline_event_title_activity_1">&lt; 1 min %s</string>
+  <string name="timeline_event_title_activity_1_accessibility">&lt; 1 minute %s</string>
+  <string name="timeline_event_title_activity_calories_expended">{count, plural, =1 {1 calorie {activity}} other {# calories {activity}}}</string>
+  <string name="timeline_event_title_activity_calories_expended_accessibility">{count, plural, =1 {1 calorie {activity}} other {# calories {activity}}}</string>
+  <string name="timeline_event_title_activity_distance_accessibility">No distance %s</string>
+  <string name="timeline_event_title_activity_distance_km">{dist, plural, =1 {1 km {activity}} other {# km {activity}}}</string>
+  <string name="timeline_event_title_activity_distance_km_accessibility">{dist, plural, =1 {1 kilometer {activity}} other {# kilometers {activity}}}</string>
+  <string name="timeline_event_title_activity_distance_miles">{dist, plural, =1 {1 mile {activity}} other {# miles {activity}}}</string>
+  <string name="timeline_event_title_activity_distance_miles_accessibility">{dist, plural, =1 {1 mile {activity}} other {# miles {activity}}}</string>
+  <string name="timeline_event_title_activity_h">{count, plural, =1 {1 hr {activity}} other {# hr {activity}}}</string>
+  <string name="timeline_event_title_activity_h_accessibility">{count, plural, =1 {1 hour {activity}} other {# hours {activity}}}</string>
+  <string name="timeline_event_title_activity_h_m">%1$s hr %2$s min %3$s</string>
+  <string name="timeline_event_title_activity_h_m_accessibility">{hours, plural, =1 {1 hour} other {# hours}} {minutes, plural, =1 {1 minute} other {# minutes}} {activity}</string>
+  <string name="timeline_event_title_activity_kj_expended">{count, plural, =1 {1 kJ {activity}} other {# kJ {activity}}}</string>
+  <string name="timeline_event_title_activity_kj_expended_accessibility">{count, plural, =1 {1 kilojoule {activity}} other {# kilojoules {activity}}}</string>
+  <string name="timeline_event_title_activity_m">{count, plural, =1 {1 min {activity}} other {# min {activity}}}</string>
+  <string name="timeline_event_title_activity_m_accessibility">{count, plural, =1 {1 minute {activity}} other {# minutes {activity}}}</string>
+  <string name="timeline_event_title_activity_steps">{count, plural, =1 {1 step {activity}} other {# steps {activity}}}</string>
+  <string name="timeline_event_title_activity_steps_accessibility">No steps %s</string>
+  <string name="times_unit">{count, plural, =1 {time} other {times}}</string>
+  <string name="times_value">{count, plural, =1 {1 time} other {# times}}</string>
+  <string name="today_label">Today</string>
+  <string name="tomorrow_at_time">Tomorrow, %1$s</string>
+  <string name="total_pace_label">Overall pace</string>
+  <string name="total_reps_label">Total reps</string>
+  <string name="total_time_label">Total duration</string>
+  <string name="trend_delta_kg">{count, plural, =1 {1 kg} other {# kg}} since {date}</string>
+  <string name="trend_delta_kg_yesterday">{count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
+  <string name="trend_delta_lb">{count, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_delta_lb_yesterday">{count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_delta_st">{count, plural, =1 {1 st} other {# st}} since {date}</string>
+  <string name="trend_delta_st_lb">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_delta_st_lb_yesterday">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_delta_st_yesterday">{count, plural, =1 {1 st} other {# st}} since yesterday</string>
+  <string name="trend_down_kg">Lost {count, plural, =1 {1 kg} other {# kg}} since {date}</string>
+  <string name="trend_down_kg_yesterday">Lost {count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
+  <string name="trend_down_lb">Lost {count, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_down_lb_yesterday">Lost {count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_down_st">Lost {count, plural, =1 {1 st} other {# st}} since {date}</string>
+  <string name="trend_down_st_lb">Lost {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_down_st_lb_yesterday">Lost {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_down_st_yesterday">Lost {count, plural, =1 {1 st} other {# st}} since yesterday</string>
+  <string name="trend_no_change">No change since {date}</string>
+  <string name="trend_no_change_average">No change from weekly average</string>
+  <string name="trend_no_change_yesterday">No change since yesterday</string>
+  <string name="trend_up_kg">Gained {count, plural, =1 {1 kg} other {# kg}} since {date}</string>
+  <string name="trend_up_kg_yesterday">Gained {count, plural, =1 {1 kg} other {# kg}} since yesterday</string>
+  <string name="trend_up_lb">Gained {count, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_up_lb_yesterday">Gained {count, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_up_st">Gained {count, plural, =1 {1 st} other {# st}} since {date}</string>
+  <string name="trend_up_st_lb">Gained {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since {date}</string>
+  <string name="trend_up_st_lb_yesterday">Gained {st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}} since yesterday</string>
+  <string name="trend_up_st_yesterday">Gained {count, plural, =1 {1 st} other {# st}} since yesterday</string>
+  <string name="tuesday_ultra_short_label">T</string>
+  <string name="unit_bpm">bpm</string>
+  <string name="unit_bpm_short">bpm</string>
+  <string name="unit_cal">calories</string>
+  <string name="unit_calories_long">calories</string>
+  <string name="unit_calories_long_singular">calorie</string>
+  <string name="unit_calories_short">cal</string>
+  <string name="unit_centimetres_long">centimeters</string>
+  <string name="unit_centimetres_short">cm</string>
+  <string name="unit_duration">duration</string>
+  <string name="unit_feet_long">feet</string>
+  <string name="unit_feet_long_label">{count, plural, =1 {1 foot} other {# feet}}</string>
+  <string name="unit_feet_short">ft</string>
+  <string name="unit_feet_short_label">{count, plural, =1 {1 ft} other {# ft}}</string>
+  <string name="unit_hours_long">hours</string>
+  <string name="unit_hours_short">hr</string>
+  <string name="unit_inches_long">inches</string>
+  <string name="unit_inches_short">in</string>
+  <string name="unit_kilograms_long">kilogram</string>
+  <string name="unit_kilograms_long_label">{count, plural, =1 {1 kilogram} other {# kilograms}}</string>
+  <string name="unit_kilograms_short">kg</string>
+  <string name="unit_kilograms_short_label">{count, plural, =1 {1 kg} other {# kg}}</string>
+  <string name="unit_kilojoules_long">kilojoules</string>
+  <string name="unit_kilojoules_long_singular">kilojoule</string>
+  <string name="unit_kilojoules_short">kJ</string>
+  <string name="unit_kilometers_long">kilometers</string>
+  <string name="unit_kilometers_short">km</string>
+  <string name="unit_kj">kJ</string>
+  <string name="unit_km">km</string>
+  <string name="unit_meters_long_label">{count, plural, =1 {1 meter} other {# meters}}</string>
+  <string name="unit_meters_short_label">{count, plural, =1 {1 m} other {# m}}</string>
+  <string name="unit_mi">miles</string>
+  <string name="unit_miles_long">miles</string>
+  <string name="unit_miles_short">mi</string>
+  <string name="unit_minutes_long">minutes</string>
+  <string name="unit_minutes_long_singular">minute</string>
+  <string name="unit_minutes_short">min</string>
+  <string name="unit_pace_km">/km</string>
+  <string name="unit_pace_mi">/mi</string>
+  <string name="unit_pounds_long">pound</string>
+  <string name="unit_pounds_long_label">{count, plural, =1 {1 pound} other {# pounds}}</string>
+  <string name="unit_pounds_short">lb</string>
+  <string name="unit_pounds_short_label">{count, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="unit_seconds_long">seconds</string>
+  <string name="unit_seconds_short">sec</string>
+  <string name="unit_speed_km">km/h</string>
+  <string name="unit_speed_mi">mph</string>
+  <string name="unit_steps">steps</string>
+  <string name="unit_steps_singular">step</string>
+  <string name="unit_stone_long">stone</string>
+  <string name="unit_stone_long_label">{count, plural, =1 {1 stone} other {# stone}}</string>
+  <string name="unit_stone_pound_long_label">{st, plural, =1 {1 stone} other {# stone}} {lb, plural, =1 {1 pound} other {# pounds}}</string>
+  <string name="unit_stone_pound_short_label">{st, plural, =1 {1 st} other {# st}} {lb, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="unit_stone_short">st</string>
+  <string name="unit_stone_short_label">{count, plural, =1 {1 st} other {# st}}</string>
+  <string name="unit_time_of_day">time</string>
+  <string name="unit_times_long">times</string>
+  <string name="unit_times_short">times</string>
+  <string name="upgrade_needed">Update Fit app on phone</string>
+  <string name="velocity_pace_km">%1$s/km</string>
+  <string name="velocity_pace_miles">%1$s/mi</string>
+  <string name="velocity_pace_no_unit">%1$s</string>
+  <string name="velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
+  <string name="velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
+  <string name="velocity_speed_no_unit">{value, plural, =1 {1} other {#}}</string>
+  <string name="watch_face_aggregate">Google Fit Today</string>
+  <string name="watch_face_analog">Google Fit Analog</string>
+  <string name="watch_face_digital">Google Fit Digital</string>
+  <string name="watch_face_settings_title">Fit Watch Face</string>
+  <string name="wear_activity_dialog_yesterday">Yesterday</string>
+  <string name="wear_average_velocity_pace_km">%1$s/km avg</string>
+  <string name="wear_average_velocity_pace_miles">%1$s/mi avg</string>
+  <string name="wear_average_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}} avg</string>
+  <string name="wear_average_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}} avg</string>
+  <string name="wear_breakdown_calories_display_format">{count, plural, =1 {1 cal} other {# cal}}</string>
+  <string name="wear_breakdown_distance_km_display_format">{count, plural, =1 {1 km} other {# km}}</string>
+  <string name="wear_breakdown_distance_miles_display_format">{count, plural, =1 {1 mi} other {# mi}}</string>
+  <string name="wear_breakdown_kj_display_format">{count, plural, =1 {1 kJ} other {# kJ}}</string>
+  <string name="wear_breakdown_steps_display_format">{count, plural, =1 {1 step} other {# steps}}</string>
+  <string name="wear_generic_pace_value">-:--</string>
+  <string name="wear_goal_25_1">Good start!</string>
+  <string name="wear_goal_25_2">On the move!</string>
+  <string name="wear_goal_25_3">Keep at it!</string>
+  <string name="wear_goal_50_1">Halfway there!</string>
+  <string name="wear_goal_50_2">Nice work!</string>
+  <string name="wear_goal_50_3">Keep it up!</string>
+  <string name="wear_goal_75_1">Almost there!</string>
+  <string name="wear_goal_75_2">Great work!</string>
+  <string name="wear_goal_75_3">You can do it!</string>
+  <string name="wear_goal_completed">"You've met your goal!"</string>
+  <string name="wear_hour_duration_xs">{count, plural, =1 {1 h} other {# h}}</string>
+  <string name="wear_hour_minute_duration">%1$s hr %2$s min</string>
+  <string name="wear_hour_minute_duration_xs">%1$s h %2$s m</string>
+  <string name="wear_hour_minute_second_duration">%1$sh %2$sm %3$ss</string>
+  <string name="wear_hour_minute_second_pace">%1$s:%2$s:%3$s</string>
+  <string name="wear_last_updated">Updated %1$s</string>
+  <string name="wear_less_than_minute_duration">&lt; 1 min</string>
+  <string name="wear_less_than_minute_duration_xs">&lt; 1 m</string>
+  <string name="wear_minute_duration_xs">{count, plural, =1 {1 m} other {# m}}</string>
+  <string name="wear_minute_second_duration">%1$sm %2$ss</string>
+  <string name="wear_minute_second_pace">%1$s:%2$s</string>
+  <string name="wear_second_duration">{count, plural, =1 {1s} other {#s}}</string>
+  <string name="wear_second_pace">0:%1$s</string>
+  <string name="wear_today_date_string">Today</string>
+  <string name="wear_today_label">Today</string>
+  <string name="wear_tomorrow_date_string">Tomorrow</string>
+  <string name="wear_velocity_pace_km">%1$s/km</string>
+  <string name="wear_velocity_pace_km_disabled">-- /km</string>
+  <string name="wear_velocity_pace_miles">%1$s/mi</string>
+  <string name="wear_velocity_pace_miles_disabled">-- /mi</string>
+  <string name="wear_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
+  <string name="wear_velocity_speed_km_disabled">-- kph</string>
+  <string name="wear_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
+  <string name="wear_velocity_speed_miles_disabled">-- mph</string>
+  <string name="wear_wheel_calories_expended_value">"{count, plural, =1 {1 calorie
 today} other {# calories
 today}}"</string>
-    <string name="wear_wheel_distance_km_value">"{count, plural, =1 {1 km
+  <string name="wear_wheel_distance_km_value">"{count, plural, =1 {1 km
 today} other {# km
 today}}"</string>
-    <string name="wear_wheel_distance_miles_value">"{count, plural, =1 {1 mile
+  <string name="wear_wheel_distance_miles_value">"{count, plural, =1 {1 mile
 today} other {# miles
 today}}"</string>
-    <string name="wear_wheel_duration_today_0">"0 min
+  <string name="wear_wheel_duration_today_0">"0 min
 today"</string>
-    <string name="wear_wheel_duration_today_1">"&lt; 1 min
+  <string name="wear_wheel_duration_today_1">"&lt; 1 min
 today"</string>
-    <string name="wear_wheel_duration_today_h">"{count, plural, =1 {1 hr
+  <string name="wear_wheel_duration_today_h">"{count, plural, =1 {1 hr
 today} other {# hr
 today}}"</string>
-    <string name="wear_wheel_duration_today_h_m">"%1$s hr %2$s min
+  <string name="wear_wheel_duration_today_h_m">"%1$s hr %2$s min
 today"</string>
-    <string name="wear_wheel_duration_today_m">"{count, plural, =1 {1 min
+  <string name="wear_wheel_duration_today_m">"{count, plural, =1 {1 min
 today} other {# min
 today}}"</string>
-    <string name="wear_wheel_goal_calories_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 calorie} other {Goal exceeded by # calories}}</string>
-    <string name="wear_wheel_goal_calories_expended_met">Goal reached</string>
-    <string name="wear_wheel_goal_calories_expended_not_met">{count, plural, =1 {Goal 1 calorie} other {Goal # calories}}</string>
-    <string name="wear_wheel_goal_distance_km_exceeded">{count, plural, =1 {Goal exceeded by 1 km} other {Goal exceeded by # km}}</string>
-    <string name="wear_wheel_goal_distance_km_not_met">{count, plural, =1 {Goal is 1 km} other {Goal is # km}}</string>
-    <string name="wear_wheel_goal_distance_met">Goal reached</string>
-    <string name="wear_wheel_goal_distance_miles_exceeded">{count, plural, =1 {Goal exceeded by 1 mile} other {Goal exceeded by # miles}}</string>
-    <string name="wear_wheel_goal_distance_miles_not_met">{count, plural, =1 {Goal is 1 mile} other {Goal is # miles}}</string>
-    <string name="wear_wheel_goal_duration_exceeded_0">Goal reached</string>
-    <string name="wear_wheel_goal_duration_exceeded_1">Goal exceeded by &lt; 1 min</string>
-    <string name="wear_wheel_goal_duration_exceeded_h">{count, plural, =1 {Goal exceeded by 1 hr} other {Goal exceeded by # hr}}</string>
-    <string name="wear_wheel_goal_duration_exceeded_h_m">Goal exceeded by %1$s hr %2$s min</string>
-    <string name="wear_wheel_goal_duration_exceeded_m">{count, plural, =1 {Goal exceeded by 1 min} other {Goal exceeded by # min}}</string>
-    <string name="wear_wheel_goal_duration_met">Goal reached</string>
-    <string name="wear_wheel_goal_duration_not_met_0">No duration goal set</string>
-    <string name="wear_wheel_goal_duration_not_met_1">Your goal is &lt; 1 min</string>
-    <string name="wear_wheel_goal_duration_not_met_h">{count, plural, =1 {Goal is 1 hr} other {Goal is # hr}}</string>
-    <string name="wear_wheel_goal_duration_not_met_h_m">Goal is %1$s hr %2$s min</string>
-    <string name="wear_wheel_goal_duration_not_met_m">{count, plural, =1 {Goal is 1 min} other {Goal is # min}}</string>
-    <string name="wear_wheel_goal_kj_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 kJ} other {Goal exceeded by # kJ}}</string>
-    <string name="wear_wheel_goal_kj_expended_not_met">{count, plural, =1 {Goal 1 kJ} other {Goal # kJ}}</string>
-    <string name="wear_wheel_goal_step_exceeded">{count, plural, =1 {Goal exceeded by 1 step} other {Goal exceeded by # steps}}</string>
-    <string name="wear_wheel_goal_step_met">Goal reached</string>
-    <string name="wear_wheel_goal_steps_not_met">{count, plural, =1 {Your goal is 1 step} other {Your goal is # steps}}</string>
-    <string name="wear_wheel_implicit_calories_expended_exceeded">{count, plural, =1 {Average exceeded by 1 calorie} other {Average exceeded by # calories}}</string>
-    <string name="wear_wheel_implicit_calories_expended_met">Average reached</string>
-    <string name="wear_wheel_implicit_calories_expended_not_met">{count, plural, =1 {Your avg is 1 calorie} other {Your avg is # calories}}</string>
-    <string name="wear_wheel_implicit_distance_km_exceeded">{count, plural, =1 {Average exceeded by 1 km} other {Average exceeded by # km}}</string>
-    <string name="wear_wheel_implicit_distance_km_not_met">{count, plural, =1 {Your avg is 1 km} other {Your avg is # km}}</string>
-    <string name="wear_wheel_implicit_distance_met">Average reached</string>
-    <string name="wear_wheel_implicit_distance_miles_exceeded">{count, plural, =1 {Average exceeded by 1 mile} other {Average exceeded by # miles}}</string>
-    <string name="wear_wheel_implicit_distance_miles_not_met">{count, plural, =1 {Your avg is 1 mile} other {Your avg # miles}}</string>
-    <string name="wear_wheel_implicit_duration_exceeded_0">Average reached</string>
-    <string name="wear_wheel_implicit_duration_exceeded_1">Average exceeded by &lt; 1 min</string>
-    <string name="wear_wheel_implicit_duration_exceeded_h">{count, plural, =1 {Average exceeded by 1 hr} other {Average exceeded by # hr}}</string>
-    <string name="wear_wheel_implicit_duration_exceeded_h_m">Average exceeded by %1$s hr %2$s min</string>
-    <string name="wear_wheel_implicit_duration_exceeded_m">{count, plural, =1 {Average exceeded by 1 min} other {Average exceeded by # min}}</string>
-    <string name="wear_wheel_implicit_duration_met">Average reached</string>
-    <string name="wear_wheel_implicit_duration_not_met_0">No daily avg set</string>
-    <string name="wear_wheel_implicit_duration_not_met_1">Your avg is &lt; 1 min</string>
-    <string name="wear_wheel_implicit_duration_not_met_h">{count, plural, =1 {Your avg is 1 hr} other {Your avg is # hr}}</string>
-    <string name="wear_wheel_implicit_duration_not_met_h_m">Your avg is %1$s hr %2$s min</string>
-    <string name="wear_wheel_implicit_duration_not_met_m">{count, plural, =1 {Your avg is 1 minute} other {Your avg is # min}}</string>
-    <string name="wear_wheel_implicit_kj_expended_exceeded">{count, plural, =1 {Average exceeded by 1 kJ} other {Average exceeded by # kJ}}</string>
-    <string name="wear_wheel_implicit_kj_expended_not_met">{count, plural, =1 {Your avg is 1 kJ} other {Your avg is # kJ}}</string>
-    <string name="wear_wheel_implicit_steps_exceeded">{count, plural, =1 {Average exceeded by 1 step} other {Average exceeded by # steps}}</string>
-    <string name="wear_wheel_implicit_steps_met">Average reached</string>
-    <string name="wear_wheel_implicit_steps_not_met">{count, plural, =1 {Your avg is 1 step} other {Your avg is # steps}}</string>
-    <string name="wear_wheel_kj_expended_value">"{count, plural, =1 {1 kJ
+  <string name="wear_wheel_goal_calories_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 calorie} other {Goal exceeded by # calories}}</string>
+  <string name="wear_wheel_goal_calories_expended_met">Goal reached</string>
+  <string name="wear_wheel_goal_calories_expended_not_met">{count, plural, =1 {Goal 1 calorie} other {Goal # calories}}</string>
+  <string name="wear_wheel_goal_distance_km_exceeded">{count, plural, =1 {Goal exceeded by 1 km} other {Goal exceeded by # km}}</string>
+  <string name="wear_wheel_goal_distance_km_not_met">{count, plural, =1 {Goal is 1 km} other {Goal is # km}}</string>
+  <string name="wear_wheel_goal_distance_met">Goal reached</string>
+  <string name="wear_wheel_goal_distance_miles_exceeded">{count, plural, =1 {Goal exceeded by 1 mile} other {Goal exceeded by # miles}}</string>
+  <string name="wear_wheel_goal_distance_miles_not_met">{count, plural, =1 {Goal is 1 mile} other {Goal is # miles}}</string>
+  <string name="wear_wheel_goal_duration_exceeded_0">Goal reached</string>
+  <string name="wear_wheel_goal_duration_exceeded_1">Goal exceeded by &lt; 1 min</string>
+  <string name="wear_wheel_goal_duration_exceeded_h">{count, plural, =1 {Goal exceeded by 1 hr} other {Goal exceeded by # hr}}</string>
+  <string name="wear_wheel_goal_duration_exceeded_h_m">Goal exceeded by %1$s hr %2$s min</string>
+  <string name="wear_wheel_goal_duration_exceeded_m">{count, plural, =1 {Goal exceeded by 1 min} other {Goal exceeded by # min}}</string>
+  <string name="wear_wheel_goal_duration_met">Goal reached</string>
+  <string name="wear_wheel_goal_duration_not_met_0">No duration goal set</string>
+  <string name="wear_wheel_goal_duration_not_met_1">Your goal is &lt; 1 min</string>
+  <string name="wear_wheel_goal_duration_not_met_h">{count, plural, =1 {Goal is 1 hr} other {Goal is # hr}}</string>
+  <string name="wear_wheel_goal_duration_not_met_h_m">Goal is %1$s hr %2$s min</string>
+  <string name="wear_wheel_goal_duration_not_met_m">{count, plural, =1 {Goal is 1 min} other {Goal is # min}}</string>
+  <string name="wear_wheel_goal_kj_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 kJ} other {Goal exceeded by # kJ}}</string>
+  <string name="wear_wheel_goal_kj_expended_not_met">{count, plural, =1 {Goal 1 kJ} other {Goal # kJ}}</string>
+  <string name="wear_wheel_goal_step_exceeded">{count, plural, =1 {Goal exceeded by 1 step} other {Goal exceeded by # steps}}</string>
+  <string name="wear_wheel_goal_step_met">Goal reached</string>
+  <string name="wear_wheel_goal_steps_not_met">{count, plural, =1 {Your goal is 1 step} other {Your goal is # steps}}</string>
+  <string name="wear_wheel_implicit_calories_expended_exceeded">{count, plural, =1 {Average exceeded by 1 calorie} other {Average exceeded by # calories}}</string>
+  <string name="wear_wheel_implicit_calories_expended_met">Average reached</string>
+  <string name="wear_wheel_implicit_calories_expended_not_met">{count, plural, =1 {Your avg is 1 calorie} other {Your avg is # calories}}</string>
+  <string name="wear_wheel_implicit_distance_km_exceeded">{count, plural, =1 {Average exceeded by 1 km} other {Average exceeded by # km}}</string>
+  <string name="wear_wheel_implicit_distance_km_not_met">{count, plural, =1 {Your avg is 1 km} other {Your avg is # km}}</string>
+  <string name="wear_wheel_implicit_distance_met">Average reached</string>
+  <string name="wear_wheel_implicit_distance_miles_exceeded">{count, plural, =1 {Average exceeded by 1 mile} other {Average exceeded by # miles}}</string>
+  <string name="wear_wheel_implicit_distance_miles_not_met">{count, plural, =1 {Your avg is 1 mile} other {Your avg # miles}}</string>
+  <string name="wear_wheel_implicit_duration_exceeded_0">Average reached</string>
+  <string name="wear_wheel_implicit_duration_exceeded_1">Average exceeded by &lt; 1 min</string>
+  <string name="wear_wheel_implicit_duration_exceeded_h">{count, plural, =1 {Average exceeded by 1 hr} other {Average exceeded by # hr}}</string>
+  <string name="wear_wheel_implicit_duration_exceeded_h_m">Average exceeded by %1$s hr %2$s min</string>
+  <string name="wear_wheel_implicit_duration_exceeded_m">{count, plural, =1 {Average exceeded by 1 min} other {Average exceeded by # min}}</string>
+  <string name="wear_wheel_implicit_duration_met">Average reached</string>
+  <string name="wear_wheel_implicit_duration_not_met_0">No daily avg set</string>
+  <string name="wear_wheel_implicit_duration_not_met_1">Your avg is &lt; 1 min</string>
+  <string name="wear_wheel_implicit_duration_not_met_h">{count, plural, =1 {Your avg is 1 hr} other {Your avg is # hr}}</string>
+  <string name="wear_wheel_implicit_duration_not_met_h_m">Your avg is %1$s hr %2$s min</string>
+  <string name="wear_wheel_implicit_duration_not_met_m">{count, plural, =1 {Your avg is 1 minute} other {Your avg is # min}}</string>
+  <string name="wear_wheel_implicit_kj_expended_exceeded">{count, plural, =1 {Average exceeded by 1 kJ} other {Average exceeded by # kJ}}</string>
+  <string name="wear_wheel_implicit_kj_expended_not_met">{count, plural, =1 {Your avg is 1 kJ} other {Your avg is # kJ}}</string>
+  <string name="wear_wheel_implicit_steps_exceeded">{count, plural, =1 {Average exceeded by 1 step} other {Average exceeded by # steps}}</string>
+  <string name="wear_wheel_implicit_steps_met">Average reached</string>
+  <string name="wear_wheel_implicit_steps_not_met">{count, plural, =1 {Your avg is 1 step} other {Your avg is # steps}}</string>
+  <string name="wear_wheel_kj_expended_value">"{count, plural, =1 {1 kJ
 today} other {# kJ
 today}}"</string>
-    <string name="wear_wheel_steps_value">"{count, plural, =1 {1 step
+  <string name="wear_wheel_steps_value">"{count, plural, =1 {1 step
 today} other {# steps
 today}}"</string>
-    <string name="wear_yesterday_date_string">Yesterday</string>
-    <string name="wear_zero_minute_duration">0 min</string>
-    <string name="wear_zero_minute_duration_xs">0 m</string>
-    <string name="wear_zero_second_duration">0s</string>
-    <string name="wear_zero_second_pace">0:00</string>
-    <string name="wednesday_ultra_short_label">W</string>
-    <string name="week">Week</string>
-    <string name="weekly_goal_recurrence">Weekly</string>
-    <string name="weight_date_label">Date</string>
-    <string name="weight_label">Weight</string>
-    <string name="weight_time_label">Time</string>
-    <string name="welcome_bring_phone">For bike ride tracking and more accurate distance and speed, keep your phone with you.</string>
-    <string name="welcome_check_metrics">For distance and calorie tracking, add your weight and height to the phone app.</string>
-    <string name="welcome_location_request">Easily track your speed, distance, steps, and location with Fit.</string>
-    <string name="workout_summary">Summary</string>
-    <string name="x_cm">{x, plural, =1 {1 cm} other {# cm}}</string>
-    <string name="x_feet_y_inches">"{x, plural, =1 {1''} other {#''}}{y, plural, =1 {1\"} other {#\"}}"</string>
-    <string name="x_reps">{reps, plural, =1 {1 rep} other {# reps}}</string>
-    <string name="x_reps_at_y_kg">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 kg} other {# kg}}</string>
-    <string name="x_reps_at_y_lb">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 lb} other {# lb}}</string>
-    <string name="x_total_reps">%1$s</string>
-    <string name="x_y_total_time">%1$01d:%2$02d</string>
-    <string name="y_kg">{weight, plural, =1 {1 kg} other {# kg}}</string>
-    <string name="y_lb">{weight, plural, =1 {1 lb} other {# lb}}</string>
-    <string name="yesterday_at_time">Yesterday, %1$s</string>
-    <string name="zero_minute_duration">0 min</string>
-    <string name="zero_minute_duration_accessibility">0 minutes</string>
-    <string name="zero_second_duration">0s</string>
-    <string name="zero_second_duration_accessibility">0 seconds</string>
-    <string name="zero_second_pace">0:00</string>
+  <string name="wear_yesterday_date_string">Yesterday</string>
+  <string name="wear_zero_minute_duration">0 min</string>
+  <string name="wear_zero_minute_duration_xs">0 m</string>
+  <string name="wear_zero_second_duration">0s</string>
+  <string name="wear_zero_second_pace">0:00</string>
+  <string name="wednesday_ultra_short_label">W</string>
+  <string name="week">Week</string>
+  <string name="weekly_goal_recurrence">Weekly</string>
+  <string name="weight_date_label">Date</string>
+  <string name="weight_label">Weight</string>
+  <string name="weight_time_label">Time</string>
+  <string name="welcome_bring_phone">For bike ride tracking and more accurate distance and speed, keep your phone with you.</string>
+  <string name="welcome_check_metrics">For distance and calorie tracking, add your weight and height to the phone app.</string>
+  <string name="welcome_location_request">Easily track your speed, distance, steps, and location with Fit.</string>
+  <string name="workout_summary">Summary</string>
+  <string name="x_cm">{x, plural, =1 {1 cm} other {# cm}}</string>
+  <string name="x_feet_y_inches">"{x, plural, =1 {1''} other {#''}}{y, plural, =1 {1\"} other {#\"}}"</string>
+  <string name="x_reps">{reps, plural, =1 {1 rep} other {# reps}}</string>
+  <string name="x_reps_at_y_kg">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 kg} other {# kg}}</string>
+  <string name="x_reps_at_y_lb">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="x_total_reps">%1$s</string>
+  <string name="x_y_total_time">%1$01d:%2$02d</string>
+  <string name="y_kg">{weight, plural, =1 {1 kg} other {# kg}}</string>
+  <string name="y_lb">{weight, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="yesterday_at_time">Yesterday, %1$s</string>
+  <string name="zero_minute_duration">0 min</string>
+  <string name="zero_minute_duration_accessibility">0 minutes</string>
+  <string name="zero_second_duration">0s</string>
+  <string name="zero_second_duration_accessibility">0 seconds</string>
+  <string name="zero_second_pace">0:00</string>
 </resources>
