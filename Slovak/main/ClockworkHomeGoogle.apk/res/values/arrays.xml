@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <array name="progress_spinner_sequence">
+        <item>#fff4b400</item>
+        <item>#ffdb4437</item>
+        <item>#ff4285f4</item>
+        <item>#ff0f9d58</item>
+    </array>
+    <array name="checkin_banner_rotation">
+        <item>@drawable/ic_ob_applications</item>
+        <item>@drawable/ic_ob_watches</item>
+        <item>@drawable/ic_ob_cards</item>
+    </array>
+    <string-array name="checkin_text_rotation">
+        <item>@string/checkin_banner_apps</item>
+        <item>@string/checkin_banner_watches</item>
+        <item>@string/checkin_banner_cards</item>
+    </string-array>
+    <array name="alt_checkin_banner_rotation">
+        <item>@drawable/ic_ob_watches</item>
+        <item>@drawable/ic_ob_cards</item>
+    </array>
+    <string-array name="alt_checkin_text_rotation">
+        <item>@string/checkin_banner_watches</item>
+        <item>@string/checkin_banner_cards</item>
+    </string-array>
+    <array name="checkin_banner_rotation_short">
+        <item>@drawable/ic_ob_applications_short</item>
+        <item>@drawable/ic_ob_watches_short</item>
+        <item>@drawable/ic_ob_cards_short</item>
+    </array>
+    <string-array name="cue_menu_send_text">
+        <item>Send a text to Jim, you around?</item>
+        <item>Send a text to Jim, see you later</item>
+        <item>Send a text to Eve, you around?</item>
+        <item>Send a text to Eve, see you later</item>
+    </string-array>
+    <string-array name="cue_menu_send_email">
+        <item>Email Jim, you free on Friday?</item>
+        <item>Email Eve, you free on Friday?</item>
+    </string-array>
+    <string-array name="cue_menu_play_music">
+        <item>Play music by Flying Lotus</item>
+        <item>Play music by Boards of Canada</item>
+        <item>Play music by Brian Eno</item>
+        <item>Play music by Grizzly Bear</item>
+    </string-array>
+    <string-array name="cue_menu_alarm">
+        <item>Set an alarm for 6 this evening</item>
+        <item>Set an alarm for 3 hours from now</item>
+        <item>Set an alarm for 7am</item>
+    </string-array>
+    <string-array name="cue_menu_send_chat">
+        <item>"Send a %1$s message to Eva, I'm here"</item>
+        <item>"Send a %1$s message to Abe, I'll be there in 5 minutes"</item>
+        <item>Send a %1$s message to Meg, on my way</item>
+        <item>Send a %1$s message to Jim, see you soon</item>
+        <item>Send a %1$s message to Ada, sounds good</item>
+        <item>Send a %1$s message to Lou, stuck in traffic</item>
+        <item>Send a %1$s message to Roy, thanks!</item>
+        <item>"Send a %1$s message to Amy, what's up?"</item>
+    </string-array>
+    <string-array name="cue_menu_start_call">
+        <item>Call Jim</item>
+        <item>Call Eve</item>
+    </string-array>
+    <string-array name="incoming_call_text_quick_replies">
+        <item>"Can't talk right now. What's up?"</item>
+        <item>"I'll call you right back."</item>
+        <item>On my way. Hold on.</item>
+        <item>"In a meeting. I'll call you back in 5."</item>
+    </string-array>
+    <string-array name="conversation_starters">
+        <item>Any news?</item>
+        <item>Are you there?</item>
+        <item>Come over</item>
+        <item>Congratulations!</item>
+        <item>Got a moment?</item>
+        <item>Hi</item>
+        <item>How are you?</item>
+        <item>How did it go?</item>
+        <item>"I'll be there soon"</item>
+        <item>"I'm here"</item>
+        <item>"I'm hungry"</item>
+        <item>"I'm on my way"</item>
+        <item>"I'm outside"</item>
+        <item>Leaving now</item>
+        <item>Love you</item>
+        <item>Miss you</item>
+        <item>Need anything?</item>
+        <item>Ready to go?</item>
+        <item>This is from my watch!</item>
+        <item>What are you up to?</item>
+        <item>"What's up?"</item>
+        <item>Where are we meeting?</item>
+        <item>Where are you?</item>
+    </string-array>
+    <string-array name="frequent_conversation_starters">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Okay</item>
+        <item>I love you</item>
+        <item>"I'm here"</item>
+        <item>"I'm on my way"</item>
+        <item>On my way home</item>
+        <item>Leaving now</item>
+        <item>Where are you?</item>
+        <item>What are you doing?</item>
+        <item>"What's up?"</item>
+        <item>Thank you</item>
+        <item>I miss you</item>
+        <item>LOL</item>
+    </string-array>
+    <string-array name="hats_answers_1">
+        <item>Extremely happy</item>
+        <item>Somewhat happy</item>
+        <item>Neither happy nor unhappy</item>
+        <item>Somewhat unhappy</item>
+        <item>Extremely unhappy</item>
+    </string-array>
+    <string-array name="hats_answers_icons_1">
+        <item>ic_sm_very_satisfied</item>
+        <item>ic_sm_somewhat_satisfied</item>
+        <item>ic_sm_neither_satisfied</item>
+        <item>ic_sm_somewhat_dissatisfied</item>
+        <item>ic_sm_very_dissatisfied</item>
+    </string-array>
+    <string-array name="android_wear_capabilities">
+        <item>wf_watch</item>
+    </string-array>
+</resources>

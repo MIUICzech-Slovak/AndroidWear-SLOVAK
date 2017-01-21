@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_call_title">
+        <item quantity="other">Missed calls</item>
+        <item quantity="one">Missed call</item>
+    </plurals>
+    <plurals name="missed_call_content">
+        <item quantity="other">%1$d missed calls</item>
+        <item quantity="one">%1$d missed call</item>
+    </plurals>
+</resources>
