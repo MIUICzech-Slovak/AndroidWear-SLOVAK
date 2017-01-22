@@ -8,7 +8,6 @@
   <string name="alarm_app">Alarm</string>
   <string name="alarm_default_label">Alarm</string>
   <string name="alarm_dismiss">Dismiss</string>
-  <string name="alarm_missed_text" formatted="false">%s - %s</string>
   <string name="alarm_missed_title">Missed alarm</string>
   <string name="alarm_open_on_phone">Open on phone</string>
   <string name="alarm_remove">Remove</string>

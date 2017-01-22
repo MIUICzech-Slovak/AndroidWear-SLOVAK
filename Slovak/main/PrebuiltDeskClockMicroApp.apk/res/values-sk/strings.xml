@@ -17,6 +17,8 @@
   <string name="alarm_snooze">Odložiť</string>
   <string name="alarms_header">Budíky</string>
   <string name="app_name">Hodiny</string>
+  <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+  <string name="auth_google_play_services_client_google_display_name">Google</string>
   <string name="colon">:</string>
   <string name="common_android_wear_notification_needs_update_text">Aplikácia %1$s vyžaduje aktualizáciu aplikácie Android Wear.</string>
   <string name="common_android_wear_update_text">Aplikácia %1$s bude fungovať až po aktualizácii aplikácie Android Wear.</string>
@@ -51,6 +53,7 @@
   <string name="common_signin_button_text">Prihlásiť sa</string>
   <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
   <string name="day_concat">", "</string>
+  <string name="dismiss_overlay_button_label">Ukončiť</string>
   <string name="edit">Upraviť</string>
   <string name="every_day">každý deň</string>
   <string name="full_screen">Celá obrazovka</string>

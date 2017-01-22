@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">System UI</string>
+  <string name="label_emergency_call">EMERGENCY CALL</string>
+  <string name="perm_description_broadcast_keyguard_changed">This app can be notified when the screen is locked and unlocked.</string>
+  <string name="perm_description_control_keyguard">Táto aplikácia môže kontrolovať uzamknutie displeja.</string>
+  <string name="perm_label_broadcast_keyguard_changed">Dostávať aktualizácie uzamknutia</string>
+  <string name="perm_label_control_keyguard">Kontrolovať uzamknutie</string>
+</resources>

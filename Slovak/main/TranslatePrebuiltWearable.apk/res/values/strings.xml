@@ -2,15 +2,6 @@
 <resources>
   <string name="analyzing">Analyzing…</string>
   <string name="app_name">Translate</string>
-  <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
-  <string name="auth_google_play_services_client_google_display_name">Google</string>
-  <string name="auth_state_dirty_timestamp">auth_state_dirty_timestamp</string>
-  <string name="background_goggle_key">background_goggle</string>
-  <string name="background_goggle_mobile_connection_key">background_goggle_mobile_connection</string>
-  <string name="background_goggle_roaming_key">background_goggle_roaming</string>
-  <string name="barcode_thumbnail_path">/goggles/embedded/images/barcode.png</string>
-  <string name="camera_image_sequence_dir_key">camera_image_sequence_dir</string>
-  <string name="camera_static_image_key">camera_static_image</string>
   <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
   <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
   <string name="common_android_wear_update_title">Update Android Wear</string>
@@ -244,15 +235,12 @@
   <string name="msg_tts_volume_off">Volume is off</string>
   <string name="msg_use_wifi_only">Download using Wi-Fi only</string>
   <string name="msg_why_download_offline_pkg">With offline packages you can translate without a network connection.</string>
-  <string name="network_indicator_in_continuous_key">network_indicator_in_continuous</string>
   <string name="no_speech_recognized">No speech recognized.</string>
   <string name="permission_settings">Permissions settings</string>
   <string name="previous_version_key">previous_version_key</string>
   <string name="prod_cookie_url">http://www.google.com/</string>
   <string name="retry_action">Retry</string>
-  <string name="save_to_sd_card_key">save_to_sd_card_key</string>
   <string name="speak">Speak</string>
-  <string name="suggestion_provider_authority">com.google.android.apps.unveil_master.history.SuggestionProvider</string>
   <string name="text_input_default_user_agent">Goggles Text Input</string>
   <string name="text_input_installation_id_key">text_input_installation_id</string>
   <string name="text_input_previous_version_key">text_input_previous_version</string>
@@ -357,14 +345,8 @@
   <string name="twslang_zh_CN">Chinese (Simplified)</string>
   <string name="twslang_zh_TW">Chinese (Traditional)</string>
   <string name="twslang_zu">Zulu</string>
-  <string name="unveil_content_provider_authority">com.google.android.apps.unveil_master</string>
-  <string name="user_agent_key">user_agent_key</string>
-  <string name="user_wants_history_key">user_wants_histroy_key</string>
   <string name="voice_error">Speech input is having difficulties. Try again.</string>
   <string name="voice_network_error">No connection for speech input</string>
   <string name="voice_no_match">"Didn't catch what you said. Try again."</string>
   <string name="voice_recoverable_error">Can you say that again?</string>
-  <string name="web_user_agent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1</string>
-  <string name="wifi_and_mobile_networks_option_value">wifi_and_mobile_networks</string>
-  <string name="wifi_only_option_value">wifi_only</string>
 </resources>
