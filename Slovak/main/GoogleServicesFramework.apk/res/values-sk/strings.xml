@@ -157,6 +157,8 @@
 výraz „%1$s“"</string>
   <string name="sendTalkMsg_perm_desc">Používané pre správy z cloudu do zariadenia a na upozornenia synchronizácie. Služba Google Talk používa túto službu na posielanie a prijímanie správ a synchronizáciu aktuálneho stavu. Škodlivé aplikácie môžu túto službu použiť na prenos nadmerného množstva údajov.</string>
   <string name="sendTalkMsg_perm_label">Odosielanie a prijímanie správ a prijímanie upozornení o synchronizácii zo serverov Google.</string>
+  <string name="send_heartbeat">Send heartbeat to server</string>
+  <string name="service_not_running">Nebeží</string>
   <string name="setup_wizard_back_button_label">Späť</string>
   <string name="setup_wizard_next_button_label">Ďalej</string>
   <string name="setup_wizard_services_activity_title">Služby Google</string>

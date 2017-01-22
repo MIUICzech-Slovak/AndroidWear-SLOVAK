@@ -22,13 +22,12 @@
   <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
   <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
   <string name="abc_toolbar_collapse_description">Zbaliť</string>
-  <string name="accept_challenge_fail">K výzve sa nepodarilo pripojiť</string>
-  <string name="accept_invitation">Prijať</string>
-  <string name="accept_invite">Pridať sa</string>
-  <string name="accessbility_suggestion_dropdown_closed">K dispozícii nie sú žiadne návrhy</string>
-  <string name="accessbility_suggestion_dropdown_opened">Ponuka Návrhy kontaktov je otvorená</string>
-  <string name="action_label">Enter</string>
-  <string name="active_mode_activity_title_header">Aká aktivita?</string>
+  <string name="account_chooser_label">Vyberte účet pre Fit</string>
+  <string name="acquiring_gps">Získavanie GPS</string>
+  <string name="acquiring_gps_phone">Získavanie GPS z telefónu</string>
+  <string name="activate_fit_title">Aktivujte Google Fit na vašom telefóne</string>
+  <string name="active_calories_label">Aktívne Kalórie</string>
+  <string name="active_kilojoules_label">aktívne Kilojouly</string>
   <string name="active_mode_announce_session_paused">Relácia bola pozastavená</string>
   <string name="active_mode_announce_session_started">Relácia sa začala</string>
   <string name="active_mode_announcement_10_minutes_label">Každých 10 min</string>
@@ -37,7 +36,6 @@
   <string name="active_mode_announcement_1_minute_label">Každú minútu</string>
   <string name="active_mode_announcement_30_seconds_label">Každých 30 sekúnd</string>
   <string name="active_mode_announcement_5_minutes_label">Každých 5 min</string>
-  <string name="active_mode_announcement_accessibility">Povoliť alebo zakázať upozornenia</string>
   <string name="active_mode_announcement_average_pace">priemerné tempo: %s</string>
   <string name="active_mode_announcement_average_speed">priemerná rýchlosť: %s</string>
   <string name="active_mode_announcement_completed">Séria bola dokončená</string>
@@ -47,46 +45,15 @@
   <string name="active_mode_announcement_half_mile_label">Každej pol míle</string>
   <string name="active_mode_announcement_header">Štatistiky relácie</string>
   <string name="active_mode_announcement_none_label">Žiadne oznámenia</string>
-  <string name="active_mode_average_speed_accessibility">priemerná rýchlosť: %s</string>
-  <string name="active_mode_cal">{count,plural, =1{1 cal}few{# cal}many{# cal}other{# cal}}</string>
-  <string name="active_mode_calories">{count,plural, =1{1 kalória}few{# kalórie}many{# kalórie}other{# kalórií}}</string>
-  <string name="active_mode_distance_accessibility">vzdialenosť: %s</string>
-  <string name="active_mode_duration_accessibility">trvanie: %s</string>
-  <string name="active_mode_error_starting">Pri spúšťaní režimu Aktivita sa vyskytla chyba</string>
-  <string name="active_mode_kilojoules">{count,plural, =1{1 kilojoule}few{# kilojouly}many{# kilojoulu}other{# kilojoulov}}</string>
-  <string name="active_mode_kj">{count,plural, =1{1 kJ}few{# kJ}many{# kJ}other{# kJ}}</string>
-  <string name="active_mode_km">{dist,plural, =1{1 km}few{# km}many{# km}other{# km}}</string>
-  <string name="active_mode_location_permission_required">Správne fungovanie režimu Aktivita vyžaduje povolenie prístupu k polohe.</string>
-  <string name="active_mode_lock_button_accessibility">Uzamknúť aktívny režim</string>
-  <string name="active_mode_lock_pause">pozastaviť</string>
-  <string name="active_mode_lock_unlock">odomknúť</string>
-  <string name="active_mode_miles">{dist,plural, =1{1 mi}few{# mi}many{# mi}other{# mi}}</string>
-  <string name="active_mode_mode_unlock_dialog_title">Sledujte vzdialenosť a spálené kalórie</string>
-  <string name="active_mode_notification_active_time">Čas aktivity</string>
-  <string name="active_mode_notification_button_pause">Pozastaviť</string>
-  <string name="active_mode_notification_button_resume">Obnoviť</string>
-  <string name="active_mode_notification_paused">Pozastavená</string>
-  <string name="active_mode_ok">OK</string>
-  <string name="active_mode_pace_accessibility">tempo: %s</string>
-  <string name="active_mode_pause_button_accessibility">Pozastaviť reláciu</string>
-  <string name="active_mode_play_button_accessibility">Obnoviť reláciu</string>
-  <string name="active_mode_saving_progress_title">Aktivita sa ukladá...</string>
-  <string name="active_mode_shortcut_label">Začať aktivitu</string>
-  <string name="active_mode_speed_accessibility">rýchlosť: %s</string>
-  <string name="active_mode_start_recording">SPUSTIŤ</string>
-  <string name="active_mode_start_recording_accessibility">Spustiť zaznamenávanie aktivity</string>
-  <string name="active_mode_steps_accessibility">počet krokov: %s</string>
-  <string name="active_mode_stop_button_accessibility">Ukončiť a uložiť reláciu</string>
-  <string name="active_mode_stop_low_battery">Aktívny režim sa vypol, pretože telefón má slabú batériu. Môžu chýbať dáta.</string>
-  <string name="active_mode_stop_shutdown">Váš telefón sa počas tejto aktivity vypol. Môžu chýbať dáta</string>
-  <string name="active_mode_ulr_off">Ponechať vypnuté</string>
-  <string name="active_mode_ulr_on">Zapnúť</string>
-  <string name="active_mode_ulr_required_message">Ak chcete zaznamenávať svoje aktivity, zapnite Históriu a Nahlasovanie polohy.</string>
-  <string name="active_mode_ulr_title">Aktívny režim je vypnutý</string>
-  <string name="active_mode_unexpected_stop_title">Aktívny režim bol prerušený</string>
-  <string name="active_time_title">Čas aktivity</string>
-  <string name="activity_desc_hint">Popis aktivity</string>
-  <string name="activity_detection_off">Detekcia aktivity je vypnutá. Ak chcete sledovať svoju aktivitu, toto nastavenie zapnite.</string>
+  <string name="active_mode_cheers_alright">Vporiadku!</string>
+  <string name="active_mode_cheers_awesome">Skvelé!</string>
+  <string name="active_mode_cheers_hustle">Good hustle!</string>
+  <string name="active_mode_cheers_job">Good job!</string>
+  <string name="active_mode_cheers_nice">Pekná práva!</string>
+  <string name="active_mode_low_battery">Slabá batéria pre aktívny režim</string>
+  <string name="active_session_notification_body">Potiahnite pre pokračovanie v cvičení</string>
+  <string name="active_session_notification_title">Silový tréning prebieha</string>
+  <string name="active_time_label">Aktívny čas</string>
   <string name="activity_duration_today_0">0 min aktivity %s</string>
   <string name="activity_duration_today_0_accessibility">0 minút aktivity %s</string>
   <string name="activity_duration_today_1">&lt; 1 min aktivity %s</string>
@@ -97,6 +64,8 @@
   <string name="activity_duration_today_h_m_accessibility">{hours,plural, =1{Hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{Minúta}few{# minúty}many{# minúty}other{# minút}} {activity}</string>
   <string name="activity_duration_today_m">{count,plural, =1{1 min aktivity {activity}}few{# min aktivity {activity}}many{# min aktivity {activity}}other{# min aktivity {activity}}}</string>
   <string name="activity_duration_today_m_accessibility">{count,plural, =1{Minúta aktivity {activity}}few{# minúty aktivity {activity}}many{# minúty aktivity {activity}}other{# minút aktivity {activity}}}</string>
+  <string name="activity_paused_label">Zastavená aktivita</string>
+  <string name="activity_selection_title">Vyberte aktivitu</string>
   <string name="activity_type_aerobics">Aerobik</string>
   <string name="activity_type_aerobics_verb">Aerobik</string>
   <string name="activity_type_australian_football">Austrálsky futbal</string>
@@ -119,7 +88,6 @@
   <string name="activity_type_boxing_verb">Box</string>
   <string name="activity_type_calisthenics">Kalistenika</string>
   <string name="activity_type_calisthenics_verb">Kalistenika</string>
-  <string name="activity_type_change_error">Nepodarilo sa konvertovať na aktivitu %1$s</string>
   <string name="activity_type_circuit_training">Kruhový tréning</string>
   <string name="activity_type_circuit_training_verb">Kruhový tréning</string>
   <string name="activity_type_cricket">Kriket</string>
@@ -196,7 +164,6 @@
   <string name="activity_type_kite_skiing_verb">Snowkiting</string>
   <string name="activity_type_kitesurfing">Kitesurfing</string>
   <string name="activity_type_kitesurfing_verb">Kitesurfing</string>
-  <string name="activity_type_label">Typ aktivity</string>
   <string name="activity_type_martial_arts">Bojové umenia</string>
   <string name="activity_type_martial_arts_verb">Bojové umenia</string>
   <string name="activity_type_meditating">Meditácia</string>
@@ -287,7 +254,6 @@
   <string name="activity_type_team_sport_verb">Tímový šport</string>
   <string name="activity_type_tennis">Tenis</string>
   <string name="activity_type_tennis_verb">Tenis</string>
-  <string name="activity_type_title">Výber cieľa</string>
   <string name="activity_type_treadmill">Bežecký pás</string>
   <string name="activity_type_treadmill_running">Beh na páse</string>
   <string name="activity_type_treadmill_running_verb">Beh na bežeckom páse</string>
@@ -314,24 +280,14 @@
   <string name="activity_type_yoga_verb">Jóga</string>
   <string name="activity_type_zumba">Zumba</string>
   <string name="activity_type_zumba_verb">Zumba</string>
-  <string name="add_a_goal">Pridať cieľ</string>
-  <string name="add_activity_title">Pridanie aktivity</string>
-  <string name="add_comment_hint">Pridať komentár</string>
-  <string name="add_favorite">Pridať obľúbené</string>
-  <string name="add_goal">Pridať cieľ</string>
-  <string name="add_group">Pridať výzvu</string>
-  <string name="add_group_title">Začať novú výzvu</string>
-  <string name="add_height_operation_error">Pri pridávaní vašej výšky sa vyskytla chyba. Skúste to znova neskôr.</string>
-  <string name="add_height_operation_success">Výška bola uložená</string>
-  <string name="add_invitee_hint_text">Kontakt alebo e-mailová adresa</string>
-  <string name="add_weight_operation_error">Pri pridávaní vašej hmotnosti sa vyskytla chyba. Skúste to znova neskôr.</string>
-  <string name="add_weight_operation_success">Hmotnosť uložená</string>
+  <string name="add_exercise">Nové cvičenie</string>
+  <string name="add_set">Pridať manuálne</string>
   <string name="announcement_velocity_pace_km">1 km za %1$s</string>
   <string name="announcement_velocity_pace_miles">1 míľa za %1$s</string>
   <string name="announcement_velocity_speed_km">{value,plural, =1{1 km za hod.}few{# km za hod.}many{# km za hod.}other{# km za hod.}}</string>
   <string name="announcement_velocity_speed_miles">{value,plural, =1{ 1 míľa za hod.}few{# míle za hod.}many{# míle za hod.}other{# míľ za hod.}}</string>
   <string name="app_name">Fit</string>
-  <string name="app_widget_label">Google Fit</string>
+  <string name="average_pace_label">Priemerné tempo</string>
   <string name="average_velocity_pace_km">%1$s/km (priemer)</string>
   <string name="average_velocity_pace_miles">%1$s/mi (priemer)</string>
   <string name="average_velocity_speed_km">{value,plural, =1{1 km/h}few{# km/h}many{# km/h}other{# km/h}} (priemer)</string>
@@ -416,50 +372,12 @@
   <string name="custom_count_frequency_description">Každý %1$s</string>
   <string name="custom_value_content_description_a11y">Nastaviť vlastnú hodnotu</string>
   <string name="custom_value_hint_a11y">Hodnota cieľa</string>
-  <string name="daily_summary_title">Aktualizácia týkajúca sa výzvy %1$s</string>
-  <string name="dataviz_add_chart">Pridať graf</string>
-  <string name="dataviz_aggregate_icon">Súhrn</string>
-  <string name="dataviz_chart_activity_has_no_data">Tu sa bude zobrazovať história vašej aktivity</string>
-  <string name="dataviz_chart_calorie_has_no_data">Tu nájdete históriu kalórií</string>
-  <string name="dataviz_chart_distance_has_no_data">Tu nájdete históriu vzdialeností</string>
-  <string name="dataviz_chart_heart_has_no_data">Tu sa bude zobrazovať história vašej srdcovej frekvencie</string>
-  <string name="dataviz_chart_name_heart">Pulz</string>
-  <string name="dataviz_chart_name_weight">Hmotnosť</string>
-  <string name="dataviz_chart_scrollable_a11y">Podrobnosti si zobrazíte posúvaním doľava alebo doprava</string>
-  <string name="dataviz_chart_step_chart_has_no_data">Tu sa bude zobrazovať história počtu krokov</string>
-  <string name="dataviz_chart_type_calories">Kalórie</string>
-  <string name="dataviz_chart_type_distance">Vzdialenosť</string>
-  <string name="dataviz_chart_type_duration">Čas aktivity</string>
-  <string name="dataviz_chart_type_heart_rate">Pulz</string>
-  <string name="dataviz_chart_type_sleep">Spánok</string>
-  <string name="dataviz_chart_type_steps">Kroky</string>
-  <string name="dataviz_chart_type_weight">Hmotnosť</string>
-  <string name="dataviz_chart_weight_has_no_data">Tu sa bude zobrazovať história vašej hmotnosti</string>
-  <string name="dataviz_close">Zavrieť graf</string>
-  <string name="dataviz_fullscreen_off">Vypnúť režim celej obrazovky</string>
-  <string name="dataviz_fullscreen_on">Zapnúť režim celej obrazovky</string>
-  <string name="dataviz_no_data_activities">Žiadna aktivita</string>
-  <string name="dataviz_no_data_calorie">Žiadne kalórie</string>
-  <string name="dataviz_no_data_distance">Žiadna vzdialenosť</string>
-  <string name="dataviz_no_data_heart_rate">Žiadne informácie</string>
-  <string name="dataviz_no_data_kilojoules">Žiadne kilojouly</string>
-  <string name="dataviz_no_data_steps">Žiadne kroky</string>
-  <string name="dataviz_no_data_weight">Žiadne informácie</string>
-  <string name="dataviz_nothing_selected">Žiadny výber</string>
-  <string name="dataviz_showing_graph_a11y">Zobrazenie grafu</string>
-  <string name="dataviz_window_day">Deň</string>
-  <string name="dataviz_window_hour">Hodina</string>
-  <string name="dataviz_window_month">Mesiac</string>
-  <string name="dataviz_window_week">Týždeň</string>
-  <string name="dataviz_window_year">Rok</string>
   <string name="day">Deň</string>
   <string name="day_duration">{count,plural, =1{1 deň}few{# dni}many{# dňa}other{# dní}}</string>
   <string name="day_hour_duration">%1$s d %2$s h</string>
   <string name="day_hour_duration_accessibility">{days,plural, =1{1 deň}few{# dni}many{# dňa}other{# dní}} {hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}}</string>
   <string name="day_picker_description">Tabuľka dní v mesiaci</string>
   <string name="delete_activity_dialog_delete_error">Pri skrývaní aktivity sa vyskytla chyba. Skúste to znova.</string>
-  <string name="delete_activity_dialog_delete_text">Táto aktivita bude odstránená z vašej časovej osi a nezapočíta sa do vašej dennej štatistiky:</string>
-  <string name="delete_activity_dialog_title">Vykonávali ste v danom čase nejakú aktivitu?</string>
   <string name="delete_goal">Odstrániť cieľ</string>
   <string name="delete_goal_retry">Skúsiť znova</string>
   <string name="delete_invitee_a11y">Odstrániť pozvanú osobu</string>
@@ -477,10 +395,6 @@
   <string name="discard_team_warning">Ak sa vrátite, váš súťažný tím bude vyradený</string>
   <string name="disengage_user_button_keep_on">PONECHAŤ ZAPNUTÉ</string>
   <string name="disengage_user_button_turn_off">VYPNÚŤ</string>
-  <string name="disengage_user_content">Aplikáciu Fit teraz nepoužívate? Keď vypnete sledovanie, ušetríte batériu, ale nebudú k dispozícii presné údaje o kondícii.</string>
-  <string name="disengage_user_title">Vypnúť sledovanie?</string>
-  <string name="dismissed_card_snackbar">Karta {title} bola zavretá</string>
-  <string name="distance_km_value_zero">– km</string>
   <string name="distance_miles_value_zero">– míľ</string>
   <string name="distance_title">Vzdialenosť</string>
   <string name="done">Hotovo</string>
@@ -495,8 +409,6 @@
   <string name="each_day">každý deň</string>
   <string name="each_month">každý mesiac</string>
   <string name="each_week">každý týždeň</string>
-  <string name="edit">Upraviť</string>
-  <string name="edit_activity_title">Úprava aktivity</string>
   <string name="edit_goal">Upraviť cieľ</string>
   <string name="edit_goal_title">Úprava cieľa</string>
   <string name="edit_group">Upraviť výzvu</string>
@@ -537,22 +449,12 @@
   <string name="goal_removed">Cieľ bol odstránený</string>
   <string name="goal_removed_failure">Cieľ sa nepodarilo odstrániť</string>
   <string name="goal_value_too_large">Nesmie byť vyššie než %1$s %2$s</string>
-  <string name="goal_value_too_small">Nesmie byť nižšie než 1 %1$s</string>
-  <string name="goal_with_metric">%1$s %2$s: %3$s</string>
-  <string name="goal_with_metric_spec_day">%1$s %2$s za deň</string>
-  <string name="goal_with_metric_spec_month">%1$s %2$s za mesiac</string>
-  <string name="goal_with_metric_spec_week">%1$s %2$s za týždeň</string>
   <string name="goals_activity_active">Trvanie aktivity</string>
   <string name="goals_activity_calories">Spáliť</string>
-  <string name="goals_activity_climb">Lezenie</string>
   <string name="goals_activity_distance_generic">Prejsť vzdialenosť</string>
   <string name="goals_activity_take">Vykonať</string>
   <string name="goals_activity_walk">Prejsť pešo</string>
   <string name="goals_activity_workout">Odcvičiť</string>
-  <string name="goals_card_goal_percent">%1$s %%</string>
-  <string name="goals_card_goal_percent_accessibility">{count,plural, =1{Dosiahli ste 1 percento z cieľa}few{Dosiahli ste # percentá z cieľa}many{Dosiahli ste # percenta z cieľa}other{Dosiahli ste # percent z cieľa}}</string>
-  <string name="goals_no_activity_description">Choďte si zabehať, na prechádzku alebo na bicykel a sledujte svoje štatistiky v reálnom čase. Stačí klepnúť na možnosť Začať aktivitu.</string>
-  <string name="goals_no_activity_title">Sledujte svoju aktivitu v reálnom čase</string>
   <string name="goalv2_type_activity">Aktivita</string>
   <string name="goalv2_type_distance">Vzdialenosť</string>
   <string name="goalv2_type_duration">Čas aktivity</string>
@@ -613,70 +515,37 @@
   <string name="km_unit">kilometre</string>
   <string name="km_unit_short">km</string>
   <string name="label_abdominal_crunch">Cviky na brušné svalstvo</string>
-  <string name="label_arnold_press">Arnoldov tlak</string>
   <string name="label_back_extension">Cviky na chrbtové svalstvo</string>
   <string name="label_bench_press">Tlaky s veľkou činkou v ľahu</string>
   <string name="label_bent_over_row">Príťahy v predklone</string>
   <string name="label_bicep_curl">Bicepsový zdvih</string>
-  <string name="label_burpee">Burpee</string>
   <string name="label_chest_fly">Rozpažovanie v ľahu</string>
   <string name="label_chin_up">Zdvihy k brade</string>
-  <string name="label_clean">Premiestnenie</string>
-  <string name="label_clean_jerk">Nadhod</string>
   <string name="label_deadlift">Mŕtvy ťah</string>
-  <string name="label_decline_bench_press">Tlaky na šikmej lavičke hlavou dole</string>
-  <string name="label_dip">Kľuky na bradlách</string>
   <string name="label_dumbbell_tricep_extension">Tricepsový zdvih s malými činkami</string>
   <string name="label_exercise_none">Neznáme cvičenie</string>
   <string name="label_exercise_select">(Typ cvičenia)</string>
-  <string name="label_front_raise">Predpažovanie</string>
-  <string name="label_good_morning">Predklony s veľkou činkou v stoji</string>
-  <string name="label_hang_clean">Nadhod z visu</string>
-  <string name="label_hang_power_clean">Premiestnenie z visu do polodrepu</string>
   <string name="label_high_knees_running_in_place">Beh na mieste s kolenami vysoko</string>
-  <string name="label_incline_bench_press">Tlaky na šikmej lavičke hlavou hore</string>
   <string name="label_jumping_jacks">Skákanie panáka</string>
   <string name="label_kg">kg</string>
   <string name="label_lb">lb</string>
-  <string name="label_leg_curl">Zakopávanie</string>
-  <string name="label_leg_extension">Predkopávanie</string>
-  <string name="label_leg_press">Leg press</string>
-  <string name="label_leg_raise">Zdvíhanie nôh vo vise</string>
   <string name="label_lunge">Výpady</string>
   <string name="label_overhead_press">Tlaky nad hlavou</string>
-  <string name="label_plank">Brušný mostík</string>
-  <string name="label_power_clean">Premiestnenie do polodrepu</string>
   <string name="label_pull_down">Príťahy hornej kladky</string>
   <string name="label_pull_up">Zdvihy</string>
   <string name="label_push_up">Kľuky</string>
   <string name="label_rdl_deadlift">Rumunský mŕtvy ťah</string>
-  <string name="label_rear_lateral_raise">Upažovanie v predklone</string>
-  <string name="label_rear_lunge">Zadné výpady</string>
-  <string name="label_row">Veslovanie</string>
   <string name="label_russian_twist">Ruský twist</string>
   <string name="label_shoulder_fly">Rozpažovanie v stoji</string>
   <string name="label_shoulder_shrug">Pokrčenie ramien</string>
-  <string name="label_side_lunge">Bočné výpady</string>
-  <string name="label_side_plank">Bočný mostík</string>
-  <string name="label_single_leg_deadlift">Mŕtvy ťah na jednej nohe</string>
-  <string name="label_single_leg_hip_bridge">Zdvíhanie panvy v ľahu na jednej nohe</string>
   <string name="label_sit_up">Sed-ľah</string>
   <string name="label_squat">Drepy</string>
   <string name="label_standing_calf_raise">Výpony na lýtka v stoji</string>
   <string name="label_step_up">Výstupy</string>
-  <string name="label_straight_leg_deadlift">Mŕtvy ťah s rovnými nohami</string>
-  <string name="label_swing">Swing</string>
   <string name="label_tricep_extension">Tricepsový zdvih</string>
   <string name="label_unknown_exercise">(Neznáme)</string>
   <string name="label_upright_row">Veslovanie v stoji</string>
   <string name="last_sync_time">pred {time}</string>
-  <string name="learn_more">Začíname</string>
-  <string name="learn_more_a11y">Learn more</string>
-  <string name="leave_challenge_fail">Výzvu sa nepodarilo opustiť</string>
-  <string name="leave_group">Opustiť výzvu</string>
-  <string name="leave_group_dialog_confirm">Opustiť</string>
-  <string name="leave_group_dialog_message">Tejto výzvy sa už nebudete zúčastňovať.</string>
-  <string name="leave_group_dialog_title">Opustiť výzvu?</string>
   <string name="less_than_minute_duration">&lt; 1 min</string>
   <string name="less_than_minute_duration_accessibility">Menej ako 1 minúta</string>
   <string name="libraries_material_featurehighlight_dismiss">Zrušiť</string>
@@ -686,26 +555,6 @@
   <string name="location_from_x_to_y">%1$s do %2$s</string>
   <string name="location_history_off_desc">Google Fit vyžaduje na sledovanie aktivít, vzdialenosti, rýchlosti a ciest históriu polohy.</string>
   <string name="location_off_desc">Určovanie polohy je momentálne zakázané. Služba Fit polohu vyžaduje na sledovanie ciest, rýchlosti, tempa, krokov a aktivity.</string>
-  <string name="location_permission_off_desc">Povolenie na prístup k polohe nebolo udelené. Aplikácia Fit ho vyžaduje na sledovanie aktivít, vzdialenosti, rýchlosti a ciest.</string>
-  <string name="log_weight">Zaznamenať hmotnosť</string>
-  <string name="longest_bike_message">Najdlhšia jazda na bicykli (čas)</string>
-  <string name="longest_bike_title">Teraz ste bicyklovali najdlhšie!</string>
-  <string name="longest_run_message">Najdlhší beh (čas)</string>
-  <string name="longest_run_title">Teraz ste bežali najdlhšie!</string>
-  <string name="map_activity">Mapa</string>
-  <string name="map_pathless_dialog">Ak chcete nabudúce zobraziť podrobnejšiu mapu, najprv začnite aktivitu. Otvorte aplikáciu Fit a klepnite na tlačidlo plus &gt; Začať aktivitu.</string>
-  <string name="map_permission_error">Na zobrazenie máp sa vyžaduje povolenie na použitie úložiska.</string>
-  <string name="max_goal_count_warning">Nie je možné pridať viac cieľov než {number}</string>
-  <string name="menu_item_block_card">Ignorovať takéto karty</string>
-  <string name="menu_item_edit_session">Upraviť aktivitu</string>
-  <string name="menu_item_help">Pomocník</string>
-  <string name="menu_item_open_source_licenses">Licencie open source</string>
-  <string name="menu_item_privacy_policy">Ochrana súkromia</string>
-  <string name="menu_item_settings">Nastavenia</string>
-  <string name="menu_mark_as_drive">Označiť ako jazdu autom</string>
-  <string name="menu_mark_as_invalid">Označiť ako neaktívne</string>
-  <string name="menu_mark_as_run">Označiť ako beh</string>
-  <string name="menu_mark_as_walk">Označiť ako chôdzu</string>
   <string name="miles">{dist,plural, =1{1 míľa}few{# míle}many{# míle}other{# míľ}}</string>
   <string name="miles_accessibility">{dist,plural, =1{1 míľa}few{# míle}many{# míle}other{# míľ}}</string>
   <string name="miles_unit">mi</string>
@@ -714,21 +563,11 @@
   <string name="minute_duration_accessibility">{count,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}}</string>
   <string name="minute_duration_unit_accessibility">{count,plural, =1{minúta}few{minúty}many{minúty}other{minút}}</string>
   <string name="minute_duration_unit_short">min</string>
-  <string name="minute_picker_description">Kruhový posúvač minút</string>
   <string name="minute_second_duration">%1$s min %2$s s</string>
   <string name="minute_second_duration_accessibility">{minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}} {seconds,plural, =1{1 sekunda}few{# sekundy}many{# sekundy}other{# sekúnd}}</string>
   <string name="minute_second_pace">%1$s:%2$s</string>
   <string name="missing_group_name">Zadajte názov tímu</string>
   <string name="mode_calories">Kalórie</string>
-  <string name="mode_calories_accessibility">Režim kalórií</string>
-  <string name="mode_distance">Vzdialenosť</string>
-  <string name="mode_distance_accessibility">Režim vzdialenosti</string>
-  <string name="mode_duration">Čas aktivity</string>
-  <string name="mode_duration_accessibility">Režim času aktivity</string>
-  <string name="mode_kilojoules">Kilojouly</string>
-  <string name="mode_kilojoules_accessibility">Režim kilojoulov</string>
-  <string name="mode_steps">Kroky</string>
-  <string name="mode_steps_accessibility">Režim počtu krokov</string>
   <string name="month">Mesiac</string>
   <string name="more_button_content_description_a11y">Ďalšie</string>
   <string name="more_string">+%1$d</string>
@@ -739,28 +578,6 @@
   <string name="n_new_comments_and_updates">{commentcount,plural, =1{1 komentár}few{# komentáre}many{# komentára}other{# komentárov}}, {updatecount,plural, =1{1 aktualizácia}few{# aktualizácie}many{# aktualizácie}other{# aktualizácií}}</string>
   <string name="n_new_updates">{count,plural, =1{1 aktualizácia}few{# aktualizácie}many{# aktualizácie}other{# aktualizácií}}</string>
   <string name="name_your_challenge">Pomenovanie vývzvy</string>
-  <string name="nav_groups">Výzvy</string>
-  <string name="nav_myfit">Domov</string>
-  <string name="nav_settings">Nastavenia</string>
-  <string name="nav_timeline">Časová os</string>
-  <string name="next_month">Budúci mesiac</string>
-  <string name="next_week">Budúci týždeň</string>
-  <string name="no_activity_subtitle">Vo výzve %1$s nedošlo k žiadnej aktivite. Skúste to znova %2$s.</string>
-  <string name="no_activity_title">Žiadna aktivita</string>
-  <string name="no_goals_card_description">Keď si nastavíte kondičný cieľ, jednoduchšie si udržíte motiváciu.</string>
-  <string name="no_goals_card_title">Máte na mysli nejaký cieľ?</string>
-  <string name="non_english_recurrence_title">Frekvencia</string>
-  <string name="none_favorite">Žiadne</string>
-  <string name="not_a_winner">{GENDER,select, male{{PERSON} zvíťazil v tomto kole}female{{PERSON} zvíťazila v tomto kole}other{Používateľ {PERSON} zvíťazil v tomto kole}}</string>
-  <string name="not_a_winner_subtitle">Zúčastnite sa výzvy %1$s znova %2$s</string>
-  <string name="notification_dismissed">Zrušené</string>
-  <string name="notification_error_saving_goal">Pri ukladaní cieľa sa vyskytla chyba. Skúste to znova.</string>
-  <string name="nutrition_card_calories">Dnes skonzumované kalórie: {count}</string>
-  <string name="nutrition_card_carbs">Sacharidy ({count} g)</string>
-  <string name="nutrition_card_fat">Tuky ({count} g)</string>
-  <string name="nutrition_card_header">Výživa</string>
-  <string name="nutrition_card_kilojoules">Dnes skonzumované kilojouly: {count}</string>
-  <string name="nutrition_card_protein">Bielkoviny ({count} g)</string>
   <string name="ok">OK</string>
   <string name="onboarding_bike_carry_position_content">V záujme presného sledovania jázd na bicykli majte svoj telefón pri bicyklovaní vo vrecku.</string>
   <string name="onboarding_bike_carry_position_title">Sledovanie jázd na bicykli</string>
@@ -785,24 +602,8 @@
   <string name="others_header">Ďalšie aktivity</string>
   <string name="out_of_bounds_message">Do poľa %1$s zadajte hodnotu medzi %2$s a %3$s</string>
   <string name="overflow_menu">Ďalšie možnosti</string>
-  <string name="pending_results_subtitle">Čaká sa na výsledky členov vášho tímu v rámci výzvy %1$s. Skúste to znova neskôr.</string>
-  <string name="pending_results_title">Dokončuje sa</string>
   <string name="place_autocomplete_clear_button">Vymazať vyhľadávanie</string>
   <string name="place_autocomplete_search_hint">Vyhľadávajte</string>
-  <string name="plus_n_people">+ %1$s</string>
-  <string name="population_of_city">{count,plural, =1{1 používateľ aplikácie Fit vo vašom meste}few{# používatelia aplikácie Fit vo vašom meste}many{# používateľa aplikácie Fit vo vašom meste}other{# používateľov aplikácie Fit vo vašom meste}}</string>
-  <string name="pr_distance_increase_km">+ {dist,plural, =1{1 km}few{# km}many{# km}other{# km}}</string>
-  <string name="pr_distance_increase_miles">+ {dist,plural, =1{1 míľa}few{# míle}many{# míle}other{# míľ}}</string>
-  <string name="pr_duration_increase_h">+ {count,plural, =1{1 hod.}few{# hod.}many{# hod.}other{# hod.}}</string>
-  <string name="pr_duration_increase_h_m">+ %1$s hod. %2$s min.</string>
-  <string name="pr_duration_increase_h_m_accesibility">+ {hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}}</string>
-  <string name="pr_duration_increase_less_than_minute">+ menej ako 1 min.</string>
-  <string name="pr_duration_increase_less_than_minute_accessibility">+ menej ako 1 min.</string>
-  <string name="pr_duration_increase_m">+ {count,plural, =1{1 min.}few{# min.}many{# min.}other{# min.}}</string>
-  <string name="pr_introducing_records">Rekordy z vašich nedávnych aktivít</string>
-  <string name="pr_introduction_message">Od dnešného dňa vás bude aplikácia Fit informovať, keď dosiahnete nový osobný rekord.</string>
-  <string name="pr_introduction_title">Predstavujeme osobné bežecké a cyklistické rekordy!</string>
-  <string name="preferences_active_mode_announcements_title">Zvukové oznámenia</string>
   <string name="preferences_distance_unit_imperial_label">Míle</string>
   <string name="preferences_distance_unit_metric_label">Kilometre</string>
   <string name="preferences_distance_unit_title">Vzdialenosť</string>
@@ -812,9 +613,6 @@
   <string name="preferences_height_unit_imperial_label">Stopy a palce</string>
   <string name="preferences_height_unit_metric_label">Centimetre</string>
   <string name="preferences_height_unit_title">Výška</string>
-  <string name="preferences_license_summary">Podrobnosti o licencii pre softvér s otvoreným zdrojom</string>
-  <string name="preferences_license_title">Licencie open source</string>
-  <string name="preferences_navigate_back">Prejsť hore</string>
   <string name="preferences_start_of_week_monday_label">Pondelok</string>
   <string name="preferences_start_of_week_sunday_label">Nedeľa</string>
   <string name="preferences_start_of_week_title">Počiatočný deň týždňa</string>
@@ -840,71 +638,17 @@
   <string name="rank_increased">{count,plural, =1{Včera ste predbehli 1 osobu!}few{Včera ste predbehli # osoby!}many{Včera ste predbehli # osoby!}other{Včera ste predbehli # ľudí!}}</string>
   <string name="rank_same">{count,plural, =1{Ste stále na 1. mieste, {PERSON} je {XXSTEPS} za vami.}=2{Ste stále na 2. mieste, {PERSON} je {XXSTEPS} pred vami.}=3{Ste stále na 3. mieste, {PERSON} je {XXSTEPS} pred vami.}few{Ste stále na #. mieste, {PERSON} je {XXSTEPS} pred vami.}many{Ste stále na #. mieste, {PERSON} je {XXSTEPS} pred vami.}other{Ste stále na #. mieste, {PERSON} je {XXSTEPS} pred vami.}}</string>
   <string name="recent_walks">Nedávne chôdze</string>
-  <string name="recent_workouts">Nedávne cvičenia</string>
-  <string name="reject_challenge_fail">Výzvu sa nepodarilo odmietnuť</string>
-  <string name="reload_weight">Skúsiť znova</string>
-  <string name="remove">Odstrániť</string>
-  <string name="remove_teammate">Odstrániť člena tímu?</string>
-  <string name="remove_teammate_message">{GENDER,select, male{{PERSON} bude odstránený z vášho tímu}female{{PERSON} bude odstránená z vášho tímu}other{Používateľ {PERSON} bude odstránený z vášho tímu}}</string>
-  <string name="remove_weight_operation_error">Pri odstraňovaní vašej hmotnosti sa vyskytla chyba. Skúste to znova neskôr.</string>
-  <string name="remove_weight_operation_success">Hmotnosť bola odstránená</string>
-  <string name="retry">Skúsiť znova</string>
-  <string name="run_challenge_description">Bežte každý týždeň čo najďalej</string>
-  <string name="run_challenge_question">Kto zabehne týždenne najväčšiu vzdialenosť?</string>
-  <string name="save">Uložiť</string>
-  <string name="save_button">Uložiť</string>
-  <string name="save_goal">Uložiť</string>
-  <string name="saving_changes">Ukladajú sa zmeny</string>
-  <string name="search_menu_title">Vyhľadávanie</string>
   <string name="second_duration">{count,plural, =1{1 s}few{# s}many{# s}other{# s}}</string>
   <string name="second_duration_accessibility">{count,plural, =1{1 sekunda}few{# sekundy}many{# sekundy}other{# sekúnd}}</string>
   <string name="second_pace">0:%1$s</string>
   <string name="second_pace_sub_10">0:0%1$s</string>
   <string name="second_winner">Skoro ste vyhrali!</string>
-  <string name="second_winner_subtitle">Stačilo by %1$s a vyhrali by ste výzvu %2$s</string>
-  <string name="security_warning_message1">"Istá aplikácia tretej strany sa vydáva za aplikáciu Fit. Spustenie aplikácie Fit je zakázané, aby sme ochránili vaše údaje o kondícii. Odinštalujte aplikáciu uvedenú nižšie. Potom odinštalujte a znova nainštalujte aplikáciu Fit.
-Názov aplikácie:
-%1$s
-Balík:
-%2$s"</string>
-  <string name="security_warning_message2">Odinštaluje a znova nainštalujte aplikáciu Fit.</string>
-  <string name="security_warning_ok">OK, DOBRE</string>
-  <string name="security_warning_title">Bezpečnostné upozornenie</string>
-  <string name="select_day">Vybrať mesiac a deň</string>
-  <string name="select_hours">Vybrať hodiny</string>
-  <string name="select_minutes">Vybrať minúty</string>
-  <string name="select_year">Vybrať rok</string>
-  <string name="send_comment_accessibility">Odoslať komentár</string>
-  <string name="send_feedback">Odoslať spätnú väzbu</string>
   <string name="session_afternoon">%1$s – popoludní</string>
-  <string name="session_detail_dataviz_toggle">Zobraziť podrobnosti grafov</string>
-  <string name="session_details_application">cez %1$s</string>
   <string name="session_early_morning">%1$s – ráno</string>
-  <string name="session_info_active_duration">Čas aktivity</string>
-  <string name="session_info_average_heart_rate">Priemerná srdcová frekvencia</string>
-  <string name="session_info_average_pace">Priemerné tempo</string>
-  <string name="session_info_average_speed">Priemerná rýchlosť</string>
-  <string name="session_info_calories">Kalórie</string>
-  <string name="session_info_distance">Vzdialenosť</string>
-  <string name="session_info_distance_unknown">neznáme</string>
-  <string name="session_info_floors_up">Vystúpané poschodia</string>
-  <string name="session_info_floors_value">{floors,plural, =1{1 poschodie}few{# poschodia}many{# poschodia}other{# poschodí}}</string>
-  <string name="session_info_heart_rate_range">Rozsah srdcovej frekvencie</string>
-  <string name="session_info_heart_rate_range_short">Rozsah</string>
-  <string name="session_info_kilojoules">Kilojouly</string>
-  <string name="session_info_steps">Kroky</string>
-  <string name="session_info_total_duration">Celkový čas</string>
-  <string name="session_info_value_bpm">^1 úderov za minútu</string>
-  <string name="session_info_value_km">{dist,plural, =1{# km}few{# km}many{# km}other{# km}}</string>
-  <string name="session_info_value_miles">{dist,plural, =1{# míľa}few{# míle}many{# míle}other{# míľ}}</string>
-  <string name="session_info_value_range_bpm">^1 – ^2 úderov za minútu</string>
   <string name="session_late_night">%1$s – neskoro v noci</string>
   <string name="session_lunch">%1$s – na obed</string>
   <string name="session_morning">%1$s – predpoludním</string>
   <string name="session_night">%1$s – večer</string>
-  <string name="session_not_found">Aktivitu sa nepodarilo nájsť. Skúste to znova neskôr.</string>
-  <string name="set_challenge">Výber tímovej výzvy</string>
-  <string name="set_goal">Nastavenie cieľa</string>
   <string name="set_metadata_onerepmax_kg_time">(%1$s kg 1RM, %2$01d:%3$02d)</string>
   <string name="set_metadata_onerepmax_lb_time">(%1$s lb 1RM, %2$01d:%3$02d)</string>
   <string name="set_metadata_time">(%1$01d:%2$02d)</string>
@@ -915,61 +659,8 @@ Balík:
   <string name="settings_afl_notifications_description">Notifications about activities that have been automatically detected</string>
   <string name="settings_basic_info_card_title">Základné informácie</string>
   <string name="settings_basic_info_user_add_weight">Zadajte svoju hmotnosť</string>
-  <string name="settings_basic_info_user_gender">Pohlavie</string>
-  <string name="settings_basic_info_user_height">Výška</string>
-  <string name="settings_basic_info_user_start_of_week">Začiatok týždňa</string>
-  <string name="settings_basic_info_user_weight_history">História hmotnosti</string>
-  <string name="settings_blocked_cards_card_title">Blokované karty</string>
-  <string name="settings_blocked_cards_unblock">ODBLOKOVAŤ</string>
-  <string name="settings_consent_accept_button">SÚHLASÍM</string>
-  <string name="settings_consent_activity_data">Údaje o aktivite</string>
-  <string name="settings_consent_activity_info_text">Údaje o aktivitách zahŕňajú typy aktivít (beh, chôdza, bicyklovanie atď.), kroky, kalórie a údaje z akcelerometra. Google Fit bude mať prístup k údajom o aktivitách uložených aplikáciami, ktoré sú prepojené s aplikáciou Google Fit. Údaje o aktivitách môžete spravovať v aplikácii Google Fit a budú prístupné aplikáciám, ktoré majú povolenie. Tieto údaje môžete kedykoľvek odstrániť v nastaveniach aplikácie Google Fit.</string>
-  <string name="settings_consent_cancel_button">ZRUŠIŤ</string>
-  <string name="settings_consent_location_data">Povolenie na prístup k polohe</string>
-  <string name="settings_consent_location_legal_text">Povolenie na prístup k polohe bude udelené aplikácii Google Fit na tomto zariadení. Aplikácia Fit ho vyžaduje na sledovanie aktivít, vzdialenosti, rýchlosti a ciest.</string>
-  <string name="settings_consent_summary">Google Fit žiada o zapnutie nasledujúcich funkcií a prístup k nim:</string>
-  <string name="settings_consent_title">Buďte fit pomocou svojho telefónu</string>
-  <string name="settings_consent_ulr_data">História polohy a Nahlasovanie polohy</string>
-  <string name="settings_consent_ulr_legal_text">"História polohy bude zapnutá v tomto zariadení a všetkých službách Google, ktoré používajú váš účet Google. K informáciám o polohe budú mať prístup aplikácie, ktorým ste udelili povolenie a ktoré ste pripojili k aplikácii Google Fit.
-
-Informácie o polohe môžete spravovať v dvoch krokoch. Ak chcete históriu polohy odstrániť zo svojho účtu Google alebo ak chcete spravovať nastavenia polohy pre svoj účet, môžete to urobiť pomocou nastavení polohy v aplikácii Nastavenia Google. Ak chcete informácie o polohe odstrániť aj z aplikácie Google Fit, musíte použiť možnosť Odstrániť históriu v nastaveniach aplikácie Google Fit."</string>
-  <string name="settings_fitness_api_allow_activity_detection">Zisťovanie aktivity</string>
-  <string name="settings_fitness_api_allow_activity_detection_description">Povolenie aplikácii Google Fit zhromažďovať a ukladať dáta.</string>
-  <string name="settings_fitness_api_body_sensor_description">Povoliť aplikácii Google Fit čítať, zhromažďovať a ukladať údaje z telových senzorov vrátane tepu.</string>
-  <string name="settings_fitness_api_body_sensor_title">Telový senzor</string>
-  <string name="settings_fitness_api_card_title">Údaje aplikácie Google Fit</string>
-  <string name="settings_fitness_api_connected_apps">Pripojené aplikácie</string>
-  <string name="settings_fitness_api_connected_apps_description">{count,plural, =0{Žiadne pripojené aplikácie}=1{1 pripojená aplikácia}few{# pripojené aplikácie}many{# connected apps}other{# pripojených aplikácií}}</string>
-  <string name="settings_fitness_api_connected_bles">Pripojené senzory BLE</string>
-  <string name="settings_fitness_api_connected_bles_description">{count,plural, =0{Žiadne pripojené zariadenia}=1{1 pripojené zariadenie}few{# pripojené zariadenia}many{# connected devices}other{# pripojených zariadení}}</string>
-  <string name="settings_fitness_api_connected_bles_description_zero">Žiadne</string>
-  <string name="settings_fitness_api_delete_history">Odstrániť históriu</string>
-  <string name="settings_fitness_api_delete_history_description">Odstrániť všetky údaje zo služby Google Fit</string>
-  <string name="settings_fitness_api_high_accuracy_desc">Povoľte službe Google Fit zapnutie režimu vysokej presnosti počas tréningu, čím zlepšíte sledovanie vzdialenosti a polohy. Môže sa tým znížiť výdrž batérie.</string>
-  <string name="settings_fitness_api_high_accuracy_title">Režim vysokej presnosti</string>
-  <string name="settings_fitness_settings_error">Aktivácia nast. fitnes zlyhala</string>
-  <string name="settings_goal_notifications">Upozornenia týkajúce sa cieľov {popis}</string>
-  <string name="settings_goal_notifications_description">Aktuálne informácie o vašom postupe k cieľom</string>
-  <string name="settings_group_comment_notifications_description">Komentáre uverejnené pre vaše výzvy</string>
-  <string name="settings_group_invite_notifications_description">Pozvánky na účasť na nových výzvach</string>
-  <string name="settings_group_update_notifications_description">Aktualizácie o vašom postupe vo výzvach</string>
-  <string name="settings_groups_comment_notifications">Komentáre týkajúce sa výziev {popis}</string>
-  <string name="settings_groups_invite_notifications">Pozvánky na výzvy {popis}</string>
-  <string name="settings_groups_update_notifications">Aktualizácie výziev {popis}</string>
-  <string name="settings_more_info">Viac informácií</string>
-  <string name="settings_notifications_card_title">Upozornenia</string>
-  <string name="settings_profile_account_picker_title">Účet</string>
-  <string name="settings_profile_card_title">Váš profil</string>
-  <string name="settings_ulr_disabled_error_message">Zisťovanie aktivity bolo pozastavené, pretože je vypnutá História polohy.</string>
-  <string name="settings_unblock_card_snackbar">Karta {názov} bola odblokovaná</string>
-  <string name="settings_unblock_card_snackbar_undo">SPÄŤ</string>
-  <string name="share">Zdieľať</string>
-  <string name="show_previous_comments">Zobraziť predchádzajúce komentáre</string>
-  <string name="single_challenge_win">Vyhrali ste výzvu %1$s. Klepnutím zobrazíte výsledky.</string>
-  <string name="single_challenge_win_title">Víťazstvo!</string>
   <string name="single_km_unit">kilometer</string>
   <string name="single_miles_unit">míľa</string>
-  <string name="single_times_description">&gt; -krát</string>
   <string name="single_unit_minutes_long">minúta</string>
   <string name="sleep_card_header">Spánok</string>
   <string name="sleep_change_since_date">%1$s od %2$s</string>
@@ -978,27 +669,10 @@ Informácie o polohe môžete spravovať v dvoch krokoch. Ak chcete históriu 
   <string name="sleep_duration">Spánok: %1$s</string>
   <string name="sleep_state_awake">Bdelý stav</string>
   <string name="sleep_state_combined">Total</string>
-  <string name="sleep_state_deep">Hlboký spánok</string>
-  <string name="sleep_state_deep_percent">Deep (%1$s%%)</string>
-  <string name="sleep_state_generic_percent">Other (%1$s%%)</string>
-  <string name="sleep_state_light">Ľahký spánok</string>
-  <string name="sleep_state_light_percent">Light (%1$s%%)</string>
-  <string name="sleep_state_rem">Spánok REM</string>
-  <string name="sleep_state_rem_percent">Rem (%1$s%%)</string>
-  <string name="sleep_timestamp_night">Noc %1$s, %2$s</string>
-  <string name="sleep_trend_down_average">O %1$s menej ako týždenný priemer</string>
-  <string name="sleep_trend_down_date">Čas spánku sa od %2$s skrátil o %1$s</string>
-  <string name="sleep_trend_up_average">O %1$s dlhšie ako týždenný priemer</string>
-  <string name="sleep_trend_up_date">Čas spánku sa od %2$s predĺžil o %1$s</string>
-  <string name="stair_climbing">{count,plural, =1{1 poschodie}few{# poschodia}many{# poschodia}other{# poschodí}}</string>
-  <string name="start_activity">Začať aktivitu</string>
-  <string name="start_activity_button">Začať aktivitu</string>
-  <string name="starting_background_sync">Spúšťa sa opätovné načítanie…</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_invited">Pozvaný/-á</string>
   <string name="step_challenge_description">Prejdite každý týždeň čo najďalej</string>
   <string name="step_challenge_question">Kto prejde týždenne najviac krokov?</string>
-  <string name="steps_title">Kroky</string>
   <string name="steps_unit">{count,plural, =1{krok}few{kroky}many{kroka}other{krokov}}</string>
   <string name="steps_value">{count,plural, =1{1 krok}few{# kroky}many{# steps}other{# krokov}}</string>
   <string name="steps_value_zero">– krokov</string>
@@ -1011,32 +685,6 @@ Informácie o polohe môžete spravovať v dvoch krokoch. Ak chcete históriu 
   <string name="sync_progress_a11y">synchronizujú sa dáta</string>
   <string name="sync_progress_go">Štart</string>
   <string name="sync_progress_ready">Pripraviť sa...</string>
-  <string name="sync_progress_set">Pozor...</string>
-  <string name="sync_title">Google Fit</string>
-  <string name="tap_to_add_goal">Klepnutím pridajte cieľ</string>
-  <string name="tap_to_launch">"Klepnutím spustíte
-aplikáciu Google Fit"</string>
-  <string name="team_created">Výzvy boli odoslané</string>
-  <string name="team_invite_title">Dostali ste pozvánku na</string>
-  <string name="team_title_bike_day">Denná výzva v jazde na bicykli</string>
-  <string name="team_title_bike_month">Mesačná výzva v jazde na bicykli</string>
-  <string name="team_title_bike_week">Týždenná výzva v jazde na bicykli</string>
-  <string name="team_title_run_day">Denná výzva v behu</string>
-  <string name="team_title_run_month">Mesačná výzva v behu</string>
-  <string name="team_title_run_week">Týždenná výzva v behu</string>
-  <string name="team_title_steps_day">Denná výzva v počte krokov</string>
-  <string name="team_title_steps_month">Mesačná výzva v počte krokov</string>
-  <string name="team_title_steps_week">Týždenná výzva v počte krokov</string>
-  <string name="teammates_title">Priatelia</string>
-  <string name="third_party_card_button">Preskúmať prepojené aplikácie</string>
-  <string name="third_party_card_desc">Teraz môžete prepojiť Google Fit s ďalšími populárnymi aplikáciami na silový tréning, chudnutie a ďalšie aktivity.</string>
-  <string name="third_party_card_title">Získajte tipy na cvičenie, sledovanie výživy a ďalšie aktivity.</string>
-  <string name="this_month">Tento mesiac</string>
-  <string name="this_week">Tento týždeň</string>
-  <string name="tie_subtitle_non_winner">{FIRST_PERSON} remizoval(a) s používateľom {SECOND_PERSON}{count,plural, =0{}=1{ a # ďalšou osobou}few{ a # ďalšími osobami}many{ a # ďalšími osobami}other{ a # ďalšími osobami}}</string>
-  <string name="tie_subtitle_winner">Remizovali ste s používateľom {PERSON}{count,plural, =0{}=1{ a # ďalšou osobou}few{ a # ďalšími osobami}many{ a # ďalšími osobami}other{ a # ďalšími osobami}}</string>
-  <string name="tie_title">Remíza.</string>
-  <string name="time_left">Zostávajúci čas: {time}</string>
   <string name="timeline_event_title_activity_0">0 min aktivity %s</string>
   <string name="timeline_event_title_activity_0_accessibility">0 minút aktivity %s</string>
   <string name="timeline_event_title_activity_1">&lt; 1 min aktivity %s</string>
@@ -1058,94 +706,13 @@ aplikáciu Google Fit"</string>
   <string name="timeline_event_title_activity_m_accessibility">{count,plural, =1{Minúta aktivity {activity}}few{# minúty aktivity {activity}}many{# minúty aktivity {activity}}other{# minút aktivity {activity}}}</string>
   <string name="timeline_event_title_activity_steps">{count,plural, =1{Krok aktivity {activity}}few{# kroky aktivity {activity}}many{# krok aktivity {activity}}other{# krokov aktivity {activity}}}</string>
   <string name="timeline_event_title_activity_steps_accessibility">Žiadne kroky aktivity %s</string>
-  <string name="timeline_event_title_empty">Vaše aktivity sa zobrazia tu</string>
-  <string name="timeline_graph_button_accessibility">Graf aktivity</string>
-  <string name="timeline_hide_details_accessibility">Skryť podrobnosti</string>
-  <string name="timeline_hide_insignificant_sessions_calories">{count,plural, =1{Skryť krátke aktivity (1 kalória)}few{Skryť krátke aktivity (# kalórie)}many{Skryť krátke aktivity (# kalórie)}other{Skryť krátke aktivity (# kalórií)}}</string>
-  <string name="timeline_hide_insignificant_sessions_distance_km">{dist,plural, =1{Skryť krátke aktivity (1 km)}few{Skryť krátke aktivity (# km)}many{Skryť krátke aktivity (# km)}other{Skryť krátke aktivity (# km)}}</string>
-  <string name="timeline_hide_insignificant_sessions_distance_km_accessibility">{dist,plural, =1{Skryť krátke aktivity (1 kilometer)}few{Skryť krátke aktivity (# kilometre)}many{Skryť krátke aktivity (# kilometra)}other{Skryť krátke aktivity (# kilometrov)}}</string>
-  <string name="timeline_hide_insignificant_sessions_distance_miles">{dist,plural, =1{Skryť krátke aktivity (1 míľa)}few{Skryť krátke aktivity (# míle)}many{Skryť krátke aktivity (# míle)}other{Skryť krátke aktivity (# míľ)}}</string>
-  <string name="timeline_hide_insignificant_sessions_duration_0">Skryť krátke aktivity (0 min)</string>
-  <string name="timeline_hide_insignificant_sessions_duration_0_accessibility">Skryť krátke aktivity (0 minút)</string>
-  <string name="timeline_hide_insignificant_sessions_duration_1">Skryť krátke aktivity (menej ako 1 min)</string>
-  <string name="timeline_hide_insignificant_sessions_duration_1_accessibility">Skryť krátke aktivity (menej ako 1 minúta)</string>
-  <string name="timeline_hide_insignificant_sessions_duration_h">{count,plural, =1{Skryť krátke aktivity (1 h)}few{Skryť krátke aktivity (# h)}many{Skryť krátke aktivity (# h)}other{Skryť krátke aktivity (# h)}}</string>
-  <string name="timeline_hide_insignificant_sessions_duration_h_accessibility">{count,plural, =1{Skryť krátke aktivity (1 hodina)}few{Skryť krátke aktivity (# hodiny)}many{Skryť krátke aktivity (# hodiny)}other{Skryť krátke aktivity (# hodín)}}</string>
-  <string name="timeline_hide_insignificant_sessions_duration_h_m">Skryť krátke aktivity (%1$s h %2$s min)</string>
-  <string name="timeline_hide_insignificant_sessions_duration_h_m_accessibility">Skryť krátke aktivity ({hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}})</string>
-  <string name="timeline_hide_insignificant_sessions_duration_m">{count,plural, =1{Skryť krátke aktivity (1 min)}few{Skryť krátke aktivity (# min)}many{Skryť krátke aktivity (# min)}other{Skryť krátke aktivity (# min)}}</string>
-  <string name="timeline_hide_insignificant_sessions_duration_m_accessibility">{count,plural, =1{Skryť krátke aktivity (1 minúta)}few{Skryť krátke aktivity (# minúty)}many{Skryť krátke aktivity (# minúty)}other{Skryť krátke aktivity (# minút)}}</string>
-  <string name="timeline_hide_insignificant_sessions_kj">{count,plural, =1{Skryť krátke aktivity (1 kJ)}few{Skryť krátke aktivity (# kJ)}many{Skryť krátke aktivity (# kJ)}other{Skryť krátke aktivity (# kJ)}}</string>
-  <string name="timeline_hide_insignificant_sessions_kj_accessibility">{count,plural, =1{Skryť krátke aktivity (1 kilojoule)}few{Skryť krátke aktivity (# kilojouly)}many{Skryť krátke aktivity (# kilojoulu)}other{Skryť krátke aktivity (# kilojoulov)}}</string>
-  <string name="timeline_hide_insignificant_sessions_steps">{count,plural, =1{Skryť krátke aktivity (1 krok)}few{Skryť krátke aktivity (# kroky)}many{Skryť krátke aktivity (# kroku)}other{Skryť krátke aktivity (# krokov)}}</string>
-  <string name="timeline_menu_item_add_activity">Pridať aktivitu</string>
-  <string name="timeline_menu_item_add_weight">Zapísať si hmotnosť</string>
-  <string name="timeline_misc_calories">{count,plural, =1{1 kalória spálená bez aktivity}few{# kalórie spálené bez aktivity}many{# kalórií spálených bez aktivity}other{# kalórií spálených bez aktivity}}</string>
-  <string name="timeline_misc_duration_0">0 min rôznej aktivity</string>
-  <string name="timeline_misc_duration_0_accessibility">0 minút rôznej aktivity</string>
-  <string name="timeline_misc_duration_1">Menej ako 1 min rôznej aktivity</string>
-  <string name="timeline_misc_duration_1_accessibility">Menej ako 1 minúta rôznej aktivity</string>
-  <string name="timeline_misc_duration_h">{count,plural, =1{1 h rôznej aktivity}few{# h rôznej aktivity}many{# h rôznej aktivity}other{# h rôznej aktivity}}</string>
-  <string name="timeline_misc_duration_h_accessibility">{count,plural, =1{1 hodina rôznej aktivity}few{# hodiny rôznej aktivity}many{# hodiny rôznej aktivity}other{# hodín rôznej aktivity}}</string>
-  <string name="timeline_misc_duration_h_m">%1$s h %2$s min rôznej aktivity</string>
-  <string name="timeline_misc_duration_h_m_accessibility">{hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}} rôznej aktivity</string>
-  <string name="timeline_misc_duration_m">{count,plural, =1{1 min rôznej aktivity}few{# min rôznej aktivity}many{# min rôznej aktivity}other{# min rôznej aktivity}}</string>
-  <string name="timeline_misc_duration_m_accessibility">{count,plural, =1{1 minúta rôznej aktivity}few{# minúty rôznej aktivity}many{# minúty rôznej aktivity}other{# minút rôznej aktivity}}</string>
-  <string name="timeline_misc_kj">{count,plural, =1{1 kJ spálený bez aktivity}few{# kJ spálené bez aktivity}many{# kJ spálených bez aktivity}other{# kJ spálených bez aktivity}}</string>
-  <string name="timeline_misc_kj_accessibility">{count,plural, =1{1 kilojoul spálený bez aktivity}few{# kilojouly spálené bez aktivity}many{# kilojoulov spálených bez aktivity}other{# kilojoulov spálených bez aktivity}}</string>
-  <string name="timeline_misc_km">{dist,plural, =1{1 km (rôzne)}few{# km (rôzne)}many{# km (rôzne)}other{# km (rôzne)}}</string>
-  <string name="timeline_misc_miles">{dist,plural, =1{1 míľa (rôzne)}few{# míle (rôzne)}many{# míle (rôzne)}other{# míľ (rôzne)}}</string>
-  <string name="timeline_misc_steps">{count,plural, =1{1 rôzny krok}few{# rôzne kroky}many{# misc steps}other{# rôznych krokov}}</string>
-  <string name="timeline_misc_steps_accessibility">{count,plural, =1{1 rôzny krok}few{# rôzne kroky}many{# rôzneho kroku}other{# rôznych krokov}}</string>
-  <string name="timeline_notification_dismissed">Zrušené</string>
-  <string name="timeline_notification_undo">Späť</string>
-  <string name="timeline_show_details_accessibility">Zobraziť podrobnosti</string>
-  <string name="timeline_show_insignificant_sessions_calories">{count,plural, =1{Zobraziť krátke aktivity (1 kalória)}few{Zobraziť krátke aktivity (# kalórie)}many{Zobraziť krátke aktivity (# kalórie)}other{Zobraziť krátke aktivity (# kalórií)}}</string>
-  <string name="timeline_show_insignificant_sessions_distance_km">{dist,plural, =1{Zobraziť krátke aktivity (1 km)}few{Zobraziť krátke aktivity (# km)}many{Zobraziť krátke aktivity (# km)}other{Zobraziť krátke aktivity (# km)}}</string>
-  <string name="timeline_show_insignificant_sessions_distance_km_accessibility">{dist,plural, =1{Zobraziť krátke aktivity (1 kilometer)}few{Zobraziť krátke aktivity (# kilometre)}many{Zobraziť krátke aktivity (# kilometra)}other{Zobraziť krátke aktivity (# kilometrov)}}</string>
-  <string name="timeline_show_insignificant_sessions_distance_miles">{dist,plural, =1{Zobraziť krátke aktivity (1 míľa)}few{Zobraziť krátke aktivity (# míle)}many{Zobraziť krátke aktivity (# míle)}other{Zobraziť krátke aktivity (# míľ)}}</string>
-  <string name="timeline_show_insignificant_sessions_duration_0">Zobraziť krátke aktivity (0 min)</string>
-  <string name="timeline_show_insignificant_sessions_duration_0_accessibility">Zobraziť krátke aktivity (0 minút)</string>
-  <string name="timeline_show_insignificant_sessions_duration_1">Zobraziť krátke aktivity (menej ako 1 min)</string>
-  <string name="timeline_show_insignificant_sessions_duration_1_accessibility">Zobraziť krátke aktivity (menej ako 1 minúta)</string>
-  <string name="timeline_show_insignificant_sessions_duration_h">{count,plural, =1{Zobraziť krátke aktivity (1 h)}few{Zobraziť krátke aktivity (# h)}many{Zobraziť krátke aktivity (# h)}other{Zobraziť krátke aktivity (# h)}}</string>
-  <string name="timeline_show_insignificant_sessions_duration_h_accessibility">{count,plural, =1{Zobraziť krátke aktivity (1 hodina)}few{Zobraziť krátke aktivity (# hodiny)}many{Zobraziť krátke aktivity (# hodiny)}other{Zobraziť krátke aktivity (# hodín)}}</string>
-  <string name="timeline_show_insignificant_sessions_duration_h_m">Zobraziť krátke aktivity (%1$s h %2$s min)</string>
-  <string name="timeline_show_insignificant_sessions_duration_h_m_accessibility">Zobraziť krátke aktivity ({hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}})</string>
-  <string name="timeline_show_insignificant_sessions_duration_m">{count,plural, =1{Zobraziť krátke aktivity (1 min)}few{Zobraziť krátke aktivity (# min)}many{Zobraziť krátke aktivity (# min)}other{Zobraziť krátke aktivity (# min)}}</string>
-  <string name="timeline_show_insignificant_sessions_duration_m_accessibility">{count,plural, =1{Zobraziť krátke aktivity (1 minúta)}few{Zobraziť krátke aktivity (# minúty)}many{Zobraziť krátke aktivity (# minúty)}other{Zobraziť krátke aktivity (# minút)}}</string>
-  <string name="timeline_show_insignificant_sessions_kj">{count,plural, =1{Zobraziť krátke aktivity (1 kJ)}few{Zobraziť krátke aktivity (# kJ)}many{Zobraziť krátke aktivity (# kJ)}other{Zobraziť krátke aktivity (# kJ)}}</string>
-  <string name="timeline_show_insignificant_sessions_kj_accessibility">{count,plural, =1{Zobraziť krátke aktivity (1 kilojoule)}few{Zobraziť krátke aktivity (# kilojouly)}many{Zobraziť krátke aktivity (# kilojoulu)}other{Zobraziť krátke aktivity (# kilojoulov)}}</string>
-  <string name="timeline_show_insignificant_sessions_steps">{count,plural, =1{Zobraziť krátke aktivity (1 krok)}few{Zobraziť krátke aktivity (# kroky)}many{Zobraziť krátke aktivity (# kroku)}other{Zobraziť krátke aktivity (# krokov)}}</string>
-  <string name="timeline_show_map">Zobraziť mapu</string>
-  <string name="timeline_time_period_day">Zobrazenie dňa</string>
-  <string name="timeline_time_period_month">Zobrazenie mesiaca</string>
-  <string name="timeline_time_period_week">Zobrazenie týždňa</string>
-  <string name="times_description">-krát</string>
   <string name="times_unit">{count,plural, =1{-krát}few{-krát}many{-krát}other{-krát}}</string>
   <string name="times_value">{count,plural, =1{1-krát}few{#-krát}many{#-krát}other{#-krát}}</string>
   <string name="today">Dnes</string>
-  <string name="tomorrow">Zajtra</string>
   <string name="tomorrow_at_time">Zajtra o %1$s</string>
   <string name="tooltip_goal_label">%1$s z cieľa</string>
   <string name="tooltip_label_elevation">Nadmorská výška:</string>
   <string name="tooltip_label_heart_rate">Pulz:</string>
-  <string name="tooltip_label_no_data">Žiadne údaje</string>
-  <string name="tooltip_label_pace">Tempo:</string>
-  <string name="tooltip_label_speed">Rýchlosť:</string>
-  <string name="total_calories_dialog_hide_forever">Nabudúce nezobrazovať</string>
-  <string name="total_calories_dialog_message">Vaše telo spaľuje pri vykonávaní základných telesných funkcií kalórie dokonca aj vtedy, keď nie ste aktívny/-a. Tento počet zahŕňa kalórie spálené počas aktivít aj tie, ktoré ste spálili počas odpočinku.</string>
-  <string name="total_calories_dialog_title">Celkové kalórie</string>
-  <string name="total_duration_today_0">Celkove 0 min</string>
-  <string name="total_duration_today_0_accessibility">Celkove 0 minút</string>
-  <string name="total_duration_today_1">Celkove &lt; 1 min</string>
-  <string name="total_duration_today_1_accessibility">Celkove &lt; 1 minúta</string>
-  <string name="total_duration_today_h">{count,plural, =1{Celkove 1 h}few{Celkove # h}many{Celkove # h}other{Celkove # h}}</string>
-  <string name="total_duration_today_h_accessibility">{count,plural, =1{Celkove 1 hodina}few{Celkove # hodiny}many{Celkove # hodiny}other{Celkove # hodín}}</string>
-  <string name="total_duration_today_h_m">Celkove %1$s h %2$s min</string>
-  <string name="total_duration_today_h_m_accessibility">{hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}} (celkove)</string>
-  <string name="total_duration_today_m">{count,plural, =1{Celkove 1 min}few{Celkove # min}many{Celkove # min}other{Celkove # min}}</string>
-  <string name="total_duration_today_m_accessibility">{count,plural, =1{Celkove 1 minúta}few{Celkove # minúty}many{Celkove # minúty}other{Celkove # minút}}</string>
   <string name="trend_delta_kg">{count,plural, =1{1 kg}few{# kg}many{# kg}other{# kg}} od {date}</string>
   <string name="trend_delta_kg_yesterday">{count,plural, =1{1 kg}few{# kg}many{# kg}other{# kg}} od včera</string>
   <string name="trend_delta_lb">{count,plural, =1{1 lb}few{# lb}many{# lb}other{# lb}} od {date}</string>
@@ -1175,25 +742,17 @@ aplikáciu Google Fit"</string>
   <string name="trend_up_st_yesterday">Zvýšenie hmotnosti o {count,plural, =1{1 st}few{# st}many{# st}other{# st}} od včera</string>
   <string name="turn_detection_on">Zapnúť detekciu</string>
   <string name="ulr_error_dialog_title">Chyba v mieste Google</string>
-  <string name="undo">Späť</string>
   <string name="unit_bpm_short">pulz</string>
   <string name="unit_calorie_long_label">{count,plural, =1{1 kalória}few{# kalórie}many{# kalórie}other{# kalórií}}</string>
-  <string name="unit_calorie_short_label">{count,plural, =1{1 cal}few{# cal}many{# cal}other{# cal}}</string>
   <string name="unit_calories_long">kalórie</string>
   <string name="unit_calories_long_singular">kalória</string>
   <string name="unit_calories_short">cal</string>
-  <string name="unit_calories_tiny">cal</string>
   <string name="unit_centimetres_long">centimetre</string>
   <string name="unit_centimetres_short">cm</string>
   <string name="unit_feet_long">st.</string>
   <string name="unit_feet_long_label">{count,plural, =1{1 stopa}few{# stopy}many{# stopy}other{# stôp}}</string>
   <string name="unit_feet_short">m</string>
   <string name="unit_feet_short_label">{count,plural, =1{1 ft}few{# ft}many{# ft}other{# ft}}</string>
-  <string name="unit_floors_format_long">{count,plural, =1{poschodie}few{poschodia}many{poschodia}other{poschodí}}</string>
-  <string name="unit_floors_format_short">{count,plural, =1{poschodie}few{poschodia}many{poschodia}other{poschodí}}</string>
-  <string name="unit_floors_format_tiny">{count,plural, =1{posch.}few{posch.}many{posch.}other{posch.}}</string>
-  <string name="unit_floors_long">poschodia</string>
-  <string name="unit_heart_rate_label">{count,plural, =1{1 úder za minútu}few{# údery za minútu}many{# úderu za minútu}other{# úderov za minútu}}</string>
   <string name="unit_hours_long">h</string>
   <string name="unit_hours_short">hod.</string>
   <string name="unit_inches_long">palce</string>
@@ -1202,8 +761,6 @@ aplikáciu Google Fit"</string>
   <string name="unit_kilograms_long_label">{count,plural, =1{1 kilogram}few{# kilogramy}many{# kilogramu}other{# kilogramov}}</string>
   <string name="unit_kilograms_short">kg</string>
   <string name="unit_kilograms_short_label">{count,plural, =1{1 kg}few{# kg}many{# kg}other{# kg}}</string>
-  <string name="unit_kilojoule_long_label">{count,plural, =1{1 kilojoule}few{# kilojouly}many{# kilojoulu}other{# kilojoulov}}</string>
-  <string name="unit_kilojoule_short_label">{count,plural, =1{1 kJ}few{# kJ}many{# kJ}other{# kJ}}</string>
   <string name="unit_kilojoules_long">kilojouly</string>
   <string name="unit_kilojoules_long_singular">kilojoule</string>
   <string name="unit_kilojoules_short">kJ</string>
@@ -1211,11 +768,9 @@ aplikáciu Google Fit"</string>
   <string name="unit_kilometer_long_label">{dist,plural, =1{1 kilometer}few{# kilometre}many{# kilometra}other{# kilometrov}}</string>
   <string name="unit_kilometer_short_label">{dist,plural, =1{1 km}few{# km}many{# km}other{# km}}</string>
   <string name="unit_kilometers_long">km</string>
-  <string name="unit_kilometers_short">km</string>
   <string name="unit_meters_long_label">{count,plural, =1{1 meter}few{# metre}many{# metra}other{# metrov}}</string>
   <string name="unit_meters_short_label">{count,plural, =1{1 m}few{# m}many{# m}other{# m}}</string>
   <string name="unit_mile_long_label">{dist,plural, =1{1 míľa}few{# míle}many{# míle}other{# míľ}}</string>
-  <string name="unit_mile_short_label">{dist,plural, =1{1 míľa}few{# míle}many{# míle}other{# míľ}}</string>
   <string name="unit_miles_long">míle</string>
   <string name="unit_miles_short">mi</string>
   <string name="unit_minutes_long">min</string>
@@ -1231,9 +786,6 @@ aplikáciu Google Fit"</string>
   <string name="unit_steps_format_short">{count,plural, =1{krok}few{kroky}many{kroka}other{krokov}}</string>
   <string name="unit_steps_format_tiny">{count,plural, =1{krok}few{kroky}many{kroka}other{krokov}}</string>
   <string name="unit_steps_label">{count,plural, =1{1 krok}few{# kroky}many{# kroka}other{# krokov}}</string>
-  <string name="unit_steps_long">krokov</string>
-  <string name="unit_steps_short">krokov</string>
-  <string name="unit_steps_singular_short">krok</string>
   <string name="unit_stone_long">kamene</string>
   <string name="unit_stone_long_label">{count,plural, =1{1 kameň}few{# kamene}many{# kameňa}other{# kameňov}}</string>
   <string name="unit_stone_pound_long_label">{st,plural, =1{1 kameň}few{# kamene}many{# kameňa}other{# kameňov}} {lb,plural, =1{1 libra}few{# libry}many{# libry}other{# libier}}</string>
@@ -1241,209 +793,163 @@ aplikáciu Google Fit"</string>
   <string name="unit_stone_short">kam.</string>
   <string name="unit_stone_short_label">{count,plural, =1{1 st}few{# st}many{# st}other{# st}}</string>
   <string name="unit_times_format_long">{count,plural, =1{-krát}few{-krát}many{-krát}other{-krát}}</string>
-  <string name="unit_times_format_short">{count,plural, =1{-krát}few{-krát}many{-krát}other{-krát}}</string>
   <string name="unit_times_long">-krát</string>
   <string name="units">Jednotky</string>
   <string name="update_challenge_fail">Výzvu sa nepodarilo aktualizovať</string>
-  <string name="upgrade_button">AKTUALIZOVAŤ</string>
-  <string name="upgrade_description">Musíte aktualizovať aplikáciu Google Fit. Prejdite do Obchodu Play a siahnite si najnovšiu verziu aplikácie Fit.</string>
-  <string name="upgrade_title">Nastal čas aktualizovať!</string>
   <string name="velocity_pace_km">%1$s/km</string>
   <string name="velocity_pace_miles">%1$s/mi</string>
-  <string name="velocity_speed_km">{value,plural, =1{1 km/h}few{# km/h}many{# km/h}other{# km/h}}</string>
-  <string name="velocity_speed_miles">{value,plural, =1{1 míľa/h}few{# míle/h}many{# míle/h}other{# míľ/h}}</string>
-  <string name="view">Zobraziť</string>
-  <string name="view_full_session">Zobraziť cvičenie</string>
-  <string name="view_scoreboard">Zobraziť tabuľku skóre</string>
-  <string name="wear_goal_notification">Tento druh cieľa sa nezobrazí na vašich hodinkách, ale môžete kontrolovať pokrok na telefóne.</string>
-  <string name="week">Týždeň</string>
-  <string name="weekly_steps">krokov za minulý týždeň</string>
-  <string name="weight_cancel">ZRUŠIŤ</string>
-  <string name="weight_chart_card_title">Vaša hmotnosť</string>
-  <string name="weight_date_label">Dátum</string>
-  <string name="weight_details">ĎALŠIE PODROBNOSTI</string>
-  <string name="weight_input_card_title">Záznam hmotnosti</string>
-  <string name="weight_label">Hmotnosť</string>
-  <string name="weight_log">ZAZNAMENAŤ HMOTNOSŤ</string>
-  <string name="weight_menu_delete">Odstrániť</string>
-  <string name="weight_menu_edit">Upraviť</string>
-  <string name="weight_save">ULOŽIŤ</string>
-  <string name="weight_time_label">Čas</string>
-  <string name="weight_trend_line_explanation">Hrubšia čiara znázorňuje vývoj vašej hmotnosti za toto časové obdobie.</string>
-  <string name="weight_trend_line_info_accessibility">Ďalšie informácie</string>
-  <string name="weight_trend_line_info_close_accessibility">Zavrieť informácie</string>
-  <string name="weight_trend_since">Od %s</string>
-  <string name="weight_trend_since_today">Od dnes</string>
-  <string name="weight_trend_since_yesterday">Od včera</string>
-  <string name="welcome_confidential_content">"Táto verzia aplikácie Google Fit je určená iba na interné použitie a nie je úplná.
-
-Neukazujte ju používateľom, ktorí nepracujú pre spoločnosť Google, ani s nimi o nej nediskutujte."</string>
-  <string name="welcome_confidential_title">Dôverné</string>
-  <string name="welcome_enter_info">Zadajte základné informácie o sebe</string>
-  <string name="welcome_invalid_account">Účet je neplatný, vyberte iný účet.</string>
-  <string name="welcome_more_info_button">Viac informácií</string>
-  <string name="welcome_negative_button">Nie, vďaka</string>
-  <string name="welcome_network_required">Nedarí sa nadviazať spoľahlivé spojenie so serverom. Skontrolujte svoje sieťové nastavenia alebo sa prihláste neskôr.</string>
-  <string name="welcome_next_page_button">Ďalej</string>
-  <string name="welcome_one_app">Sledujte všetky svoje cvičenia v jednej aplikácii</string>
-  <string name="welcome_opt_in_activity_details">Informácie o aktivite zahŕňajú typy aktivity (beh, chôdza, bicyklovanie atď.), počet krokov, kalórií a údaje akcelerometra. Telesné senzory poskytujú údaje, ako sú napríklad tep, výška a hmotnosť. Aplikácia Google Fit bude mať prístup k informáciám o aktivite a údajom telesných senzorov uložených v aplikáciách, ktoré sú k nej pripojené. Tieto informácie o aktivite môžete kedykoľvek odstrániť v nastaveniach aplikácie Google Fit.</string>
-  <string name="welcome_opt_in_activity_overview">Informácie o aktivite a údaje telesného senzora môžete spravovať v aplikácii Google Fit a budú prístupné v aplikáciách, ktorým ste udelili povolenie.</string>
-  <string name="welcome_opt_in_location_details">"História polohy vám pomáha získať užitočné informácie – napríklad automatické predpovede pre dochádzanie, vylepšené výsledky vyhľadávania a užitočné reklamy v službách Google aj mimo nich. Vytvára totiž súkromnú mapu miest, ktoré navštevujete so zariadeniami, na ktorých ste prihlásený/-á.
-
- Na vytvorenie tejto mapy bude Google pravidelne získavať údaje zo všetkých zariadení priradených k tomuto účtu, a to aj vtedy, keď žiadnu službu Google nepoužívate."</string>
-  <string name="welcome_opt_in_location_details_addition">"%1$s
-apnutím Histórie polohy vyjadrujete súhlas so zmluvnými podmienkami pre polohu v Kórei, ktoré sú uvedené na adrese http://www.google.com/intl/ko/policies/terms/location/."</string>
-  <string name="welcome_opt_in_location_overview">Vytvorí súkromnú mapu miest, ktoré navštevujete so zariadeniami, na ktorých ste prihlásený/-á.</string>
-  <string name="welcome_opt_in_privacy">Pokračovaním vyjadrujete súhlas so&lt;br&gt;&lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%1$s\"&gt;zmluvnými podmienkami&lt;/a&gt;&lt;/b&gt;&lt;/font&gt; a &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%2$s\"&gt;pravidlami ochrany súkromia&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;</string>
-  <string name="welcome_opt_in_privacy_korean">Pokračovaním vyjadrujete súhlas so&lt;br&gt; &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%1$s\"&gt;zmluvnými podmienkami&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;, &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%2$s\"&gt;pravidlami ochrany údajov&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt; a &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%3$s\"&gt;zmluvnými podmienkami pre polohu&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;</string>
-  <string name="welcome_opt_in_privacy_land">Pokračovaním vyjadrujete súhlas so &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%1$s\"&gt;zmluvnými podmienkami&lt;/a&gt;&lt;/b&gt;&lt;/font&gt; a &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%2$s\"&gt;pravidlami ochrany súkromia&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;</string>
-  <string name="welcome_opt_in_privacy_land_korean">Pokračovaním vyjadrujete súhlas so &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%1$s\"&gt;zmluvnými podmienkami&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;, &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%2$s\"&gt;pravidlami ochrany údajov&lt;/a&gt;&lt;/b&gt;&lt;/font&gt; a &lt;font color=\"#4285f4\"&gt;&lt;b&gt;&lt;a href=\"%3$s\"&gt;zmluvnými podmienkami pre polohu&lt;/a&gt;&lt;/b&gt;&lt;/font&gt;</string>
-  <string name="welcome_opt_in_subtitle_activity">Informácie o aktivite a údaje z telesných senzorov</string>
-  <string name="welcome_opt_in_subtitle_location">História a nahlasovanie polohy</string>
-  <string name="welcome_opt_in_title">Zapnúť Históriu polohy?</string>
-  <string name="welcome_positive_button">Súhlasím</string>
-  <string name="welcome_previous_page_button">Späť</string>
-  <string name="welcome_restricted_user">Na použitie aplikácie Google Fit je potrebný účet Google. Pridávanie nových účtov je zakázané vaším správcom.</string>
-  <string name="welcome_restricted_user_title">Nenašiel sa žiadny účet</string>
-  <string name="welcome_track">Aplikáciu Fit môžete používať na svojom telefóne aj počítači. Je kompatibilná takisto so zariadeniami Android Wear.</string>
-  <string name="welcome_userselect_title">Vitajte v aplikácii Google Fit</string>
-  <string name="welcome_which_account">Vyberte účet na sledovanie kondície</string>
-  <string name="wheel_calories_expended_value">"{count,plural, =1{1 kalória
-spálená}few{# kalórie
-spálené}many{# kalórie
-spálenej}other{# kalórií
-spálených}}"</string>
-  <string name="wheel_distance_km_value">"{dist,plural, =1{Dnes
-1 km}few{Dnes
-# km}many{Dnes
-# km}other{Dnes
-# km}}"</string>
-  <string name="wheel_distance_miles_value">"{dist,plural, =1{Dnes
-1 míľa}few{Dnes
-# míle}many{Dnes
-# míle}other{Dnes
-# míľ}}"</string>
-  <string name="wheel_duration_today_0">"Dnes
-0 min"</string>
-  <string name="wheel_duration_today_0_accessibility">Dnes 0 minút</string>
-  <string name="wheel_duration_today_1">"Dnes
-&lt; 1 min"</string>
-  <string name="wheel_duration_today_1_accessibility">Dnes &lt; 1 minúta</string>
-  <string name="wheel_duration_today_h">"{count,plural, =1{Dnes
-1 h}few{Dnes
-# h}many{Dnes
-# h}other{Dnes
-# h}}"</string>
-  <string name="wheel_duration_today_h_accessibility">{count,plural, =1{Dnes 1 hodina}few{Dnes # hodiny}many{Dnes # hodiny}other{Dnes # hodín}}</string>
-  <string name="wheel_duration_today_h_m">"Dnes
-%1$s h %2$s min"</string>
-  <string name="wheel_duration_today_h_m_accessibility">{hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}} (dnes)</string>
-  <string name="wheel_duration_today_m">"{count,plural, =1{Dnes
-1 min}few{Dnes
-# min}many{Dnes
-# min}other{Dnes
-# min}}"</string>
-  <string name="wheel_duration_today_m_accessibility">{count,plural, =1{Dnes 1 minúta}few{Dnes # minúty}many{Dnes # minúty}other{Dnes # minút}}</string>
-  <string name="wheel_goal_calories_expended_exceeded">{count,plural, =1{Cieľ bol prekročený o 1 kalóriu}few{Cieľ bol prekročený o # kalórie}many{Cieľ bol prekročený o # kalórie}other{Cieľ bol prekročený o # kalórií}}</string>
-  <string name="wheel_goal_calories_expended_met">Cieľ bol dosiahnutý</string>
-  <string name="wheel_goal_calories_expended_not_met">{count,plural, =1{Váš cieľ je 1 kalória}few{Váš cieľ sú # kalórie}many{Váš cieľ je # kalórie}other{Váš cieľ je # kalórií}}</string>
-  <string name="wheel_goal_distance_km_exceeded">{dist,plural, =1{Cieľ bol prekročený o 1 km}few{Cieľ bol prekročený o # km}many{Cieľ bol prekročený o # km}other{Cieľ bol prekročený o # km}}</string>
-  <string name="wheel_goal_distance_km_not_met">{dist,plural, =1{Váš cieľ je 1 km}few{Váš cieľ sú # km}many{Váš cieľ je # km}other{Váš cieľ je # km}}</string>
-  <string name="wheel_goal_distance_met">Cieľ bol dosiahnutý</string>
-  <string name="wheel_goal_distance_miles_exceeded">{dist,plural, =1{Cieľ bol prekročený o 1 míľu}few{Cieľ bol prekročený o # míle}many{Cieľ bol prekročený o # míle}other{Cieľ bol prekročený o # míľ}}</string>
-  <string name="wheel_goal_distance_miles_not_met">{dist,plural, =1{Váš cieľ je 1 míľa}few{Váš cieľ sú # míle}many{Váš cieľ je # míle}other{Váš cieľ je # míľ}}</string>
-  <string name="wheel_goal_duration_exceeded_0">Prekročený cieľ o 0 min</string>
-  <string name="wheel_goal_duration_exceeded_0_accessibility">Prekročili ste cieľ o 0 minút</string>
-  <string name="wheel_goal_duration_exceeded_1">Prekročený cieľ o &lt; 1 min</string>
-  <string name="wheel_goal_duration_exceeded_1_accessibility">Prekročili ste cieľ o &lt; 1 minútu</string>
-  <string name="wheel_goal_duration_exceeded_h">{count,plural, =1{Cieľ bol prekročený o 1 h}few{Cieľ bol prekročený o # h}many{Cieľ bol prekročený o # h}other{Cieľ bol prekročený o # h}}</string>
-  <string name="wheel_goal_duration_exceeded_h_accessibility">{count,plural, =1{Cieľ bol prekročený o 1 hodinu}few{Cieľ bol prekročený o # hodiny}many{Cieľ bol prekročený o # hodiny}other{Cieľ bol prekročený o # hodín}}</string>
-  <string name="wheel_goal_duration_exceeded_h_m">Prekročený cieľ o %1$s h %2$s min</string>
-  <string name="wheel_goal_duration_exceeded_h_m_accessibility">Prekročili ste cieľ o {hours,plural, =1{1 hodinu}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minútu}few{# minúty}many{# minúty}other{# minút}}</string>
-  <string name="wheel_goal_duration_exceeded_m">{count,plural, =1{Prekročili ste cieľ o 1 min}few{Prekročili ste cieľ o # min}many{Prekročili ste cieľ o # min}other{Prekročili ste cieľ o # min}}</string>
-  <string name="wheel_goal_duration_exceeded_m_accessibility">{count,plural, =1{Prekročili ste cieľ o 1 minútu}few{Prekročili ste cieľ o # minúty}many{Prekročili ste cieľ o # minúty}other{Prekročili ste cieľ o # minút}}</string>
-  <string name="wheel_goal_duration_met">Dosiahli ste cieľ</string>
-  <string name="wheel_goal_duration_not_met_0">Váš cieľ je 0 min</string>
-  <string name="wheel_goal_duration_not_met_0_accessibility">Váš cieľ je 0 minút</string>
-  <string name="wheel_goal_duration_not_met_1">Váš cieľ je menej ako 1 min</string>
-  <string name="wheel_goal_duration_not_met_1_accessibility">Cieľ je menej ako 1 minúta</string>
-  <string name="wheel_goal_duration_not_met_h">{count,plural, =1{Váš cieľ je 1 h}few{Váš cieľ sú # h}many{Váš cieľ je # h}other{Váš cieľ je # h}}</string>
-  <string name="wheel_goal_duration_not_met_h_accessibility">{count,plural, =1{Váš cieľ je 1 hodina}few{Váš cieľ sú # hodiny}many{Váš cieľ je # hodiny}other{Váš cieľ je # hodín}}</string>
-  <string name="wheel_goal_duration_not_met_h_m">Váš cieľ je %1$s h %2$s min</string>
-  <string name="wheel_goal_duration_not_met_h_m_accessibility">Váš priemer: {hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}}</string>
-  <string name="wheel_goal_duration_not_met_m">{count,plural, =1{Váš cieľ je 1 min}few{Váš cieľ sú # min}many{Váš cieľ je # min}other{Váš cieľ je # min}}</string>
-  <string name="wheel_goal_duration_not_met_m_accessibility">{count,plural, =1{Váš cieľ je 1 minúta}few{Váš cieľ sú # minúty}many{Váš cieľ je # minúty}other{Váš cieľ je # minút}}</string>
-  <string name="wheel_goal_kj_expended_exceeded">{count,plural, =1{Cieľ bol prekročený o 1 kJ}few{CIeľ bol prekročený o # kJ}many{CIeľ bol prekročený o # kJ}other{CIeľ bol prekročený o # kJ}}</string>
-  <string name="wheel_goal_kj_expended_not_met">{count,plural, =1{Váš cieľ je 1 kJ}few{Váš cieľ sú # kJ}many{Váš cieľ je # kJ}other{Váš cieľ je # kJ}}</string>
-  <string name="wheel_goal_step_exceeded">{count,plural, =1{Prekročený cieľ o 1 krok}few{Prekročený cieľ o # kroky}many{Goal exceeded by # steps}other{Prekročený cieľ o # krokov}}</string>
-  <string name="wheel_goal_step_met">Dosiahli ste cieľ</string>
-  <string name="wheel_goal_steps_not_met">{count,plural, =1{Váš cieľ je 1 krok}few{Váš cieľ sú # kroky}many{Váš cieľ je # kroku}other{Váš cieľ je # krokov}}</string>
-  <string name="wheel_implicit_calories_expended_exceeded">{count,plural, =1{Prekročili ste priemer o 1 kalóriu}few{Prekročili ste priemer o # kalórie}many{Prekročili ste priemer o # kalórie}other{Prekročili ste priemer o # kalórií}}</string>
-  <string name="wheel_implicit_calories_expended_met">Dosiahli ste priemer</string>
-  <string name="wheel_implicit_calories_expended_not_met">{count,plural, =1{Váš priemer je 1 kalória}few{Váš priemer sú # kalórie}many{Váš priemer je # kalórie}other{Váš priemer je # kalórií}}</string>
-  <string name="wheel_implicit_distance_km_exceeded">{dist,plural, =1{Priemer bol prekročený o 1 km}few{Priemer bol prekročený o # km}many{Priemer bol prekročený o # km}other{Priemer bol prekročený o # km}}</string>
-  <string name="wheel_implicit_distance_km_not_met">{dist,plural, =1{Váš priemer je 1 km}few{Váš priemer sú # km}many{Váš priemer je # km}other{Váš priemer je # km}}</string>
-  <string name="wheel_implicit_distance_met">Dosiahli ste priemer</string>
-  <string name="wheel_implicit_distance_miles_exceeded">{dist,plural, =1{Priemer bol prekročený o 1 míľu}few{Priemer bol prekročený o # míle}many{Priemer bol prekročený o # míle}other{Priemer bol prekročený o # míľ}}</string>
-  <string name="wheel_implicit_distance_miles_not_met">{dist,plural, =1{Váš priemer je 1 míľa}few{Váš priemer sú # míle}many{Váš priemer je # míle}other{Váš priemer je # míľ}}</string>
-  <string name="wheel_implicit_duration_exceeded_0">Prekročený priemer o 0 min</string>
-  <string name="wheel_implicit_duration_exceeded_0_accessibility">Prekročili ste priemer o 0 minút</string>
-  <string name="wheel_implicit_duration_exceeded_1">Prekročený priemer o &lt; 1 min</string>
-  <string name="wheel_implicit_duration_exceeded_1_accessibility">Prekročili ste priemer o &lt; 1 minútu</string>
-  <string name="wheel_implicit_duration_exceeded_h">{count,plural, =1{Priemer bol prekročený o 1 h}few{Priemer bol prekročený o # h}many{Priemer bol prekročený o # h}other{Priemer bol prekročený o # h}}</string>
-  <string name="wheel_implicit_duration_exceeded_h_accessibility">{count,plural, =1{Priemer bol prekročený o 1 hodinu}few{Priemer bol prekročený o # hodiny}many{Priemer bol prekročený o # hodiny}other{Priemer bol prekročený o # hodín}}</string>
-  <string name="wheel_implicit_duration_exceeded_h_m">Prekročený priemer o %1$s h %2$s min</string>
-  <string name="wheel_implicit_duration_exceeded_h_m_accessibility">Prekročili ste priemer o {hours,plural, =1{1 hodinu}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minútu}few{# minúty}many{# minúty}other{# minút}}</string>
-  <string name="wheel_implicit_duration_exceeded_m">{count,plural, =1{Prekročili ste priemer o 1 min}few{Prekročili ste priemer o # min}many{Prekročili ste priemer o # min}other{Prekročili ste priemer o # min}}</string>
-  <string name="wheel_implicit_duration_exceeded_m_accessibility">{count,plural, =1{Prekročili ste priemer o 1 minútu}few{Prekročili ste priemer o # minúty}many{Prekročili ste priemer o # minúty}other{Prekročili ste priemer # minút}}</string>
-  <string name="wheel_implicit_duration_met">Dosiahli ste priemer</string>
-  <string name="wheel_implicit_duration_not_met_0">Zatiaľ žiadne priemery aktivity</string>
-  <string name="wheel_implicit_duration_not_met_0_accessibility">Zatiaľ nemáte žiadne priemerné denné hodnoty aktivity</string>
-  <string name="wheel_implicit_duration_not_met_1">Váš priemer je menej ako 1 min</string>
-  <string name="wheel_implicit_duration_not_met_1_accessibility">Váš priemer je &lt; 1 minúta</string>
-  <string name="wheel_implicit_duration_not_met_h">{count,plural, =1{Váš priemer je 1 h}few{Váš priemer sú # h}many{Váš priemer je # h}other{Váš priemer je # h}}</string>
-  <string name="wheel_implicit_duration_not_met_h_accessibility">{count,plural, =1{Váš priemer je 1 hodina}few{Váš priemer sú # hodiny}many{Váš priemer je # hodiny}other{Váš priemer je # hodín}}</string>
-  <string name="wheel_implicit_duration_not_met_h_m">Váš priemer je %1$s h %2$s min</string>
-  <string name="wheel_implicit_duration_not_met_h_m_accessibility">Váš priemer: {hours,plural, =1{1 hodina}few{# hodiny}many{# hodiny}other{# hodín}} {minutes,plural, =1{1 minúta}few{# minúty}many{# minúty}other{# minút}}</string>
-  <string name="wheel_implicit_duration_not_met_m">{count,plural, =1{Váš priemer je 1 min}few{Váš priemer sú # min}many{Váš priemer je # min}other{Váš priemer je # min}}</string>
-  <string name="wheel_implicit_duration_not_met_m_accessibility">{count,plural, =1{Váš priemer je 1 minúta}few{Váš priemer sú # minúty}many{Váš priemer je # minúty}other{Váš priemer je # minút}}</string>
-  <string name="wheel_implicit_kj_expended_exceeded">{count,plural, =1{Priemer bol prekročený o 1 kJ}few{Priemer bol prekročený o # kJ}many{Priemer bol prekročený o # kJ}other{Priemer bol prekročený o # kJ}}</string>
-  <string name="wheel_implicit_kj_expended_not_met">{count,plural, =1{Váš priemer je 1 kJ}few{Váš priemer sú # kJ}many{Váš priemer je # kJ}other{Váš priemer je # kJ}}</string>
-  <string name="wheel_implicit_steps_exceeded">{count,plural, =1{Prekročený priemer o 1 krok}few{Prekročený priemer o # kroky}many{Average exceeded by # steps}other{Prekročený priemer o # krokov}}</string>
-  <string name="wheel_implicit_steps_met">Dosiahli ste priemer</string>
-  <string name="wheel_implicit_steps_not_met">{count,plural, =1{Váš priemer je 1 krok}few{Váš priemer sú # kroky}many{Váš priemer je # kroku}other{Váš priemer je # krokov}}</string>
-  <string name="wheel_kj_expended_value">"{count,plural, =1{1 kJ
-spálený}few{# kJ
-spálené}many{# kJ
-spáleného}other{# kJ
-spálených}}"</string>
-  <string name="wheel_show_calories_message">Ak chcete zistiť množstvo spálených kalórií, pridajte si v nastaveniach svoju výšku a hmotnosť</string>
-  <string name="wheel_show_calories_title">Spálené kalórie</string>
-  <string name="wheel_show_distance_message">Ak chcete zistiť, akú vzdialenosť ste prešli, zadajte v Nastaveniach svoju výšku</string>
-  <string name="wheel_show_distance_title">Vzdialenosť</string>
-  <string name="wheel_steps_value">"{count,plural, =1{1 krok
-dnes}few{# kroky
-dnes}many{# steps
-today}other{# krokov
-dnes}}"</string>
-  <string name="widget_loading">Načítava sa…</string>
-  <string name="widget_no_connection">"Načítanie zlyhalo
-SKÚSIŤ ZNOVA"</string>
-  <string name="winner">Ste víťaz!</string>
-  <string name="winner_subtitle">Vyhrali ste výzvu %1$s</string>
-  <string name="workout_summary_activity_label">Súhrn cvičenia</string>
-  <string name="workout_summary_session_reload_error">Úprava bola úspešná, ale reláciu sa nepodarilo znova načítať</string>
-  <string name="workout_summary_share_photo_allow">Povoliť</string>
-  <string name="workout_summary_share_photo_permission">To share photos taken around the time of your workout, allow access to media</string>
-  <string name="workout_summary_temp">Tu sa zobrazí súhrn cvičenia</string>
-  <string name="x_cm">{x,plural, =1{1 cm}few{# cm}many{# cm}other{# cm}}</string>
-  <string name="x_feet_y_inches">"{x,plural, =1{1''}few{#''}many{#''}other{#''}}{y,plural, =1{1\"}few{#\"}many{#\"}other{#\"}}"</string>
-  <string name="x_reps">{reps,plural, =1{1 opakovanie}few{# opakovania}many{# opakovania}other{# opakovaní}}</string>
-  <string name="year_picker_description">Zoznam rokov</string>
-  <string name="yesterday">Včera</string>
-  <string name="yesterday_at_time">Včera o %1$s</string>
-  <string name="you">Vy</string>
-  <string name="your_goal_title">Váš cieľ</string>
+  <string name="velocity_pace_no_unit">%1$s</string>
+  <string name="velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
+  <string name="velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
+  <string name="velocity_speed_no_unit">{value, plural, =1 {1} other {#}}</string>
+  <string name="watch_face_aggregate">Google Fit Today</string>
+  <string name="watch_face_analog">Google Fit Analog</string>
+  <string name="watch_face_digital">Google Fit Digital</string>
+  <string name="watch_face_settings_title">Fit Watch Face</string>
+  <string name="wear_activity_dialog_yesterday">Yesterday</string>
+  <string name="wear_average_velocity_pace_km">%1$s/km avg</string>
+  <string name="wear_average_velocity_pace_miles">%1$s/mi avg</string>
+  <string name="wear_average_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}} avg</string>
+  <string name="wear_average_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}} avg</string>
+  <string name="wear_breakdown_calories_display_format">{count, plural, =1 {1 cal} other {# cal}}</string>
+  <string name="wear_breakdown_distance_km_display_format">{count, plural, =1 {1 km} other {# km}}</string>
+  <string name="wear_breakdown_distance_miles_display_format">{count, plural, =1 {1 mi} other {# mi}}</string>
+  <string name="wear_breakdown_kj_display_format">{count, plural, =1 {1 kJ} other {# kJ}}</string>
+  <string name="wear_breakdown_steps_display_format">{count, plural, =1 {1 step} other {# steps}}</string>
+  <string name="wear_generic_pace_value">-:--</string>
+  <string name="wear_goal_25_1">Good start!</string>
+  <string name="wear_goal_25_2">On the move!</string>
+  <string name="wear_goal_25_3">Keep at it!</string>
+  <string name="wear_goal_50_1">Halfway there!</string>
+  <string name="wear_goal_50_2">Nice work!</string>
+  <string name="wear_goal_50_3">Keep it up!</string>
+  <string name="wear_goal_75_1">Almost there!</string>
+  <string name="wear_goal_75_2">Great work!</string>
+  <string name="wear_goal_75_3">You can do it!</string>
+  <string name="wear_goal_completed">"You've met your goal!"</string>
+  <string name="wear_hour_duration_xs">{count, plural, =1 {1 h} other {# h}}</string>
+  <string name="wear_hour_minute_duration">%1$s hr %2$s min</string>
+  <string name="wear_hour_minute_duration_xs">%1$s h %2$s m</string>
+  <string name="wear_hour_minute_second_duration">%1$sh %2$sm %3$ss</string>
+  <string name="wear_hour_minute_second_pace">%1$s:%2$s:%3$s</string>
+  <string name="wear_last_updated">Updated %1$s</string>
+  <string name="wear_less_than_minute_duration">&lt; 1 min</string>
+  <string name="wear_less_than_minute_duration_xs">&lt; 1 m</string>
+  <string name="wear_minute_duration_xs">{count, plural, =1 {1 m} other {# m}}</string>
+  <string name="wear_minute_second_duration">%1$sm %2$ss</string>
+  <string name="wear_minute_second_pace">%1$s:%2$s</string>
+  <string name="wear_second_duration">{count, plural, =1 {1s} other {#s}}</string>
+  <string name="wear_second_pace">0:%1$s</string>
+  <string name="wear_today_date_string">Today</string>
+  <string name="wear_today_label">Today</string>
+  <string name="wear_tomorrow_date_string">Tomorrow</string>
+  <string name="wear_velocity_pace_km">%1$s/km</string>
+  <string name="wear_velocity_pace_km_disabled">-- /km</string>
+  <string name="wear_velocity_pace_miles">%1$s/mi</string>
+  <string name="wear_velocity_pace_miles_disabled">-- /mi</string>
+  <string name="wear_velocity_speed_km">{value, plural, =1 {1 kph} other {# kph}}</string>
+  <string name="wear_velocity_speed_km_disabled">-- kph</string>
+  <string name="wear_velocity_speed_miles">{value, plural, =1 {1 mph} other {# mph}}</string>
+  <string name="wear_velocity_speed_miles_disabled">-- mph</string>
+  <string name="wear_wheel_calories_expended_value">"{count, plural, =1 {1 calorie
+today} other {# calories
+today}}"</string>
+  <string name="wear_wheel_distance_km_value">"{count, plural, =1 {1 km
+today} other {# km
+today}}"</string>
+  <string name="wear_wheel_distance_miles_value">"{count, plural, =1 {1 mile
+today} other {# miles
+today}}"</string>
+  <string name="wear_wheel_duration_today_0">"0 min
+today"</string>
+  <string name="wear_wheel_duration_today_1">"&lt; 1 min
+today"</string>
+  <string name="wear_wheel_duration_today_h">"{count, plural, =1 {1 hr
+today} other {# hr
+today}}"</string>
+  <string name="wear_wheel_duration_today_h_m">"%1$s hr %2$s min
+today"</string>
+  <string name="wear_wheel_duration_today_m">"{count, plural, =1 {1 min
+today} other {# min
+today}}"</string>
+  <string name="wear_wheel_goal_calories_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 calorie} other {Goal exceeded by # calories}}</string>
+  <string name="wear_wheel_goal_calories_expended_met">Goal reached</string>
+  <string name="wear_wheel_goal_calories_expended_not_met">{count, plural, =1 {Goal 1 calorie} other {Goal # calories}}</string>
+  <string name="wear_wheel_goal_distance_km_exceeded">{count, plural, =1 {Goal exceeded by 1 km} other {Goal exceeded by # km}}</string>
+  <string name="wear_wheel_goal_distance_km_not_met">{count, plural, =1 {Goal is 1 km} other {Goal is # km}}</string>
+  <string name="wear_wheel_goal_distance_met">Goal reached</string>
+  <string name="wear_wheel_goal_distance_miles_exceeded">{count, plural, =1 {Goal exceeded by 1 mile} other {Goal exceeded by # miles}}</string>
+  <string name="wear_wheel_goal_distance_miles_not_met">{count, plural, =1 {Goal is 1 mile} other {Goal is # miles}}</string>
+  <string name="wear_wheel_goal_duration_exceeded_0">Goal reached</string>
+  <string name="wear_wheel_goal_duration_exceeded_1">Goal exceeded by &lt; 1 min</string>
+  <string name="wear_wheel_goal_duration_exceeded_h">{count, plural, =1 {Goal exceeded by 1 hr} other {Goal exceeded by # hr}}</string>
+  <string name="wear_wheel_goal_duration_exceeded_h_m">Goal exceeded by %1$s hr %2$s min</string>
+  <string name="wear_wheel_goal_duration_exceeded_m">{count, plural, =1 {Goal exceeded by 1 min} other {Goal exceeded by # min}}</string>
+  <string name="wear_wheel_goal_duration_met">Goal reached</string>
+  <string name="wear_wheel_goal_duration_not_met_0">No duration goal set</string>
+  <string name="wear_wheel_goal_duration_not_met_1">Your goal is &lt; 1 min</string>
+  <string name="wear_wheel_goal_duration_not_met_h">{count, plural, =1 {Goal is 1 hr} other {Goal is # hr}}</string>
+  <string name="wear_wheel_goal_duration_not_met_h_m">Goal is %1$s hr %2$s min</string>
+  <string name="wear_wheel_goal_duration_not_met_m">{count, plural, =1 {Goal is 1 min} other {Goal is # min}}</string>
+  <string name="wear_wheel_goal_kj_expended_exceeded">{count, plural, =1 {Goal exceeded by 1 kJ} other {Goal exceeded by # kJ}}</string>
+  <string name="wear_wheel_goal_kj_expended_not_met">{count, plural, =1 {Goal 1 kJ} other {Goal # kJ}}</string>
+  <string name="wear_wheel_goal_step_exceeded">{count, plural, =1 {Goal exceeded by 1 step} other {Goal exceeded by # steps}}</string>
+  <string name="wear_wheel_goal_step_met">Goal reached</string>
+  <string name="wear_wheel_goal_steps_not_met">{count, plural, =1 {Your goal is 1 step} other {Your goal is # steps}}</string>
+  <string name="wear_wheel_implicit_calories_expended_exceeded">{count, plural, =1 {Average exceeded by 1 calorie} other {Average exceeded by # calories}}</string>
+  <string name="wear_wheel_implicit_calories_expended_met">Average reached</string>
+  <string name="wear_wheel_implicit_calories_expended_not_met">{count, plural, =1 {Your avg is 1 calorie} other {Your avg is # calories}}</string>
+  <string name="wear_wheel_implicit_distance_km_exceeded">{count, plural, =1 {Average exceeded by 1 km} other {Average exceeded by # km}}</string>
+  <string name="wear_wheel_implicit_distance_km_not_met">{count, plural, =1 {Your avg is 1 km} other {Your avg is # km}}</string>
+  <string name="wear_wheel_implicit_distance_met">Average reached</string>
+  <string name="wear_wheel_implicit_distance_miles_exceeded">{count, plural, =1 {Average exceeded by 1 mile} other {Average exceeded by # miles}}</string>
+  <string name="wear_wheel_implicit_distance_miles_not_met">{count, plural, =1 {Your avg is 1 mile} other {Your avg # miles}}</string>
+  <string name="wear_wheel_implicit_duration_exceeded_0">Average reached</string>
+  <string name="wear_wheel_implicit_duration_exceeded_1">Average exceeded by &lt; 1 min</string>
+  <string name="wear_wheel_implicit_duration_exceeded_h">{count, plural, =1 {Average exceeded by 1 hr} other {Average exceeded by # hr}}</string>
+  <string name="wear_wheel_implicit_duration_exceeded_h_m">Average exceeded by %1$s hr %2$s min</string>
+  <string name="wear_wheel_implicit_duration_exceeded_m">{count, plural, =1 {Average exceeded by 1 min} other {Average exceeded by # min}}</string>
+  <string name="wear_wheel_implicit_duration_met">Average reached</string>
+  <string name="wear_wheel_implicit_duration_not_met_0">No daily avg set</string>
+  <string name="wear_wheel_implicit_duration_not_met_1">Your avg is &lt; 1 min</string>
+  <string name="wear_wheel_implicit_duration_not_met_h">{count, plural, =1 {Your avg is 1 hr} other {Your avg is # hr}}</string>
+  <string name="wear_wheel_implicit_duration_not_met_h_m">Your avg is %1$s hr %2$s min</string>
+  <string name="wear_wheel_implicit_duration_not_met_m">{count, plural, =1 {Your avg is 1 minute} other {Your avg is # min}}</string>
+  <string name="wear_wheel_implicit_kj_expended_exceeded">{count, plural, =1 {Average exceeded by 1 kJ} other {Average exceeded by # kJ}}</string>
+  <string name="wear_wheel_implicit_kj_expended_not_met">{count, plural, =1 {Your avg is 1 kJ} other {Your avg is # kJ}}</string>
+  <string name="wear_wheel_implicit_steps_exceeded">{count, plural, =1 {Average exceeded by 1 step} other {Average exceeded by # steps}}</string>
+  <string name="wear_wheel_implicit_steps_met">Average reached</string>
+  <string name="wear_wheel_implicit_steps_not_met">{count, plural, =1 {Your avg is 1 step} other {Your avg is # steps}}</string>
+  <string name="wear_wheel_kj_expended_value">"{count, plural, =1 {1 kJ
+today} other {# kJ
+today}}"</string>
+  <string name="wear_wheel_steps_value">"{count, plural, =1 {1 step
+today} other {# steps
+today}}"</string>
+  <string name="wear_yesterday_date_string">Yesterday</string>
+  <string name="wear_zero_minute_duration">0 min</string>
+  <string name="wear_zero_minute_duration_xs">0 m</string>
+  <string name="wear_zero_second_duration">0s</string>
+  <string name="wear_zero_second_pace">0:00</string>
+  <string name="wednesday_ultra_short_label">W</string>
+  <string name="week">Week</string>
+  <string name="weekly_goal_recurrence">Weekly</string>
+  <string name="weight_date_label">Date</string>
+  <string name="weight_label">Weight</string>
+  <string name="weight_time_label">Time</string>
+  <string name="welcome_bring_phone">For bike ride tracking and more accurate distance and speed, keep your phone with you.</string>
+  <string name="welcome_check_metrics">For distance and calorie tracking, add your weight and height to the phone app.</string>
+  <string name="welcome_location_request">Easily track your speed, distance, steps, and location with Fit.</string>
+  <string name="workout_summary">Summary</string>
+  <string name="x_cm">{x, plural, =1 {1 cm} other {# cm}}</string>
+  <string name="x_feet_y_inches">"{x, plural, =1 {1''} other {#''}}{y, plural, =1 {1\"} other {#\"}}"</string>
+  <string name="x_reps">{reps, plural, =1 {1 rep} other {# reps}}</string>
+  <string name="x_reps_at_y_kg">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 kg} other {# kg}}</string>
+  <string name="x_reps_at_y_lb">{reps, plural, =1 {1 rep} other {# reps}} at {weight, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="x_total_reps">%1$s</string>
+  <string name="x_y_total_time">%1$01d:%2$02d</string>
+  <string name="y_kg">{weight, plural, =1 {1 kg} other {# kg}}</string>
+  <string name="y_lb">{weight, plural, =1 {1 lb} other {# lb}}</string><string name="yesterday_at_time">Včera o %1$s</string>
   <string name="zero_minute_duration">0 min</string>
   <string name="zero_minute_duration_accessibility">0 minút</string>
   <string name="zero_second_duration">0 s</string>

@@ -21,7 +21,6 @@
   <string name="bluetooth_sap_notif_message">Request client to disconnect?</string>
   <string name="bluetooth_sap_notif_ticker">Bluetooth SIM Access</string>
   <string name="bluetooth_sap_notif_title">Bluetooth SIM access</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Cancel</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
   <string name="bt_enable_line2">Turn on Bluetooth now?</string>
@@ -99,8 +98,6 @@
   <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
   <string name="permlab_bluetoothShareManager">Access download manager.</string>
   <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
-  <string name="process"/>
-  <string name="sharedUserId"/>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">Transfer canceled by user.</string>
   <string name="status_connection_error">Connection unsuccessful.</string>
