@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="sim_unlock_attempts_remaining">
+        <item quantity="other">%d more tries</item>
+        <item quantity="one">%d more try</item>
+     </plurals>
+     <plurals name="wifi_power_save_hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
+     </plurals>
+     <plurals name="wifi_power_save_minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+     </plurals>
+</resources>
