@@ -115,7 +115,7 @@ Vaše hodinky a váš operátor môžu merať spotrebu mobilných dát rôzne. N
      <string name="decline">Odmietnuť</string>
      <string name="default_sms_action">Predvolená SMS apl.</string>
      <string name="default_sms_title">Predvolená SMS apl.</string>
-     <string name="developer_options">Vývojárske nasatvenia</string>
+     <string name="developer_options">Vývojárske nastavenia</string>
      <string name="dialog_error_message_no_emergency_number">Enter an emergency number to call.</string>
      <string name="dialog_error_message_non_emergency_number">"Can't call. %1$s is not an emergency number."</string>
      <string name="dialog_error_title_non_emergency_number">Emergency call</string>
@@ -172,7 +172,7 @@ Vaše hodinky a váš operátor môžu merať spotrebu mobilných dát rôzne. N
      <string name="info_value_connection_no_pairing">Žiadne spárované zariadenia</string>
      <string name="info_value_connection_paired_connected">Pripojené</string>
      <string name="info_value_connection_paired_disconnected">Odpojené</string>
-     <string name="info_value_legal_notices">Pre právne informácie pozrite spárované zariadenie s vašími hodinkami</string>
+     <string name="info_value_legal_notices">Pre právne informácie pozrite spárované zariadenie s vašimi hodinkami</string>
      <string name="info_value_version">Dotknite sa pre zobrazenie</string>
      <string name="input_choose_keyboards">Vybrať klávesnice</string>
      <string name="input_current_prefix">Súčasná</string>
@@ -184,7 +184,7 @@ Vaše hodinky a váš operátor môžu merať spotrebu mobilných dát rôzne. N
      <string name="locale_service_name">Služby jazykov</string>
      <string name="location_mode_on">Poloha</string>
      <string name="location_off_warning_message">Ak je povolená poloha na vašom telefóne, aplikácie v hodinkách sú schopné ju zisťovať.</string>
-     <string name="location_warning_message">"Pomôžte aplikáciam vyhľadať vašu polohu rýchlejšie a presnejšie pomocou služieb Google. 
+     <string name="location_warning_message">"Pomôžte aplikáciám vyhľadať vašu polohu rýchlejšie a presnejšie pomocou služieb Google. 
 
 Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presnej polohy."</string>
      <string name="location_warning_title">Zlepšiť určovanie polohy?</string>
@@ -291,7 +291,7 @@ Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presne
      <string name="secure_adb_fingerprint_text">"RSA kľuč vášho PC je: 
 %1$s"</string>
      <string name="secure_adb_view_fingerprint">Zobraziť odtlačok</string>
-     <string name="secure_adb_whitelist_label">Všdy povoliť z tohto PC</string>
+     <string name="secure_adb_whitelist_label">Vždy povoliť z tohto PC</string>
      <string name="select_timezone">Vyberte časovú zónu</string>
      <string name="service_state_emergency_only">Len núdzové hovory</string>
      <string name="service_state_in_service">V pokrytí</string>
@@ -380,7 +380,7 @@ Contact your carrier to unlock your SIM."</string>
      <string name="wifi_scanning">Vyhľadávanie...</string>
      <string name="wifi_select_network_message">Vyberte sieť</string>
      <string name="wifi_status_unavailable">Nedostupné</string>
-     <string name="wrist_gesture_settings_dialog">Nasatvenie gesta zápästím</string>
+     <string name="wrist_gesture_settings_dialog">Nastavenie gesta zápästím</string>
      <string name="wrist_gestures_mode_on">Gestá zápästím</string>
      <string name="wrist_geture_settings">Gestá</string>
 </resources>

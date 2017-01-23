@@ -136,13 +136,13 @@ Zap"</string>
   <string name="cue_menu_call">Hovor</string>
   <string name="cue_menu_contacts">Žiadne kontakty</string>
   <string name="cue_menu_contacts_description">Pridajte kontakty v apl. na telefóne</string>
-  <string name="cue_menu_contacts_syncing">Synchr. konaktov...</string>
+  <string name="cue_menu_contacts_syncing">Synchr. kontaktov...</string>
   <string name="cue_menu_email">Email</string>
   <string name="cue_menu_google">Google</string>
   <string name="cue_menu_navigate">Navigovať k najbližšej benzínovej stanici</string>
   <string name="cue_menu_navigate_fallback">Navigovať</string>
   <string name="cue_menu_play_fallback">Prehrať hudbu</string>
-  <string name="cue_menu_reminder">Pripomený mi beh ráno o 7:00</string>
+  <string name="cue_menu_reminder">Pripomenúť beh ráno o 7:00</string>
   <string name="cue_menu_reminder_fallback">Pripomenúť</string>
   <string name="cue_menu_send_chat_fallback">Odoslať %1$s správu</string>
   <string name="cue_menu_send_email_fallback">Email</string>
@@ -167,10 +167,10 @@ Zap"</string>
   <string name="cue_menu_tts_contacts">Launcher: Kontakty</string>
   <string name="date">Dátum</string>
   <string name="decline">Odmietnuť</string>
-  <string name="default_cal_app">Google Kalendar je váš predvolený kalendár v hodinkách</string>
+  <string name="default_cal_app">Google Kalendár je váš predvolený kalendár v hodinkách</string>
   <string name="default_watchface_name">Jednoduché</string>
   <string name="depart_title">Odchod</string>
-  <string name="developer_options">Wear Developer nasatvenia</string>
+  <string name="developer_options">Wear Developer nastavenia</string>
   <string name="disable_battery_saver">Vypnúť úsporu batérie</string>
   <string name="disabled">Deaktivovanie</string>
   <string name="disambiguate_action">Disambiguate action</string>
@@ -206,8 +206,8 @@ Zap"</string>
   <string name="engagement_charge_watch_title">Nabite vaše hodinky cez noci.</string>
   <string name="engagement_contact_a_friend">Kontaktujte priateľa</string>
   <string name="engagement_find_apps_body">Objavte aplikácie pre fitness, produktivitu, a viac.</string>
-  <string name="engagement_find_apps_title">Získajte populárne apolikácie pre hodinky.</string>
-  <string name="engagement_find_watch_faces_body">Vyberte si z tisícky rôzných ciferníkov.</string>
+  <string name="engagement_find_apps_title">Získajte populárne aplikácie pre hodinky.</string>
+  <string name="engagement_find_watch_faces_body">Vyberte si z tisícky rôznych ciferníkov.</string>
   <string name="engagement_find_watch_faces_title">Nájdite si svoj ciferník.</string>
   <string name="engagement_show_agenda_action">Zobraziť agendu</string>
   <string name="engagement_show_my_steps_action">Zobraziť kroky</string>
@@ -258,7 +258,7 @@ Zap"</string>
   <string name="example_query_sms_2">Send a text to Jim, I am leaving now, see you later</string>
   <string name="example_query_sms_3">Send a text to Eve, are you around?</string>
   <string name="example_query_sms_4">Send a text to Eve, I am leaving now, see you later</string>
-  <string name="failed_to_get_connection_status">Načítavenie pripojenia zlyhalo.</string>
+  <string name="failed_to_get_connection_status">Načítavanie pripojenia zlyhalo.</string>
   <string name="first_sync_alt_stay_plugged">Zostaňte pripojený kým váš telefón nedokončí odosielanie dát</string>
   <string name="first_sync_syncing">Synchr...</string>
   <string name="first_sync_syncing_progress">%1$d z %2$d</string>
@@ -293,7 +293,7 @@ Zap"</string>
   <string name="monday">Pondelok</string>
   <string name="more_on_weather_domain">Viac na %s</string>
   <string name="movie_type_standard">Štandard</string>
-  <string name="mute">Stĺmiť</string>
+  <string name="mute">Stlmiť</string>
   <string name="mute_app_confirmation">Nikdy nezobrazovať upozornenia z tejto aplikácie?</string>
   <string name="navigation_success">Spustená navigácia</string>
   <string name="needs_permission">Vyžadujú sa povolenia</string>
@@ -366,13 +366,13 @@ Prepáčte, Google vám s tým nevie pomôcť"</string>
   <string name="perm_enable_permission">Povoliť požiadavku</string>
   <string name="perm_label_cloud_sync_opt_in">Zapíše alebo odpíše používateľa z cloud sync</string>
   <string name="perm_label_device_on_body_recognition">Rozpoznanie zariadenia na tele</string>
-  <string name="perm_label_home_stem_pressed">Stem button stlačené na domovskej obrazovke</string>
+  <string name="perm_label_home_stem_pressed">System button stlačené na domovskej obrazovke</string>
   <string name="perm_label_install_wearable_packages">Inštalovať aplikácie</string>
   <string name="perm_label_notify_gps_activity">Upozorniť o GPS aktivite</string>
-  <string name="perm_label_notify_wrist_gestures_tutorial_completion">Upozorniť na ukončenie návodu pre gestá zapästím</string>
+  <string name="perm_label_notify_wrist_gestures_tutorial_completion">Upozorniť na ukončenie návodu pre gestá zápästím</string>
   <string name="perm_label_play_tts">Prehrať TTS</string>
   <string name="perm_label_reminders_service">Zozbierať a upraviť pripomienky</string>
-  <string name="perm_label_remote_action_invocation">Iniciovať sestémové hlasové akcie</string>
+  <string name="perm_label_remote_action_invocation">Iniciovať systémové hlasové akcie</string>
   <string name="perm_label_rerank_stream">Vynútiť preusporiadanie zoznamu upozornení</string>
   <string name="perm_label_secure_adb_confirmation">Potvrdiť bezpečné ADB spojenia</string>
   <string name="perm_label_send_remote_intent">Odoslať vzdialenú požiadavku</string>
@@ -402,7 +402,7 @@ Prepáčte, Google vám s tým nevie pomôcť"</string>
   <string name="power_phone">Hlasové hovory</string>
   <string name="power_screen">Obrazovka</string>
   <string name="power_unaccounted">Ďalšie</string>
-  <string name="power_wifi">Wi‑Fi</string>
+  <string name="power_wifi">Wi-Fi</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="quick_settings_announce_tts">Rýchle nastavenia</string>
@@ -503,8 +503,8 @@ Prepáčte, Google vám s tým nevie pomôcť"</string>
   <string name="search_when_is_start_evening">%s začína večer</string>
   <string name="search_wind_in_kph">%skph</string>
   <string name="search_wind_in_mph">%smph</string>
-  <string name="secure_adb_instructions_text">Otvorte vaše priradené zariadenie pre povolenie debugging.</string>
-  <string name="secure_adb_instructions_title">Povoliť debugging?</string>
+  <string name="secure_adb_instructions_text">Otvorte vaše priradené zariadenie pre povolenie ladenie.</string>
+  <string name="secure_adb_instructions_title">Povoliť ladenie?</string>
   <string name="sent_via_voice">Odoslané ako hlas</string>
   <string name="server_error">"Google momentálne nedostupný."</string>
   <string name="setup_insert_sim_to_continue">Insert your SIM card then tap the restart button to continue.</string>
@@ -516,7 +516,7 @@ Dotknutím prezrite."</string>
   <string name="sms_disambiguation_device_watch">Hodinky</string>
   <string name="sms_success">Správa odoslaná</string>
   <string name="speak_now">Hovorte</string>
-  <string name="speak_now_help">Hovorte alebo posuňte nahor pre viac</string>
+  <string name="speak_now_help">Hovorte alebo potiahnite nahor pre viac</string>
   <string name="state_off">Vypnuté</string>
   <string name="state_on">Zapnuté</string>
   <string name="status_bar_date_format">MMM d</string>
@@ -526,8 +526,8 @@ Dotknutím prezrite."</string>
   <string name="store_picture_message">Povoliť Ad ukladať obrázky v galérii?</string>
   <string name="store_picture_title">Uložiť obrázok</string>
   <string name="sunday">Nedeľa</string>
-  <string name="swipe_left_to_download">Posuňte doľava pre stiahnutie.</string>
-  <string name="swipe_left_to_try_again">Posunutím doľava skúsite znova.</string>
+  <string name="swipe_left_to_download">Potiahnite doľava pre stiahnutie.</string>
+  <string name="swipe_left_to_try_again">Potiahnutím doľava skúste znova.</string>
   <string name="system_update_available">Dostupná aktualizácia systému</string>
   <string name="system_update_failed_to_download">Systémová aktualizácia nebola stiahnutá</string>
   <string name="tap_open_error">Ťuknutím otvoríte v telefóne.</string>
@@ -544,8 +544,8 @@ Dotknutím prezrite."</string>
   <string name="troubleshoot_online_help">"Pre viac informácií, navštívte 
 %s
 "</string>
-  <string name="troubleshoot_somethings_wrong">"Nie je možné pripojiť sa na internet. Posunutím získate tipy."</string>
-  <string name="troubleshoot_somethings_wrong_paired">"Nie je možné pripojiť sa k aplikácii Android Wear v telefóne. Posunutím získate tipy."</string>
+  <string name="troubleshoot_somethings_wrong">"Nie je možné pripojiť sa na internet. Potiahnutím získate tipy."</string>
+  <string name="troubleshoot_somethings_wrong_paired">"Nie je možné pripojiť sa k aplikácii Android Wear v telefóne. Potiahnutím získate tipy."</string>
   <string name="troubleshoot_tethering">Skúste zapnúť Bluetooth tethering v telefóne.</string>
   <string name="troubleshoot_use_android_wear">Nainštalujte si aplikáciu Android Wear z Obchodu Play. Potom ju spustite pre zahájenie pripojenia k hodinkám.</string>
   <string name="try_searching_again">Skúste hľadať znova</string>
@@ -555,7 +555,7 @@ Dotknutím prezrite."</string>
   <string name="tts_media_controls_page">Ovládanie médií</string>
   <string name="tts_watch_face_picker">Ciferníky</string>
   <string name="tuesday">Utorok</string>
-  <string name="tutorial_activity_text">Tiež môžete posunutím odstrániť keď ste v aplikácii</string>
+  <string name="tutorial_activity_text">Tiež môžete potiahnutím odstrániť keď ste v aplikácii</string>
   <string name="tutorial_all_set">"Všetko nastavené!"</string>
   <string name="tutorial_apps_action_button">Pre zobrazenie aplikácií a akcií, stlačte a podržte bočné tlačidlo</string>
   <string name="tutorial_apps_action_press">Pre zobrazenie aplikácií a akcií, potiahnite doľava na ciferníku</string>
@@ -568,15 +568,15 @@ Dotknutím prezrite."</string>
   <string name="tutorial_dont_worry">"Nebojte sa – karty sa znovu objavia keď budú pre vás užitočné."</string>
   <string name="tutorial_easy">Jednoduché, však?</string>
   <string name="tutorial_got_it">OK, mám to</string>
-  <string name="tutorial_great">Výbrone!</string>
+  <string name="tutorial_great">Výborne!</string>
   <string name="tutorial_keep_swiping">Pokračujte v posúvaní</string>
   <string name="tutorial_one_last_thing">Ešte jedna vec…</string>
   <string name="tutorial_say_what_time">Vyslovte, \"What time is sunset?\"</string>
   <string name="tutorial_swipe_again">Skúste posunúť ešte raz.</string>
-  <string name="tutorial_swipe_dismiss">Posunutím odstránite.</string>
-  <string name="tutorial_swipe_left">Posuntím doľava zobrazíte viac:</string>
+  <string name="tutorial_swipe_dismiss">Potiahnutím odstránite.</string>
+  <string name="tutorial_swipe_left">Potiahnutím doľava zobrazíte viac:</string>
   <string name="tutorial_swipe_left_again">A znova pre akcie</string>
-  <string name="tutorial_swipe_up">Posunutím nahor začneme.</string>
+  <string name="tutorial_swipe_up">Potiahnutím nahor začneme.</string>
   <string name="tutorial_tap_to_read_more">Ťuknutím prečítate viac</string>
   <string name="tutorial_touch_clock">Ťuknite do hodiniek a vyslovte, \"Ok Google\"</string>
   <string name="tutorial_touch_clock_what_time">Ťuknite kdekoľvek na hodinky a vyslovte akciu, napríklad: \"Show me my steps\"</string>
@@ -641,7 +641,7 @@ Dotknutím prezrite."</string>
   <string name="voice_action_reminder_field">Pripomienka?</string>
   <string name="voice_action_remote_app_title">Otvoriť aplikáciu</string>
   <string name="voice_action_remote_disambig">Otvorte váš telefón a vyberte, ktorú aplikáciu odteraz na túto akciu používať.</string>
-  <string name="voice_action_remote_error">"Pardón, nefungovalo to. Skúste znova."</string>
+  <string name="voice_action_remote_error">"Pardon, nefungovalo to. Skúste znova."</string>
   <string name="voice_action_remote_favorite">V telefóne si vyberte obľúbenú aplikáciu na vykonanie tejto akcie.</string>
   <string name="voice_action_remote_unkown">Skúste znova vo vašom telefóne.</string>
   <string name="voice_action_save">Uložiť</string>
@@ -699,7 +699,7 @@ Dotknutím prezrite."</string>
   <string name="wc_no_devices_found">Žiadne ďalšie zariadenia nablízku</string>
   <string name="wc_no_photos">Nenašli sa žiadne fotky</string>
   <string name="wc_no_stickers">"Sieť nedostupná. Nálepky nebolo možné prijať"</string>
-  <string name="wc_not_paired_info">Pre zaťiatok pridajte partnera</string>
+  <string name="wc_not_paired_info">Pre začiatok pridajte partnera</string>
   <string name="wc_open_on_phone">Otvoriť v telefóne.</string>
   <string name="wc_pair_on_phone">Odoslať pozvánku z telefónu</string>
   <string name="wc_pair_on_watch">Hľadať hodinky nablízku</string>
