@@ -36,9 +36,6 @@
   <string name="common_google_play_services_update_title">Aktualizovať služby Google Play</string>
   <string name="common_google_play_services_updating_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú.</string>
   <string name="common_google_play_services_updating_title">Služby Google Play sa aktualizujú</string>
-  <string name="common_open_on_phone">Otvoriť na telefóne</string>
-  <string name="common_signin_button_text">Prihlásiť sa</string>
-  <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
   <string name="common_open_on_phone">Otvoriť v telefóne</string>
   <string name="common_signin_button_text">Prihlásiť sa</string>
   <string name="common_signin_button_text_long">Prihlásiť sa s Google</string>
