@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="sim_unlock_attempts_remaining">
+        <item quantity="other">Ostávajúce pokusy: %d</item>
+        <item quantity="one">Ostávajúce pokusy: %d</item>
+     </plurals>
+     <plurals name="wifi_power_save_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">1h</item>
+     </plurals>
+     <plurals name="wifi_power_save_minutes">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+     </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="incoming_call_text_quick_replies">
+        <item>Teraz nemozem, deje sa nieco?</item>
+        <item>Zavolam hned naspat.</item>
+        <item>Som na ceste, pockaj ma.</item>
+        <item>Som na meetingu, zavolam naspat ked skonci.</item>
+    </string-array>
+</resources>

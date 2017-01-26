@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_seconds">
+        <item quantity="other">%d sekúnd</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
+    </plurals>
+    <plurals name="timer_minutes">
+        <item quantity="other">%d minút</item>
+        <item quantity="one">1 minúta</item>
+        <item quantity="few">%d minúty</item>
+        <item quantity="many">%d minúty</item>
+    </plurals>
+    <plurals name="timer_hours">
+        <item quantity="other">%s hodín</item>
+        <item quantity="one">%s hodina</item>
+        <item quantity="few">%s hodiny</item>
+        <item quantity="many">%s hodiny</item>
+    </plurals>
+</resources>
