@@ -408,7 +408,7 @@ Prepáčte, Google vám s tým nevie pomôcť"</string>
   <string name="quick_settings_announce_tts">Rýchle nastavenia</string>
   <string name="quick_settings_dnd_alarms">Iba alarmy</string>
   <string name="quick_settings_dnd_priority">Iba prioritné</string>
-  <string name="quick_settings_dnd_title">Nevyrušovať</string>
+  <string name="quick_settings_dnd_title">Nerušiť</string>
   <string name="quick_settings_dnd_total_silence">Úplné ticho</string>
   <string name="quick_settings_notification_title">Upozornenia</string>
   <string name="quick_settings_notifications_all">Všetky</string>
