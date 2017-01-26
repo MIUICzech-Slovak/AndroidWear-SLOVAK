@@ -1131,7 +1131,7 @@ dnes}}"</string>
      <string name="pace_label">Tempo</string>
      <string name="passive_add_goal">Pridať cieľ</string>
      <string name="passive_create_your_own">Vytvorte si vlastný</string>
-     <string name="passive_daily_goals_header">Ddenné ciele</string>
+     <string name="passive_daily_goals_header">Denné ciele</string>
      <string name="passive_goals_header">Ciele</string>
      <string name="passive_heart_rate_ecg_error">"Relax &amp; press your fingers on the watch's front frame"</string>
      <string name="passive_heart_rate_error">Tighten band and try again</string>
@@ -1155,7 +1155,7 @@ dnes}}"</string>
      <string name="reps_label">Reps</string>
      <string name="reset_challenge_confirmed">Challenge reset</string>
      <string name="reset_challenge_label">Reset challenge</string>
-     <string name="resting_calories_label">Inactive Calories</string>
+     <string name="resting_calories_label">Neaktívne kalórie</string>
      <string name="resting_kilojoules_label">Resting Kilojoules</string>
      <string name="resume_detection">Obnoviť detekciu</string>
      <string name="saturday_ultra_short_label">S</string>
@@ -1185,7 +1185,7 @@ dnes}}"</string>
      <string name="total_pace_label">Priemerné tempo</string>
      <string name="total_reps_label">Kroky celkom</string>
      <string name="total_time_label">Vzdialenosť celkom</string>
-     <string name="tuesday_ultra_short_label">T</string>
+     <string name="tuesday_ultra_short_label">U</string>
      <string name="unit_cal">kalórie</string>
      <string name="unit_duration">trvanie</string>
      <string name="unit_steps">krokov</string>

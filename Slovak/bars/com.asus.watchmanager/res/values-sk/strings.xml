@@ -88,7 +88,7 @@
   <string name="eco_mode_off_toast">ECO režim vyp</string>
   <string name="eco_mode_on_toast">"ECO režim zap.
 Stlačte ktorékoľvek tlačidlo pre ukončenie."</string>
-  <string name="eco_mode_setting_label">Nastavenia ECO režimu</string>
+  <string name="eco_mode_setting_label">ECO režim</string>
   <string name="eco_setting_disable_message">Do you want to stop disabling Tilt to wake screen in ECO mode?</string>
   <string name="eco_setting_enable_message">Do you want to disable Tilt to wake screen in ECO mode?</string>
   <string name="em_abc_contact_title">My emergency contacts:</string>
@@ -127,7 +127,7 @@ Stlačte ktorékoľvek tlačidlo pre ukončenie."</string>
   <string name="ph_mute">Stíšiť</string>
   <string name="ph_sound">Zvuk</string>
   <string name="ph_vibration">Vibrácie</string>
-  <string name="quick_launch">Nastavenie tlačidiel</string>
+  <string name="quick_launch">Tlačidlá</string>
   <string name="refresh">Obnoviť</string>
   <string name="remotecc_handlecall_switch_phone">Prepnúť na reproduktor hodiniek</string>
   <string name="slices_lable">Slices</string>
