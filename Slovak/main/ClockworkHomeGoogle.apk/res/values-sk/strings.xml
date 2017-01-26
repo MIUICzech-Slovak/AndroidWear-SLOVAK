@@ -406,14 +406,14 @@ Prepáčte, Google vám s tým nevie pomôcť"</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="quick_settings_announce_tts">Rýchle nastavenia</string>
-  <string name="quick_settings_dnd_alarms">Iba alarmy</string>
+  <string name="quick_settings_dnd_alarms">Iba budíky</string>
   <string name="quick_settings_dnd_priority">Iba prioritné</string>
   <string name="quick_settings_dnd_title">Nerušiť</string>
   <string name="quick_settings_dnd_total_silence">Úplné ticho</string>
   <string name="quick_settings_notification_title">Upozornenia</string>
   <string name="quick_settings_notifications_all">Všetky</string>
   <string name="quick_settings_notifications_none">Žiadne</string>
-  <string name="quick_settings_notifications_not_even_alarms">Ani alarmy</string>
+  <string name="quick_settings_notifications_not_even_alarms">Ani budíky</string>
   <string name="quick_settings_notifications_priority">Prioritné</string>
   <string name="quick_settings_sound_title">Zvuk</string>
   <string name="quick_settings_sunlight_max_description">Jas už na maxime</string>
