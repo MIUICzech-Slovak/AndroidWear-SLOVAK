@@ -170,8 +170,8 @@
         <item quantity="many">Ešte %1$d kroka a bude z vás vývojár.</item>
      </plurals>
      <plurals name="sim_unlock_attempts_remaining">
-        <item quantity="other">%d more tries</item>
-        <item quantity="one">%d more try</item>
+        <item quantity="other">Ostávajúce pokusy: %d</item>
+        <item quantity="one">Ostávajúce pokusy: %d</item>
      </plurals>
      <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Nastavte certifikáty ako dôveryhodné alebo ich odstráňte</item>
@@ -220,12 +220,12 @@
         <item quantity="many">%d položky</item>
      </plurals>
      <plurals name="wifi_power_save_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%dh</item>
+        <item quantity="one">1h</item>
      </plurals>
      <plurals name="wifi_power_save_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
      </plurals>
      <plurals name="wrong_pin_code">
         <item quantity="other">Nesprávny kód PIN SIM karty. Zostáva vám %d pokusov.</item>
