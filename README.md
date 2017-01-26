@@ -1,2 +1,2 @@
-# ZenWatch3-SLOVAK
+# ASUS ZenWatch3-SLOVAK
 SLOVAK Translation for ZenWatch3 [swift]
