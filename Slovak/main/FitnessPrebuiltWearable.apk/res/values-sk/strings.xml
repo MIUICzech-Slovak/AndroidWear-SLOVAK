@@ -1192,5 +1192,6 @@ dnes}}"</string>
      <string name="unit_steps_singular">krok</string>
      <string name="unit_time_of_day">krát</string>
      <string name="unit_times_short">krát</string>
+     <string name="duration_unit_label">h:min</string>		
      <string name="upgrade_needed">Aktualizujte Fit apl. na telefóne</string>
 </resources>
