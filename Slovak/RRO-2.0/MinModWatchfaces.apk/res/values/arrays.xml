@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="progress_spinner_sequence">
+        <item>#fff4b400</item>
+        <item>#ffdb4437</item>
+        <item>#ff4285f4</item>
+        <item>#ff0f9d58</item>
+    </array>
+    <string-array name="time_zones_to_regions">
+        <item>Africa|Africa/Accra|Accra, Ghana</item>
+        <item>Africa|Africa/Addis_Ababa|Addis Ababa, Ethiopia</item>
+        <item>Africa|Africa/Algiers|Algiers, Algeria</item>
+        <item>Africa|Africa/Asmera|Asmera, Eritrea</item>
+        <item>Africa|Africa/Bamako|Bamako, Mali</item>
+        <item>Africa|Africa/Bangui|Bangui, Central African Republic</item>
+        <item>Africa|Africa/Cairo|Cairo, Egypt</item>
+        <item>Africa|Africa/Johannesburg|Cape Town, South Africa</item>
+        <item>Africa|Africa/Conakry|Conakry, Guinea</item>
+        <item>Africa|Africa/Dakar|Dakar, Senegal</item>
+        <item>Africa|Africa/Dar_es_Salaam|Dar es Salaam, Tanzania</item>
+        <item>Africa|Africa/Djibouti|Djibouti, Djibouti</item>
+        <item>Africa|Africa/Douala|Douala, Cameroon</item>
+        <item>Africa|Africa/Freetown|Freetown, Sierra Leone</item>
+        <item>Africa|Africa/Harare|Harare, Zimbabwe</item>
+        <item>Africa|Africa/Kampala|Kampala, Uganda</item>
+        <item>Africa|Africa/Khartoum|Khartoum, Sudan</item>
+        <item>Africa|Africa/Kinshasa|Kinshasa, Congo</item>
+        <item>Africa|Africa/Lagos|Lagos, Nigeria</item>
+        <item>Africa|Africa/Luanda|Luanda, Angola</item>
+        <item>Africa|Africa/Lusaka|Lusaka, Zambia</item>
+        <item>Africa|Africa/Maputo|Maputo, Mozambique</item>
+        <item>Africa|Africa/Mogadishu|Mogadishu, Somalia</item>
+        <item>Africa|Africa/Monrovia|Monrovia, Liberia</item>
+        <item>Africa|Africa/Nairobi|Nairobi, Kenya</item>
+        <item>Africa|Africa/Ndjamena|Ndjamena, Chad</item>
+        <item>Africa|Africa/Nouakchott|Nouakchott, Mauritania</item>
+        <item>Africa|Africa/Ouagadougou|Ouagadougou, Burkina Faso</item>
+        <item>Africa|Africa/Casablanca|Rabat, Morocco</item>
+        <item>Africa|Africa/Tripoli|Tripoli, Libya</item>
+        <item>Africa|Africa/Tunis|Tunis, Tunisia</item>
+        <item>Asia|Asia/Amman|Amman, Jordan</item>
+        <item>Asia|Asia/Baghdad|Baghdad, Iraq</item>
+        <item>Asia|Asia/Bahrain|Bahrain, Bahrain</item>
+        <item>Asia|Asia/Baku|Baku, Azerbaijan</item>
+        <item>Asia|Asia/Beirut|Beirut, Lebanon</item>
+        <item>Asia|Asia/Brunei|Brunei, Brunei</item>
+        <item>Asia|Asia/Calcutta|Calcutta, India</item>
+        <item>Asia|Asia/Colombo|Colombo, Sri Lanka</item>
+        <item>Asia|Asia/Dhaka|Dhaka, Bangladesh</item>
+        <item>Asia|Asia/Dubai|Dubai, U.A.E.</item>
+        <item>Asia|Asia/Saigon|Ho Chi Minh, Vietnam</item>
+        <item>Asia|Asia/Hong_Kong|Hong Kong, Hong Kong</item>
+        <item>Asia|Asia/Tehran|Tehran, Iran</item>
+        <item>Asia|Asia/Istanbul|Istanbul, Turkey</item>
+        <item>Asia|Asia/Kabul|Kabul, Afghanistan</item>
+        <item>Asia|Asia/Kamchatka|Kamchatka, Russia</item>
+        <item>Asia|Asia/Karachi|Karachi, Pakistan</item>
+        <item>Asia|Asia/Kathmandu|Kathmandu, Nepal</item>
+        <item>Asia|Asia/Kuala_Lumpur|Kuala Lumpur, Malaysia</item>
+        <item>Asia|Asia/Kuwait|Kuwait, Kuwait</item>
+        <item>Asia|Asia/Manila|Manila, Philippines</item>
+        <item>Asia|Asia/Qatar|Doha, Qatar</item>
+        <item>Asia|Asia/Rangoon|Rangoon, Myanmar</item>
+        <item>Asia|Asia/Riyadh|Riyadh, Saudi Arabia</item>
+        <item>Asia|Asia/Seoul|Seoul, Korea</item>
+        <item>Asia|Asia/Shanghai|Shanghai, China</item>
+        <item>Asia|Asia/Singapore|Singapore, Singapore</item>
+        <item>Asia|Asia/Srednekolymsk|Srednekolymsk, Russia</item>
+        <item>Asia|Asia/Taipei|Taipei, Taiwan</item>
+        <item>Asia|Asia/Tashkent|Tashkent, Uzbekistan</item>
+        <item>Asia|Asia/Japan|Tokyo, Japan</item>
+        <item>Asia|Asia/Vladivostok|Vladivostok, Russia</item>
+        <item>Atlantic|Atlantic/South_Georgia|Grytviken, South Georgia</item>
+        <item>Atlantic|Atlantic/Azores|Ponta Delgada, Portugal</item>
+        <item>Atlantic|Atlantic/Reykjavik|Reykjavik, Iceland</item>
+        <item>Australia/Pacific|Australia/Adelaide|Adelaide, Australia</item>
+        <item>Australia/Pacific|Australia/Brisbane|Brisbane, Australia</item>
+        <item>Australia/Pacific|Australia/Canberra|Canberra, Australia</item>
+        <item>Australia/Pacific|Australia/Darwin|Darwin, Australia</item>
+        <item>Australia/Pacific|Australia/Hobart|Hobart, Australia</item>
+        <item>Australia/Pacific|Australia/Melbourne|Melbourne, Australia</item>
+        <item>Australia/Pacific|Australia/Perth|Perth, Australia</item>
+        <item>Australia/Pacific|Australia/Sydney|Sydney, Australia</item>
+        <item>Europe|Europe/Amsterdam|Amsterdam, Netherlands</item>
+        <item>Europe|Europe/Athens|Athens, Greece</item>
+        <item>Europe|Europe/Belgrade|Belgrade, Serbia</item>
+        <item>Europe|Europe/Berlin|Berlin, Germany</item>
+        <item>Europe|Europe/Brussels|Brussels, Belgium</item>
+        <item>Europe|Europe/Bucharest|Bucharest, Romania</item>
+        <item>Europe|Europe/Budapest|Budapest, Hungary</item>
+        <item>Europe|Europe/London|Cardiff, UK</item>
+        <item>Europe|Europe/Copenhagen|Copenhagen, Denmark</item>
+        <item>Europe|Europe/Dublin|Cork, Ireland</item>
+        <item>Europe|Europe/Dublin|Dublin, Ireland</item>
+        <item>Europe|Europe/London|Edinburgh, Scotland</item>
+        <item>Europe|Europe/Zurich|Geneva, Switzerland</item>
+        <item>Europe|Europe/Helsinki|Helsinki, Finland</item>
+        <item>Europe|Asia/Istanbul|Istanbul, Turkey</item>
+        <item>Europe|Europe/Kiev|Kiev, Ukraine</item>
+        <item>Europe|Europe/Lisbon|Lisbon, Portugal</item>
+        <item>Europe|Europe/Ljubljana|Ljubljana, Slovenia</item>
+        <item>Europe|Europe/London|London, UK</item>
+        <item>Europe|Europe/Madrid|Madrid, Spain</item>
+        <item>Europe|Europe/Moscow|Moscow, Russia</item>
+        <item>Europe|Europe/Berlin|Munich, Germany</item>
+        <item>Europe|Europe/Oslo|Oslo, Norway</item>
+        <item>Europe|Europe/Paris|Paris, France</item>
+        <item>Europe|Europe/Prague|Prague, Czech Republic</item>
+        <item>Europe|Europe/Rome|Rome, Italy</item>
+        <item>Europe|Europe/Sofia|Sofia, Bulgaria</item>
+        <item>Europe|Europe/Moscow|St. Petersburg, Russia</item>
+        <item>Europe|Europe/Stockholm|Stockholm, Sweden</item>
+        <item>Europe|Europe/Vienna|Vienna, Austria</item>
+        <item>Europe|Europe/Moscow|Volgograd, Russia</item>
+        <item>Europe|Europe/Warsaw|Warsaw, Poland</item>
+        <item>Europe|Europe/Zagreb|Zagreb, Croatia</item>
+        <item>Europe|Europe/Zurich|Zurich, Switzerland</item>
+        <item>North America|America/Adak|Adak, Alaska, U.S.A.</item>
+        <item>North America|America/Anchorage|Anchorage, Alaska, U.S.A.</item>
+        <item>North America|US/Eastern|Atlanta, Georgia, U.S.A.</item>
+        <item>North America|US/Central|Austin, Texas, U.S.A.</item>
+        <item>North America|US/Eastern|Boston, Boston, U.S.A.</item>
+        <item>North America|Canada/Mountain|Calgary, Canada</item>
+        <item>North America|America/Chicago|Chicago, Illinois, U.S.A.</item>
+        <item>North America|US/Eastern|Columbus, Ohio, U.S.A.</item>
+        <item>North America|US/Pacific|Cupertino, California, U.S.A.</item>
+        <item>North America|US/CENTRAL|Dallas, Texas, U.S.A.</item>
+        <item>North America|America/Denver|Denver, Colorado, U.S.A.</item>
+        <item>North America|America/Detroit|Detroit, Michigan, U.S.A.</item>
+        <item>North America|America/Guatemala|Guatemala, Guatemala</item>
+        <item>North America|Canada/Atlantic|Halifax, Canada</item>
+        <item>North America|America/Havana|Havana, Cuba</item>
+        <item>North America|America/Indianapolis|Indianapolis, Indiana, U.S.A.</item>
+        <item>North America|US/Eastern|Knoxville, Tennessee, U.S.A.</item>
+        <item>North America|America/Los_Angeles|Los Angeles, California, U.S.A.</item>
+        <item>North America|America/Managua|Managua, Nicaragua</item>
+        <item>North America|US/Eastern|Manchester, New Hampshire, U.S.A.</item>
+        <item>North America|US/Central|Memphis, Tennessee, U.S.A.</item>
+        <item>North America|America/Mexico_City|Mexico City, Mexico</item>
+        <item>North America|US/Eastern|Miami, Florida, U.S.A.</item>
+        <item>North America|US/Central|Minneapolis , Minnesota, U.S.A.</item>
+        <item>North America|America/Montreal|Montreal, Canada</item>
+        <item>North America|America/New_York|New York, New York, U.S.A.</item>
+        <item>North America|America/Godthab|Nuuk, Greenland</item>
+        <item>North America|Canada/Eastern|Ottawa, Canada</item>
+        <item>North America|America/Panama|Panama, Panama</item>
+        <item>North America|US/Eastern|Philadelphia, Pennsylvania, U.S.A.</item>
+        <item>North America|America/Phoenix|Phoenix, Arizona, U.S.A.</item>
+        <item>North America|America/Port-au-Prince|Port-au-Prince, Haiti</item>
+        <item>North America|US/Pacific|Portland, Oregon, U.S.A.</item>
+        <item>North America|Canada/Saskatchewan|Regina, Canada</item>
+        <item>North America|US/Mountain|Salt Lake City, Utah, U.S.A.</item>
+        <item>North America|US/Pacific|San Diego, California, U.S.A.</item>
+        <item>North America|US/Pacific|San Francisco, California, U.S.A.</item>
+        <item>North America|America/Costa_Rica|San Jose, California, U.S.A.</item>
+        <item>North America|America/El_Salvador|San Salvador, El Salvador</item>
+        <item>North America|America/Santo_Domingo|Santo Domingo, Dominican Republic</item>
+        <item>North America|US/Pacific|Seattle, Washington, U.S.A.</item>
+        <item>"North America|Canada/Newfoundland|St. John's, Canada"</item>
+        <item>North America|US/Central|St. Louis, Missouri, U.S.A.</item>
+        <item>North America|America/Tegucigalpa|Tegucigalpa, Honduras</item>
+        <item>North America|Canada/Eastern|Toronto, Canada</item>
+        <item>North America|America/Vancouver|Vancouver, Canada</item>
+        <item>North America|US/Eastern|Washington, D.C., Washington, U.S.A.</item>
+        <item>North America|America/Winnipeg|Winnipeg, Canada</item>
+        <item>Pacific|Pacific/Guam|Guam, Guam</item>
+        <item>Pacific|Pacific/Honolulu|Honolulu, Hawaii</item>
+        <item>Pacific|Pacific/Noumea|Noumea, New Caledonia</item>
+        <item>Pacific|Pacific/Pago_Pago|Pago Pago, American Samoa</item>
+        <item>Pacific|Pacific/Auckland|Wellington, New Zealand</item>
+        <item>South America|America/Asuncion|Asuncion, Paraguay</item>
+        <item>South America|America/Bogota|Bogota, Colombia</item>
+        <item>South America|Brazil/East|Brasilia, Brazil</item>
+        <item>South America|America/Buenos_Aires|Buenos Aires, Argentina</item>
+        <item>South America|America/Caracas|Caracas, Venezuela</item>
+        <item>South America|America/Cayenne|Cayenne, French Guiana</item>
+        <item>South America|America/Guyana|Georgetown, Guyana</item>
+        <item>South America|America/La_Paz|La Paz, Bolivia</item>
+        <item>South America|America/Lima|Lima, Peru</item>
+        <item>South America|America/Montevideo|Montevideo, Peru</item>
+        <item>South America|America/Paramaribo|Paramaribo, Suriname</item>
+        <item>South America|America/Guayaquil|Quito, Ecuador</item>
+        <item>South America|America/Recife|Recife, Pernambuco</item>
+        <item>South America|Brazil/East|Rio de Janeiro, Brazil</item>
+        <item>South America|America/Puerto_Rico|San Juan, Puerto Rico</item>
+        <item>South America|America/Santiago|Santiago, Chile</item>
+        <item>South America|America/Sao_Paulo|Sao Paulo, Brazil</item>
+    </string-array>
+    <string-array name="time_zone_codes">
+        <item>ACC</item>
+        <item>ADD</item>
+        <item>ALG</item>
+        <item>ASM</item>
+        <item>BKO</item>
+        <item>BGF</item>
+        <item>CAI</item>
+        <item>CPT</item>
+        <item>CKY</item>
+        <item>DKR</item>
+        <item>DAR</item>
+        <item>JIB</item>
+        <item>DLA</item>
+        <item>FNA</item>
+        <item>HRE</item>
+        <item>KLA</item>
+        <item>KRT</item>
+        <item>FIH</item>
+        <item>LOS</item>
+        <item>LAD</item>
+        <item>LUN</item>
+        <item>MPM</item>
+        <item>MGQ</item>
+        <item>MLW</item>
+        <item>NBO</item>
+        <item>NDJ</item>
+        <item>NKC</item>
+        <item>OUA</item>
+        <item>RBA</item>
+        <item>TIP</item>
+        <item>TUN</item>
+        <item>AMM</item>
+        <item>BGW</item>
+        <item>BAH</item>
+        <item>BAK</item>
+        <item>BEY</item>
+        <item>BWN</item>
+        <item>CCU</item>
+        <item>CMB</item>
+        <item>DAC</item>
+        <item>DXB</item>
+        <item>SGN</item>
+        <item>HKG</item>
+        <item>THR</item>
+        <item>ITY</item>
+        <item>KBL</item>
+        <item>PKC</item>
+        <item>KHI</item>
+        <item>KTM</item>
+        <item>KUL</item>
+        <item>KWI</item>
+        <item>MNL</item>
+        <item>DOH</item>
+        <item>RGN</item>
+        <item>RUH</item>
+        <item>SEL</item>
+        <item>SGH</item>
+        <item>SIN</item>
+        <item>SEK</item>
+        <item>TPE</item>
+        <item>TAS</item>
+        <item>TYO</item>
+        <item>VVO</item>
+        <item>SGS</item>
+        <item>PDL</item>
+        <item>REY</item>
+        <item>ADL</item>
+        <item>BNE</item>
+        <item>CBR</item>
+        <item>DRW</item>
+        <item>HBA</item>
+        <item>MEL</item>
+        <item>PER</item>
+        <item>SYD</item>
+        <item>AMS</item>
+        <item>ATH</item>
+        <item>BEG</item>
+        <item>BER</item>
+        <item>BRU</item>
+        <item>BUH</item>
+        <item>BUD</item>
+        <item>CDF</item>
+        <item>CPH</item>
+        <item>ORK</item>
+        <item>DUB</item>
+        <item>EDI</item>
+        <item>GVA</item>
+        <item>HEL</item>
+        <item>IST</item>
+        <item>IEV</item>
+        <item>LIS</item>
+        <item>LJU</item>
+        <item>LON</item>
+        <item>MAD</item>
+        <item>MOW</item>
+        <item>MUC</item>
+        <item>OSL</item>
+        <item>PAR</item>
+        <item>PRG</item>
+        <item>ROM</item>
+        <item>SOF</item>
+        <item>LED</item>
+        <item>STO</item>
+        <item>VIE</item>
+        <item>VOG</item>
+        <item>WAW</item>
+        <item>ZAG</item>
+        <item>ZRH</item>
+        <item>ADK</item>
+        <item>ANC</item>
+        <item>ATL</item>
+        <item>AUS</item>
+        <item>BOS</item>
+        <item>CAL</item>
+        <item>CHI</item>
+        <item>CMH</item>
+        <item>CUO</item>
+        <item>DAL</item>
+        <item>DEN</item>
+        <item>DET</item>
+        <item>GUA</item>
+        <item>HAL</item>
+        <item>HAV</item>
+        <item>IND</item>
+        <item>TYS</item>
+        <item>LAX</item>
+        <item>MGA</item>
+        <item>MHT</item>
+        <item>MEM</item>
+        <item>DFL</item>
+        <item>MIA</item>
+        <item>MES</item>
+        <item>MTR</item>
+        <item>NYC</item>
+        <item>GOH</item>
+        <item>OTT</item>
+        <item>PTY</item>
+        <item>PHL</item>
+        <item>PHX</item>
+        <item>PAP</item>
+        <item>PDX</item>
+        <item>SAK</item>
+        <item>SLC</item>
+        <item>SAN</item>
+        <item>SFO</item>
+        <item>SJC</item>
+        <item>SAL</item>
+        <item>SDQ</item>
+        <item>SEA</item>
+        <item>SJF</item>
+        <item>SYT</item>
+        <item>TGU</item>
+        <item>TOR</item>
+        <item>VAN</item>
+        <item>WAS</item>
+        <item>WNP</item>
+        <item>GUM</item>
+        <item>HNL</item>
+        <item>NOU</item>
+        <item>PPG</item>
+        <item>WLG</item>
+        <item>ASU</item>
+        <item>BOG</item>
+        <item>BSB</item>
+        <item>BUE</item>
+        <item>CCS</item>
+        <item>CAY</item>
+        <item>GEO</item>
+        <item>LPB</item>
+        <item>LIM</item>
+        <item>MVD</item>
+        <item>PBM</item>
+        <item>UIO</item>
+        <item>REC</item>
+        <item>RIO</item>
+        <item>SJU</item>
+        <item>SCL</item>
+        <item>SAO</item>
+    </string-array>
+</resources>

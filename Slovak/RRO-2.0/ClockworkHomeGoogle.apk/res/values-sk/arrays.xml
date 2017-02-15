@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cue_menu_send_text">
+        <item>Poslať správu Petrovi, kde si?</item>
+        <item>Poslať správu Petrovi, vidíme sa neskôr</item>
+        <item>Poslať správu Eve, kde si?</item>
+        <item>Poslať správu Eve, vidime sa neskôr</item>
+    </string-array>
+    <string-array name="cue_menu_send_email">
+        <item>Poslať email Petrovi, čo robíš v Piatok?</item>
+        <item>Poslať email Eve, čo robíš v Piatok?</item>
+    </string-array>
+    <string-array name="cue_menu_play_music">
+        <item>Prehrať hudbu od Elánu</item>
+        <item>Prehrať hudbu od Tublatanky</item>
+        <item>Prehrať hudbu od Teamu</item>
+        <item>Prehrať hudbu od Lojza</item>
+    </string-array>
+    <string-array name="cue_menu_alarm">
+        <item>Nastav budík na 6:00 dnes večer</item>
+        <item>Nastav budík o 3 hodiny od teraz</item>
+        <item>Nastav budík na 7:00 ráno</item>
+    </string-array>
+    <string-array name="cue_menu_send_chat">
+        <item>Poslať správu cez %1$s Eve, Som tu</item>
+        <item>Poslať správu cez %1$s Petrovi, budem tam o 5 min</item>
+        <item>Poslať správu cez %1$s Janovi, som na ceste</item>
+        <item>Poslať správu cez %1$s Ferovi, vidíme sa o chvíľu</item>
+        <item>Poslať správu cez %1$s Katke, to znie dobre</item>
+        <item>Poslať správu cez %1$s Lucii, stojím v zápche</item>
+        <item>Poslať správu cez %1$s Petre, ďakujem!</item>
+        <item>Poslať správu cez %1$s Jane, ako sa máš?</item>
+    </string-array>
+    <string-array name="cue_menu_start_call">
+        <item>Zavolaj Petrovi</item>
+        <item>Zavolaj Eve</item>
+    </string-array>
+    <string-array name="incoming_call_text_quick_replies">
+        <item>Teraz nemozem, deje sa nieco?</item>
+        <item>Zavolam hned naspat.</item>
+        <item>Som na ceste, pockaj ma.</item>
+        <item>Som na meetingu, zavolam naspat ked skonci.</item>
+    </string-array>
+    <string-array name="conversation_starters">
+        <item>Niečo nove?</item>
+        <item>Si tam?</item>
+        <item>Poď tu</item>
+        <item>Gratulujem!</item>
+        <item>Máš chvíľku?</item>
+        <item>Ahoj</item>
+        <item>Ako sa máš?</item>
+        <item>Ako to išlo?</item>
+        <item>Budem tam o chvíľku</item>
+        <item>Som tu</item>
+        <item>Som hladný</item>
+        <item>Som na ceste</item>
+        <item>Som vonku</item>
+        <item>Teraz odchádzam</item>
+        <item>Milujem Ťa</item>
+        <item>Chýbaš mi</item>
+        <item>Niečo potrebuješ?</item>
+        <item>Môžeme ísť?</item>
+        <item>Toto je odoslané z mojích hodiniek!</item>
+        <item>Čo robíš?</item>
+        <item>Ako sa máš?</item>
+        <item>Kde sa stretneme?</item>
+        <item>Kde si?</item>
+    </string-array>
+    <string-array name="frequent_conversation_starters">
+        <item>Áno</item>
+        <item>Nie</item>
+        <item>OK</item>
+        <item>Milujem Ťa</item>
+        <item>Som tu</item>
+        <item>Idem</item>
+        <item>Idem domov</item>
+        <item>Teraz odchádzam</item>
+        <item>Kde si?</item>
+        <item>Čo robíš?</item>
+        <item>Čo je?</item>
+        <item>Ďakujem</item>
+        <item>Chýbaš mi</item>
+        <item>LOL</item>
+    </string-array>
+    <string-array name="hats_answers_1">
+        <item>Extrémne šťastný</item>
+        <item>Veľmi štastný</item>
+        <item>Skôr štastný ako nešťastný</item>
+        <item>Trochu nešťastný</item>
+        <item>Veľmi nešťastný</item>
+    </string-array>
+</resources>
