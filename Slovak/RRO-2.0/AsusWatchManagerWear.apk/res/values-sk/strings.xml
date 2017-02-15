@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Autonomous_lable">Autonomous</string>
+  <string name="Sovereign_lable">Sovereign</string>
   <string name="abc_action_bar_home_description">Prejsť na plochu</string>
   <string name="abc_action_bar_up_description">Prejsť hore</string>
   <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
@@ -13,6 +15,17 @@
   <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
   <string name="abc_shareactionprovider_share_with">Zdieľať pomocou</string>
   <string name="abc_shareactionprovider_share_with_application">Zdieľať pomocou %s</string>
+  <string name="accept">Prijať</string>
+  <string name="agenda">Agenda</string>
+  <string name="all_day_event">Celý deň</string>
+  <string name="app_name">ZenWatch Manager</string>
+  <string name="avant_lable">Avant</string>
+  <string name="button_setting_bottom_button">Spodné tlačidlo</string>
+  <string name="button_setting_top_button">Horné tlačidlo</string>
+  <string name="charging_time">Ostáva %dmin</string>
+  <string name="choose_an_app_to_launch">Vybrať funkciu</string>
+  <string name="choose_button_for_launch">Vybrať tlačidlo</string>
+  <string name="color_theme">Farebná téma</string>
   <string name="common_android_wear_notification_needs_update_text">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
   <string name="common_android_wear_update_text">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
   <string name="common_android_wear_update_title">Aktualizujte aplikáciu Android Wear</string>
@@ -44,19 +57,6 @@
   <string name="common_signin_button_text">Prihlásiť sa</string>
   <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
   <string name="commono_google_play_services_api_unavailable_text">Táto aplikácia potrebuje jednu alebo viac služieb Google Play, ktoré v súčasnosti nie sú k dispozícii. Obráťte sa na vývojára a získajte pomoc.</string>
-  <string name="Autonomous_lable">Autonomous</string>
-  <string name="Sovereign_lable">Sovereign</string>
-  <string name="accept">Prijať</string>
-  <string name="agenda">Agenda</string>
-  <string name="all_day_event">Celý deň</string>
-  <string name="app_name">ZenWatch Manager</string>
-  <string name="avant_lable">Avant</string>
-  <string name="button_setting_bottom_button">Spodné tlačidlo</string>
-  <string name="button_setting_top_button">Horné tlačidlo</string>
-  <string name="charging_time">Ostáva %dmin</string>
-  <string name="choose_an_app_to_launch">Vybrať funkciu</string>
-  <string name="choose_button_for_launch">Vybrať tlačidlo</string>
-  <string name="color_theme">Farebná téma</string>
   <string name="covertomute_abc_alarm">Budík</string>
   <string name="covertomute_abc_alarm_title">Budík na hodinkách zvoní</string>
   <string name="covertomute_abc_title">Prikryte pre stíšenie</string>

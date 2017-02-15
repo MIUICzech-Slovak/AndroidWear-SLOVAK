@@ -11,6 +11,7 @@
         <item>bs</item>
         <item>ca</item>
         <item>ceb</item>
+        <item>co</item>
         <item>cs</item>
         <item>cy</item>
         <item>da</item>
@@ -24,9 +25,12 @@
         <item>fa</item>
         <item>fi</item>
         <item>fr</item>
+        <item>fy</item>
         <item>ga</item>
+        <item>gd</item>
         <item>gl</item>
         <item>gu</item>
+        <item>haw</item>
         <item>hi</item>
         <item>hmn</item>
         <item>hr</item>
@@ -38,10 +42,14 @@
         <item>iw</item>
         <item>ja</item>
         <item>jw</item>
+        <item>kk</item>
         <item>km</item>
         <item>kn</item>
         <item>ko</item>
+        <item>ku</item>
+        <item>ky</item>
         <item>la</item>
+        <item>lb</item>
         <item>lo</item>
         <item>lt</item>
         <item>lv</item>
@@ -58,6 +66,7 @@
         <item>nl</item>
         <item>no</item>
         <item>ny</item>
+        <item>or</item>
         <item>pa</item>
         <item>pl</item>
         <item>pt</item>
@@ -66,6 +75,8 @@
         <item>si</item>
         <item>sk</item>
         <item>sl</item>
+        <item>sm</item>
+        <item>sn</item>
         <item>so</item>
         <item>sq</item>
         <item>sr</item>
@@ -74,12 +85,15 @@
         <item>sw</item>
         <item>ta</item>
         <item>te</item>
+        <item>tg</item>
         <item>th</item>
         <item>tl</item>
         <item>tr</item>
         <item>uk</item>
         <item>ur</item>
+        <item>uz</item>
         <item>vi</item>
+        <item>xh</item>
         <item>zh</item>
         <item>zu</item>
     </string-array>

@@ -949,7 +949,8 @@ dnes}}"</string>
   <string name="x_total_reps">%1$s</string>
   <string name="x_y_total_time">%1$01d:%2$02d</string>
   <string name="y_kg">{weight, plural, =1 {1 kg} other {# kg}}</string>
-  <string name="y_lb">{weight, plural, =1 {1 lb} other {# lb}}</string><string name="yesterday_at_time">Včera o %1$s</string>
+  <string name="y_lb">{weight, plural, =1 {1 lb} other {# lb}}</string>
+  <string name="yesterday_at_time">Včera o %1$s</string>
   <string name="zero_minute_duration">0min</string>
   <string name="zero_minute_duration_accessibility">0minút</string>
   <string name="zero_second_duration">0s</string>

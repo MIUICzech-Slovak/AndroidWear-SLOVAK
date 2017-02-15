@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_reminder">Add reminder</string>
   <string name="add_reminders_instruction">To set a reminder, tap the button above.</string>
   <string name="add_reminders_instruction_no_button">To set one, say \"Ok Google, set a reminder\" from the watch face.</string>
   <string name="app_name">Reminders</string>
@@ -49,6 +50,8 @@
   <string name="done">Done</string>
   <string name="done_excited">Done!</string>
   <string name="friday">Friday</string>
+  <string name="generic_cancel">Cancel</string>
+  <string name="generic_yes">Yes</string>
   <string name="header_current">Current</string>
   <string name="header_snoozed">Snoozed</string>
   <string name="home">Home</string>
@@ -60,12 +63,14 @@
   <string name="no_phone_archive">"Couldn't archive reminder. Can't connect to your phone."</string>
   <string name="no_reminders">No upcoming reminders.</string>
   <string name="no_snoozed_reminders">No snoozed reminders.</string>
-  <string name="now_opt_in">To use Reminders, turn on Google Now on your phone.</string>
+  <string name="now_opt_in">To use Reminders, open the Google app on your phone and turn on your feed.</string>
   <string name="open_on_phone">Open on phone</string>
   <string name="permission_description">Fetch and modify reminders</string>
   <string name="permission_label">This app can fetch and modify reminders</string>
   <string name="recurring">Recurring</string>
   <string name="reminder_archived">Marked as Done</string>
+  <string name="reminder_load_error">"Couldn't load reminder"</string>
+  <string name="reminder_not_found">Reminder not found</string>
   <string name="reminder_snoozed">Snoozed for 1hr</string>
   <string name="repeated_reminder_every_weekday">Weekdays</string>
   <string name="repeated_reminder_monthly_last_day">Last day of every month</string>
@@ -82,6 +87,9 @@
   <string name="sign_in_google_app">To use Reminders, sign in to the Google app on your phone.</string>
   <string name="sunday">Sunday</string>
   <string name="thursday">Thursday</string>
+  <string name="time_difference_now">now</string>
+  <string name="time_difference_short_days_and_hours">%1$s %2$s</string>
+  <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
   <string name="today">Today</string>
   <string name="today_afternoon">This afternoon</string>
   <string name="today_at_time">Today at %s</string>
@@ -101,6 +109,7 @@
   <string name="upgrade_companion_android">To use Reminders, update the Android Wear app on your phone.</string>
   <string name="upgrade_companion_ios">To use Reminders, update the Android Wear app on your phone in the App Store.</string>
   <string name="upgrade_google_app">To use Reminders, update the Google app on your phone.</string>
+  <string name="wear_signin_button_text_long">Sign in with Google</string>
   <string name="wednesday">Wednesday</string>
   <string name="work">Work</string>
   <string name="yesterday">Yesterday</string>
