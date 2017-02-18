@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="label_emergency_call">EMERGENCY CALL</string>
+     <string name="screen_lock_password_hint">password</string>
+     <string name="screen_lock_password_no_match">Wrong password</string>
+     <string name="screen_lock_pin_hint">PIN</string>
+</resources>
