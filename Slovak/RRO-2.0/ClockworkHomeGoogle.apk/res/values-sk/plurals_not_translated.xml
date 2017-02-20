@@ -2,11 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="chrono_ambient_minutes_negative">
-        <item quantity="other">-%d minutes</item>
-        <item quantity="one">-1 minute</item>
+        <item quantity="other">-%dmin</item>
+        <item quantity="one">-1min</item>
      </plurals>
      <plurals name="complications_provider_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">Položky: %d</item>
+        <item quantity="one">Položky: %d</item>
      </plurals>
 </resources>

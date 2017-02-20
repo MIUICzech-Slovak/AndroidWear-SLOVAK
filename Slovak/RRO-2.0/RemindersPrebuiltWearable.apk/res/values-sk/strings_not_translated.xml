@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="add_reminder">Add reminder</string>
-     <string name="generic_cancel">Cancel</string>
-     <string name="generic_yes">Yes</string>
-     <string name="reminder_load_error">"Couldn't load reminder"</string>
-     <string name="reminder_not_found">Reminder not found</string>
-     <string name="time_difference_now">now</string>
-     <string name="time_difference_short_days_and_hours">%1$s %2$s</string>
-     <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
-     <string name="wear_signin_button_text_long">Sign in with Google</string>
+     <string name="add_reminder">Pridať</string>
+     <string name="generic_cancel">Zrušiť</string>
+     <string name="generic_yes">Áno</string>
+     <string name="reminder_load_error">Nebolo možné načítať</string>
+     <string name="reminder_not_found">Pripomienka sa nenašla</string>
+     <string name="time_difference_now">teraz</string>
+     <string name="wear_signin_button_text_long">Prihláste sa s Google</string>
 </resources>

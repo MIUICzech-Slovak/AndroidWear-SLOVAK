@@ -10,13 +10,10 @@
   <string name="enable_handwriting_collection_summary">Automatically send handwriting samples to Google.</string>
   <string name="enable_stats_collection">Share usage statistics</string>
   <string name="enable_stats_collection_summary">Automatically send usage statistics to Google.</string>
-  <string name="handwriting_collection_pref_key">handwriting_collection_pref_key</string>
   <string name="handwriting_not_supported">"Handwriting doesn't work for PINs/passwords. Tap to switch keyboards."</string>
   <string name="initial_prompt">Write words</string>
   <string name="input_language">Language</string>
   <string name="label_subtype_generic">%s</string>
   <string name="settings">Settings</string>
-  <string name="stats_collection_pref_key">stats_collection_pref_key</string>
-  <string name="version_info_key">version_pref_key</string>
   <string name="version_info_title">Version info</string>
 </resources>

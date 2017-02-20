@@ -2,7 +2,6 @@
 <resources>
   <string name="app_name">Elements Analog</string>
   <string name="are_you_sure">Are you sure?</string>
-  <string name="blue_style">analog_blue_style</string>
   <string name="buttons_rect_bottom_center">Bottom</string>
   <string name="buttons_rect_bottom_left">Bottom left</string>
   <string name="buttons_rect_bottom_right">Bottom right</string>
@@ -41,19 +40,11 @@
   <string name="empty_complication_title">Empty</string>
   <string name="generic_cancel">Cancel</string>
   <string name="generic_yes">Yes</string>
-  <string name="green_style">analog_green_style</string>
-  <string name="key_background_color">key_background_color</string>
-  <string name="key_background_image_settings">key_background_image_settings</string>
-  <string name="key_complications_settings">key_complications_settings</string>
-  <string name="key_indicator_settings">key_indicator_settings</string>
-  <string name="key_styles">key_styles</string>
-  <string name="key_styles_settings">key_styles_settings</string>
   <string name="navigation_drawer_content_description">Navigation drawer</string>
   <string name="none_background_image_provider">None</string>
   <string name="notification_count_off">Hide</string>
   <string name="notification_count_on">Show</string>
   <string name="please_wait">Please wait.</string>
-  <string name="red_style">analog_red_style</string>
   <string name="settings_background_image">Background image</string>
   <string name="settings_complications">Data</string>
   <string name="settings_config_header">Settings</string>
@@ -71,6 +62,4 @@
   <string name="unread_notification_count">Unread Notification Count</string>
   <string name="watch_face_name">Elements Analog</string>
   <string name="watch_face_style_config_header">Styles</string>
-  <string name="white_style">analog_white_style</string>
-  <string name="yellow_style">analog_yellow_style</string>
 </resources>

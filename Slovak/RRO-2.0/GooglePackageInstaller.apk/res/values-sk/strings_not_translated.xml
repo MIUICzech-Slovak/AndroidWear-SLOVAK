@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="APKTOOL_DUMMY_144">false</string>
-     <string name="APKTOOL_DUMMY_145">false</string>
      <string name="abc_action_bar_home_description">Navigate home</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
      <string name="abc_action_menu_overflow_description">More options</string>
      <string name="abc_action_mode_done">Done</string>
@@ -13,18 +9,6 @@
      <string name="abc_activitychooserview_choose_application">Choose an app</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
-     <string name="abc_font_family_body_1_material">sans-serif</string>
-     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-     <string name="abc_font_family_button_material">sans-serif-medium</string>
-     <string name="abc_font_family_caption_material">sans-serif</string>
-     <string name="abc_font_family_display_1_material">sans-serif</string>
-     <string name="abc_font_family_display_2_material">sans-serif</string>
-     <string name="abc_font_family_display_3_material">sans-serif</string>
-     <string name="abc_font_family_display_4_material">sans-serif-light</string>
-     <string name="abc_font_family_headline_material">sans-serif</string>
-     <string name="abc_font_family_menu_material">sans-serif</string>
-     <string name="abc_font_family_subhead_material">sans-serif</string>
-     <string name="abc_font_family_title_material">sans-serif-medium</string>
      <string name="abc_search_hint">Search…</string>
      <string name="abc_searchview_description_clear">Clear query</string>
      <string name="abc_searchview_description_query">Search query</string>
@@ -402,28 +386,11 @@
      <string name="wifi_disabled_wifi_failure">WiFi Connection Failure</string>
      <string name="wifi_display_certification">Wireless display certification</string>
      <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
-     <string name="wifi_dns1_hint">8.8.8.8</string>
-     <string name="wifi_dns2_hint">8.8.4.4</string>
      <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-     <string name="wifi_gateway_hint">192.168.1.1</string>
-     <string name="wifi_ip_address_hint">192.168.1.128</string>
-     <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_no_internet">No Internet Access.</string>
      <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
      <string name="wifi_not_in_range">Not in range</string>
      <string name="wifi_remembered">Saved</string>
-     <string name="wifi_security_eap">802.1x EAP</string>
-     <string name="wifi_security_none">None</string>
-     <string name="wifi_security_passpoint">Passpoint</string>
-     <string name="wifi_security_short_eap">802.1x</string>
-     <string name="wifi_security_short_wep">WEP</string>
-     <string name="wifi_security_short_wpa">WPA</string>
-     <string name="wifi_security_short_wpa2">WPA2</string>
-     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-     <string name="wifi_security_wep">WEP</string>
-     <string name="wifi_security_wpa">WPA PSK</string>
-     <string name="wifi_security_wpa2">WPA2 PSK</string>
-     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
      <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
      <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
      <string name="window_animation_scale_title">Window animation scale</string>

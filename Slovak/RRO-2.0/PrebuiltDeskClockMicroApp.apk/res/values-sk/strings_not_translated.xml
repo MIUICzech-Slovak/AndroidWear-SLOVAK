@@ -2,12 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
-     <string name="generic_cancel">Cancel</string>
-     <string name="generic_yes">Yes</string>
-     <string name="pause">Pause</string>
-     <string name="time_difference_now">now</string>
-     <string name="time_difference_short_days_and_hours">%1$s %2$s</string>
-     <string name="time_difference_short_hours_and_minutes">%1$s %2$s</string>
-     <string name="timer_start">Start timer</string>
-     <string name="wear_signin_button_text_long">Sign in with Google</string>
+     <string name="generic_cancel">Zrušiť</string>
+     <string name="generic_yes">Áno</string>
+     <string name="pause">Pozastaviť</string>
+     <string name="time_difference_now">teraz</string>
+     <string name="timer_start">Spustiť časovač</string>
+     <string name="wear_signin_button_text_long">Prihláste sa s Google</string>
 </resources>

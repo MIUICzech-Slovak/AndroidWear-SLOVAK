@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="warm_welcome_own_profile_got_it">Got it</string>
-     <string name="warm_welcome_own_profile_title">Welcome</string>
-     <string name="wear_accounts">Accounts</string>
+     <string name="warm_welcome_own_profile_got_it">Rozumiem</string>
+     <string name="warm_welcome_own_profile_title">Vitajte</string>
+     <string name="wear_accounts">Účty</string>
      <string name="wear_add_new">Add new</string>
      <string name="wear_add_payment_method">Add a payment method from your phone to continue</string>
      <string name="wear_additional_info">Additional information required</string>

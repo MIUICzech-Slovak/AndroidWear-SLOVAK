@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="APKTOOL_DUMMY_6b">false</string>
-     <string name="APKTOOL_DUMMY_6c">false</string>
-     <string name="APKTOOL_DUMMY_6d">false</string>
-     <string name="APKTOOL_DUMMY_6e">false</string>
-     <string name="APKTOOL_DUMMY_6f">false</string>
-     <string name="APKTOOL_DUMMY_70">false</string>
-     <string name="APKTOOL_DUMMY_71">false</string>
-     <string name="APKTOOL_DUMMY_72">false</string>
-     <string name="APKTOOL_DUMMY_73">false</string>
-     <string name="APKTOOL_DUMMY_74">false</string>
-     <string name="APKTOOL_DUMMY_75">false</string>
      <string name="bluetooth_connected">Bluetooth audio connected</string>
      <string name="bluetooth_disconnected">Bluetooth audio disconnected</string>
      <string name="incoming_file_confirm_Notification_content">%1$s is ready to send %2$s</string>
-     <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
-     <string name="process" />
-     <string name="sharedUserId" />
 </resources>

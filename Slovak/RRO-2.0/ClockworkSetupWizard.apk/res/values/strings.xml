@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_188">false</string>
-  <string name="APKTOOL_DUMMY_189">false</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -12,18 +10,6 @@
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
   <string name="abc_capital_off">OFF</string>
   <string name="abc_capital_on">ON</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Search…</string>
   <string name="abc_searchview_description_clear">Clear query</string>
   <string name="abc_searchview_description_query">Search query</string>
@@ -181,12 +167,7 @@
   <string name="common_open_on_phone">Open on phone</string>
   <string name="common_signin_button_text">Sign in</string>
   <string name="common_signin_button_text_long">Sign in with Google</string>
-  <string name="config_helpIntentExtraKey"/>
-  <string name="config_helpIntentNameKey"/>
-  <string name="config_helpPackageNameKey"/>
-  <string name="config_helpPackageNameValue"/>
-  <string name="config_skip_pair_magic_mac"/>
-  <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
+   <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
   <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
   <string name="connected_via_wfa">Connected via Wi‑Fi assistant</string>
@@ -476,34 +457,12 @@ ready to pair…"</string>
   <string name="wifi_disabled_wifi_failure">WiFi Connection Failure</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_summary">Show options for wireless display certification</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No Internet Access.</string>
   <string name="wifi_no_internet_no_reconnect">"No Internet Access Detected, won't automatically reconnect."</string>
   <string name="wifi_not_in_range">Not in range</string>
   <string name="wifi_remembered">Saved</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
-  <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
   <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="window_animation_scale_title">Window animation scale</string>
-  <string name="wizard_script_emulator_uri">android.resource://com.google.android.wearable.setupwizard/xml/wizard_script_emulator</string>
-  <string name="wizard_script_upgrade_uri">android.resource://com.google.android.wearable.setupwizard/xml/wizard_script_upgrade</string>
-  <string name="wizard_script_uri">android.resource://com.google.android.wearable.setupwizard/xml/wizard_script</string>
 </resources>
