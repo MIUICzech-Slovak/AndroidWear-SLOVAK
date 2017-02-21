@@ -5,4 +5,8 @@
   <string name="perm_description_control_keyguard">Táto aplikácia môže kontrolovať uzamknutie displeja.</string>
   <string name="perm_label_broadcast_keyguard_changed">Dostávať aktualizácie uzamknutia</string>
   <string name="perm_label_control_keyguard">Kontrolovať uzamknutie</string>
+     <string name="label_emergency_call">NÚDZOVÝ HOVOR</string>
+     <string name="screen_lock_password_hint">heslo</string>
+     <string name="screen_lock_password_no_match">Nesprávne heslo</string>
+     <string name="screen_lock_pin_hint">PIN</string>  
 </resources>

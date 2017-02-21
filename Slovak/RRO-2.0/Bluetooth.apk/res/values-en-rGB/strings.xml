@@ -132,4 +132,7 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+     <string name="bluetooth_connected">Bluetooth audio pripojené</string>
+     <string name="bluetooth_disconnected">Bluetooth audio odpojené</string>
+     <string name="incoming_file_confirm_Notification_content">%1$s je pripravené odoslať %2$s</string>  
 </resources>

@@ -22,8 +22,6 @@
      <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="accept">accept</string>
      <string name="answer">answer</string>
-     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
      <string name="buttons_rect_bottom_center">Bottom</string>
      <string name="buttons_rect_bottom_left">Bottom left</string>
      <string name="buttons_rect_bottom_right">Bottom right</string>

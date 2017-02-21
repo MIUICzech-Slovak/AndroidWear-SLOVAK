@@ -86,4 +86,10 @@
   <string name="vibrate_off">Vibrovanie vypnuté</string>
   <string name="vibrate_on">Vibrovanie zapnuté</string>
   <string name="when">Kedy</string>
+     <string name="generic_cancel">Zrušiť</string>
+     <string name="generic_yes">Áno</string>
+     <string name="pause">Pozastaviť</string>
+     <string name="time_difference_now">teraz</string>
+     <string name="timer_start">Spustiť časovač</string>
+     <string name="wear_signin_button_text_long">Prihláste sa s Google</string>  
 </resources>

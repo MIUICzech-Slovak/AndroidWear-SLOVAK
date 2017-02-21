@@ -109,4 +109,11 @@
   <string name="yesterday_evening">Včera večer</string>
   <string name="yesterday_morning">Včera ráno</string>
   <string name="yesterday_night">Včera v noci</string>
+     <string name="add_reminder">Pridať</string>
+     <string name="generic_cancel">Zrušiť</string>
+     <string name="generic_yes">Áno</string>
+     <string name="reminder_load_error">Nebolo možné načítať</string>
+     <string name="reminder_not_found">Pripomienka sa nenašla</string>
+     <string name="time_difference_now">teraz</string>
+     <string name="wear_signin_button_text_long">Prihláste sa s Google</string>  
 </resources>

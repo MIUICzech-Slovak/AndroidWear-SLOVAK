@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
-<resources>
-     <string name="bluetooth_connected">Bluetooth audio connected</string>
-     <string name="bluetooth_disconnected">Bluetooth audio disconnected</string>
-     <string name="incoming_file_confirm_Notification_content">%1$s is ready to send %2$s</string>
-</resources>
