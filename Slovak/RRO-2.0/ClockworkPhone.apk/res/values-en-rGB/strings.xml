@@ -65,4 +65,19 @@
   <string name="voicemail_notification_title_with_count">New voicemail (%1$d)</string>
   <string name="warning_thermal_max_approaching">Dosiahnutý limit teploty</string>
   <string name="warning_thermal_max_reached">Prekročený limit teploty</string>
+     <string name="call_person_source_phone">volať telefón</string>
+     <string name="call_person_source_watch">volať hodinky</string>
+     <string name="conference_num">Conference call</string>
+     <string name="decline">odmietnuť</string>
+     <string name="dialing">volanie</string>
+     <string name="end_call_description">Ukončiť hovor</string>
+     <string name="generic_cancel">Zrušiť</string>
+     <string name="generic_yes">Áno</string>
+     <string name="hangup">položiť</string>
+     <string name="incoming_accept_description">Prijať hovor</string>
+     <string name="incoming_reject_description">Odmietnuť hovor</string>
+     <string name="navigation_drawer_content_description">Navigation drawer</string>
+     <string name="search_menu_title">Vyhľadať</string>
+     <string name="swipe_up_description">Potiahnite nahor pre viac možností.</string>
+     <string name="time_difference_now">teraz</string>
 </resources>
