@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="dismiss_overlay_button_label">Quit</string>
+    <string name="app_name">Daily tracking</string>
+    <string name="app_name_sporttrack">Workout</string>
+    <string name="app_update">App update</string>
+    <string name="bpm">bpm</string>
+    <string name="cal_unit">" kcal"</string>
+    <string name="calorie">Calories</string>
+    <string name="close_remind">Turn off goal notifications</string>
+    <string name="detail_title_step">Steps</string>
+    <string name="detect_explain">Tighten band and keep wrist still and level. Try again.</string>
+    <string name="detecting">Measuring…</string>
+    <string name="dialog_exit_title">Stop workout?</string>
+    <string name="download">Download</string>
+    <string name="enable_permission">Enable Permission</string>
+    <string name="format_date_no_year">MMM d</string>
+    <string name="full_screen">Full screen</string>
+    <string name="goal_achieve">Congratulations! Goal achieved!</string>
+    <string name="goal_setting">Goal settings</string>
+    <string name="guide_gif_a_desc">"Stretch your hands out
+in front of you, twist your waist
+to the left and right, hold for 2–3
+seconds each, and do 5 reps"</string>
+    <string name="guide_gif_b_desc">"Clasp your arms
+behind your head, twist your
+waist to the left and right,
+hold for 2–3 seconds each, and
+do 5 reps"</string>
+    <string name="guide_gif_c_desc">"Twist your head to each
+shoulder, hold for 2 seconds
+each, relax between each rep,
+do 5 reps"</string>
+    <string name="guide_gif_d_desc">"Tilt your head
+forwards, tilt
+your head
+backwards, hold
+each for 2–3
+seconds, do 5 reps"</string>
+    <string name="guide_gif_dot">,</string>
+    <string name="guide_gif_e_desc">"Bring your elbows
+level with your shoulders,
+make a circular motion backwards,
+then repeat it forwards, do 5 reps"</string>
+    <string name="guide_gif_f_desc">"Stand upright,
+tilt your head
+back, clasp your
+hands and stretch
+them behind your back,
+stretch your chest
+forwards, hold for 5 seconds, do 5 reps"</string>
+    <string name="guide_gif_g_desc">"Clasp your
+hands palms
+facing forwards,
+stretch them in
+front of you, relax
+your shoulders and
+push your hands
+forwards, relax
+and do 5 reps"</string>
+    <string name="half_goal_achieve">"You're doing great! Halfway there!"</string>
+    <string name="heart_rate_app_name">Heart rate</string>
+    <string name="heart_rate_result_default">--</string>
+    <string name="install_reminder_title">Download Huawei Wear</string>
+    <string name="main_cal_unit">kcal</string>
+    <string name="main_stand_times">" times"</string>
+    <string name="main_steps_unit">steps</string>
+    <string name="new_function">Your daily fitness data has been automatically synced to HiCloud.</string>
+    <string name="no_record">No Records</string>
+    <string name="notification_off">Off</string>
+    <string name="notification_on">On</string>
+    <string name="notification_text">Your fitness data will be automatically uploaded to HiCloud and analyzed.</string>
+    <string name="open_application">Open app</string>
+    <string name="permission_need">To use Heart rate please enable sensor data access</string>
+    <string name="persport_last">Last</string>
+    <string name="setting_height_unit">cm</string>
+    <string name="setting_height_unit_imperial">ft</string>
+    <string name="setting_prompt">"Swipe left to add your 
+ information"</string>
+    <string name="setting_title">Settings</string>
+    <string name="setting_title_age">Age</string>
+    <string name="setting_title_height">Height</string>
+    <string name="setting_title_sex">Gender</string>
+    <string name="setting_title_step">Daily goal</string>
+    <string name="setting_title_weight">Weight</string>
+    <string name="setting_weight_unit">kg</string>
+    <string name="setting_weight_unit_imperial">lb</string>
+    <string name="sex_female">Female</string>
+    <string name="sex_male">Male</string>
+    <string name="skip_button">Skip</string>
+    <string name="sport_type_climb">Climb</string>
+    <string name="sport_type_run">Run</string>
+    <string name="sport_type_walk">Walk</string>
+    <string name="sporttrack_caloriesachieve">calories burned</string>
+    <string name="sporttrack_goalachieve">Goal achieved</string>
+    <string name="sporttrack_timeachieve">min of exercise</string>
+    <string name="stand_reminder_content">Touch to do some stretches</string>
+    <string name="stand_reminder_title">Inactive for 1 hour</string>
+    <string name="start_button">Start</string>
+    <string name="steps_unit">" steps"</string>
+    <string name="time_span">00:00:00</string>
+    <string name="time_unit_d">" d"</string>
+    <string name="time_unit_h">" h"</string>
+    <string name="time_unit_m">" min"</string>
+    <string name="time_unit_s">s</string>
+    <string name="title_today">Today</string>
+    <string name="today">Today</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+</resources>

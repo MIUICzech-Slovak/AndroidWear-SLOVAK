@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_item_name">
+        <item>Daily goal</item>
+        <item>Notifications</item>
+        <item>Age</item>
+        <item>Gender</item>
+        <item>Weight</item>
+        <item>Height</item>
+    </string-array>
+</resources>
