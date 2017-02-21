@@ -52,4 +52,12 @@
         <item quantity="other">aktual. pred %dmin</item>
         <item quantity="one">aktual. pred %dmin</item>
     </plurals>
+     <plurals name="chrono_ambient_minutes_negative">
+        <item quantity="other">-%dmin</item>
+        <item quantity="one">-1min</item>
+     </plurals>
+     <plurals name="complications_provider_item_count">
+        <item quantity="other">Položky: %d</item>
+        <item quantity="one">Položky: %d</item>
+     </plurals>	
 </resources>
