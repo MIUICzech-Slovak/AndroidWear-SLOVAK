@@ -41,4 +41,5 @@
      <plurals name="time_difference_words_minutes">
         <item quantity="other">%dmin</item>
         <item quantity="one">%dmin</item>	
+ </plurals>
 </resources>
