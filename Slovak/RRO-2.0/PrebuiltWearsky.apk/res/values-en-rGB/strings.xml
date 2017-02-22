@@ -1569,7 +1569,7 @@ Najprv v nastaveniach zapnite funkciu NFC, potom priložte kartu k zariadeniu.
      <string name="wear_recently_updated_section">Nedávno aktualizované</string>
      <string name="wear_refund">Vrátiť platbu</string>
      <string name="wear_refunding">Vraciam platbu…</string>
-     <string name="wear_retry">Skúsiť znovu</string>
+     <string name="wear_retry">Skúsiť znova</string>
      <string name="wear_review_snippets_title">Prezrieť </string>
      <string name="wear_screenshots">Screenshoty</string>
      <string name="wear_search_for_apps">Hľadať aplikácie</string>
