@@ -3,7 +3,7 @@
     <string name="common_open_on_phone">Otvoriť na telefóne</string>
     <string name="common_signin_button_text">Prihlásiť sa</string>
     <string name="common_signin_button_text_long">Prihlásiť sa Googlom.</string>
-    <string name="dismiss_overlay_button_label">Odísť</string>
+    <string name="dismiss_overlay_button_label">Ukončiť</string>
     <string name="app_name">Denné sledovanie</string>
     <string name="app_name_sporttrack">Cvičenie</string>
     <string name="app_update">Aktualizácia aplikácie</string>
@@ -12,14 +12,14 @@
     <string name="calorie">Kalórie</string>
     <string name="close_remind">Vypnúť upozornenia na ciele</string>
     <string name="detail_title_step">Kroky</string>
-    <string name="detect_explain">Utiahnite náramok a udržte zápästie rovno a v kľude. Skúste to znova.</string>
-    <string name="detecting">Meriam…</string>
+    <string name="detect_explain">Utiahnite náramok, udržte zápästie rovno a v kľude. Skúste to znova.</string>
+    <string name="detecting">Meranie...</string>
     <string name="dialog_exit_title">Ukončiť cvičenie?</string>
     <string name="download">Stiahnuť</string>
     <string name="enable_permission">Povoliť prístup</string>
-    <string name="format_date_no_year">MMM d</string>
+    <string name="format_date_no_year">dd. MMM</string>
     <string name="full_screen">Celá obrazovka</string>
-    <string name="goal_achieve">Gratulujem! Dosiahli ste svoj cieľ!</string>
+    <string name="goal_achieve">Gratulujeme! Dosiahli ste svoj cieľ!</string>
     <string name="goal_setting">Nastavenia cieľov</string>
     <string name="guide_gif_a_desc">"Predpažte, otáčajte driekom
 doľava a doprava, vždy vydržte 2-3 sekundy. Zopakujte 5 krát"</string>
@@ -37,17 +37,17 @@ vypnite hruď, podržte 5 sekúnd. Zopakujte 5 krát"</string>
     <string name="guide_gif_g_desc">"Predpažte, chyťte si ruky dlaňami napred, uvoľnite ramená a tlačte ruky pred seba, uvoľnite.
 Zopakujte 5 krát"</string>
     <string name="half_goal_achieve">"Darí sa vám skvelo! Už ste skoro tam!"</string>
-    <string name="heart_rate_app_name">Tep</string>
+    <string name="heart_rate_app_name">Pulz</string>
     <string name="heart_rate_result_default">--</string>
     <string name="install_reminder_title">Stiahnuť Huawei Wear</string>
     <string name="main_cal_unit">kcal</string>
     <string name="main_stand_times">" krát"</string>
     <string name="main_steps_unit">krokov</string>
-    <string name="new_function">Dáta vášho denného fitnes boli automaticky synchronizované na HiCloud.</string>
+    <string name="new_function">Dáta vášho denného fitness boli automaticky synchronizované na HiCloud.</string>
     <string name="no_record">Bez záznamu</string>
     <string name="notification_off">Vyp.</string>
     <string name="notification_on">Zap.</string>
-    <string name="notification_text">Dáta vášho denného fitnes budú automaticky synchronizované na HiCloud a analyzované.</string>
+    <string name="notification_text">Dáta vášho denného fitness budú automaticky synchronizované na HiCloud a analyzované.</string>
     <string name="open_application">Otvoriť aplikáciu</string>
     <string name="permission_need">Pre použitie snímača tepu prosím povoľte prístup k dátam snímača</string>
     <string name="persport_last">Posledný</string>
@@ -59,7 +59,7 @@ Zopakujte 5 krát"</string>
     <string name="setting_title_height">Výška</string>
     <string name="setting_title_sex">Pohlavie</string>
     <string name="setting_title_step">Denný cieľ</string>
-    <string name="setting_title_weight">Váha</string>
+    <string name="setting_title_weight">Hmotnosť</string>
     <string name="setting_weight_unit">kg</string>
     <string name="setting_weight_unit_imperial">lb</string>
     <string name="sex_female">Žena</string>
@@ -74,8 +74,7 @@ Zopakujte 5 krát"</string>
     <string name="stand_reminder_content">Precvičte sa trochu</string>
     <string name="stand_reminder_title">Ste hodinu neaktívny</string>
     <string name="start_button">Štart</string>
-    <string name="steps_unit">" kroky/ov"</string>
-    <string name="time_span">00:00:00</string>
+    <string name="steps_unit">" krokov"</string>
     <string name="time_unit_d">" d"</string>
     <string name="time_unit_h">" h"</string>
     <string name="time_unit_m">" min"</string>
