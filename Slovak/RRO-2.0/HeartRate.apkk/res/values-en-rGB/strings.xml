@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_day">All day</string>
+    <string name="app_name">Heart rate</string>
+    <string name="avg">AVG</string>
+    <string name="check">Check</string>
+    <string name="check_again">Check again</string>
+    <string name="check_in_setting">Check</string>
+    <string name="detect_explain">Tighten band and keep wrist still and level. Try again.</string>
+    <string name="detect_period">Time range</string>
+    <string name="detecting">Measuring...</string>
+    <string name="format_date_no_year">dd. MMM</string>
+    <string name="from">From</string>
+    <string name="heart_rate_result_default">--</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="no_detect">"Don't check"</string>
+    <string name="no_record">No Records</string>
+    <string name="pm">12 PM</string>
+    <string name="setting_time_prompt">The end time cannot be less than or equal to the start time</string>
+    <string name="statistic_view">statistic view</string>
+    <string name="tap">Tap</string>
+    <string name="to">To</string>
+</resources>

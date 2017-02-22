@@ -3,7 +3,7 @@
     <string name="common_open_on_phone">Otvoriť na telefóne</string>
     <string name="common_signin_button_text">Prihlásiť sa</string>
     <string name="common_signin_button_text_long">Prihlásiť sa Googlom</string>
-    <string name="dismiss_overlay_button_label">Odísť</string>
+    <string name="dismiss_overlay_button_label">Ukončiť</string>
     <string name="app_name">Denné sledovanie</string>
     <string name="app_name_sporttrack">Sledovanie fitnes</string>
     <string name="cal_unit">" kcal"</string>
@@ -11,7 +11,7 @@
     <string name="distance_unit">" km"</string>
     <string name="format_date_no_year">MMM d</string>
     <string name="full_screen">Celá obrazovka</string>
-    <string name="goal_achieve">Gratulujem! Dosiahli ste svoj cieľ!</string>
+    <string name="goal_achieve">Gratulujeme! Dosiahli ste svoj cieľ!</string>
     <string name="goal_setting">Nastavenia cieľov</string>
     <string name="half_goal_achieve">"Darí sa vám skvelo! Už ste skoro tam!"</string>
     <string name="hello_round">Ahoj okrúhly svet!</string>
@@ -51,9 +51,9 @@
     <string name="sporttrack_timeachieve">min. cvičenia</string>
     <string name="stand_reminder_content">Hýbte sa 1 minútu</string>
     <string name="stand_reminder_title">Postavte sa</string>
-    <string name="start_button">Štarttart</string>
+    <string name="start_button">Štart</string>
     <string name="step_unit">" krok"</string>
-    <string name="steps_unit">" kroky/ov"</string>
+    <string name="steps_unit">" krokov"</string>
     <string name="time">Čas</string>
     <string name="time_span">00:00.00</string>
     <string name="time_unit_d">" d"</string>
