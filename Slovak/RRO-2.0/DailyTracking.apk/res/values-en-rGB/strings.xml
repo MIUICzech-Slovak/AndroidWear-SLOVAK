@@ -5,11 +5,11 @@
     <string name="common_signin_button_text_long">Prihlásiť sa Googlom</string>
     <string name="dismiss_overlay_button_label">Ukončiť</string>
     <string name="app_name">Denné sledovanie</string>
-    <string name="app_name_sporttrack">Sledovanie fitnes</string>
+    <string name="app_name_sporttrack">Sledovanie fitness</string>
     <string name="cal_unit">" kcal"</string>
     <string name="calorie">Kalórie</string>
     <string name="distance_unit">" km"</string>
-    <string name="format_date_no_year">MMM d</string>
+    <string name="format_date_no_year">dd. MMM</string>
     <string name="full_screen">Celá obrazovka</string>
     <string name="goal_achieve">Gratulujeme! Dosiahli ste svoj cieľ!</string>
     <string name="goal_setting">Nastavenia cieľov</string>
@@ -35,7 +35,7 @@
     <string name="setting_title_height">Výška</string>
     <string name="setting_title_sex">Pohlavie</string>
     <string name="setting_title_step">Denný cieľ</string>
-    <string name="setting_title_weight">Váha</string>
+    <string name="setting_title_weight">Hmotnosť</string>
     <string name="setting_weight_unit">kg</string>
     <string name="setting_weight_unit_imperial">lb</string>
     <string name="settings">Nastavenia</string>
@@ -55,7 +55,6 @@
     <string name="step_unit">" krok"</string>
     <string name="steps_unit">" krokov"</string>
     <string name="time">Čas</string>
-    <string name="time_span">00:00.00</string>
     <string name="time_unit_d">" d"</string>
     <string name="time_unit_h">" h"</string>
     <string name="time_unit_m">" min"</string>
