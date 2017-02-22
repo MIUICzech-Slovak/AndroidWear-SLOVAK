@@ -1,113 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_open_on_phone">Open on phone</string>
-    <string name="common_signin_button_text">Sign in</string>
-    <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="dismiss_overlay_button_label">Quit</string>
-    <string name="app_name">Daily tracking</string>
-    <string name="app_name_sporttrack">Workout</string>
-    <string name="app_update">App update</string>
-    <string name="bpm">bpm</string>
+    <string name="common_open_on_phone">Otvoriť na telefóne</string>
+    <string name="common_signin_button_text">Prihlásiť sa</string>
+    <string name="common_signin_button_text_long">Prihlásiť sa Googlom.</string>
+    <string name="dismiss_overlay_button_label">Odísť</string>
+    <string name="app_name">Denné sledovanie</string>
+    <string name="app_name_sporttrack">Cvičenie</string>
+    <string name="app_update">Aktualizácia aplikácie</string>
+    <string name="bpm">úd./min.</string>
     <string name="cal_unit">" kcal"</string>
-    <string name="calorie">Calories</string>
-    <string name="close_remind">Turn off goal notifications</string>
-    <string name="detail_title_step">Steps</string>
-    <string name="detect_explain">Tighten band and keep wrist still and level. Try again.</string>
-    <string name="detecting">Measuring…</string>
-    <string name="dialog_exit_title">Stop workout?</string>
-    <string name="download">Download</string>
-    <string name="enable_permission">Enable Permission</string>
+    <string name="calorie">Kalórie</string>
+    <string name="close_remind">Vypnúť upozornenia na ciele</string>
+    <string name="detail_title_step">Kroky</string>
+    <string name="detect_explain">Utiahnite náramok a udržte zápästie rovno a v kľude. Skúste to znova.</string>
+    <string name="detecting">Meriam…</string>
+    <string name="dialog_exit_title">Ukončiť cvičenie?</string>
+    <string name="download">Stiahnuť</string>
+    <string name="enable_permission">Povoliť prístup</string>
     <string name="format_date_no_year">MMM d</string>
-    <string name="full_screen">Full screen</string>
-    <string name="goal_achieve">Congratulations! Goal achieved!</string>
-    <string name="goal_setting">Goal settings</string>
-    <string name="guide_gif_a_desc">"Stretch your hands out
-in front of you, twist your waist
-to the left and right, hold for 2–3
-seconds each, and do 5 reps"</string>
-    <string name="guide_gif_b_desc">"Clasp your arms
-behind your head, twist your
-waist to the left and right,
-hold for 2–3 seconds each, and
-do 5 reps"</string>
-    <string name="guide_gif_c_desc">"Twist your head to each
-shoulder, hold for 2 seconds
-each, relax between each rep,
-do 5 reps"</string>
-    <string name="guide_gif_d_desc">"Tilt your head
-forwards, tilt
-your head
-backwards, hold
-each for 2–3
-seconds, do 5 reps"</string>
+    <string name="full_screen">Celá obrazovka</string>
+    <string name="goal_achieve">Gratulujem! Dosiahli ste svoj cieľ!</string>
+    <string name="goal_setting">Nastavenia cieľov</string>
+    <string name="guide_gif_a_desc">"Predpažte, otáčajte driekom
+doľava a doprava, vždy vydržte 2-3 sekundy. Zopakujte 5 krát"</string>
+    <string name="guide_gif_b_desc">"Chyťte si ruky za hlavou, otáčajte driekom
+doľava a doprava, vždy vydržte 2-3 sekundy. Zopakujte 5 krát"</string>
+    <string name="guide_gif_c_desc">"Otáčajte hlavou ku každému ramenu, vždy vydržte 2 sekundy, medzi pohybmi na chvíľu prestaňte,
+Zopakujte 5 krát"</string>
+    <string name="guide_gif_d_desc">"Nakláňajte hlavu dopredu a dozadu, vždy vydržte 2-3 sekundy, Zopakujte 5 krát"</string>
     <string name="guide_gif_dot">,</string>
-    <string name="guide_gif_e_desc">"Bring your elbows
-level with your shoulders,
-make a circular motion backwards,
-then repeat it forwards, do 5 reps"</string>
-    <string name="guide_gif_f_desc">"Stand upright,
-tilt your head
-back, clasp your
-hands and stretch
-them behind your back,
-stretch your chest
-forwards, hold for 5 seconds, do 5 reps"</string>
-    <string name="guide_gif_g_desc">"Clasp your
-hands palms
-facing forwards,
-stretch them in
-front of you, relax
-your shoulders and
-push your hands
-forwards, relax
-and do 5 reps"</string>
-    <string name="half_goal_achieve">"You're doing great! Halfway there!"</string>
-    <string name="heart_rate_app_name">Heart rate</string>
+    <string name="guide_gif_e_desc">"Dajte si lakte vodorovne s ramenami,
+spravte krúživý pohyb dopredu a dozadu. Zopakujte 5 krát"</string>
+    <string name="guide_gif_f_desc">"Stojte vzpriamene,
+nakloňte hlavu dozadu, chyťte si ruky za chrbtom, narovnajte ich,
+vypnite hruď, podržte 5 sekúnd. Zopakujte 5 krát"</string>
+    <string name="guide_gif_g_desc">"Predpažte, chyťte si ruky dlaňami napred, uvoľnite ramená a tlačte ruky pred seba, uvoľnite.
+Zopakujte 5 krát"</string>
+    <string name="half_goal_achieve">"Darí sa vám skvelo! Už ste skoro tam!"</string>
+    <string name="heart_rate_app_name">Tep</string>
     <string name="heart_rate_result_default">--</string>
-    <string name="install_reminder_title">Download Huawei Wear</string>
+    <string name="install_reminder_title">Stiahnuť Huawei Wear</string>
     <string name="main_cal_unit">kcal</string>
-    <string name="main_stand_times">" times"</string>
-    <string name="main_steps_unit">steps</string>
-    <string name="new_function">Your daily fitness data has been automatically synced to HiCloud.</string>
-    <string name="no_record">No Records</string>
-    <string name="notification_off">Off</string>
-    <string name="notification_on">On</string>
-    <string name="notification_text">Your fitness data will be automatically uploaded to HiCloud and analyzed.</string>
-    <string name="open_application">Open app</string>
-    <string name="permission_need">To use Heart rate please enable sensor data access</string>
-    <string name="persport_last">Last</string>
+    <string name="main_stand_times">" krát"</string>
+    <string name="main_steps_unit">krokov</string>
+    <string name="new_function">Dáta vášho denného fitnes boli automaticky synchronizované na HiCloud.</string>
+    <string name="no_record">Bez záznamu</string>
+    <string name="notification_off">Vyp.</string>
+    <string name="notification_on">Zap.</string>
+    <string name="notification_text">Dáta vášho denného fitnes budú automaticky synchronizované na HiCloud a analyzované.</string>
+    <string name="open_application">Otvoriť aplikáciu</string>
+    <string name="permission_need">Pre použitie snímača tepu prosím povoľte prístup k dátam snímača</string>
+    <string name="persport_last">Posledný</string>
     <string name="setting_height_unit">cm</string>
     <string name="setting_height_unit_imperial">ft</string>
-    <string name="setting_prompt">"Swipe left to add your 
- information"</string>
-    <string name="setting_title">Settings</string>
-    <string name="setting_title_age">Age</string>
-    <string name="setting_title_height">Height</string>
-    <string name="setting_title_sex">Gender</string>
-    <string name="setting_title_step">Daily goal</string>
-    <string name="setting_title_weight">Weight</string>
+    <string name="setting_prompt">"Potiahnutím doľava pridáte vaše informácie"</string>
+    <string name="setting_title">Nastavenia</string>
+    <string name="setting_title_age">Vek</string>
+    <string name="setting_title_height">Výška</string>
+    <string name="setting_title_sex">Pohlavie</string>
+    <string name="setting_title_step">Denný cieľ</string>
+    <string name="setting_title_weight">Váha</string>
     <string name="setting_weight_unit">kg</string>
     <string name="setting_weight_unit_imperial">lb</string>
-    <string name="sex_female">Female</string>
-    <string name="sex_male">Male</string>
-    <string name="skip_button">Skip</string>
-    <string name="sport_type_climb">Climb</string>
-    <string name="sport_type_run">Run</string>
-    <string name="sport_type_walk">Walk</string>
-    <string name="sporttrack_caloriesachieve">calories burned</string>
-    <string name="sporttrack_goalachieve">Goal achieved</string>
-    <string name="sporttrack_timeachieve">min of exercise</string>
-    <string name="stand_reminder_content">Touch to do some stretches</string>
-    <string name="stand_reminder_title">Inactive for 1 hour</string>
-    <string name="start_button">Start</string>
-    <string name="steps_unit">" steps"</string>
+    <string name="sex_female">Žena</string>
+    <string name="sex_male">Muž</string>
+    <string name="skip_button">Preskočiť</string>
+    <string name="sport_type_climb">Lezenie</string>
+    <string name="sport_type_run">Beh</string>
+    <string name="sport_type_walk">Chôdza</string>
+    <string name="sporttrack_caloriesachieve">spálených kalórií</string>
+    <string name="sporttrack_goalachieve">Cieľ dosiahnutý</string>
+    <string name="sporttrack_timeachieve">min. cvičenia</string>
+    <string name="stand_reminder_content">Precvičte sa trochu</string>
+    <string name="stand_reminder_title">Ste hodinu neaktívny</string>
+    <string name="start_button">Štart</string>
+    <string name="steps_unit">" kroky/ov"</string>
     <string name="time_span">00:00:00</string>
     <string name="time_unit_d">" d"</string>
     <string name="time_unit_h">" h"</string>
     <string name="time_unit_m">" min"</string>
     <string name="time_unit_s">s</string>
-    <string name="title_today">Today</string>
-    <string name="today">Today</string>
+    <string name="title_today">Dnes</string>
+    <string name="today">Dnes</string>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
 </resources>
