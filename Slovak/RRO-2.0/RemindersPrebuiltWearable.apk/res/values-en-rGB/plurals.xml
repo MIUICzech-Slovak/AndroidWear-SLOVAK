@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="repeated_reminder_every_n_days">
-        <item quantity="other">Every %d days</item>
-        <item quantity="one">Daily</item>
+        <item quantity="other">Každých %d dní</item>
+        <item quantity="one">Denne</item>
     </plurals>
     <plurals name="repeated_reminder_every_n_days_afternoon">
         <item quantity="other">Every %d afternoons</item>
