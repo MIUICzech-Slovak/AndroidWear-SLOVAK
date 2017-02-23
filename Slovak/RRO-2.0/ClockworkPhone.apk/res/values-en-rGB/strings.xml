@@ -14,7 +14,7 @@
   <string name="call_error_message_no_sim">Len núdzové hovory</string>
   <string name="call_error_title_no_cell_network">Mobilná sieť je nedostupná</string>
   <string name="call_error_title_no_sim">Žiadna SIM</string>
-  <string name="call_history_title">Nedávane</string>
+  <string name="call_history_title">Nedávne</string>
   <string name="call_source_phone">Volať z Telefónu</string>
   <string name="call_source_watch">Volať z Hodiniek</string>
   <string name="cmas_ok">OK</string>
@@ -65,8 +65,8 @@
   <string name="voicemail_notification_title_with_count">New voicemail (%1$d)</string>
   <string name="warning_thermal_max_approaching">Dosiahnutý limit teploty</string>
   <string name="warning_thermal_max_reached">Prekročený limit teploty</string>
-     <string name="call_person_source_phone">volať telefón</string>
-     <string name="call_person_source_watch">volať hodinky</string>
+     <string name="call_person_source_phone">prichádzajúci hovor</string>
+     <string name="call_person_source_watch">prichádzajúci hovor</string>
      <string name="conference_num">Conference call</string>
      <string name="decline">odmietnuť</string>
      <string name="dialing">volanie</string>
