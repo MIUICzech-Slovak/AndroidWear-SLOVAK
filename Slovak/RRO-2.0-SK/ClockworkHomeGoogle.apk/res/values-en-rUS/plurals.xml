@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cue_menu_timer">
+        <item quantity="other">Nastaviť časovač na %dmin</item>
+        <item quantity="one">Nastaviť časovač na %dmin</item>
+    </plurals>
+    <plurals name="timer_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">1s</item>
+    </plurals>
+    <plurals name="timer_minutes">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+    </plurals>
+    <plurals name="timer_hours">
+        <item quantity="other">%sh</item>
+        <item quantity="one">%sh</item>
+    </plurals>
+    <plurals name="more_cards">
+        <item quantity="other">+%d viac</item>
+        <item quantity="one">+%d viac</item>
+    </plurals>
+    <plurals name="chrono_ambient_hrs">
+        <item quantity="other">%dh</item>
+        <item quantity="one">1h</item>
+    </plurals>
+    <plurals name="chrono_ambient_min">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+    </plurals>
+    <plurals name="chrono_ambient_minutes">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+    </plurals>
+    <plurals name="cal_countdown_minutes">
+        <item quantity="other">o %dmin</item>
+        <item quantity="one">o 1min</item>
+    </plurals>
+    <plurals name="cal_event_min">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">1min</item>
+    </plurals>
+    <plurals name="cal_event_hour">
+        <item quantity="other">%sh</item>
+        <item quantity="one">1h</item>
+    </plurals>
+    <plurals name="party_size">
+        <item quantity="other">Reservation for %1$s guests</item>
+        <item quantity="one">Reservation for %1$s guest</item>
+    </plurals>
+    <plurals name="weather_updated_ago">
+        <item quantity="other">aktual. pred %dmin</item>
+        <item quantity="one">aktual. pred %dmin</item>
+    </plurals>
+     <plurals name="chrono_ambient_minutes_negative">
+        <item quantity="other">-%dmin</item>
+        <item quantity="one">-1min</item>
+     </plurals>
+     <plurals name="complications_provider_item_count">
+        <item quantity="other">Položky: %d</item>
+        <item quantity="one">Položky: %d</item>
+     </plurals>	
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_day">Celý deň</string>
+    <string name="app_name">Pulz</string>
+    <string name="avg">PRIEMER</string>
+    <string name="check">Kontrola</string>
+    <string name="check_again">Znovu</string>
+    <string name="check_in_setting">Kontrola</string>
+    <string name="detect_explain">Utiahnite si remienok a skúste to znova.</string>
+    <string name="detect_period">Časové rozpätie</string>
+    <string name="detecting">Meranie...</string>
+    <string name="format_date_no_year">dd. MMM</string>
+    <string name="from">Od</string>
+    <string name="heart_rate_result_default">--</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="no_detect">Nekontrolovať</string>
+    <string name="no_record">Žiadne záznamy</string>
+    <string name="pm">12 PM</string>
+    <string name="setting_time_prompt">Koncový čas nesmie byť skôr ako počiatočný čas.</string>
+    <string name="statistic_view">štatistika</string>
+    <string name="tap">Dotknite sa</string>
+    <string name="to">Do</string>
+</resources>

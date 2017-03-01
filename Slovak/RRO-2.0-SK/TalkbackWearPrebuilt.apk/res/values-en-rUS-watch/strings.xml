@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="main_description_first_screen">"V nasledujúcich troch lekciách sa naučíte základné navigačné gestá dostupné v aplikácii TalkBack.
+
+Ak chcete prejsť na ďalšiu obrazovku, prejdite doprava jedným prstom. Skúste to."</string>
+  <string name="main_description_second_screen">"Výborne! Ak potrebujete prečítať, čo je na predchádzajúcej obrazovke, rýchlo prejdite prstom doľava a potom doprava.
+
+Pokračujte prejdením prstom doprava."</string>
+  <string name="main_title">Vitajte!</string>
+  <string name="tutorial_finished_message">"Ak sa chcete dozvedieť viac o aplikácii TalkBack, prejdite v inom zariadení na tento odkaz:
+g.co/weara11y."</string>
+  <string name="tutorial_finished_positive_button_title">Dokončené</string>
+  <string name="tutorial_finished_replay_tutorial">Prehrať návod znova</string>
+  <string name="tutorial_finished_title">Hotovo!</string>
+  <string name="tutorial_launch_double_tap_hint">Spustite návod, aktivujte ho dvojitým klepnutím</string>
+  <string name="tutorial_launch_message">Ak ste funkciu TalkBack zapli omylom, vypnite ju klepnutím na možnosť Vypnúť aplikáciu TalkBack.</string>
+  <string name="tutorial_launch_settings">Nastavenia</string>
+  <string name="tutorial_launch_talkback_off">Aplikácia TalkBack bola vypnutá.</string>
+  <string name="tutorial_launch_title">Aplikácia TalkBack je zapnutá</string>
+  <string name="tutorial_launch_tutorial">Spustiť návod</string>
+  <string name="tutorial_lesson_1_description">Preskúmanie dotykom umožňuje vypočuť si obsah nachádzajúci sa pod prstom, ktorým sa dotknete obrazovky. Prejdite prstom na nasledujúce položky. Lekcia bude pokračovať po preskúmaní štyroch položiek.</string>
+  <string name="tutorial_lesson_1_title">1. lekcia: Preskúmanie dotykom</string>
+  <string name="tutorial_lesson_2_description">Ak chcete aktivovať poslednú vyslovenú položku, klepnite dvakrát na ľubovoľné miesto. Na nasledujúcej obrazovke nájdite položku 2 a aktivujte ju.</string>
+  <string name="tutorial_lesson_2_title">2. lekcia: Aktivácia dvojitým klepnutím</string>
+  <string name="tutorial_lesson_3_description">Ak sa chcete posúvať vo vertikálnom zozname, prejdením prstom nahor zobrazíte ďalšie položky a prejdením prstom nadol nasledujúce položky.</string>
+  <string name="tutorial_lesson_3_title">Lekcia 3: Posúvanie</string>
+  <string name="tutorial_next_item_content_description">Pokračujte ďalej dvojitým klepnutím.</string>
+  <string name="tutorial_next_item_text">Ďalej</string>
+</resources>

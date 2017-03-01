@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welcome_messages">
+        <item>Welcome!</item>
+        <item>Vitajte!</item>
+    </string-array>
+    <string-array name="swipe_messages">
+        <item>Swipe to begin</item>
+        <item>Potiahnutím začnete</item>
+    </string-array>
+</resources>

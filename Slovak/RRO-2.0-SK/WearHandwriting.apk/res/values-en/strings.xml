@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Google písanie</string>
+  <string name="change_input_method">Zmena metódy vstupu</string>
+  <string name="common_google_play_services_unknown_issue">%1$s má problémy so službami Google Play. Ak problém pretrváva, obráťte sa na vývojára.</string>
+  <string name="download_failure">Sťahovanie zlyhalo.</string>
+  <string name="download_success">Sťahovanie dokončené!</string>
+  <string name="downloading_models">Sťahujem jazykové modely. Počkajte prosím a skúste to znova neskôr.</string>
+  <string name="enable_handwriting_collection">Zdieľať príklady písania</string>
+  <string name="enable_handwriting_collection_summary">Automaticky odoslať príklady písania Googlu.</string>
+  <string name="enable_stats_collection">Zdieľať štatistiky používania</string>
+  <string name="enable_stats_collection_summary">Automaticky odoslať štatistiky používania Googlu.</string>
+  <string name="handwriting_not_supported">"Písanie nie je možné použiť na zadávanie PIN/hesla. Ťuknutím zmeňte klávesnicu."</string>
+  <string name="initial_prompt">Píšte slová</string>
+  <string name="input_language">Jazyk</string>
+  <string name="label_subtype_generic">%s</string>
+  <string name="settings">Nastavenia</string>
+  <string name="version_info_title">Info o verzii</string>
+</resources>

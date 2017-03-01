@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="missed_call_title">
+        <item quantity="other">Zmeškané hovory</item>
+        <item quantity="one">Zmeškaný hovor</item>
+    </plurals>
+    <plurals name="missed_call_content">
+        <item quantity="other">Zmeškané hovory: %1$d</item>
+        <item quantity="one">Zmeškané hovory: %1$d</item>
+    </plurals>
+     <plurals name="incoming_call_content">
+        <item quantity="other">%1$d prich. hovorov</item>
+        <item quantity="one">%1$d prich. hovor</item>
+     </plurals>
+     <plurals name="outgoing_call_content">
+        <item quantity="other">%1$d odchádz. hovorov</item>
+        <item quantity="one">%1$d odchádz. hovor</item>
+     </plurals>
+     <plurals name="time_difference_short_days">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+     </plurals>
+     <plurals name="time_difference_short_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="time_difference_short_minutes">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+     </plurals>
+     <plurals name="time_difference_words_days">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+     </plurals>
+     <plurals name="time_difference_words_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="time_difference_words_minutes">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
+     </plurals>	
+</resources>
