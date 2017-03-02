@@ -3648,7 +3648,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_ip_settings_menu_cancel">Zrušiť</string>
   <string name="wifi_ip_settings_menu_save">Uložiť</string>
   <string name="wifi_limit_optimizations_summary">Obmedz. využitie batérie sieťou Wi-Fi</string>
-  <string name="wifi_logging">Wi-Fi Verbose Logging</string>
+  <string name="wifi_logging">Podrobné protokolovanie Wi-Fi</string>
   <string name="wifi_max_battery_use">%s%%</string>
   <string name="wifi_menu_advanced">Rozšírené</string>
   <string name="wifi_menu_configure">Konfigurácia</string>
@@ -4187,8 +4187,8 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
      <string name="pref_watchRingtone">Vyzváňací tón hodiniek</string>
      <string name="pref_wearDeveloperOptions">Vývojárske nastavenia Wear</string>
      <string name="pref_wifi">Wi-Fi</string>
-     <string name="pref_wifiLogging">Wi-Fi Verbose Logging</string>
-     <string name="pref_wifi_old">Wi-Fi (deprecated)</string>
+     <string name="pref_wifiLogging">Podrobné protokolovanie Wi-Fi</string>
+     <string name="pref_wifi_old">Wi-Fi (zastarané)</string>
      <string name="pref_wristGestures">Gestá zápästím</string>
      <string name="pref_write_settings_title">Upraviť systémové nastavenia</string>
      <string name="pref_yolo">Inteligentný zámok pre heslá</string>
