@@ -642,8 +642,8 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="brightness_title">Jas</string>
   <string name="bt_hci_snoop_log">Povoliť denník Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
-  <string name="bt_snoop_log">Bluetooth snoop logging</string>
-  <string name="bug_report">Bug report in menu</string>
+  <string name="bt_snoop_log">Protokolovanie Bluetooth zväzkov</string>
+  <string name="bug_report">Správa o chybách menu</string>
   <string name="bugreport_in_power">Skratka hlásenia chyby</string>
   <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
   <string name="build_number">Číslo zostavy</string>
