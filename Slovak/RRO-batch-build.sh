@@ -41,6 +41,8 @@ $up/RRO-2.0-SK/WearHandwriting.apk/RRO.sh
 $up/RRO-2.0-SK/WearKeyboard.apk/RRO.sh
 $up/RRO-2.0-SK/WristGesturesTutorial.apk/RRO.sh	
 $up/RRO-2.0-SK/ClockworkFlashlight.apk/RRO.sh	
+$up/RRO-2.0-SK/Calculator.apk/RRO.sh	
+
 
 if [ "$1" == "asus" ]; then
   mode="asus"
