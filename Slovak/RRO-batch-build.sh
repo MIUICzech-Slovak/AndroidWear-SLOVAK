@@ -53,9 +53,10 @@ else
 fi
 
 if [ "$mode" == "asus" ]; then
-  mv $up/output/*.apk $up/output/ZenWatch3/system/vendor/overlay/
+  	mv $up/output/*.apk $up/output/ZenWatch3/system/vendor/overlay/
 	echo "Making zip..."
-	zip -q -r -y $up/output/ZenWatch3_SK_langpack.zip $up/output/ZenWatch3/ > /dev/null  
+	cd $up/output/ZenWatch3/
+	zip -r $up/output/ZenWatch3_SK_langpack.zip * > /dev/null  
 fi
 
 if [ "$mode" == "huawei" ]; then
@@ -63,7 +64,8 @@ if [ "$mode" == "huawei" ]; then
 	echo "Making zip..."
 	rm -rf $up/output/Huawei-watch/system/vendor/overlay/AsusWatchManagerWear-overlay.apk	
 	rm -rf $up/output/Huawei-watch/system/vendor/overlay/asuswatchinfoprovider-overlay.apk	
-	zip -q -r -y $up/output/HuaweiWatch_SK_langpack.zip $up/output/Huawei-watch/ > /dev/null  
+	cd $up/output/Huawei-watch/
+	zip -r $up/output/HuaweiWatch_SK_langpack.zip * > /dev/null  
 fi
 
 

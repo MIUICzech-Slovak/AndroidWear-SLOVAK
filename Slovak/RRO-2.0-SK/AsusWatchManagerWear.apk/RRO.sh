@@ -2,7 +2,9 @@
 
 up=/home/ingbrzy/ZenWatch3-SLOVAK/Slovak
 
-aapt=$up/tools/aapt
+aapt=$up/tools/aapt 
+
+path=$up/RRO-2.0-SK/AsusWatchManagerWear.apk
 
 testkey_pem=$up/tools/security/testkey.x509.pem;
 testkey_pk8=$up/tools/security/testkey.pk8;
@@ -13,11 +15,11 @@ key_pk8=$testkey_pk8;
 
 echo "Creating R.java from strings";
 
-$aapt package -m -J gen/ -M AndroidManifest.xml -S res/ -I $up/tools/android.jar
+$aapt package -m -J $path/gen/ -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar
 
 echo "Building overlay.apk";
 
-$aapt package -f -M AndroidManifest.xml -S res/ -I $up/tools/android.jar -F $up/output/AsusWatchManagerWear-overlay.apk
+$aapt package -f -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar -F $up/output/AsusWatchManagerWear-overlay.apk
 
 echo "Signing overlay.apk";
 

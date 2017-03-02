@@ -12,40 +12,6 @@ mount("ext4", "EMMC", "/dev/block/platform/msm_sdcc.1/by-name/system", "/system"
 set_progress(0.200000);
 ui_print("Removing old overlay apks...");
 delete_recursive("/system/vendor/overlay");
-delete("/system/vendor/overlay/AnalogComplicationWatchFace-overlay.apk");
-delete("/system/vendor/overlay/BackupRestoreConfirmation-overlay.apk");
-delete("/system/vendor/overlay/Bluetooth-overlay.apk");
-delete("/system/vendor/overlay/CalendarProvider-overlay.apk");
-delete("/system/vendor/overlay/CertInstaller-overlay.apk");
-delete("/system/vendor/overlay/ClockworkAmbient-overlay.apk");
-delete("/system/vendor/overlay/ClockworkHomeGoogle-overlay.apk");
-delete("/system/vendor/overlay/ClockworkPhone-overlay.apk");
-delete("/system/vendor/overlay/ClockworkPhotosWatchFace-overlay.apk");
-delete("/system/vendor/overlay/ClockworkSearch-overlay.apk");
-delete("/system/vendor/overlay/ClockworkSettings-overlay.apk");
-delete("/system/vendor/overlay/ClockworkSetup-overlay.apk");
-delete("/system/vendor/overlay/ClockworkSetupWizard-overlay.apk");
-delete("/system/vendor/overlay/ClockworkSystemUI-overlay.apk");
-delete("/system/vendor/overlay/ContactsProvider-overlay.apk");
-delete("/system/vendor/overlay/DigitalComplicationWatchFace-overlay.apk");
-delete("/system/vendor/overlay/DownloadProvider-overlay.apk");
-delete("/system/vendor/overlay/FitnessPrebuiltWearable-overlay.apk");
-delete("/system/vendor/overlay/framework-res-overlay.apk");
-delete("/system/vendor/overlay/GooglePackageInstaller-overlay.apk");
-delete("/system/vendor/overlay/GoogleServicesFramework-overlay.apk");
-delete("/system/vendor/overlay/MediaProvider-overlay.apk");
-delete("/system/vendor/overlay/MinModWatchfaces-overlay.apk");
-delete("/system/vendor/overlay/PrebuiltBugleWearable-overlay.apk");
-delete("/system/vendor/overlay/PrebuiltDeskClockMicroApp-overlay.apk");
-delete("/system/vendor/overlay/PrebuiltWearsky-overlay.apk");
-delete("/system/vendor/overlay/RemindersPrebuiltWearable-overlay.apk");
-delete("/system/vendor/overlay/Stk-overlay.apk");
-delete("/system/vendor/overlay/WearKeyboard-overlay.apk");
-delete("/system/vendor/overlay/WristGesturesTutorial-overlay.apk");
-delete("/system/vendor/overlay/WearHandwriting-overlay.apk");
-delete("/system/vendor/overlay/DailyTracking-overlay.apk");
-delete("/system/vendor/overlay/HwWearable-overlay.apk");
-delete("/system/vendor/overlay/HeartRate-overlay.apk");
 ui_print("Extracting translated apks...");
 ui_print(" ");
 package_extract_dir("system", "/system");
@@ -59,12 +25,3 @@ ui_print("Done");
 ifelse(is_mounted("/system"), unmount("/system"));
 set_progress(1.000000);
 ui_print("SLOVAK lang installed for Android Wear 2.0!");
-
-
-
-
-
-
-
-
-
