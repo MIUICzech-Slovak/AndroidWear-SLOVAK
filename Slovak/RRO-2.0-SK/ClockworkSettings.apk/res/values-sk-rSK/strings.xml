@@ -3742,9 +3742,9 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_setup_back">Späť</string>
   <string name="wifi_setup_cancel">Zrušiť</string>
   <string name="wifi_setup_connect">Pripojiť</string>
-  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavovaní, klepnite na možnosť &lt;b&gt;&amp;#270;alej&lt;/b&gt;".
+  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavovaní, klepnite na možnosť ďalej".
 
-Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#382;nos&amp;#357; "&lt;b&gt;Sp&amp;#228;&amp;#357;&lt;/b&gt;."</string>
+Ak sa chcete pripojiť k inej sieti Wi-Fi, klepnite na možnosť "Späť."</string>
   <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
   <string name="wifi_setup_detail">Podrobnosti siete</string>
   <string name="wifi_setup_eap_not_supported">Počas inštalácie nie je možné konfigurovať pripojenie k sieti Wi-Fi cez protokol EAP. Po inštalácii to môžete vykonať v sekcii Nastavenia &gt; Bezdrôtové pripojenie a siete.</string>
