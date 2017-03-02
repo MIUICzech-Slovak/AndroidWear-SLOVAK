@@ -4,7 +4,7 @@
   <string name="abc_action_bar_home_description">Prejsť na plochu</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Prejsť hore</string>
+  <string name="abc_action_bar_up_description">Prejsť nahor</string>
   <string name="abc_action_menu_overflow_description">Ďalšie možnosti</string>
   <string name="abc_action_mode_done">Hotovo</string>
   <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
@@ -35,18 +35,18 @@
   <string name="accessibility_captioning_title">Titulky</string>
   <string name="accessibility_category_personal">Účty osobných profilov</string>
   <string name="accessibility_category_work">Účty pracovných profilov – %s</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
   <string name="accessibility_display_daltonizer_preference_title">Úprava farieb</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimentálne) Môže mať vplyv na výkonnosť</string>
   <string name="accessibility_display_inversion_preference_title">Inverzia farieb</string>
   <string name="accessibility_display_title">Obrazovka</string>
   <string name="accessibility_feature_state_off">Vypnuté</string>
   <string name="accessibility_feature_state_on">Zapnuté</string>
-  <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia zapnutá, môžete rýchlo v dvoch krokoch aktivovať funkcie dostupnosti:
+  <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia zapnutá, môžete rýchlo v dvoch krokoch aktivovať funkcie dostupnosti:
 
-1. krok: Stlačte vypínač a podržte ho, dokým nezaznie zvukový signál alebo nezacítite vibrácie.
+1. krok: Stlačte vypínač a podržte ho, dokým nezaznie zvukový signál alebo nezacítite vibrácie.
 
-2. krok: Klepnite na obrazovku dvoma prstami a podržte ju, dokým nezaznie zvuk potvrdenia.
+2. krok: Klepnite na obrazovku dvoma prstami a podržte ju, dokým nezaznie zvuk potvrdenia.
 
 Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na uzamknutej obrazovke dočasne povoliť dostupnosť, dokým sa zariadenie neodomkne."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Vypnuté</string>
@@ -61,15 +61,15 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
   <string name="accessibility_power_button">Tlačidlo zapínania ukončí hovor</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Vypínač ukončí hovor</string>
   <string name="accessibility_screen_magnification_short_summary">Zobrazenie priblížite/oddialite trojitým klepnutím</string>
-  <string name="accessibility_screen_magnification_summary">"&lt;b&gt;Zobrazenie pribl&amp;#237;&amp;#382;ite&lt;/b&gt;" tak, &amp;#382;e trikr&amp;#225;t r&amp;#253;chlo klepnete jedn&amp;#253;m prstom na obrazovku.
-"&lt;li&gt;&lt;ul&gt;"Zobrazenie posuniete pres&amp;#250;van&amp;#237;m dvoch alebo viacer&amp;#253;ch prstov.
-"&lt;li&gt;&amp;#218;rove&amp;#328; pribl&amp;#237;&amp;#382;enia uprav&amp;#237;te stiahnut&amp;#237;m dvoch alebo viacer&amp;#253;ch prstov k&amp;#160;sebe &amp;#269;i od seba.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+  <string name="accessibility_screen_magnification_summary">Zobrazenie priblížite tak, že trikrát rýchlo klepnete jedným prstom na obrazovku.
+Zobrazenie posuniete presúvaním dvoch alebo viacerých prstov.
+Úroveň priblíženia upravíte stiahnutím dvoch alebo viacerých prstov k sebe či od seba.
 
-"&lt;b&gt;Zobrazenie do&amp;#269;asne pribl&amp;#237;&amp;#382;ite&lt;/b&gt;" tak, &amp;#382;e trikr&amp;#225;t r&amp;#253;chlo klepnete na obrazovku jedn&amp;#253;m prstom a&amp;#160;po poslednom klepnut&amp;#237; prst pridr&amp;#382;&amp;#237;te.
-"&lt;li&gt;&lt;ul&gt;"Po obrazovke sa m&amp;#244;&amp;#382;ete pohybova&amp;#357; pres&amp;#250;van&amp;#237;m prsta.
-"&lt;li&gt;Zdvihnut&amp;#237;m prsta oddialite zobrazenie.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+Zobrazenie dočasne priblížite tak, že trikrát rýchlo klepnete na obrazovku jedným prstom a po poslednom klepnutí prst pridržíte.
+Po obrazovke sa môžete pohybovať presúvaním prsta.
+Zdvihnutím prsta oddialite zobrazenie.
 
-Nem&amp;#244;&amp;#382;ete pribl&amp;#237;&amp;#382;i&amp;#357; kl&amp;#225;vesnicu ani naviga&amp;#269;n&amp;#253; panel.""</string>
+Nemôžete priblížiť klávesnicu ani navigačný panel.</string>
   <string name="accessibility_screen_magnification_title">Gesto priblíženia</string>
   <string name="accessibility_service_default_description">K dispozícii nie je žiadny popis.</string>
   <string name="accessibility_services_title">Služby</string>
@@ -138,7 +138,7 @@ Nem&amp;#244;&amp;#382;ete pribl&amp;#237;&amp;#382;i&amp;#357; kl&amp;#225;vesn
   <string name="activity_picker_label">Zvoliť aktivitu</string>
   <string name="adb_debugging_option">Ladenie cez ADB</string>
   <string name="adb_keys_warning_message">Chcete všetkým v minulosti autorizovaným počítačom odvolať prístup k ladeniu cez USB?</string>
-  <string name="adb_warning_message">Ladenie cez USB je určené iba na účely vývoja. Možno ho použiť na kopírovanie dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát denníka.</string>
+  <string name="adb_warning_message">Ladenie cez USB je určené iba na účely vývoja. Možno ho použiť na kopírovanie dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát denníka.</string>
   <string name="adb_warning_title">Povoliť ladenie cez USB?</string>
   <string name="add_a_language">Pridať jazyk</string>
   <string name="add_account_label">Pridať účet</string>
@@ -152,11 +152,11 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="additional_permissions_more">Počet ďalších povolení: %1$d</string>
   <string name="additional_system_update_settings_list_item_title">Ďalšie aktualizácie systému</string>
   <string name="adjust_brightness">Nastaviť jas</string>
-  <string name="admin_device_owner_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k tomuto zariadeniu vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
+  <string name="admin_device_owner_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k tomuto zariadeniu vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
   <string name="admin_disabled_other_options">Ďalšie možnosti zakázal váš správca.</string>
   <string name="admin_more_details">Ďalšie podrobnosti</string>
-  <string name="admin_profile_owner_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k vášmu pracovnému profilu vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
-  <string name="admin_profile_owner_user_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k tomuto používateľovi vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
+  <string name="admin_profile_owner_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k vášmu pracovnému profilu vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
+  <string name="admin_profile_owner_user_message">Správca môže sledovať a spravovať aplikácie a údaje priradené k tomuto používateľovi vrátane nastavení, povolení, firemného prístupu, aktivity siete a informácií o polohe zariadenia.</string>
   <string name="admin_support_more_info">Ďalšie podrobnosti</string>
   <string name="advanced_apps">Rozšírené</string>
   <string name="advanced_section_header">Rozšírené</string>
@@ -193,9 +193,9 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="ambient_display_title">Telefón skontrolujete dvojitým klepnutím</string>
   <string name="ambient_screen">Ambient displej</string>
   <string name="android_beam_disabled_summary">Nedostupné, pretože je vypnutá technológia NFC</string>
-  <string name="android_beam_explained">"Ak je táto funkcia zapnutá a podržíte zariadenia blízko pri sebe, môžete odosielať obsah aplikácií do iného zariadenia s technológiou NFC. Môžete napríklad odosielať stránky prehliadača, videá YouTube, osobné kontakty a ďalšie.
+  <string name="android_beam_explained">"Ak je táto funkcia zapnutá a podržíte zariadenia blízko pri sebe, môžete odosielať obsah aplikácií do iného zariadenia s technológiou NFC. Môžete napríklad odosielať stránky prehliadača, videá YouTube, osobné kontakty a ďalšie.
 
-Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom klepnúť na obrazovku. Aplikácia určí, aký obsah sa prenesie."</string>
+Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom klepnúť na obrazovku. Aplikácia určí, aký obsah sa prenesie."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Vyp.</string>
   <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom technológie NFC je pripravený</string>
@@ -236,8 +236,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="app_factory_reset">Odinštalovať aktualizácie</string>
   <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>
   <string name="app_install_details_group_title">Obchod</string>
-  <string name="app_install_details_summary">Aplikácia bola nainštalovaná z obchodu %1$s</string>
-  <string name="app_install_details_title">Podrobnosti o aplikácii</string>
+  <string name="app_install_details_summary">Aplikácia bola nainštalovaná z obchodu %1$s</string>
+  <string name="app_install_details_title">Podrobnosti o aplikácii</string>
   <string name="app_install_location_summary">Zmena preferovaného umiestnenia pre inštaláciu nových aplikácií</string>
   <string name="app_install_location_title">Preferované umiestnenie pre inštaláciu</string>
   <string name="app_launch_domain_links_title">Odkazy na otvorenie</string>
@@ -255,7 +255,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="app_name_label">Aplikácia</string>
   <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
   <string name="app_not_found_dlg_title"/>
-  <string name="app_notification_block_summary">Nikdy nezobrazovať upozornenia z tejto aplikácie</string>
+  <string name="app_notification_block_summary">Nikdy nezobrazovať upozornenia z tejto aplikácie</string>
   <string name="app_notification_block_title">Blokovať všetko</string>
   <string name="app_notification_importance_title">Dôležitosť</string>
   <string name="app_notification_override_dnd_summary">Umožniť týmto upozorneniam vyrušiť ma, ak je možnosť Nerušiť nastavená na možnosť Iba prioritné</string>
@@ -273,8 +273,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="app_ops_settings">Fungovanie aplikácií</string>
   <string name="app_overlay_permission_preference">Povolenie na vykreslenie aplikácie navrchu</string>
   <string name="app_permissions">Povolenia aplikácií</string>
-  <string name="app_permissions_group_summary" formatted="false">Povolené: %d z %d aplikácií</string>
-  <string name="app_permissions_summary" formatted="false">Ďalší prístup povolený %d z %d aplikácií</string>
+  <string name="app_permissions_group_summary" formatted="false">Povolené: %d z %d aplikácií</string>
+  <string name="app_permissions_summary" formatted="false">Ďalší prístup povolený %d z %d aplikácií</string>
   <string name="app_process_limit_title">Limit procesov na pozadí</string>
   <string name="app_restrictions_custom_label">Nastaviť obmedzenia aplikácií</string>
   <string name="app_sees_restricted_accounts">Táto aplikácia má prístup k vašim účtom</string>
@@ -283,7 +283,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="app_special_disable_dlg_title">Odstrániť údaje a zakázať aplikáciu?</string>
   <string name="app_usage_activity_title">Využitie apl.</string>
   <string name="app_usage_preference">Predvoľby využitia aplikáciami</string>
-  <string name="application_info_label">O aplikácii</string>
+  <string name="application_info_label">O aplikácii</string>
   <string name="application_restrictions">Povoliť aplikácie a obsah</string>
   <string name="application_size_label">Aplikácia</string>
   <string name="applications_settings">Aplikácie</string>
@@ -300,8 +300,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="assist_access_context_title">Použiť text z obrazovky</string>
   <string name="assist_access_screenshot_summary">Povoľte pomocnej aplikácii prístup k snímke obrazovky</string>
   <string name="assist_access_screenshot_title">Použiť snímku obrazovky</string>
-  <string name="assist_and_voice_input_title">Asistencia a hlasový vstup</string>
-  <string name="assist_flash_summary">Blikanie okrajov obrazovky, keď pomocná aplikácia pristupuje k textu z obrazovky alebo snímky obrazovky</string>
+  <string name="assist_and_voice_input_title">Asistencia a hlasový vstup</string>
+  <string name="assist_flash_summary">Blikanie okrajov obrazovky, keď pomocná aplikácia pristupuje k textu z obrazovky alebo snímky obrazovky</string>
   <string name="assist_flash_title">Blikanie obrazovky</string>
   <string name="assist_footer">Pomocné aplikácie vám pomáhajú na základe informácií zo zobrazenej obrazovky. Niektoré aplikácie podporujú spúšťač aj služby hlasového výstupu, aby vám poskytli integrovanú pomoc.</string>
   <string name="assistant_security_warning">Pomocník bude môcť čítať informácie o aplikáciách používaných vo vašom systéme vrátane údajov viditeľných na obrazovke alebo prístupných v aplikáciách.</string>
@@ -327,18 +327,18 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom kle
   <string name="auto_punctuate_summary">Znak „.“ môžete vložiť dvojitým stlačením klávesu Medzerník.</string>
   <string name="auto_replace">Automatické nahradenie</string>
   <string name="auto_replace_summary">Opravovať pravopisné chyby</string>
-  <string name="auto_restore_summary">Pri preinštalovaní aplikácie obnoviť zálohované nastavenia a dáta</string>
+  <string name="auto_restore_summary">Pri preinštalovaní aplikácie obnoviť zálohované nastavenia a dáta</string>
   <string name="auto_restore_title">Automaticky obnovovať</string>
   <string name="auto_wifi">Automatický Wi-Fi prepínač</string>
   <string name="automatic_brightness">Automatický jas</string>
-  <string name="automatic_storage_manager_activation_warning">Po pripojení budete mať aj naďalej prístup k fotkám a videám v kvalite vybratej pre zálohu</string>
-  <string name="automatic_storage_manager_days_title">Odstránenie zálohovaných fotiek a videí</string>
+  <string name="automatic_storage_manager_activation_warning">Po pripojení budete mať aj naďalej prístup k fotkám a videám v kvalite vybratej pre zálohu</string>
+  <string name="automatic_storage_manager_days_title">Odstránenie zálohovaných fotiek a videí</string>
   <string name="automatic_storage_manager_freed_bytes">"Uvoľnené celkove: %1$s
 
 Naposledy spustené: %2$s"</string>
   <string name="automatic_storage_manager_preference_title">Inteligentné úložisko</string>
   <string name="automatic_storage_manager_settings">Spravovať úložisko</string>
-  <string name="automatic_storage_manager_text">Keď sa úložisko začne zapĺňať, funkcia odstráni zálohované fotky a videá. Obsah bude naďalej dostupný vo Fotkách Google.</string>
+  <string name="automatic_storage_manager_text">Keď sa úložisko začne zapĺňať, funkcia odstráni zálohované fotky a videá. Obsah bude naďalej dostupný vo Fotkách Google.</string>
   <string name="available_via_passpoint">K dispozícii prostredníctvom %1$s</string>
   <string name="available_virtual_keyboard_category">Dostupná virtuálna klávesnica</string>
   <string name="average_memory_use">Priemerné využitie pamäte</string>
@@ -347,16 +347,16 @@ Naposledy spustené: %2$s"</string>
   <string name="background_check_pref">Kontrola na pozadí</string>
   <string name="background_check_title">Úplný prístup na pozadí</string>
   <string name="background_data">Dátové prenosy na pozadí</string>
-  <string name="background_data_dialog_message">Vypnutie dátových prenosov na pozadí šetrí batériu a znižuje spotrebu dát. Niektoré aplikácie môžu používať dátové prenosy na pozadí aj napriek tomuto nastaveniu.</string>
+  <string name="background_data_dialog_message">Vypnutie dátových prenosov na pozadí šetrí batériu a znižuje spotrebu dát. Niektoré aplikácie môžu používať dátové prenosy na pozadí aj napriek tomuto nastaveniu.</string>
   <string name="background_data_dialog_title">Vypnúť prenosy na pozadí?</string>
   <string name="background_data_summary">Aplikácie môžu kedykoľvek synchronizovať, odosielať a prijímať údaje</string>
   <string name="background_process_stop_description">Toto je starý proces aplikácie, ktorý stále beží pre prípad, že by ste ho znova potrebovali. Na jeho zastavenie nie je väčšinou dôvod.</string>
   <string name="backup_configure_account_default_summary">Momentálne nie sú záložné údaje ukladané do žiadneho účtu</string>
   <string name="backup_configure_account_title">Zálohovací účet</string>
-  <string name="backup_data_summary">Zálohovanie údajov aplikácií, hesiel sietí Wi-Fi a ďalších nastavení na servery Google</string>
+  <string name="backup_data_summary">Zálohovanie údajov aplikácií, hesiel sietí Wi-Fi a ďalších nastavení na servery Google</string>
   <string name="backup_data_title">Zálohovať moje dáta</string>
   <string name="backup_disabled">Zálohovanie je zakázané</string>
-  <string name="backup_erase_dialog_message">Chcete zastaviť zálohovanie hesiel Wi-Fi, záložiek, ďalších nastavení a dát aplikácií? Chcete vymazať všetky kópie na serveroch Google?</string>
+  <string name="backup_erase_dialog_message">Chcete zastaviť zálohovanie hesiel Wi-Fi, záložiek, ďalších nastavení a dát aplikácií? Chcete vymazať všetky kópie na serveroch Google?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Služba zálohovania nie je aktívna.</string>
   <string name="backup_pw_cancel_button_text">Zrušiť</string>
@@ -368,7 +368,7 @@ Naposledy spustené: %2$s"</string>
   <string name="band_mode_succeeded">Úspešné</string>
   <string name="band_mode_title">Nastaviť režim rádiového pásma</string>
   <string name="baseband_version">Verzia základného pásma</string>
-  <string name="battery_action_app_details">O aplikácii</string>
+  <string name="battery_action_app_details">O aplikácii</string>
   <string name="battery_action_app_settings">Nastavenia aplikácie</string>
   <string name="battery_action_bluetooth">Nastavenia Bluetooth</string>
   <string name="battery_action_display">Nastavenia obrazovky</string>
@@ -470,7 +470,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_connecting">Prebieha pripájanie…</string>
   <string name="bluetooth_connecting_error_message">Nepodarilo sa pripojiť k zariadeniu %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu „%1$s“?</string>
-  <string name="bluetooth_connection_notif_message">K zariadeniu %1$s sa pripojíte klepnutím.</string>
+  <string name="bluetooth_connection_notif_message">K zariadeniu %1$s sa pripojíte klepnutím.</string>
   <string name="bluetooth_connection_permission_request">Žiadosť o pripojenie zariadenia Bluetooth</string>
   <string name="bluetooth_device">Nepomenované zariadenie s rozhraním Bluetooth</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Povoliť prichádzajúce prenosy súborov</string>
@@ -489,7 +489,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_device_name">Názov zariadenia</string>
   <string name="bluetooth_devices">Zariadenia Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Zakázať absolútnu hlasitosť</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Umožňuje zakázať funkciu absolútnej hlasitosti rozhrania Bluetooth v prípade problémov s hlasitosťou na vzdialených zariadeniach, ako je napríklad neprijateľne vysoká hlasitosť alebo absencia ovládacích prvkov.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Umožňuje zakázať funkciu absolútnej hlasitosti rozhrania Bluetooth v prípade problémov s hlasitosťou na vzdialených zariadeniach, ako je napríklad neprijateľne vysoká hlasitosť alebo absencia ovládacích prvkov.</string>
   <string name="bluetooth_disable_profile_message">Táto akcia zakáže profil %1$s a zariadenie %2$s</string>
   <string name="bluetooth_disable_profile_title">Zakázať profil?</string>
   <string name="bluetooth_disabled">Vypnuté</string>
@@ -509,7 +509,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_dock_settings_headset">Ako reproduktor telefónu</string>
   <string name="bluetooth_dock_settings_remember">Zapamätať nastavenia</string>
   <string name="bluetooth_dock_settings_title">Použiť zvuk doku</string>
-  <string name="bluetooth_empty_list_bluetooth_off">Keď je zapnuté pripojenie Bluetooth, zariadenie môže komunikovať s ostatnými zariadeniami Bluetooth v okolí.</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Keď je zapnuté pripojenie Bluetooth, zariadenie môže komunikovať s ostatnými zariadeniami Bluetooth v okolí.</string>
   <string name="bluetooth_empty_list_user_restricted">Nemáte povolenie na zmenu nastavení Bluetooth.</string>
   <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmená alebo symboly</string>
   <string name="bluetooth_enabling">Zapínanie Bluetooth...</string>
@@ -642,16 +642,16 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="brightness_title">Jas</string>
   <string name="bt_hci_snoop_log">Povoliť denník Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
-  <string name="bt_snoop_log">Bluetooth snoop logging</string>
-  <string name="bug_report">Bug report in menu</string>
+  <string name="bt_snoop_log">Protokolovanie Bluetooth zväzkov</string>
+  <string name="bug_report">Správa o chybách menu</string>
   <string name="bugreport_in_power">Skratka hlásenia chyby</string>
-  <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
+  <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
   <string name="build_number">Číslo zostavy</string>
   <string name="builtin_keyboard_settings_summary">Nastavenia fyzickej klávesnice</string>
   <string name="builtin_keyboard_settings_title">Fyzická klávesnica</string>
   <string name="button_close">Dokončiť</string>
-  <string name="button_confirm_convert_fbe">Vymazať a konvertovať</string>
-  <string name="button_convert_fbe">Vymazať a konvertovať…</string>
+  <string name="button_confirm_convert_fbe">Vymazať a konvertovať</string>
+  <string name="button_convert_fbe">Vymazať a konvertovať…</string>
   <string name="button_start_transfer">Kopírovať</string>
   <string name="cache_header_label">Vyrovnávacia pamäť</string>
   <string name="cache_size_label">Vyrovnávacia pamäť</string>
@@ -674,7 +674,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="camera_gesture_desc">Otvorte aplikáciu fotoaparátu tak, že dvakrát pokrútite zápästím</string>
   <string name="camera_gesture_title">Fotoaparát – dvakrát pokrúťte zápästím</string>
   <string name="cancel">Zrušiť</string>
-  <string name="cant_sync_dialog_message">Synchronizácia tejto položky je momentálne zakázaná. Ak chcete toto nastavenie zmeniť, dočasne zapnite dátové prenosy na pozadí a automatickú synchronizáciu.</string>
+  <string name="cant_sync_dialog_message">Synchronizácia tejto položky je momentálne zakázaná. Ak chcete toto nastavenie zmeniť, dočasne zapnite dátové prenosy na pozadí a automatickú synchronizáciu.</string>
   <string name="cant_sync_dialog_title">Nie je možné ručne synchronizovať</string>
   <string name="capabilities_list_title">%1$s potrebuje:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Dostávajte upozornenia pri interakcii s aplikáciami.</string>
@@ -793,13 +793,13 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="common_signin_button_text">Sign in</string>
   <string name="common_signin_button_text_long">Sign in with Google</string>
   <string name="computing_size">Prebieha výpočet…</string>
-  <string name="condition_airplane_summary">Siete Wi-Fi, Bluetooth a mobilná sieť sú vypnuté. Nemôžete telefonovať ani sa pripojiť k internetu.</string>
-  <string name="condition_airplane_title">Režim v lietadle je zapnutý</string>
-  <string name="condition_battery_summary">Znížený výkon. Služby určovania polohy a dáta na pozadí sú vypnuté.</string>
+  <string name="condition_airplane_summary">Siete Wi-Fi, Bluetooth a mobilná sieť sú vypnuté. Nemôžete telefonovať ani sa pripojiť k internetu.</string>
+  <string name="condition_airplane_title">Režim v lietadle je zapnutý</string>
+  <string name="condition_battery_summary">Znížený výkon. Služby určovania polohy a dáta na pozadí sú vypnuté.</string>
   <string name="condition_battery_title">Šetrič batérie je zapnutý</string>
   <string name="condition_bg_data_summary">Dáta na pozadí sú dostupné iba prostredníctvom siete Wi-Fi. Môže to ovplyvniť niektoré aplikácie či služby, keď sieť Wi-Fi nie je dostupná.</string>
   <string name="condition_bg_data_title">Šetrič dát je zapnutý</string>
-  <string name="condition_cellular_summary">Internet je k dispozícii len prostredníctvom siete Wi-Fi</string>
+  <string name="condition_cellular_summary">Internet je k dispozícii len prostredníctvom siete Wi-Fi</string>
   <string name="condition_cellular_title">Mobilné dáta sú vypnuté</string>
   <string name="condition_expand_hide">Skryť</string>
   <string name="condition_expand_show">Zobraziť</string>
@@ -809,7 +809,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="condition_night_display_title">Nočný režim je zapnutý</string>
   <string name="condition_turn_off">Vypnúť</string>
   <string name="condition_turn_on">Zapnúť</string>
-  <string name="condition_work_summary">Aplikácie, synchronizácia na pozadí a ďalšie funkcie súvisiace s pracovným profilom sú vypnuté.</string>
+  <string name="condition_work_summary">Aplikácie, synchronizácia na pozadí a ďalšie funkcie súvisiace s pracovným profilom sú vypnuté.</string>
   <string name="condition_work_title">Pracovný profil je vypnutý</string>
   <string name="condition_zen_title">Nastavenie Nerušiť je zapnuté (%1$s)</string>
   <string name="config_world_mode"/>
@@ -819,7 +819,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="configure_doze_service_name">Nastavenie Doze</string>
   <string name="configure_input_method">Nastavenie metód vstupu</string>
   <string name="configure_notification_settings">Konfigurácia upozornení</string>
-  <string name="confirm_convert_to_fbe_warning">Naozaj chcete vymazať údaje používateľa a konvertovať na šifrovanie súborov?</string>
+  <string name="confirm_convert_to_fbe_warning">Naozaj chcete vymazať údaje používateľa a konvertovať na šifrovanie súborov?</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORNENIE: Dokiaľ bude toto nastavenie zapnuté, funkcie ochrany zariadenia nebudú na tomto zariadení fungovať.</string>
   <string name="confirm_enable_oem_unlock_title">Povoliť odblokovanie OEM?</string>
   <string name="confirm_fingerprint_icon_content_description">Pokračujte priložením prsta.</string>
@@ -833,8 +833,8 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="controls_subtitle">Upraviť spotrebu energie</string>
   <string name="convert_to_fbe_warning">"Chystáte sa konvertovať dátový oddiel na šifrovanie založené na súboroch.
  !!Upozornenie!! Týmto procesom vymažete všetky dáta.
- Táto funkcia je v alfa verzii a nemusí fungovať správne.
- Ak chcete pokračovať, stlačte tlačidlo „Vymazať a konvertovať…“."</string>
+ Táto funkcia je v alfa verzii a nemusí fungovať správne.
+ Ak chcete pokračovať, stlačte tlačidlo „Vymazať a konvertovať…“."</string>
   <string name="convert_to_file_encryption">Konvertovať na šifrovanie súborov</string>
   <string name="convert_to_file_encryption_done">Súbory sú už šifrované</string>
   <string name="convert_to_file_encryption_enabled">Konvertovať…</string>
@@ -871,7 +871,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho výrobné nast
   <string name="crypt_keeper_data_corrupt_title">Dešifrovanie sa nepodarilo</string>
   <string name="crypt_keeper_desc">"Svoje účty, nastavenia, stiahnuté aplikácie a ich dáta, médiá a ďalšie súbory môžete zašifrovať. Ak telefón zašifrujete a nastavili ste zámku obrazovky (bezpečnostný vzor, číselný kód PIN alebo heslo), bude potrebné ho pri každom zapnutí dešifrovať odomknutím obrazovky. Jediným ďalším spôsobom dešifrovania je obnovenie výrobných nastavení, ktorým vymažete všetky svoje dáta.
 
-Šifrovanie trvá hodinu alebo dlhšie. Šifrovanie je potrebné začať s plne nabitou batériou a počas šifrovania je potrebné nechať telefón pripojený k zdroju napájania. Ak šifrovanie prerušíte, prídete o niektoré alebo všetky svoje dáta."</string>
+Šifrovanie trvá hodinu alebo dlhšie. Šifrovanie je potrebné začať s plne nabitou batériou a počas šifrovania je potrebné nechať telefón pripojený k zdroju napájania. Ak šifrovanie prerušíte, prídete o niektoré alebo všetky svoje dáta."</string>
   <string name="crypt_keeper_dialog_need_password_message">Pred spustením šifrovania musíte nastaviť kód PIN alebo heslo zámky obrazovky.</string>
   <string name="crypt_keeper_dialog_need_password_title">Chýba heslo alebo kód PIN na odomknutie obrazovky</string>
   <string name="crypt_keeper_encrypt_title">Šifrovať telefón</string>
@@ -881,7 +881,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho výrobné nast
 
 Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho výrobné nastavenia. Po ich obnovení budete mať počas nastavovania telefónu príležitosť obnoviť všetky údaje, ktoré boli zálohované vo vašom účte Google."</string>
   <string name="crypt_keeper_failed_title">Šifrovanie bolo neúspešné</string>
-  <string name="crypt_keeper_final_desc">Operácia šifrovania je nevratná a ak ju prerušíte, prídete o dáta. Šifrovanie môže trvať viac ako hodinu. Telefón sa počas tejto doby niekoľkokrát reštartuje.</string>
+  <string name="crypt_keeper_final_desc">Operácia šifrovania je nevratná a ak ju prerušíte, prídete o dáta. Šifrovanie môže trvať viac ako hodinu. Telefón sa počas tejto doby niekoľkokrát reštartuje.</string>
   <string name="crypt_keeper_force_power_cycle">Ak chcete odomknúť svoj telefón, vypnite ho a potom ho zapnite.</string>
   <string name="crypt_keeper_low_charge_text">Nabite batériu a skúste to znova.</string>
   <string name="crypt_keeper_settings_title">Šifrovanie</string>
@@ -900,11 +900,11 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho výrobné nast
   <string name="current_input_method">Aktuálna klávesnica</string>
   <string name="current_screen_lock">Aktuálna zámka obrazovky</string>
   <string name="cycle_day_chooser_title">Začiatok obdobia</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená a zelená)</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená a zelená)</string>
   <string name="daltonizer_mode_disabled">Zakázané</string>
   <string name="daltonizer_mode_monochromacy">Monochromázia (úplna farbosleposť)</string>
-  <string name="daltonizer_mode_protanomaly">Protanomália (červená a zelená)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanomália (modrá a žltá)</string>
+  <string name="daltonizer_mode_protanomaly">Protanomália (červená a zelená)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomália (modrá a žltá)</string>
   <string name="daltonizer_type">Režim korekcie</string>
   <string name="daltonizer_type_overridden">Prekonané predvoľbou %1$s</string>
   <string name="dashboard_title">Nastavenia</string>
@@ -988,18 +988,18 @@ Vaše hodinky a váš operátor môžu merať spotrebu mobilných dát rôzne. N
   <string name="data_usage_menu_show_wifi">Zobraziť využitie Wi-Fi</string>
   <string name="data_usage_menu_sim_cards">SIM karty</string>
   <string name="data_usage_menu_split_4g">Samostatné použitie 4G</string>
-  <string name="data_usage_metered_body">Keď sú dátové prenosy na pozadí obmedzené, zaobchádzame s meranými sieťami rovnako ako s mobilnými. Pred sťahovaním veľkých súborov pomocou týchto sietí vás môžu aplikácie upozorniť.</string>
+  <string name="data_usage_metered_body">Keď sú dátové prenosy na pozadí obmedzené, zaobchádzame s meranými sieťami rovnako ako s mobilnými. Pred sťahovaním veľkých súborov pomocou týchto sietí vás môžu aplikácie upozorniť.</string>
   <string name="data_usage_metered_mobile">Mobilné siete</string>
   <string name="data_usage_metered_title">Obmedzenia siete</string>
   <string name="data_usage_metered_wifi">Merané siete Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Ak chcete vybrať merané siete, zapnite Wi-Fi.</string>
-  <string name="data_usage_other_apps">Iné aplikácie zahrnuté v prehľade spotreby dát</string>
+  <string name="data_usage_other_apps">Iné aplikácie zahrnuté v prehľade spotreby dát</string>
   <string name="data_usage_pick_cycle_day">Deň v mesiaci, kedy sa má obnoviť počítanie dátových prenosov:</string>
   <string name="data_usage_reached_limit_text">Mobilné dáta pozastavené do konca obdobia</string>
   <string name="data_usage_reached_limit_title">Dosiahnutý limit mobilných dát</string>
   <string name="data_usage_received_sent">Prijaté: %1$s Odoslané: %2$s</string>
-  <string name="data_usage_restrict_background">Ak obmedzíte dátové prenosy na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.</string>
-  <string name="data_usage_restrict_background_multiuser">"Ak obmedzíte dátové prenosy na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.
+  <string name="data_usage_restrict_background">Ak obmedzíte dátové prenosy na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.</string>
+  <string name="data_usage_restrict_background_multiuser">"Ak obmedzíte dátové prenosy na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.
 
 Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="data_usage_restrict_background_title">Obmedziť prenosy na pozadí?</string>
@@ -1019,7 +1019,7 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mob. sieť</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
-  <string name="data_usage_template">V období %2$s ste využili %1$s dát</string>
+  <string name="data_usage_template">V období %2$s ste využili %1$s dát</string>
   <string name="data_usage_total_during_range">%2$s: využitých približne %1$s.</string>
   <string name="data_usage_total_during_range_mobile">%2$s: podľa meraní telefónu využitých asi %1$s. Operátor môže využitie dát účtovať inak.</string>
   <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
@@ -1054,13 +1054,13 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="debug_hw_overdraw">Ladenie prekresľovania GPU</string>
   <string name="debug_input_category">Vstup</string>
   <string name="debug_layout">Zobraziť ohraničenia</string>
-  <string name="debug_layout_option">Debug layouts</string>
+  <string name="debug_layout_option">Ladiť rozloženia</string>
   <string name="debug_layout_summary">Zobraziť vo výstrižku ohraničenie, okraje a pod.</string>
   <string name="debug_monitoring_category">Monitorovanie</string>
   <string name="debug_networking_category">Možnosti siete</string>
-  <string name="debug_over_bluetooth">Debug over Bluetooth</string>
-  <string name="debug_overdraw_option">Debug overdraw</string>
-  <string name="debug_timing_option">Debug GPU profiling</string>
+  <string name="debug_over_bluetooth">Ladenie cez Bluetooth</string>
+  <string name="debug_overdraw_option">Ladiť prekreslenie</string>
+  <string name="debug_timing_option">Ladiť profilovanie GPU</string>
   <string name="debug_view_attributes">Kontrola atribútov zobrazenia</string>
   <string name="decline">Odmietnuť</string>
   <string name="decline_remote_bugreport_action">Odmietnuť</string>
@@ -1095,7 +1095,7 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="developer_options">Vývojárske nastavenia</string>
   <string name="developer_smallest_width">Minimálna šírka</string>
   <string name="development_settings_enable">Povolenie možností vývojára</string>
-  <string name="development_settings_not_available">Tento používateľ nemá k dispozícii možnosti pre vývojárov</string>
+  <string name="development_settings_not_available">Tento používateľ nemá k dispozícii možnosti pre vývojárov</string>
   <string name="development_settings_summary">Možnosti nastavenia vývoja aplikácií</string>
   <string name="development_settings_title">Pre vývojárov</string>
   <string name="device_admin_add_title">Správca zariadení</string>
@@ -1103,7 +1103,7 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="device_admin_status">Správca je aktívny a umožňuje aplikácii %1$s vykonávať nasledujúce operácie:</string>
   <string name="device_admin_title">Správa zariadenia</string>
   <string name="device_admin_warning">Aktiváciou tohto správcu umožníte aplikácii %1$s vykonávať nasledujúce operácie:</string>
-  <string name="device_feedback">Odoslať spätnú väzbu o zariadení</string>
+  <string name="device_feedback">Odoslať spätnú väzbu o zariadení</string>
   <string name="device_info_default">Neznáme</string>
   <string name="device_info_label">Informácie o zariadení</string>
   <string name="device_info_not_available">Nie je k dispozícii</string>
@@ -1154,7 +1154,7 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="display_summary_on">Prispôsobivý jas je ZAPNUTÝ</string>
   <string name="display_vr_pref_low_persistence">Znížiť rozmazanie (odporúčané)</string>
   <string name="display_vr_pref_off">Znížiť blikanie</string>
-  <string name="display_vr_pref_title">Keď je zariadenie v režime VR</string>
+  <string name="display_vr_pref_title">Keď je zariadenie v režime VR</string>
   <string name="dlg_cancel">Zrušiť</string>
   <string name="dlg_close">Zavrieť</string>
   <string name="dlg_confirm_unmount_text">Ak odpojíte úložisko USB, niektoré používané aplikácie môžu byť zastavené a nebudú k dispozícii, kým úložisko USB znova nepripojíte.</string>
@@ -1164,7 +1164,7 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_remove_locales_error_message">Ponechajte aspoň jeden preferovaný jazyk</string>
   <string name="dlg_remove_locales_error_title">Nie je možné odstrániť všetky jazyky</string>
-  <string name="dlg_remove_locales_message">Text sa zobrazí v inom jazyku.</string>
+  <string name="dlg_remove_locales_message">Text sa zobrazí v inom jazyku.</string>
   <string name="dlg_switch">Prepnúť</string>
   <string name="dock_audio_media_disabled">Všetky zvukové súbory</string>
   <string name="dock_audio_media_enabled">Iba zvukové médiá</string>
@@ -1187,15 +1187,15 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="domain_url_section_title">Nainštalované aplikácie</string>
   <string name="domain_urls_summary_none">Neotvára podporované odkazy</string>
   <string name="domain_urls_summary_one">Otvárať %s</string>
-  <string name="domain_urls_summary_some">Otvorené: doména %s a ďalšie webové adresy</string>
+  <string name="domain_urls_summary_some">Otvorené: doména %s a ďalšie webové adresy</string>
   <string name="domain_urls_title">Odkazy na otvorenie</string>
   <string name="done">Hotovo</string>
   <string name="done_button">Hotovo</string>
   <string name="double_tap_power_for_camera_summary">Fotoaparát rýchlo otvoríte dvojitým stlačením vypínača (funguje to na ľubovoľnej obrazovke)</string>
   <string name="double_tap_power_for_camera_title">Prechod na Fotoaparát</string>
-  <string name="double_twist_for_camera_mode_summary">Vo Fotoaparáte Google môžete režim selfie aktivovať a deaktivovať dvojitým pretočením, keď máte túto aplikáciu spustenú</string>
+  <string name="double_twist_for_camera_mode_summary">Vo Fotoaparáte Google môžete režim selfie aktivovať a deaktivovať dvojitým pretočením, keď máte túto aplikáciu spustenú</string>
   <string name="double_twist_for_camera_mode_title">Prepnutie fotoaparátov</string>
-  <string name="download_file_description">Skopírované z iného zariadenia</string>
+  <string name="download_file_description">Skopírované z iného zariadenia</string>
   <string name="doze_summary">Prebudiť obrazovku, keď dostanete upozornenie</string>
   <string name="doze_title">Ambientné zobrazenie</string>
   <string name="draw_overlay">Vykresliť cez ďalšie aplikácie</string>
@@ -1229,8 +1229,8 @@ Toto nastavenie ovplyvní používateľov tohto telefónu."</string>
   <string name="enable_ambient_screen">Ambient displej šetrí batériu.</string>
   <string name="enable_ambient_screen_subtitle">Povoliť?</string>
   <string name="enable_compatibility">Prispôsobiť veľkosť aplikácie</string>
-  <string name="enable_freeform_support">Povoliť okná s voľným tvarom</string>
-  <string name="enable_freeform_support_summary">Povolenie podpory pre experimentálne okná s voľným tvarom.</string>
+  <string name="enable_freeform_support">Povoliť okná s voľným tvarom</string>
+  <string name="enable_freeform_support_summary">Povolenie podpory pre experimentálne okná s voľným tvarom.</string>
   <string name="enable_large_text">Povoliť veľké písmo?</string>
   <string name="enable_magnification">Povoliť priblíženie?</string>
   <string name="enable_opengl_traces_title">Trasovanie OpenGL</string>
@@ -1281,9 +1281,9 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
 
 Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."</string>
   <string name="encryption_warning_fragment_continue_button">Pokračovať</string>
-  <string name="encryption_warning_fragment_description">"Vo vašom zariadení iPhone™ je zapnuté šifrovanie zálohovania. Z tohto dôvodu budete môcť kopírovať iba fotky, videá a hudbu.
+  <string name="encryption_warning_fragment_description">"Vo vašom zariadení iPhone™ je zapnuté šifrovanie zálohovania. Z tohto dôvodu budete môcť kopírovať iba fotky, videá a hudbu.
 
-Ak chcete skopírovať všetko, zmeňte v aplikácii iTunes toto nastavenie a skúste to znova."</string>
+Ak chcete skopírovať všetko, zmeňte v aplikácii iTunes toto nastavenie a skúste to znova."</string>
   <string name="encryption_warning_fragment_title">Záloha je šifrovaná</string>
   <string name="enhanced_4g_lte_mode_summary">Zlepšiť hovory a správy pomocou dátového pripojenia LTE (odporúčané)</string>
   <string name="enhanced_4g_lte_mode_title">Zlepšený režim 4G LTE</string>
@@ -1291,11 +1291,11 @@ Ak chcete skopírovať všetko, zmeňte v aplikácii iTunes toto nastavenie a 
   <string name="enter_pattern">Ak chcete spustiť Android, nakreslite vzor.</string>
   <string name="enter_pin">Ak chcete spustiť Android, zadajte číslo PIN.</string>
   <string name="erase_external_storage">Vymazať ukladací priestor USB</string>
-  <string name="erase_external_storage_description">Vymazať všetky dáta v internom úložisku USB, napríklad hudbu a fotky</string>
+  <string name="erase_external_storage_description">Vymazať všetky dáta v internom úložisku USB, napríklad hudbu a fotky</string>
   <string name="error_apn_empty">Názov prístupového bodu (APN) nemôže byť prázdny.</string>
   <string name="error_could_not_launch">Nebolo možné spustiť apl.</string>
-  <string name="error_mcc_not3">Pole MCC musí obsahovať 3 číslice.</string>
-  <string name="error_mnc_not23">Pole MNC musí obsahovať 2 alebo 3 číslice.</string>
+  <string name="error_mcc_not3">Pole MCC musí obsahovať 3 číslice.</string>
+  <string name="error_mnc_not23">Pole MNC musí obsahovať 2 alebo 3 číslice.</string>
   <string name="error_name_empty">Pole Meno nemôže byť prázdne.</string>
   <string name="error_title"/>
   <string name="ethernet">Ethernet</string>
@@ -1347,24 +1347,24 @@ Ak chcete skopírovať všetko, zmeňte v aplikácii iTunes toto nastavenie a 
   <string name="fingerprint_unlock_set_unlock_pattern">Nexus Imprint + bezpečnostný vzor</string>
   <string name="fingerprint_unlock_set_unlock_pin">Nexus Imprint + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Pokračovať bez senzora Nexus Imprint</string>
-  <string name="fingerprint_unlock_title">Pomocou senzora Nexus Imprint môžete odomknúť zariadenie odtlačkom prsta. Táto možnosť vyžaduje z bezpečnostných dôvodov záložnú zámku obrazovky.</string>
+  <string name="fingerprint_unlock_title">Pomocou senzora Nexus Imprint môžete odomknúť zariadenie odtlačkom prsta. Táto možnosť vyžaduje z bezpečnostných dôvodov záložnú zámku obrazovky.</string>
   <string name="fingerprint_usage_category_title">Použiť odtlačok na</string>
   <string name="finish_button_label">Dokončiť</string>
   <string name="firmware_version">Verzia systému Android</string>
   <string name="font_size_make_larger_desc">Zväčšiť</string>
   <string name="font_size_make_smaller_desc">Zmenšiť</string>
-  <string name="font_size_preview_text_body">"Lesk tohto nádherného mesta Dorotku a jej priateľov najskôr oslepoval, hoci mali na očiach zelené okuliare. Ulice lemovali nádherné domy zo zeleného mramoru, husto osadené trblietajúcimi sa smaragdmi. Kráčali po chodníku z takého istého zeleného mramoru. Na miestach, kde sa spájali dlaždice, ligotali sa v odraze slnka husté rady smaragdov. Obločné tabule boli zo zeleného skla. Dokonca aj obloha nad mestom bola zafarbená dozelena a slnečné lúče boli tiež zelené. 
+  <string name="font_size_preview_text_body">"Lesk tohto nádherného mesta Dorotku a jej priateľov najskôr oslepoval, hoci mali na očiach zelené okuliare. Ulice lemovali nádherné domy zo zeleného mramoru, husto osadené trblietajúcimi sa smaragdmi. Kráčali po chodníku z takého istého zeleného mramoru. Na miestach, kde sa spájali dlaždice, ligotali sa v odraze slnka husté rady smaragdov. Obločné tabule boli zo zeleného skla. Dokonca aj obloha nad mestom bola zafarbená dozelena a slnečné lúče boli tiež zelené. 
 
-Na uliciach bolo veľa ľudí. Muži, ženy i deti si vykračovali oblečení v zelených šatách a všetci mali zelenkavú pokožku. Zvedavo si obzerali Dorotku a jej prazvláštnu spoločnosť. Keď deti zbadali leva, rýchlo utiekli a skryli sa za matkin chrbát. Nik sa však Dorotke a jej spoločníkom neprihovoril. Na ulici bolo mnoho rozličných obchodov. Dorotkinmu zraku neušlo, že všetok tovar bol zelený. Zelené cukríky, zelené pukance, zelené topánky, zelené klobúky a všelijaké zelené šaty – to všetko tu bolo na predaj. Jeden obchodník predával zelenú limonádu. Keď si ju deti kupovali, Dorotka zbadala, že platia zelenými mincami. 
+Na uliciach bolo veľa ľudí. Muži, ženy i deti si vykračovali oblečení v zelených šatách a všetci mali zelenkavú pokožku. Zvedavo si obzerali Dorotku a jej prazvláštnu spoločnosť. Keď deti zbadali leva, rýchlo utiekli a skryli sa za matkin chrbát. Nik sa však Dorotke a jej spoločníkom neprihovoril. Na ulici bolo mnoho rozličných obchodov. Dorotkinmu zraku neušlo, že všetok tovar bol zelený. Zelené cukríky, zelené pukance, zelené topánky, zelené klobúky a všelijaké zelené šaty – to všetko tu bolo na predaj. Jeden obchodník predával zelenú limonádu. Keď si ju deti kupovali, Dorotka zbadala, že platia zelenými mincami. 
 
-Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži tlačili pred sebou malé zelené vozíky, v ktorých prevážali veci, kam bolo treba. Všetci vyzerali šťastní, spokojní a prosperujúci."</string>
+Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži tlačili pred sebou malé zelené vozíky, v ktorých prevážali veci, kam bolo treba. Všetci vyzerali šťastní, spokojní a prosperujúci."</string>
   <string name="font_size_preview_text_headline">Ukážkový text</string>
-  <string name="font_size_preview_text_subtitle">11. kapitola: Nádherné smaragdové mesto</string>
-  <string name="font_size_preview_text_title">Čarodejník z krajiny Oz</string>
+  <string name="font_size_preview_text_subtitle">11. kapitola: Nádherné smaragdové mesto</string>
+  <string name="font_size_preview_text_title">Čarodejník z krajiny Oz</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_summary">Zväčšite alebo zmenšite text na obrazovke.</string>
   <string name="force_allow_on_external">Vynútiť povolenie aplikácií na externom úložisku</string>
-  <string name="force_allow_on_external_summary">Umožňuje zapísať akúkoľvek aplikáciu do externého úložiska bez ohľadu na hodnoty v manifeste</string>
+  <string name="force_allow_on_external_summary">Umožňuje zapísať akúkoľvek aplikáciu do externého úložiska bez ohľadu na hodnoty v manifeste</string>
   <string name="force_hw_ui">Vykresľovat pomocou GPU</string>
   <string name="force_hw_ui_summary">Používať GPU na dvojrozmerné vykresľovanie</string>
   <string name="force_msaa">Vynútiť 4x MSAA</string>
@@ -1381,16 +1381,16 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
   <string name="fragment_target_connected_title">Telefóny sú pripojené</string>
   <string name="fragment_usb_description">"Toto je najrýchlejší spôsob, ako preniesť väčšinu dát.
 
-Zapojte kábel do pôvodného telefónu. Následne ho pripojte k novému telefónu pomocou adaptéra v balení. Potom pôvodný telefón odomknite."</string>
+Zapojte kábel do pôvodného telefónu. Následne ho pripojte k novému telefónu pomocou adaptéra v balení. Potom pôvodný telefón odomknite."</string>
   <string name="fragment_usb_other_ways">Ďalšie spôsoby kopírovania dát</string>
   <string name="fragment_usb_title">Kopírovanie dát cez kábel</string>
   <string name="free_memory">Voľná pamäť</string>
-  <string name="fullbackup_data_summary">"Automaticky zálohujte údaje zariadenia (ako sú heslá sietí Wi-Fi a história hovorov) a údaje aplikácií (ako sú nastavenia a súbory uložené aplikáciami) na Disk Google.
+  <string name="fullbackup_data_summary">"Automaticky zálohujte údaje zariadenia (ako sú heslá sietí Wi-Fi a história hovorov) a údaje aplikácií (ako sú nastavenia a súbory uložené aplikáciami) na Disk Google.
 
-Keď zapnete automatické zálohovanie, budú údaje zariadenia a aplikácií pravidelne ukladané do súkromného priečinka na Disku Google. Údaje aplikácií môžu zahŕňať údaje, ktoré uložila aplikácia (v závislosti od nastavení vývojára) vrátane potenciálne citlivých údajov, ako sú kontakty, správy a fotky.
+Keď zapnete automatické zálohovanie, budú údaje zariadenia a aplikácií pravidelne ukladané do súkromného priečinka na Disku Google. Údaje aplikácií môžu zahŕňať údaje, ktoré uložila aplikácia (v závislosti od nastavení vývojára) vrátane potenciálne citlivých údajov, ako sú kontakty, správy a fotky.
 
 Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory alebo súbory, ktoré sa vývojári rozhodli zo služby vylúčiť, zálohované nebudú."</string>
-  <string name="fullbackup_erase_dialog_message">Zastaviť zálohovanie údajov zariadenia (ako sú heslá sietí Wi-Fi a história hovorov) a údajov aplikácií (ako sú nastavenia a súbory uložené aplikáciami) a vymazať všetky kópie na Disku Google?</string>
+  <string name="fullbackup_erase_dialog_message">Zastaviť zálohovanie údajov zariadenia (ako sú heslá sietí Wi-Fi a história hovorov) a údajov aplikácií (ako sú nastavenia a súbory uložené aplikáciami) a vymazať všetky kópie na Disku Google?</string>
   <string name="gadget_bluetooth">Bluetooth</string>
   <string name="gadget_brightness_state_auto">automaticky</string>
   <string name="gadget_brightness_state_full">plné</string>
@@ -1426,7 +1426,7 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="gmt">GMT</string>
   <string name="go_back_button_label">Späť</string>
   <string name="google_services_automatic_storage_manager">&lt;b&gt;Uvo&amp;#318;nite miesto, ke&amp;#271; je &amp;#250;lo&amp;#382;isko zariadenia takmer pln&amp;#233;&lt;/b&gt; &amp;#8211; sta&amp;#269;&amp;#237; odstr&amp;#225;ni&amp;#357; niektor&amp;#233; d&amp;#225;ta zo zariadenia, ako napr&amp;#237;klad z&amp;#225;lohovan&amp;#233; fotky a&amp;#160;vide&amp;#225;.</string>
-  <string name="google_services_automatic_storage_manager_dialog_text">Keď ste pripojený/-á, naďalej môžete pristupovať k týmto dátam. Danú funkciu a odstránené položky môžete ovládať v časti Nastavenia &gt; Úložisko &gt; Spravovať úložisko.</string>
+  <string name="google_services_automatic_storage_manager_dialog_text">Keď ste pripojený/-á, naďalej môžete pristupovať k týmto dátam. Danú funkciu a odstránené položky môžete ovládať v časti Nastavenia &gt; Úložisko &gt; Spravovať úložisko.</string>
   <string name="google_services_kids_automatic_storage_manager">&lt;b&gt;Uvo&amp;#318;nite miesto, ke&amp;#271; je &amp;#250;lo&amp;#382;isko zariadenia takmer pln&amp;#233;&lt;/b&gt; &amp;#8211; sta&amp;#269;&amp;#237; odstr&amp;#225;ni&amp;#357; niektor&amp;#233; d&amp;#225;ta z&amp;#160;tohto zariadenia, ako napr&amp;#237;klad z&amp;#225;lohovan&amp;#233; fotky a&amp;#160;vide&amp;#225;.</string>
   <string name="haptic_feedback_enable_title">Vibrovať pri klepnutí</string>
   <string name="hardkeyboard_category">Nastavenia fyzickej klávesnice</string>
@@ -1443,7 +1443,7 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="header_category_wireless_networks">Bezdrôtové pripojenia a siete</string>
   <string name="header_data_and_synchronization">Údaje a synchronizácia</string>
   <string name="heavy_weight_stop_description">Túto aplikáciu nie je možné bezpečne zastaviť. Ak ju zastavíte, môže dôjsť k strate časti vašej práce.</string>
-  <string name="help_feedback_label">Pomocník a spätná väzba</string>
+  <string name="help_feedback_label">Pomocník a spätná väzba</string>
   <string name="help_label">Pomocník a spät. väzba</string>
   <string name="high_power_apps">Optimalizácia batérie</string>
   <string name="high_power_desc">Nepoužívajte optimalizáciu batérie. Môže rýchlejšie vybiť vašu batériu.</string>
@@ -1475,7 +1475,7 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="inactive_apps_title">Neaktívne aplikácie</string>
   <string name="include_app_data_title">Zahrnúť dáta aplikácií</string>
   <string name="incoming_call_volume_title">Tón zvonenia</string>
-  <string name="indexing_fragment_description">Ponechajte telefóny pripojené a zapnuté. Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s</string>
+  <string name="indexing_fragment_description">Ponechajte telefóny pripojené a zapnuté. Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s</string>
   <string name="indexing_title">Pripravuje sa kopírovanie...</string>
   <string name="info_label_battery">Batéria</string>
   <string name="info_label_build">Zostavenie</string>
@@ -1514,13 +1514,13 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="input_none_enabled">Žiadne spôsoby zadávania</string>
   <string name="input_none_selected">Žiadna nie je vybraná</string>
   <string name="input_settings">Spôsoby zadávania</string>
-  <string name="install_all_warning">Váš telefón a osobné dáta sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete výhradnú zodpovednosť za všetky škody na telefóne alebo stratu dát, ktoré môžu vzniknúť v dôsledku používania takých aplikácií.</string>
+  <string name="install_all_warning">Váš telefón a osobné dáta sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete výhradnú zodpovednosť za všetky škody na telefóne alebo stratu dát, ktoré môžu vzniknúť v dôsledku používania takých aplikácií.</string>
   <string name="install_applications">Neznáme zdroje</string>
   <string name="install_applications_title">Povoliť všet. zdroje aplikácií</string>
   <string name="install_text">Inštalovať</string>
-  <string name="install_unknown_applications">Povoliť inštaláciu aplikácií z iných zdrojov ako Obchod Play</string>
+  <string name="install_unknown_applications">Povoliť inštaláciu aplikácií z iných zdrojov ako Obchod Play</string>
   <string name="install_unknown_applications_title">Umožňuje inštalovať aplikácie z iných zdrojov ako sl. Google Play</string>
-  <string name="instructions_title">Pokračujte v nastavovaní na druhom telefóne</string>
+  <string name="instructions_title">Pokračujte v nastavovaní na druhom telefóne</string>
   <string name="insufficient_storage">V úložisku nie je dostatok miesta.</string>
   <string name="intent_sender_account_label">Účet:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1540,7 +1540,7 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="keep_screen_on">Nevypínať obrazovku</string>
   <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>
   <string name="kernel_version">Verzia jadra</string>
-  <string name="keyboard_and_input_methods_category">Klávesnica a metódy vstupu</string>
+  <string name="keyboard_and_input_methods_category">Klávesnica a metódy vstupu</string>
   <string name="keyboard_assistance_category">Pomoc pre klávesnicu</string>
   <string name="keyboard_layout_default_label">Predvolené</string>
   <string name="keyboard_layout_dialog_setup_button">Nastaviť rozloženia klávesnice</string>
@@ -1574,7 +1574,7 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="keywords_home">launcher</string>
   <string name="keywords_ignore_optimizations">ignorovať optimalizácie, spánok, pohotovostný režim aplikácie</string>
   <string name="keywords_keyboard_and_ime">oprava textu, opraviť, zvuk, vibrácie, automatický výber, jazyk, gesto, navrhnúť, návrh, motív, urážlivé slovo, typ, emodži, medzinárodné</string>
-  <string name="keywords_location">v okolí, poloha, história, nahlasovanie</string>
+  <string name="keywords_location">v okolí, poloha, história, nahlasovanie</string>
   <string name="keywords_location_mode">presnosť</string>
   <string name="keywords_lockscreen">odomknúť prejdením prstom, heslo, vzor, pin</string>
   <string name="keywords_more_default_sms_app">textová správa, poslať textovú správu, správy, posielanie textových správ</string>
@@ -1596,11 +1596,11 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="keywords_wifi">wifi, wi-fi, sieťové pripojenie</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, hovor, volanie</string>
   <string name="keywords_write_settings">zápis a úprava nastavení systému</string>
-  <string name="language_keyboard_settings_title">Jazyky a vstup</string>
+  <string name="language_keyboard_settings_title">Jazyky a vstup</string>
   <string name="language_not_supported_open_on_phone">Otvoriť na telefóne</string>
   <string name="language_not_supported_title">Jazyk nie je podporovaný.</string>
   <string name="language_picker_title">Jazyky</string>
-  <string name="language_settings">Jazyky a vstup</string>
+  <string name="language_settings">Jazyky a vstup</string>
   <string name="large_font">Veľké</string>
   <string name="last_synced">Posledná synchronizácia %1$s</string>
   <string name="last_time_used_label">Naposledy použité</string>
@@ -1610,16 +1610,16 @@ Zálohované údaje sa nezapočítavajú do kvóty úložiska. Veľké súbory a
   <string name="legal_information">Právne informácie</string>
   <string name="license_title">Licencia</string>
   <string name="lift_to_wake_title">Prebudiť zdvihnutím</string>
-  <string name="link_speed">%1$d Mbps</string>
+  <string name="link_speed">%1$d Mbps</string>
   <string name="loading_notification_apps">Načítavajú sa aplikácie...</string>
   <string name="local_backup_password_summary_change">Klepnutím zmeníte alebo odstránite heslo pre úplné zálohy do počítača</string>
   <string name="local_backup_password_summary_none">Úplné zálohy na počítači nie sú momentálne chránené</string>
-  <string name="local_backup_password_title">Heslo pre zálohy v počítači</string>
+  <string name="local_backup_password_title">Heslo pre zálohy v počítači</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Nové heslo a potvrdenie sa nezhodujú</string>
   <string name="local_backup_password_toast_success">Nové heslo pre zálohy je nastavené</string>
   <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohy zlyhalo</string>
   <string name="locale_default">Predvolené</string>
-  <string name="locale_not_translated">Nemusí byť k dispozícii v niektorých aplikáciách</string>
+  <string name="locale_not_translated">Nemusí byť k dispozícii v niektorých aplikáciách</string>
   <string name="locale_remove_menu">Odstrániť</string>
   <string name="locale_service_name">Služby jazykov</string>
   <string name="location_access_summary">Umožniť aplikáciám, ktoré o to požiadali, používať údaje o polohe</string>
@@ -1664,15 +1664,15 @@ Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presne
   <string name="lock_after_timeout_summary">%1$s po prechode do spánku</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s po režime spánku, ak odomknutie nie je udržované funkciou %2$s</string>
   <string name="lock_immediately_summary_with_exception">Okamžite po režime spánku, ak odomknutie nie je udržované funkciou %1$s</string>
-  <string name="lock_profile_wipe_attempts">Skúste to znova. Pokus %1$d z %2$d.</string>
-  <string name="lock_profile_wipe_content">Príliš veľa chybných pokusov. Váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
+  <string name="lock_profile_wipe_attempts">Skúste to znova. Pokus %1$d z %2$d.</string>
+  <string name="lock_profile_wipe_content">Príliš veľa chybných pokusov. Váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
   <string name="lock_profile_wipe_dismiss">Odmietnuť</string>
-  <string name="lock_profile_wipe_warning_content_password">Ak pri tomto pokuse zadáte nesprávne pracovné heslo, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
-  <string name="lock_profile_wipe_warning_content_pattern">Ak pri tomto pokuse zadáte nesprávny pracovný vzor, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
-  <string name="lock_profile_wipe_warning_content_pin">Ak pri tomto pokuse zadáte nesprávny pracovný kód PIN, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
+  <string name="lock_profile_wipe_warning_content_password">Ak pri tomto pokuse zadáte nesprávne pracovné heslo, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
+  <string name="lock_profile_wipe_warning_content_pattern">Ak pri tomto pokuse zadáte nesprávny pracovný vzor, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
+  <string name="lock_profile_wipe_warning_content_pin">Ak pri tomto pokuse zadáte nesprávny pracovný kód PIN, váš pracovný profil a združené údaje budú z tohto zariadenia odstránené.</string>
   <string name="lock_profile_wipe_warning_title">Posledný pokus</string>
-  <string name="lock_screen_intro_skip_dialog_text">Funkcie ochrany zariadenia nebudú aktivované. V prípade straty alebo krádeže tohto telefónu nebudete môcť ostatným zabrániť v jeho používaní.</string>
-  <string name="lock_screen_intro_skip_dialog_text_frp">Funkcie ochrany zariadenia nebudú aktivované. V prípade straty, krádeže alebo vymazania telefónu nebudete môcť ostatným zabrániť v jeho používaní.</string>
+  <string name="lock_screen_intro_skip_dialog_text">Funkcie ochrany zariadenia nebudú aktivované. V prípade straty alebo krádeže tohto telefónu nebudete môcť ostatným zabrániť v jeho používaní.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Funkcie ochrany zariadenia nebudú aktivované. V prípade straty, krádeže alebo vymazania telefónu nebudete môcť ostatným zabrániť v jeho používaní.</string>
   <string name="lock_screen_notifications_interstitial_message">Akým spôsobom chcete zobrazovať upozornenia na uzamknutom zariadení?</string>
   <string name="lock_screen_notifications_interstitial_message_profile">Akým spôsobom chcete zobrazovať profilové upozornenia na uzamknutom zariadení?</string>
   <string name="lock_screen_notifications_interstitial_title">Upozornenia</string>
@@ -1684,7 +1684,7 @@ Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presne
   <string name="lock_screen_notifications_summary_show">Zobrazovať všetok obsah upozornení</string>
   <string name="lock_screen_notifications_summary_show_profile">Zobrazovať všetok obsah pracovných upozornení</string>
   <string name="lock_screen_notifications_title">Na uzamknutej obrazovke</string>
-  <string name="lock_settings_picker_fingerprint_message">Vyberte dodatočnú zámku obrazovky, ktorá sa použije s technológiou Nexus Imprint</string>
+  <string name="lock_settings_picker_fingerprint_message">Vyberte dodatočnú zámku obrazovky, ktorá sa použije s technológiou Nexus Imprint</string>
   <string name="lock_settings_picker_title">Zámka obrazovky</string>
   <string name="lock_settings_picker_title_profile">Výber pracovnej zámky</string>
   <string name="lock_settings_profile_screen_lock_title">Zámka obrazovky pre pracovný profil</string>
@@ -1773,12 +1773,12 @@ Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presne
   <string name="lockpattern_too_many_failed_confirmation_attempts">Príliš veľa nesprávnych pokusov. Skúste to znova o %d s.</string>
   <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
   <string name="lockpattern_tutorial_continue_label">Ďalej</string>
-  <string name="lockscreen_remote_input">Pri uzamknutom zariadení zakázať v upozorneniach písať odpovede či iný text</string>
+  <string name="lockscreen_remote_input">Pri uzamknutom zariadení zakázať v upozorneniach písať odpovede či iný text</string>
   <string name="lost_internet_access_cancel">Ďalej používať Wi‑Fi</string>
   <string name="lost_internet_access_persist">Viac už nezobrazovať</string>
   <string name="lost_internet_access_switch">Prepnúť na mobilné dáta</string>
   <string name="lost_internet_access_text">Ak má Wi-Fi slabé spojenie, môžete prepnúť na mobilnú sieť. Za využité dáta vám však môžu byť účtované poplatky.</string>
-  <string name="lost_internet_access_title">Sieť Wi-Fi nie je pripojená k internetu</string>
+  <string name="lost_internet_access_title">Sieť Wi-Fi nie je pripojená k internetu</string>
   <string name="magnification_subtitle">Trojitým poklepaním priblížite.</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Hlavný proces, ktorý sa používa.</string>
@@ -1794,7 +1794,7 @@ Táto služba je aktívna ak v Nastavenia polohy máte vybranú možnosť Presne
   <string name="manageapplications_settings_summary">Správa a odstraňovanie nainštalovaných aplikácií</string>
   <string name="manageapplications_settings_title">Spravovať aplikácie</string>
   <string name="managed_device_admin_title">Práca</string>
-  <string name="managed_profile_contact_search_summary">Povoliť vašej organizácii hľadať kontakty na identifikáciu volajúcich a kontaktov</string>
+  <string name="managed_profile_contact_search_summary">Povoliť vašej organizácii hľadať kontakty na identifikáciu volajúcich a kontaktov</string>
   <string name="managed_profile_contact_search_title">Vyhľadávanie kontaktov</string>
   <string name="managed_profile_location_switch_title">Poloha pre pracovný profil</string>
   <string name="managed_profile_not_available_label">Pracovný profil zatiaľ nie je k dispozícii</string>
@@ -1808,7 +1808,7 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
 "</string>
   <string name="master_clear_button_text">Resetovať telefón</string>
   <string name="master_clear_confirm_title">Resetovať?</string>
-  <string name="master_clear_desc">"Táto operácia vymaže všetky dáta v &lt;b&gt;internom &amp;#250;lo&amp;#382;isku&lt;/b&gt;" telef&amp;#243;nu, vr&amp;#225;tane:
+  <string name="master_clear_desc">"Táto operácia vymaže všetky dáta v &lt;b&gt;internom &amp;#250;lo&amp;#382;isku&lt;/b&gt;" telef&amp;#243;nu, vr&amp;#225;tane:
 
 "&lt;li&gt;&amp;#250;&amp;#269;tu Google&lt;/li&gt;"
 "&lt;li&gt;d&amp;#225;t a&amp;#160;nastaven&amp;#237; syst&amp;#233;mu a&amp;#160;aplik&amp;#225;ci&amp;#237;&lt;/li&gt;"
@@ -1818,7 +1818,7 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
 "&lt;li&gt;In&amp;#233; pou&amp;#382;&amp;#237;vate&amp;#318;sk&amp;#233; &amp;#250;daje&lt;/li&gt;"</string>
   <string name="master_clear_desc_erase_external_storage">""
 
-Ak chcete vymazať hudbu, obrázky a ďalšie používateľské dáta, je treba vymazať "&lt;b&gt;&amp;#250;lo&amp;#382;isko USB&lt;/b&gt;."</string>
+Ak chcete vymazať hudbu, obrázky a ďalšie používateľské dáta, je treba vymazať "&lt;b&gt;&amp;#250;lo&amp;#382;isko USB&lt;/b&gt;."</string>
   <string name="master_clear_failed">Pokus o obnovenie sa neuskutočnil, pretože služba System Clear nie je k dispozícii.</string>
   <string name="master_clear_final_button_text">Vymazať všetko</string>
   <string name="master_clear_final_desc">Chcete vymazať všetky osobné údaje a stiahnuté aplikácie? Túto akciu nebude možné vrátiť späť.</string>
@@ -1848,14 +1848,14 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="mem_use_total">Celkové</string>
   <string name="mem_use_zram_type">ZRam swap</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplikácie a dáta aplikácií</string>
+  <string name="memory_apps_usage">Aplikácie a dáta aplikácií</string>
   <string name="memory_available">K dispozícii</string>
   <string name="memory_available_read_only">K dispozícii (len na čítanie)</string>
   <string name="memory_avg_desc">Priemer %1$s</string>
   <string name="memory_avg_use">Priemer</string>
   <string name="memory_calculating_size">Prebieha výpočet...</string>
   <string name="memory_clear_cache_message">Týmto vymažete z pamäte dáta všetkých aplikácií.</string>
-  <string name="memory_clear_cache_title">Vymazať dáta z vyrovnávacej pamäte?</string>
+  <string name="memory_clear_cache_title">Vymazať dáta z vyrovnávacej pamäte?</string>
   <string name="memory_dcim_usage">Obrázky, videá</string>
   <string name="memory_details">Podrobnosti</string>
   <string name="memory_details_title">Podrobnosti o pamäti</string>
@@ -1870,7 +1870,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="memory_performance">Výkonnosť</string>
   <string name="memory_settings_title">Pamäť</string>
   <string name="memory_size">Celková pamäť</string>
-  <string name="memory_summary">Využíva sa v priemere %1$s z celkovej pamäte %2$s</string>
+  <string name="memory_summary">Využíva sa v priemere %1$s z celkovej pamäte %2$s</string>
   <string name="memory_usage">Využitie pamäte</string>
   <string name="memory_usage_apps">Pamäť používaná aplikáciami</string>
   <string name="memory_use_running_format">%1$s / %2$s</string>
@@ -1963,7 +1963,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="networks">Výber operátora</string>
   <string name="new_backup_pw_prompt">Tu zadajte nové heslo pre úplné zálohy</string>
   <string name="next_label">Ďalej</string>
-  <string name="nfc_disclaimer_content">NFC posiela dáta medzi týmto zariadením a ďalšími zariadeniami alebo cieľmi v okolí, ako sú platobné terminály, čítačky prístupových médií a interaktívne reklamy alebo značky.</string>
+  <string name="nfc_disclaimer_content">NFC posiela dáta medzi týmto zariadením a ďalšími zariadeniami alebo cieľmi v okolí, ako sú platobné terminály, čítačky prístupových médií a interaktívne reklamy alebo značky.</string>
   <string name="nfc_disclaimer_title">Zapnutie NFC</string>
   <string name="nfc_how_it_works_content">Nastavte si platobnú aplikáciu. Potom iba priložte zadnú časť vášho telefónu k akémukoľvek terminálu so symbolom pre bezkontaktné platby.</string>
   <string name="nfc_how_it_works_got_it">Dobre</string>
@@ -1993,14 +1993,14 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="night_display_end_time_title">Čas ukončenia</string>
   <string name="night_display_start_time_title">Čas začiatku</string>
   <string name="night_display_summary_off">Vypnuté. %1$s</string>
-  <string name="night_display_summary_off_auto_mode_custom">Zapne sa automaticky o %1$s.</string>
+  <string name="night_display_summary_off_auto_mode_custom">Zapne sa automaticky o %1$s.</string>
   <string name="night_display_summary_off_auto_mode_never">Nikdy sa automaticky nezapne.</string>
   <string name="night_display_summary_off_auto_mode_twilight">Zapne sa automaticky pri západe slnka.</string>
   <string name="night_display_summary_on">Zapnuté. %1$s</string>
-  <string name="night_display_summary_on_auto_mode_custom">Vypne sa automaticky o %1$s.</string>
+  <string name="night_display_summary_on_auto_mode_custom">Vypne sa automaticky o %1$s.</string>
   <string name="night_display_summary_on_auto_mode_never">Nikdy sa automaticky nevypne.</string>
   <string name="night_display_summary_on_auto_mode_twilight">Vypne sa automaticky pri východe slnka.</string>
-  <string name="night_display_text">Nočný režim zafarbí obrazovku do žltohneda. Obrazovka bude pri tlmenom osvetlení menej rušivá aj čitateľnejšia a bude sa vám lepšie zaspávať.</string>
+  <string name="night_display_text">Nočný režim zafarbí obrazovku do žltohneda. Obrazovka bude pri tlmenom osvetlení menej rušivá aj čitateľnejšia a bude sa vám lepšie zaspávať.</string>
   <string name="night_display_title">Nočný režim</string>
   <string name="no">Nie</string>
   <string name="no_application">Nič</string>
@@ -2025,21 +2025,21 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="notification_adb_target_service_text">Ladenie cez Bluetooth je povolené.</string>
   <string name="notification_adb_target_service_title">Ladenie</string>
   <string name="notification_app_settings_button">Nastavenia upozornení</string>
-  <string name="notification_importance_blocked">Nikdy nezobrazovať upozornenia z tejto aplikácie</string>
+  <string name="notification_importance_blocked">Nikdy nezobrazovať upozornenia z tejto aplikácie</string>
   <string name="notification_importance_default">Žiadne prerušenie na celú obrazovku alebo čiastočne sa zobrazujúce prerušenie.</string>
   <string name="notification_importance_high">Zobrazovať čiastočne. Žiadne prerušenia na celú obrazovku.</string>
   <string name="notification_importance_low">Žiadne prerušenia na celú obrazovku, čiastočne sa zobrazujúce prerušenia, zvuky ani vibrácie.</string>
-  <string name="notification_importance_max">Vždy zobrazovať čiastočne a povoliť prerušenia na celú obrazovku. Zobrazovať v hornej časti zoznamu upozornení.</string>
-  <string name="notification_importance_min">Žiadne prerušenia na celú obrazovku, čiastočne sa zobrazujúce prerušenia, zvuky ani vibrácie. Zobrazovať v dolnej časti zoznamu upozornení. Skryť na uzamknutej obrazovke a v stavovom riadku.</string>
+  <string name="notification_importance_max">Vždy zobrazovať čiastočne a povoliť prerušenia na celú obrazovku. Zobrazovať v hornej časti zoznamu upozornení.</string>
+  <string name="notification_importance_min">Žiadne prerušenia na celú obrazovku, čiastočne sa zobrazujúce prerušenia, zvuky ani vibrácie. Zobrazovať v dolnej časti zoznamu upozornení. Skryť na uzamknutej obrazovke a v stavovom riadku.</string>
   <string name="notification_importance_none">Nenastavené</string>
   <string name="notification_importance_title">Dôležitosť</string>
   <string name="notification_importance_unspecified">Aplikácia určuje dôležitosť každého upozornenia</string>
   <string name="notification_listener_disable_warning_cancel">Zrušiť</string>
   <string name="notification_listener_disable_warning_confirm">Vypnúť</string>
-  <string name="notification_listener_disable_warning_summary">Ak vypnete prístup k upozorneniam pre aplikáciu %1$s, môžete tým tiež deaktivovať prístup k nastaveniu Nerušiť.</string>
-  <string name="notification_listener_security_warning_summary">"Aplikácia %1$s bude môcť čítať všetky upozornenia vrátane osobných informácií, ako sú mená kontaktov a texty prijatých správ. Bude môcť tiež zrušiť upozornenia alebo spustiť v nich obsiahnuté tlačidlá spúšťajúce akcie. 
+  <string name="notification_listener_disable_warning_summary">Ak vypnete prístup k upozorneniam pre aplikáciu %1$s, môžete tým tiež deaktivovať prístup k nastaveniu Nerušiť.</string>
+  <string name="notification_listener_security_warning_summary">"Aplikácia %1$s bude môcť čítať všetky upozornenia vrátane osobných informácií, ako sú mená kontaktov a texty prijatých správ. Bude môcť tiež zrušiť upozornenia alebo spustiť v nich obsiahnuté tlačidlá spúšťajúce akcie. 
 
-Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť a meniť súvisiace nastavenia."</string>
+Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť a meniť súvisiace nastavenia."</string>
   <string name="notification_listener_security_warning_title">Povoliť prístup k upozorneniam pre službu %1$s?</string>
   <string name="notification_log_details_actions">akcie</string>
   <string name="notification_log_details_ashmem">ashmem</string>
@@ -2087,7 +2087,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="notifications_priority">Prepísania nastavenia Nerušiť</string>
   <string name="notifications_redacted">Žiadny citlivý obsah na uzamknutej obrazovke</string>
   <string name="notifications_silenced">Stlmené</string>
-  <string name="notifications_summary_divider"> / </string>
+  <string name="notifications_summary_divider"> / </string>
   <string name="number_sharing_calls_action">Hovory</string>
   <string name="number_sharing_sms_action">SMS</string>
   <string name="number_sharing_title">Zdieľanie čísla</string>
@@ -2096,9 +2096,9 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="oem_radio_info_label">Informácie a nastavenia špecifické pre výrobcu OEM</string>
   <string name="oem_unlock_enable">Odblokovať OEM</string>
   <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader je už odomknutý</string>
-  <string name="oem_unlock_enable_disabled_summary_connectivity">Najprv sa pripojte k internetu</string>
-  <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Pripojte sa k internetu alebo kontaktujte svojho operátora</string>
-  <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nedostupné na zariadeniach s blokovaním operátora</string>
+  <string name="oem_unlock_enable_disabled_summary_connectivity">Najprv sa pripojte k internetu</string>
+  <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Pripojte sa k internetu alebo kontaktujte svojho operátora</string>
+  <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nedostupné na zariadeniach s blokovaním operátora</string>
   <string name="oem_unlock_enable_summary">Povoliť odblokovanie ponuky bootloader</string>
   <string name="okay">OK</string>
   <string name="one_cacrt">jeden certifikát CA</string>
@@ -2115,7 +2115,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="other_sound_settings">Iné zvuky</string>
   <string name="overlay_display_devices_title">Simulovať sekundárne obrazovky</string>
   <string name="overlay_settings">Vykresliť cez ďalšie aplikácie</string>
-  <string name="owner_info_settings_edit_text_hint">Napr. Petrov Android</string>
+  <string name="owner_info_settings_edit_text_hint">Napr. Vilov Android</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Žiadne</string>
   <string name="owner_info_settings_title">Správa na uzamknutej obrazovke</string>
@@ -2125,48 +2125,48 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="passpoint_content">Poverenia: %1$s</string>
   <string name="passpoint_label">Uložené prostredníctvom siete</string>
   <string name="payment_summary">%1$s je predvolená aplikácia</string>
-  <string name="perm_description_battery_stats">This app can access battery usage statistics.</string>
-  <string name="perm_description_change_airplane_mode">This app can turn Airplane mode off and on.</string>
-  <string name="perm_description_change_locale">This app can change the system language on your device.</string>
-  <string name="perm_description_change_time">This app can change the time on your device.</string>
-  <string name="perm_description_configure_chosen_apps">This app can change chosen applications.</string>
-  <string name="perm_description_configure_doze">This app can change ambient mode settings, including turning ambient mode off or on.</string>
-  <string name="perm_description_disable_fitness">This app can disable or enable Fitness.</string>
-  <string name="perm_description_keyguard_password_set">This app can monitor keyguard password being set</string>
-  <string name="perm_description_lock_updates">This app can prevent system updates.</string>
-  <string name="perm_description_read_settings">This app can read settings.</string>
-  <string name="perm_description_retail">This app can start retail mode on your device.</string>
-  <string name="perm_description_set_global_key">This app can set the global key your device.</string>
-  <string name="perm_description_set_home_ready">This app can publish when home is ready.</string>
-  <string name="perm_description_set_power_save">This app can set Power Save mode.</string>
-  <string name="perm_description_show_factory_reset_confirmation">This app can show the factory reset confirmation.</string>
-  <string name="perm_description_start_theater_mode">This app can show Theater mode message and go to sleep</string>
-  <string name="perm_description_storage_stats">This app accesses storage usage statistics.</string>
-  <string name="perm_description_toggle_sunlight_mode">This app can toggle Brightness boost.</string>
-  <string name="perm_description_watch_power">This app can change the watch power state</string>
-  <string name="perm_description_write_settings">This app can change settings</string>
-  <string name="perm_label_battery_stats">Access battery usage statistics</string>
-  <string name="perm_label_change_airplane_mode">Change Airplane mode</string>
-  <string name="perm_label_change_locale">Change system language</string>
-  <string name="perm_label_change_time">Change system time</string>
-  <string name="perm_label_configure_chosen_apps">Change chosen applications</string>
-  <string name="perm_label_configure_doze">Change ambient mode settings</string>
-  <string name="perm_label_disable_fitness">Disable or enable Fitness</string>
-  <string name="perm_label_keyguard_password_set">Keyguard password set</string>
-  <string name="perm_label_lock_updates">Prevent system updates</string>
-  <string name="perm_label_read_settings">Read settings</string>
-  <string name="perm_label_retail">Start retail mode</string>
-  <string name="perm_label_set_global_key">Set global key</string>
-  <string name="perm_label_set_home_ready">Set home ready</string>
-  <string name="perm_label_set_power_save">Set Power Save mode</string>
-  <string name="perm_label_show_factory_reset_confirmation">Show factory reset confirmation</string>
-  <string name="perm_label_start_theater_mode">Turn on Theater mode</string>
-  <string name="perm_label_storage_stats">Access storage usage statistics</string>
-  <string name="perm_label_toggle_sunlight_mode">Toggle Brightness boost</string>
-  <string name="perm_label_watch_power">Change watch power</string>
-  <string name="perm_label_write_settings">Write settings</string>
-  <string name="perm_locked_notification_summary">Contact your carrier for a new SIM. Too many PUK unlock attempts.</string>
-  <string name="perm_locked_notification_title">SIM permanently locked</string>
+  <string name="perm_description_battery_stats">Táto aplikácia môže pristupovať k štatistikám využitia batérie.</string>
+  <string name="perm_description_change_airplane_mode">Táto aplikácia môže zapnúť alebo vypnúť režim lietadlo.</string>
+  <string name="perm_description_change_locale">Táto aplikácia môže zmeniť systémový jazyk vášho zariadenia.</string>
+  <string name="perm_description_change_time">Táto aplikácia môže zmeniť čas vášho zariadenia.</string>
+  <string name="perm_description_configure_chosen_apps">Táto aplikácia môže zmeniť vybrané aplikácie.</string>
+  <string name="perm_description_configure_doze">Táto aplikácia môže zmeniť nastavenia ambient režimu, vrátane jeho vypnutia a zapnutia.</string>
+  <string name="perm_description_disable_fitness">Táto aplikácia môže zapnúť alebo vypnúť Fitnes.</string>
+  <string name="perm_description_keyguard_password_set">Táto aplikácia môže sledovať nastavenie zámku klávesnice.</string>
+  <string name="perm_description_lock_updates">Táto aplikácia môže zabrániť aktualizácií systému.</string>
+  <string name="perm_description_read_settings">Táto aplikácia môže čítať nastavenia.</string>
+  <string name="perm_description_retail">Táto aplikácia môže spustiť predvádzací režim na vašom zariadení.</string>
+  <string name="perm_description_set_global_key">Táto aplikácia môže nastaviť globálny kľúč vášho zariadenia.</string>
+  <string name="perm_description_set_home_ready">Táto aplikácia môže zverejniť keď je domácnosť pripravená.</string>
+  <string name="perm_description_set_power_save">Táto aplikácia môže nastaviť režim šetrenia batérie.</string>
+  <string name="perm_description_show_factory_reset_confirmation">Táto aplikácia môže zobraziť potvrdenie o obnovení továrenských nastavení.</string>
+  <string name="perm_description_start_theater_mode">Táto aplikácia môže zobraziť správu o režime divadlo uspať zariadenie.</string>
+  <string name="perm_description_storage_stats">Táto aplikácia pristupuje k štatistikám využitia úložiska.</string>
+  <string name="perm_description_toggle_sunlight_mode">Táto aplikácia môže prepínať zvýšenie jasu.</string>
+  <string name="perm_description_watch_power">Táto aplikácia môže zmeniť stav spotreby hodiniek.</string>
+  <string name="perm_description_write_settings">Táto aplikácia môže zmeniť nastavenia</string>
+  <string name="perm_label_battery_stats">Prístup k štatistikám využitia batérie</string>
+  <string name="perm_label_change_airplane_mode">Zmeniť režim lietadlo</string>
+  <string name="perm_label_change_locale">Zmeniť systémový jazyk</string>
+  <string name="perm_label_change_time">Zmeniť systémový čas</string>
+  <string name="perm_label_configure_chosen_apps">Zmeniť vybrané aplikácie</string>
+  <string name="perm_label_configure_doze">Zmeniť nastavenia ambient režimu</string>
+  <string name="perm_label_disable_fitness">Zakázať alebo povoliť Fitnes</string>
+  <string name="perm_label_keyguard_password_set">Nastavený zámok klávesnice</string>
+  <string name="perm_label_lock_updates">Zabrániť aktualizácií systému</string>
+  <string name="perm_label_read_settings">Čítať nastavenia</string>
+  <string name="perm_label_retail">Spustiť predvádzací režim</string>
+  <string name="perm_label_set_global_key">Nastaviť globálny kľúč</string>
+  <string name="perm_label_set_home_ready">Nastaviť pripravenosť domácnosti</string>
+  <string name="perm_label_set_power_save">Nastaviť režim šetrenia batérie</string>
+  <string name="perm_label_show_factory_reset_confirmation">Zobraziť potvrdenie o obnovení továrenských nastavení</string>
+  <string name="perm_label_start_theater_mode">Zapnúť režim divadlo</string>
+  <string name="perm_label_storage_stats">Prístup k štatistikám využitia úložiska</string>
+  <string name="perm_label_toggle_sunlight_mode">Prepnúť zvýšenie jasu</string>
+  <string name="perm_label_watch_power">Zmeniť spotrebu hodiniek</string>
+  <string name="perm_label_write_settings">Zapisovať nastavenia</string>
+  <string name="perm_locked_notification_summary">Kontaktujte operátora ohľadom novej SIM. Príliš veľa pokusov o zadanie PUK.</string>
+  <string name="perm_locked_notification_title">SIM trvalo zablokovaná</string>
   <string name="permissions_label">Povolenia</string>
   <string name="permissions_setting">Povolenia</string>
   <string name="permissions_setting_system">Systémové povolenia</string>
@@ -2181,12 +2181,12 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="phone_language">Jazyky</string>
   <string name="phone_language_summary"/>
   <string name="phone_number_settings_action">Zobrazené telefónne číslo</string>
-  <string name="photos_filtering_cloud_disclaimer">Fotky a videá, ktoré boli synchronizované do Fotiek Google, budú k dispozícii na tomto zariadení.</string>
-  <string name="photos_filtering_description">Vyberte fotky a videá a skopírujte ich do nového telefónu</string>
+  <string name="photos_filtering_cloud_disclaimer">Fotky a videá, ktoré boli synchronizované do Fotiek Google, budú k dispozícii na tomto zariadení.</string>
+  <string name="photos_filtering_description">Vyberte fotky a videá a skopírujte ich do nového telefónu</string>
   <string name="photos_filtering_include_videos">Zahrnúť videá</string>
-  <string name="photos_filtering_option_3months">Za posledné 3 mesiace</string>
-  <string name="photos_filtering_option_6months">Za posledných 6 mesiacov</string>
-  <string name="photos_filtering_title">Fotky a videá</string>
+  <string name="photos_filtering_option_3months">Za posledné 3 mesiace</string>
+  <string name="photos_filtering_option_6months">Za posledných 6 mesiacov</string>
+  <string name="photos_filtering_title">Fotky a videá</string>
   <string name="physical_keyboard_title">Fyzická klávesnica</string>
   <string name="picture_color_mode">Farebný režim obrázka</string>
   <string name="picture_color_mode_desc">Použije sa sRGB</string>
@@ -2240,10 +2240,10 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="preferred_network_type_action">Preferovaný typ siete</string>
   <string name="preferred_network_type_summary">LTE (odporúčané)</string>
   <string name="preferred_network_type_title">Preferovaný typ siete</string>
-  <string name="premium_sms_access">Prístup k prémiovým správam SMS</string>
-  <string name="premium_sms_none">Prístup k prémiovým správam SMS si nevyžiadali žiadne nainštalované aplikácie</string>
+  <string name="premium_sms_access">Prístup k prémiovým správam SMS</string>
+  <string name="premium_sms_none">Prístup k prémiovým správam SMS si nevyžiadali žiadne nainštalované aplikácie</string>
   <string name="premium_sms_warning">Za prémiové správy SMS sa môžu účtovať poplatky, ktoré sa naúčtujú na faktúru operátora. Ak aktivujete toto povolenie pre aplikáciu, budete môcť pomocou nej posielať prémiové správy SMS.</string>
-  <string name="preview_page_indicator_content_description">Zobraziť ukážku stránky %1$d z %2$d</string>
+  <string name="preview_page_indicator_content_description">Zobraziť ukážku stránky %1$d z %2$d</string>
   <string name="preview_pager_content_description">Ukážka</string>
   <string name="print_blocked_state_title_template">Tlačiareň zablok. úlohu %1$s</string>
   <string name="print_cancel">Zrušiť</string>
@@ -2270,7 +2270,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="print_service_disabled">Služba je vypnutá</string>
   <string name="print_settings">Tlač</string>
   <string name="print_settings_title">Tlačové služby</string>
-  <string name="printer_info_desc">Ďalšie informácie o tejto tlačiarni</string>
+  <string name="printer_info_desc">Ďalšie informácie o tejto tlačiarni</string>
   <string name="privacy_settings">Zálohovanie a obnova</string>
   <string name="privacy_settings_title">Zálohovanie a obnova</string>
   <string name="process_dex2oat_label">Optimalizácia aplikácií</string>
@@ -2340,7 +2340,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="radioInfo_roaming_in">Roaming</string>
   <string name="radioInfo_roaming_not">Bez roamingu</string>
   <string name="radioInfo_service_emergency">Len tiesňové volania</string>
-  <string name="radioInfo_service_in">V prevádzke</string>
+  <string name="radioInfo_service_in">V prevádzke</string>
   <string name="radioInfo_service_off">Rádio je vypnuté</string>
   <string name="radioInfo_service_out">Mimo prevádzky</string>
   <string name="radioInfo_unknown">Neznáme</string>
@@ -2349,19 +2349,19 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="radio_info_band_mode_label">Vybrať pásmo rádia</string>
   <string name="radio_info_call_redirect_label">Presmerovanie hovoru:</string>
   <string name="radio_info_call_status_label">Stav hlasového hovoru:</string>
-  <string name="radio_info_cell_info_refresh_rate">Interval obnovenia informácií o mobilnej sieti:</string>
-  <string name="radio_info_cellinfo_label">Všetky údaje o meraní mobilnej siete:</string>
+  <string name="radio_info_cell_info_refresh_rate">Interval obnovenia informácií o mobilnej sieti:</string>
+  <string name="radio_info_cellinfo_label">Všetky údaje o meraní mobilnej siete:</string>
   <string name="radio_info_current_network_label">Aktuálna sieť:</string>
   <string name="radio_info_data_connection_disable">Zakázať dátové pripojenie</string>
   <string name="radio_info_data_connection_enable">Povoliť dátové pripojenie</string>
   <string name="radio_info_data_network_type_label">Typ dátovej siete:</string>
-  <string name="radio_info_dcrtinfo_label">Informácie o dátovom pripojení v reálnom čase:</string>
+  <string name="radio_info_dcrtinfo_label">Informácie o dátovom pripojení v reálnom čase:</string>
   <string name="radio_info_gprs_service_label">Dátová služba:</string>
   <string name="radio_info_gsm_service_label">Hlasová služba:</string>
   <string name="radio_info_http_client_test">Test klienta HTTP:</string>
   <string name="radio_info_imei_label">IMEI:</string>
   <string name="radio_info_message_waiting_label">Čakajúca správa:</string>
-  <string name="radio_info_neighboring_location_label">Informácie o susednej mobilnej sieti (podpora bola ukončená):</string>
+  <string name="radio_info_neighboring_location_label">Informácie o susednej mobilnej sieti (podpora bola ukončená):</string>
   <string name="radio_info_phone_number_label">Telefónne číslo:</string>
   <string name="radio_info_ping_hostname_v4">Testovať dostupnosť domény (www.google.com) IPv4:</string>
   <string name="radio_info_ping_hostname_v6">Testovať dostupnosť domény (www.google.com) IPv6:</string>
@@ -2371,7 +2371,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="radio_info_radio_power">Napájanie mobilného pripojenia</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Nastaviť preferovaný typ siete:</string>
-  <string name="radio_info_signal_location_label">Informácie o polohe mobilnej siete (podpora bola ukončená):</string>
+  <string name="radio_info_signal_location_label">Informácie o polohe mobilnej siete (podpora bola ukončená):</string>
   <string name="radio_info_signal_strength_label">Sila signálu:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Obnoviť</string>
@@ -2379,7 +2379,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="radio_info_toggle_dns_check_label">Prepnúť kontrolu DNS</string>
   <string name="radio_info_voice_network_type_label">Typ hlasovej siete:</string>
   <string name="rarely_running">Výnimočne spustené (%s)</string>
-  <string name="really_remove_account_message">Odstránením tohto účtu budú z telefónu odstránené aj všetky správy, kontakty a ďalšie dáta.</string>
+  <string name="really_remove_account_message">Odstránením tohto účtu budú z telefónu odstránené aj všetky správy, kontakty a ďalšie dáta.</string>
   <string name="really_remove_account_title">Chcete účet odstrániť?</string>
   <string name="recompute_size">Prebieha prepočítanie veľkosti...</string>
   <string name="regulatory_info_text"/>
@@ -2387,7 +2387,7 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="remaining_length_format">Zostáva %1$s</string>
   <string name="remove_account_failed">Správca túto zmenu zakázal</string>
   <string name="remove_account_label">Odstrániť účet</string>
-  <string name="remove_and_uninstall_device_admin">Deaktivovať a odinštalovať</string>
+  <string name="remove_and_uninstall_device_admin">Deaktivovať a odinštalovať</string>
   <string name="remove_device_admin">Deaktivovať tohto správcu zariadenia</string>
   <string name="remove_managed_profile_label">Odstrániť pracovný profil</string>
   <string name="repeat_title">Opakovať</string>
@@ -2395,27 +2395,27 @@ Aplikácia tým získa aj možnosť vypnúť alebo zapnúť nastavenie Nerušiť
   <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
   <string name="reset_app_preferences_desc">"Touto akciou obnovíte predvoľby položiek:
 
- "&lt;li&gt;deaktivovan&amp;#233; aplik&amp;#225;cie,&lt;/li&gt;"
- "&lt;li&gt;deaktivovan&amp;#233; upozornenia aplik&amp;#225;ci&amp;#237;,&lt;/li&gt;"
- "&lt;li&gt;predvolen&amp;#233; aplik&amp;#225;cie pre r&amp;#244;zne akcie,&lt;/li&gt;"
- "&lt;li&gt;obmedzenia d&amp;#225;tov&amp;#253;ch prenosov na pozad&amp;#237; pre aplik&amp;#225;cie,&lt;/li&gt;"
- "&lt;li&gt;ak&amp;#233;ko&amp;#318;vek obmedzenia povolen&amp;#237;.&lt;/li&gt;"
+ deaktivované aplikácie,
+ deaktivované upozornenia aplikácií,
+ predvolené aplikácie pre rôzne akcie,
+ obmedzenia dátových prenosov na pozadí pre aplikácie,
+ akékoľvek obmedzenia povolení.
 
- Nepr&amp;#237;dete o&amp;#160;&amp;#382;iadne d&amp;#225;ta v&amp;#160;aplik&amp;#225;ci&amp;#225;ch."</string>
+ Neprídete o žiadne dáta v aplikáciách."</string>
   <string name="reset_app_preferences_title">Chcete obnoviť predvoľby aplikácií?</string>
   <string name="reset_network_button_text">Resetovať nastavenia</string>
   <string name="reset_network_complete_toast">Sieťové nastavenia boli obnovené</string>
   <string name="reset_network_confirm_title">Resetovať?</string>
   <string name="reset_network_desc">""Týmto resetujete nastavenia všetkých sietí, vrátane:
 
-"&lt;li&gt;pripojenia Wi&amp;#8209;Fi,&lt;/li&gt;"
-"&lt;li&gt;mobiln&amp;#233;ho pripojenia,&lt;/li&gt;"
-"&lt;li&gt;pripojenia Bluetooth.&lt;/li&gt;"</string>
+pripojenia Wi-Fi,
+mobilného pripojenia,
+pripojenia Bluetooth.</string>
   <string name="reset_network_final_button_text">Resetovať nastavenia</string>
   <string name="reset_network_final_desc">Chcete resetovať všetky nastavenia sietí? Túto akciu nie je možné vrátiť späť.</string>
   <string name="reset_network_title">Obnovenie nastavení siete</string>
-  <string name="reset_shortcut_manager_throttling">Resetovať obmedzovanie frekvencie žiadostí v službe ShortcutManager</string>
-  <string name="reset_shortcut_manager_throttling_complete">Obmedzovanie frekvencie žiadostí v službe ShortcutManager bolo resetované</string>
+  <string name="reset_shortcut_manager_throttling">Resetovať obmedzovanie frekvencie žiadostí v službe ShortcutManager</string>
+  <string name="reset_shortcut_manager_throttling_complete">Obmedzovanie frekvencie žiadostí v službe ShortcutManager bolo resetované</string>
   <string name="restore_choice_title">Zvoľte, čo sa skopíruje</string>
   <string name="restore_default_apn">Prebieha obnovovanie predvolených nastavení názvu prístupového bodu (APN).</string>
   <string name="restore_default_apn_completed">Predvolené nastavenia prístupových bodov boli obnovené</string>
@@ -2476,7 +2476,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="runningservices_settings_title">Spustené služby</string>
   <string name="runtime_permissions_summary_no_permissions_granted">Neboli udelené žiadne povolenia</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Neboli požadované žiadne povolenia</string>
-  <string name="safety_and_regulatory_info">Bezpečnostná a regulačná príručka</string>
+  <string name="safety_and_regulatory_info">Bezpečnostná a regulačná príručka</string>
   <string name="save">Uložiť</string>
   <string name="saved_network">Uložil(a) %1$s</string>
   <string name="screen_always_on">Displej vždy zapnutý</string>
@@ -2501,20 +2501,20 @@ Ak chcete použiť pripnutie obrazovky:
 
 3. Klepnite na položku Prehľad.
 
-4. Prejdite prstom nahor a potom klepnite na ikonu špendlíka."</string>
+4. Prejdite prstom nahor a potom klepnite na ikonu špendlíka."</string>
   <string name="screen_pinning_title">Pripnutie obrazovky</string>
   <string name="screen_pinning_unlock_none">Uzamknúť zariadenie počas uvoľňovania</string>
   <string name="screen_pinning_unlock_password">Pred uvoľnením požiadať o heslo</string>
   <string name="screen_pinning_unlock_pattern">Pred uvoľnením žiadať bezpečnostný vzor</string>
-  <string name="screen_pinning_unlock_pin">Pred uvoľnením požiadať o PIN</string>
+  <string name="screen_pinning_unlock_pin">Pred uvoľnením požiadať o PIN</string>
   <string name="screen_timeout">Režim spánku</string>
   <string name="screen_timeout_summary">%1$s nečinnosti</string>
   <string name="screen_timeout_title">Vypnutie obrazovky</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
   <string name="screen_zoom_conversation_message_1">Servus, Peter!</string>
-  <string name="screen_zoom_conversation_message_2">Chcel by si dnes ísť na kávu a porozprávať sa?</string>
-  <string name="screen_zoom_conversation_message_3">To znie skvele. Poznám výborné miesto v okolí.</string>
+  <string name="screen_zoom_conversation_message_2">Chcel by si dnes ísť na kávu a porozprávať sa?</string>
+  <string name="screen_zoom_conversation_message_3">To znie skvele. Poznám výborné miesto v okolí.</string>
   <string name="screen_zoom_conversation_message_4">Výborne!</string>
   <string name="screen_zoom_conversation_timestamp_1">Ut 18:00</string>
   <string name="screen_zoom_conversation_timestamp_2">Ut 18:01</string>
@@ -2534,7 +2534,7 @@ Ak chcete použiť pripnutie obrazovky:
   <string name="screen_zoom_summary_very_large">Väčšie</string>
   <string name="screen_zoom_title">Veľkosť zobrazenia</string>
   <string name="screensaver_settings_button">Nastavenia</string>
-  <string name="screensaver_settings_disabled_prompt">Ak chcete ovládať, čo sa má stať, keď je telefón v doku alebo v režime spánku, zapnite šetrič obrazovky.</string>
+  <string name="screensaver_settings_disabled_prompt">Ak chcete ovládať, čo sa má stať, keď je telefón v doku alebo v režime spánku, zapnite šetrič obrazovky.</string>
   <string name="screensaver_settings_dream_start">Spustiť</string>
   <string name="screensaver_settings_summary_dock">Pri vložení do doku</string>
   <string name="screensaver_settings_summary_either_long">Pri vložení do doku alebo pri nabíjaní v režime spánku</string>
@@ -2594,10 +2594,10 @@ Ak chcete použiť pripnutie obrazovky:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Odstrániť</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Meno</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia telefónu môžete pomocou senzora Nexus Imprint autorizovať nákupy a prístup do aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Zámka obrazovky bola zakázaná. Ďalšie informácie získate od správcu vašej organizácie. &lt;annotation id="admin_details"&gt;&amp;#270;al&amp;#353;ie podrobnosti&lt;/annotation&gt;"
+  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia telefónu môžete pomocou senzora Nexus Imprint autorizovať nákupy a prístup do aplikácií. Ďalšie informácie</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Zámka obrazovky bola zakázaná. Ďalšie informácie získate od správcu vašej organizácie. Ďalšie podrobnosti"
 
-Na&amp;#271;alej m&amp;#244;&amp;#382;ete pomocou odtla&amp;#269;ku prsta schva&amp;#318;ova&amp;#357; n&amp;#225;kupy a&amp;#160;pr&amp;#237;stup do aplik&amp;#225;ci&amp;#237;. "&lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;"</string>
+Naďalej môžete pomocou otlačku prsta schvaľovať nákupy a prístup do aplikácií. "Ďalšie informácie"</string>
   <string name="security_settings_fingerprint_enroll_done">Hotovo</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registrácia nebola dokončená</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Registrácia odtlačku prsta nefungovala. Skúste to znova alebo použite iný prst.</string>
@@ -2611,17 +2611,17 @@ Na&amp;#271;alej m&amp;#244;&amp;#382;ete pomocou odtla&amp;#269;ku prsta schva&
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Preskočiť</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Pokračovať</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Pridať odtlačok</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">""Nexus Imprint používa odtlačok vášho prsta na zobudenie a odblokovanie vášho telefónu, autorizovanie nákupov a prihlásenie do aplikácií.
+  <string name="security_settings_fingerprint_enroll_introduction_message">""Nexus Imprint používa odtlačok vášho prsta na zobudenie a odblokovanie vášho telefónu, autorizovanie nákupov a prihlásenie do aplikácií.
 
 Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky odtlačky pridané do telefónu.
 
 Poznámka: Odtlačok môže byť menej bezpečný ako silný bezpečnostný vzor alebo kód PIN."&lt;annotation link="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;"</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Nexus Imprint používa váš odtlačok prsta na zobudenie a uzamknutie telefónu, schválenie nákupov alebo prihlásenie do aplikácií.
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Nexus Imprint používa váš odtlačok prsta na zobudenie a uzamknutie telefónu, schválenie nákupov alebo prihlásenie do aplikácií.
 
 Dobre zvážte, čie odtlačky pridáte. Tieto operácie bude totiž možné vykonávať pomocou každého pridaného odtlačku.
 
 Poznámka: Odtlačok môže byť menej bezpečný ako silný bezpečnostný vzor alebo kód PIN."</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Vďaka senzoru Nexus Imprint môžete autorizovať nákupy a prihlasovať sa do aplikácií pomocou odtlačku prsta.
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Vďaka senzoru Nexus Imprint môžete autorizovať nákupy a prihlasovať sa do aplikácií pomocou odtlačku prsta.
 
 Dávajte pozor, čie odtlačky pridáte. Tieto operácie budú môcť vykonávať všetky pridané odtlačky.
 
@@ -2702,19 +2702,19 @@ Poznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadeni
   <string name="settings_title_voicemail_number">Voicemail number</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Vybrali ste, že chcete používať odtlačok prsta ako jeden zo spôsobov odomknutia telefónu. Ak tento krok preskočíte, budete musieť odtlačok nastaviť neskôr. Trvá to približne minútu.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Preskočiť nastavenie odtlačkov prstov?</string>
-  <string name="setup_fingerprint_enroll_finish_message">Telefón zobudíte a odomknete jednoducho tak, že sa dotknete senzora Nexus Imprint.</string>
+  <string name="setup_fingerprint_enroll_finish_message">Telefón zobudíte a odomknete jednoducho tak, že sa dotknete senzora Nexus Imprint.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Keď uvidíte túto ikonu, môžete tiež autorizovať nákupy alebo sa prihlásiť do aplikácií.</string>
   <string name="setup_lock_settings_picker_fingerprint_message">Zaistite si ďalšiu úroveň zabezpečenia – nastavte si záložnú zámku obrazovky.</string>
-  <string name="setup_lock_settings_picker_message">Aktivujte funkcie ochrany zariadenia a zabráňte tak ostatným v používaní tohto telefónu bez vášho povolenia. Vyberte zámku obrazovky, ktorú chcete používať.</string>
+  <string name="setup_lock_settings_picker_message">Aktivujte funkcie ochrany zariadenia a zabráňte tak ostatným v používaní tohto telefónu bez vášho povolenia. Vyberte zámku obrazovky, ktorú chcete používať.</string>
   <string name="setup_lock_settings_picker_title">Chráňte svoje telefón</string>
   <string name="setup_wifi_nfc_tag">Nastavenie štítka NFC pre Wi-Fi</string>
   <string name="severe_threats_summary">Prijímať upozornenia na závažné ohrozenie života a majetku</string>
   <string name="severe_threats_title">Závažné hrozby</string>
   <string name="share_remote_bugreport_action">Zdieľať</string>
-  <string name="share_remote_bugreport_dialog_message">Správca IT si vyžiadal hlásenie chyby, aby mohol vyriešiť problém na tomto zariadení. Aplikácie a dáta môžu byť zdieľané. Môže to dočasne spomaliť vaše zariadenie.</string>
-  <string name="share_remote_bugreport_dialog_message_finished">Správca IT si vyžiadal hlásenie chyby, aby mohol vyriešiť problém na tomto zariadení. Aplikácie a dáta môžu byť zdieľané.</string>
+  <string name="share_remote_bugreport_dialog_message">Správca IT si vyžiadal hlásenie chyby, aby mohol vyriešiť problém na tomto zariadení. Aplikácie a dáta môžu byť zdieľané. Môže to dočasne spomaliť vaše zariadenie.</string>
+  <string name="share_remote_bugreport_dialog_message_finished">Správca IT si vyžiadal hlásenie chyby, aby mohol vyriešiť problém na tomto zariadení. Aplikácie a dáta môžu byť zdieľané.</string>
   <string name="share_remote_bugreport_dialog_title">Chcete zdieľať hlásenie chyby?</string>
-  <string name="sharing_remote_bugreport_dialog_message">Toto hlásenie chyby sa zdieľa s vaším správcom IT. Ak potrebujete ďalšie podrobnosti, kontaktujte ho.</string>
+  <string name="sharing_remote_bugreport_dialog_message">Toto hlásenie chyby sa zdieľa s vaším správcom IT. Ak potrebujete ďalšie podrobnosti, kontaktujte ho.</string>
   <string name="short_summary_font_size">Zväčšite alebo zmenšite text</string>
   <string name="show_all_anrs">Zobrazovať všetky ANR</string>
   <string name="show_all_anrs_summary">Zobrazovať dialóg „Aplikácia neodpovedá“ aj pre aplikácie na pozadí</string>
@@ -2728,7 +2728,7 @@ Poznámka: Odtlačok prsta nie je možné použiť na odomknutie tohto zariadeni
   <string name="show_hw_screen_updates_summary">Rozblikať zobrazenia v oknách vykresľované GPU</string>
   <string name="show_ime">Zobraziť virtuálnu klávesnicu</string>
   <string name="show_ime_summary">Ponechať na obrazovke, keď je aktívna fyzická klávesnica</string>
-  <string name="show_non_rect_clip">Ladenie operácií s neobdĺžnikovými výstrižkami</string>
+  <string name="show_non_rect_clip">Ladenie operácií s neobdĺžnikovými výstrižkami</string>
   <string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na uzamknutej obrazovke</string>
   <string name="show_password">Zobrazovať heslá</string>
   <string name="show_profile_info_on_lockscreen_label">Zobraziť inform. o profile na uzamknutej obrazovke</string>
@@ -2848,7 +2848,7 @@ Contact your carrier to unlock your SIM."</string>
   <string name="sound_category_system_title">Systém</string>
   <string name="sound_effects_enable_title">Zvuky klepnutia</string>
   <string name="sound_settings">Zvuk</string>
-  <string name="sound_settings_example_summary">Hlasitosť zvonenia: 80 %</string>
+  <string name="sound_settings_example_summary">Hlasitosť zvonenia: 80 %</string>
   <string name="sound_settings_summary">Hlasitosť zvonenia: %1$s</string>
   <string name="sound_settings_summary_silent">Zvonenie je stlmené</string>
   <string name="sound_settings_summary_vibrate">Zvonenie je nastavené na vibrovanie</string>
@@ -2884,7 +2884,7 @@ Umožňujú to dôveryhodné poverenia nainštalované vo vašom zariadení."</s
   <string name="status_service_state">Stav služby</string>
   <string name="status_signal_strength">Sila signálu</string>
   <string name="status_tag_not_writable">Na štítok NFC sa nedá zapisovať. Skúste iný štítok.</string>
-  <string name="status_unavailable">Nie je k dispozícii</string>
+  <string name="status_unavailable">Nie je k dispozícii</string>
   <string name="status_up_time">Doba prevádzky</string>
   <string name="status_wifi_mac_address">Adresa MAC siete Wi-Fi</string>
   <string name="status_wimax_mac_address">Adresa 4G MAC</string>
@@ -2893,7 +2893,7 @@ Umožňujú to dôveryhodné poverenia nainštalované vo vašom zariadení."</s
   <string name="storage_detail_apps">Aplikácie</string>
   <string name="storage_detail_audio">Zvuk</string>
   <string name="storage_detail_cached">Dáta vo vyrovnávacej pamäti</string>
-  <string name="storage_detail_dialog_other">"Priečinok Iné obsahuje zdieľané súbory uložené aplikáciami, súbory stiahnuté z internetu alebo prostredníctvom rozhrania Bluetooth, súbory Androidu atď. 
+  <string name="storage_detail_dialog_other">"Priečinok Iné obsahuje zdieľané súbory uložené aplikáciami, súbory stiahnuté z internetu alebo prostredníctvom rozhrania Bluetooth, súbory Androidu atď. 
 
 Ak chcete zobraziť viditeľný obsah tohto zariadenia typu ^1, klepnite na položku Preskúmať."</string>
   <string name="storage_detail_dialog_system">Systém obsahuje súbory, ktoré Android nedokáže zobraziť samostatne.</string>
@@ -2930,15 +2930,15 @@ Aplikácie môžete neskôr opätovne nainštalovať, no ich údaje uložené na
 
 Všetky údaje v úložisku ^1 budú vymazané. Odporúčame ich najskôr zálohovať. 
 
-"&lt;b&gt;Z&amp;#225;lohovanie fotiek a in&amp;#253;ch m&amp;#233;di&amp;#237;&lt;/b&gt;" 
-Medi&amp;#225;lne s&amp;#250;bory presu&amp;#328;te do in&amp;#233;ho &amp;#250;lo&amp;#382;iska v zariaden&amp;#237; alebo ich pomocou k&amp;#225;bla USB preneste do po&amp;#269;&amp;#237;ta&amp;#269;a. 
+"Zálohovanie fotiek a iných médií" 
+Mediálne súbory presuňte do iného úložiska v zariadení alebo ich pomocou kábla USB preneste do počítača. 
 
-"&lt;b&gt;Z&amp;#225;lohovanie aplik&amp;#225;ci&amp;#237;&lt;/b&gt;" 
-V&amp;#353;etky aplik&amp;#225;cie v &amp;#250;lo&amp;#382;isku ^1 sa odin&amp;#353;taluj&amp;#250; a ich &amp;#250;daje sa vyma&amp;#382;&amp;#250;. Ak si chcete tieto aplik&amp;#225;cie ponecha&amp;#357;, presu&amp;#328;te ich do in&amp;#233;ho &amp;#250;lo&amp;#382;iska v zariaden&amp;#237;."</string>
+"Zálohovanie aplikácií" 
+Všetky aplikácie v úložisku ^1 sa odinštalujú a ich údaje sa vymažú. Ak si chcete tieto aplikácie ponechať, presuňte ich do iného úložiska v zariadení."</string>
   <string name="storage_internal_title">Úložisko zariadenia</string>
-  <string name="storage_internal_unmount_details">"&lt;b&gt;Ke&amp;#271; toto &amp;#250;lo&amp;#382;isko ^1 odpoj&amp;#237;te, prestan&amp;#250; fungova&amp;#357; aplik&amp;#225;cie, ktor&amp;#233; s&amp;#250; v &amp;#328;om ulo&amp;#382;en&amp;#233;. Medi&amp;#225;lne s&amp;#250;bory nebud&amp;#250; dostupn&amp;#233;, k&amp;#253;m ho op&amp;#228;&amp;#357; nepripoj&amp;#237;te.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">"Keď toto úložisko ^1 odpojíte, prestanú fungovať aplikácie, ktoré sú v ňom uložené. Mediálne súbory nebudú dostupné, kým ho opäť nepripojíte." 
 
-Toto &amp;#250;lo&amp;#382;isko ^1 je naform&amp;#225;tovan&amp;#233; tak, aby fungovalo iba v tomto zariaden&amp;#237;.""</string>
+Toto úložisko ^1 je naformátované tak, aby fungovalo iba v tomto zariadení.""</string>
   <string name="storage_label">Úložisko</string>
   <string name="storage_low_summary">Niektoré systémové funkcie, ako je synchronizácia, nemusia fungovať správne. Skúste získať ukladací priestor odstránením alebo uvoľnením položiek, ako sú aplikácie alebo obsah médií.</string>
   <string name="storage_low_title">Nedostatok ukladacieho priestoru</string>
@@ -2963,7 +2963,7 @@ Toto &amp;#250;lo&amp;#382;isko ^1 je naform&amp;#225;tovan&amp;#233; tak, aby f
   <string name="storage_settings_title">Nastavenia úložiska</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_stats_service_name">Štatistika úložiska</string>
-  <string name="storage_summary">Využité miesto: %1$s z %2$s</string>
+  <string name="storage_summary">Využité miesto: %1$s z %2$s</string>
   <string name="storage_summary_format">%2$s – využité miesto %1$s</string>
   <string name="storage_title_usb">Pripojenie USB k počítaču</string>
   <string name="storage_type_external">Externé úložisko</string>
@@ -2972,18 +2972,18 @@ Toto &amp;#250;lo&amp;#382;isko ^1 je naform&amp;#225;tovan&amp;#233; tak, aby f
   <string name="storage_unmount_success">Úložisko (%1$s) bolo bezpečne odpojené</string>
   <string name="storage_usb_settings">Úložisko</string>
   <string name="storage_used">Využité úložisko</string>
-  <string name="storage_volume_summary">Využité miesto: %1$s z %2$s</string>
-  <string name="storage_volume_used">Využité z %1$s</string>
+  <string name="storage_volume_summary">Využité miesto: %1$s z %2$s</string>
+  <string name="storage_volume_used">Využité z %1$s</string>
   <string name="storage_volume_used_total">Celkové využité miesto z %1$s</string>
   <string name="storage_wizard_format_confirm_body">""Preto je nutné úložisko ^1 zabezpečiť pomocou formátovania. 
 
 Po naformátovaní bude úložisko ^1 fungovať iba v tomto zariadení. 
 
-"&lt;b&gt;Form&amp;#225;tovan&amp;#237;m vyma&amp;#382;ete v&amp;#353;etky &amp;#250;daje v &amp;#250;lo&amp;#382;isku ^1.&lt;/b&gt; Ak chcete zabr&amp;#225;ni&amp;#357; strate &amp;#250;dajov, odpor&amp;#250;&amp;#269;ame ich z&amp;#225;lohova&amp;#357;."</string>
+"Formátovaním vymažete všetky údaje v úložisku ^1. Ak chcete zabrániť strate údajov, odporúčame ich zálohovať."</string>
   <string name="storage_wizard_format_confirm_next">Vymazať a formátovať</string>
   <string name="storage_wizard_format_confirm_public_body">""Táto akcia vyžaduje, aby úložisko ^1 bolo naformátované. 
 
-"&lt;b&gt;Form&amp;#225;tovan&amp;#237;m vyma&amp;#382;ete v&amp;#353;etky d&amp;#225;ta v &amp;#250;lo&amp;#382;isku ^1.&lt;/b&gt; Ak chcete zabr&amp;#225;ni&amp;#357; strate d&amp;#225;t, odpor&amp;#250;&amp;#269;ame ich z&amp;#225;lohova&amp;#357;."</string>
+"Formátovaním vymažete všetky údaje v úložisku ^1. Ak chcete zabrániť strate údajov, odporúčame ich zálohovať."</string>
   <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>
   <string name="storage_wizard_format_confirm_title">Naformátovať ako inter. úložisko</string>
   <string name="storage_wizard_format_progress_body">Počas formátovania úložisko ^1 neodoberajte.</string>
@@ -2993,9 +2993,9 @@ Po naformátovaní bude úložisko ^1 fungovať iba v tomto zariadení.
   <string name="storage_wizard_init_internal_summary">Na ukladanie ľubovoľných údajov vrátane aplikácií a fotiek iba v tomto zariadení. Vyžaduje sa formátovanie, ktoré spôsobí, že nebude fungovať v iných zariadeniach.</string>
   <string name="storage_wizard_init_internal_title">Použiť ako interné úložisko</string>
   <string name="storage_wizard_init_title">Nastavte úložisko ^1</string>
-  <string name="storage_wizard_migrate_body">"Do tohto nového úložiska ^1 môžete presunúť fotky, súbory a niektoré aplikácie. 
+  <string name="storage_wizard_migrate_body">"Do tohto nového úložiska ^1 môžete presunúť fotky, súbory a niektoré aplikácie. 
 
-Doba presunu bude zhruba ^2 a v internom úložisku sa tak uvoľní ^3. Počas presunu nebudú niektoré aplikácie fungovať."</string>
+Doba presunu bude zhruba ^2 a v internom úložisku sa tak uvoľní ^3. Počas presunu nebudú niektoré aplikácie fungovať."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Doba presunu bude zhruba ^1. Uvo&amp;#318;n&amp;#237; sa t&amp;#253;m ^2 v &amp;#250;lo&amp;#382;isku ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Presunúť</string>
   <string name="storage_wizard_migrate_confirm_title">Presun dát</string>
@@ -3048,23 +3048,23 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="sunlight_mode_service_name">Zvýšenie jasu</string>
   <string name="support_country_format" formatted="false">%s – %s</string>
   <string name="support_country_list_title">Podpora pre:</string>
-  <string name="support_disclaimer_content">""Systémové informácie vrátane údajov o využití aplikácií budú odoslané Googlu, aby mohol odpovedať na otázky týkajúce sa vášho telefónu. 
+  <string name="support_disclaimer_content">""Systémové informácie vrátane údajov o využití aplikácií budú odoslané Googlu, aby mohol odpovedať na otázky týkajúce sa vášho telefónu. 
 
-Ďalšie informácie získate v nasledujúcich dokumentoch spoločnosti Google: "&lt;a href="https://www.google.com/policies/privacy/"&gt;pravidl&amp;#225; ochrany osobn&amp;#253;ch &amp;#250;dajov&lt;/a&gt; a&amp;#160;&lt;a href="https://www.google.com/policies/terms/"&gt;zmluvn&amp;#233; podmienky&lt;/a&gt;."</string>
+Ďalšie informácie získate v nasledujúcich dokumentoch spoločnosti Google: "&lt;a href="https://www.google.com/policies/privacy/"&gt;pravidl&amp;#225; ochrany osobn&amp;#253;ch &amp;#250;dajov&lt;/a&gt; a&amp;#160;&lt;a href="https://www.google.com/policies/terms/"&gt;zmluvn&amp;#233; podmienky&lt;/a&gt;."</string>
   <string name="support_disclaimer_do_not_show">Nabudúce nezobrazovať</string>
-  <string name="support_disclaimer_title">Odoslanie informácií o systéme</string>
+  <string name="support_disclaimer_title">Odoslanie informácií o systéme</string>
   <string name="support_escalation_24_7_content_description">Sme tu pre vás nepretržite</string>
-  <string name="support_escalation_24_7_summary">Tím podpory Google je k dispozícii nepretržite</string>
+  <string name="support_escalation_24_7_summary">Tím podpory Google je k dispozícii nepretržite</string>
   <string name="support_escalation_24_7_title">Sme tu pre vás nepretržite</string>
   <string name="support_escalation_by_chat">Četovať</string>
   <string name="support_escalation_by_phone">Telefón</string>
-  <string name="support_escalation_closed_summary">Preštudujte si pomocníka alebo sa sem vráťte počas pracovných hodín (v miestnom čase):&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
+  <string name="support_escalation_closed_summary">Preštudujte si pomocníka alebo sa sem vráťte počas pracovných hodín (v miestnom čase):&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
   <string name="support_escalation_no_internet_summary">Pracovné hodiny podpory Google (miestny čas)&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
-  <string name="support_escalation_summary">Tím podpory Google vám s radosťou pomôže vyriešiť akýkoľvek problém</string>
+  <string name="support_escalation_summary">Tím podpory Google vám s radosťou pomôže vyriešiť akýkoľvek problém</string>
   <string name="support_escalation_title">Radi vám pomôžeme</string>
-  <string name="support_escalation_unavailable_summary">Vyhľadajte pomoc alebo preskúmajte tipy a triky</string>
+  <string name="support_escalation_unavailable_summary">Vyhľadajte pomoc alebo preskúmajte tipy a triky</string>
   <string name="support_estimated_wait_time">Približné čakanie: %1$s</string>
-  <string name="support_help_feedback_title">Hľadať v pomocníkovi a odoslať spätnú väzbu</string>
+  <string name="support_help_feedback_title">Hľadať v pomocníkovi a odoslať spätnú väzbu</string>
   <string name="support_international_phone_summary">Môžu sa účtovať medzinárodné poplatky</string>
   <string name="support_international_phone_title">Cestujete do zahraničia?</string>
   <string name="support_loader_dialog_message">Moment...</string>
@@ -3073,7 +3073,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="support_sign_in_required_help">Nemôžete sa prihlásiť?</string>
   <string name="support_sign_in_required_summary">Ak chcete kontaktovať podporu, prihláste sa do účtu Google</string>
   <string name="support_sign_in_required_title">Kontaktovanie podpory Google</string>
-  <string name="support_tips_and_tricks_title">Preskúmať tipy a triky</string>
+  <string name="support_tips_and_tricks_title">Preskúmať tipy a triky</string>
   <string name="suw_back_button_label">Späť</string>
   <string name="suw_more_button_label">Viac</string>
   <string name="suw_next_button_label">Ďalej</string>
@@ -3096,8 +3096,8 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="sync_menu_sync_now">Synchronizovať</string>
   <string name="sync_one_time_sync">"Klepnutím synchronizujete (
 %1$s)"</string>
-  <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;V&amp;#237;ta v&amp;#225;s slu&amp;#382;ba Google Sync&lt;/font&gt;" 
-Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a umo&amp;#382;&amp;#328;uje v&amp;#225;m tak pristupova&amp;#357; ku kontaktom, stretnutiam a &amp;#271;al&amp;#353;&amp;#237;m inform&amp;#225;ci&amp;#225;m, nech ste kdeko&amp;#318;vek.""</string>
+  <string name="sync_plug">"Víta vás služba Google Sync. 
+Spoločnosť Google pomocou nej synchronizuje údaje a umožňuje vám tak pristupovať ku kontaktom, stretnutiam a ďalším informáciám, nech ste kdekoľvek."</string>
   <string name="system_alert_window_access_title">Vykresľovanie cez ďalšie aplikácie</string>
   <string name="system_alert_window_apps_title">Aplikácie</string>
   <string name="system_alert_window_off">Nie</string>
@@ -3110,7 +3110,7 @@ Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a u
   <string name="system_ui_settings">Zobraziť tuner SystemUI</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Aktualizácie systému</string>
-  <string name="talkback_summary">Čítačka obrazovky je určená hlavne pre nevidiacich a slabozrakých ľudí</string>
+  <string name="talkback_summary">Čítačka obrazovky je určená hlavne pre nevidiacich a slabozrakých ľudí</string>
   <string name="talkback_title">TalkBack</string>
   <string name="tap_to_wake">Zobudiť klepnutím</string>
   <string name="tap_to_wake_summary">Zariadenie prebudíte dvojitým klepnutím na ľubovoľné miesto na obrazovke.</string>
@@ -3120,13 +3120,13 @@ Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a u
   <string name="target_device_not_supported_use_cable">POUŽIŤ KÁBEL</string>
   <string name="target_fragments_reconnect_cable">Znova pripojte kábel</string>
   <string name="target_opt_in_backup_auth_setup_wizard_close_button_label">Zavrieť</string>
-  <string name="target_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">Keď zapnete automatické zálohovanie, údaje vašich aplikácií sa budú pravidelne ukladať do vášho účtu Google. Zálohované údaje môžu zahrnovať aj informácie v priečinkoch s údajmi o aplikáciách, ako sú predvoľby, nastavenia, správy, fotky a ďalšie súbory.</string>
+  <string name="target_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">Keď zapnete automatické zálohovanie, údaje vašich aplikácií sa budú pravidelne ukladať do vášho účtu Google. Zálohované údaje môžu zahrnovať aj informácie v priečinkoch s údajmi o aplikáciách, ako sú predvoľby, nastavenia, správy, fotky a ďalšie súbory.</string>
   <string name="terms_title">Zmluvné podmienky</string>
   <string name="testing">Testovanie</string>
   <string name="testing_phone_info">Informácie o telefóne</string>
   <string name="testing_usage_stats">Štatistiky používania</string>
   <string name="tether_settings_disabled_on_data_saver">Keď je Šetrič dát zapnutý, nie je možné zdieľať internetové pripojenie ani používať prenosné hotspoty</string>
-  <string name="tether_settings_title_all">Zdieľané pripojenie a prenosný hotspot</string>
+  <string name="tether_settings_title_all">Zdieľané pripojenie a prenosný hotspot</string>
   <string name="tether_settings_title_bluetooth">Pripojenie cez Bluetooth</string>
   <string name="tether_settings_title_usb">Zdieľané pripojenie cez USB</string>
   <string name="tether_settings_title_usb_bluetooth">Zdieľanie dát. pripojenia</string>
@@ -3151,25 +3151,25 @@ Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a u
   <string name="track_frame_time">Profil vykresľovania GPU</string>
   <string name="transfer_finished_description_cancel">"Vybrali ste zastavenie kopírovania. Do nového telefónu sa preto skopírovala iba časť vašich dát.
 
-Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
-  <string name="transfer_finished_description_error">"Vyskytla sa chyba, a preto sa nepodarilo skopírovať všetky položky.
+Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
+  <string name="transfer_finished_description_error">"Vyskytla sa chyba, a preto sa nepodarilo skopírovať všetky položky.
 
-Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
-  <string name="transfer_finished_description_success">"Dáta sú skopírované a pripravené.
+Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
+  <string name="transfer_finished_description_success">"Dáta sú skopírované a pripravené.
 Môžete odpojiť kábel.
 
-Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
+Položky, ako sú kontakty, kalendár a aplikácie, sa začnú sťahovať po dokončení nastavenia."</string>
   <string name="transfer_finished_title">Takmer hotovo!</string>
   <string name="transferring_cancel_button">Zastaviť kopírovanie</string>
-  <string name="transferring_fragment_description">Ponechajte telefóny pripojené a zapnuté.</string>
+  <string name="transferring_fragment_description">Ponechajte telefóny pripojené a zapnuté.</string>
   <string name="transferring_fragment_description_extended">"Keď bude prenos dokončený, dáme vám vedieť.
 
-Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s."</string>
+Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s."</string>
   <string name="transferring_fragment_header">Kopírujú sa vaše dáta…</string>
   <string name="transition_animation_scale_title">Mierka animácie premeny</string>
   <string name="trust_instructions_description">Pokračujte tak, že na zariadení iPhone™ klepnete na možnosť Dôverovať</string>
   <string name="trust_instructions_title">Skontrolujte druhý telefón</string>
-  <string name="trust_instructions_trademark_disclaimer">iPhone, iPad a iOS sú ochranné známky spoločnosti Apple Inc., registrované v USA a ďalších krajinách.</string>
+  <string name="trust_instructions_trademark_disclaimer">iPhone, iPad a iOS sú ochranné známky spoločnosti Apple Inc., registrované v USA a ďalších krajinách.</string>
   <string name="trusted_credentials">Dôveryhodné poverenia</string>
   <string name="trusted_credentials_disable_confirmation">Zakázať systémový certifikát CA?</string>
   <string name="trusted_credentials_disable_label">Zakázať</string>
@@ -3224,19 +3224,19 @@ Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s."</strin
   <string name="unlock_change_lock_pin_title">Zmena bezpečnostného kódu PIN</string>
   <string name="unlock_disable_frp_warning_content_password">Funkcie ochrany zariadenia nebudú fungovať bez vášho hesla.</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">Funkcie ochrany zariadenia nebudú fungovať bez vášho hesla. Z tohto zariadenia sa tiež odstránia vaše uložené odtlačky prstov a nebudete môcť pomocou nich ďalej odomykať svoj telefón, autorizovať nákupy ani sa prihlasovať do aplikácií.“</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Funkcie na ochranu zariadenia nebudú fungovať bez vášho hesla. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Funkcie na ochranu zariadenia nebudú fungovať bez vášho hesla. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
   <string name="unlock_disable_frp_warning_content_password_profile">Funkcie na ochranu zariadenia nebudú fungovať bez vášho hesla.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Funkcie ochrany zariadenia nebudú bez vášho vzoru fungovať.</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Funkcie ochrany zariadenia nebudú fungovať bez vášho vzoru. Z tohto zariadenia sa tiež odstránia vaše uložené odtlačky prstov a nebudete môcť pomocou nich ďalej odomykať svoj telefón, autorizovať nákupy ani sa prihlasovať do aplikácií.“</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Funkcie na ochranu zariadenia nebudú fungovať bez vášho bezpečnostného vzoru. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Funkcie na ochranu zariadenia nebudú fungovať bez vášho bezpečnostného vzoru. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">Funkcie ochrany zariadenia nebudú fungovať bez vášho bezpečnostného vzoru.</string>
   <string name="unlock_disable_frp_warning_content_pin">Funkcie ochrany zariadenia nebudú fungovať bez vášho kódu PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Funkcie ochrany zariadenia nebudú fungovať bez vášho kódu PIN. Z tohto zariadenia sa tiež odstránia vaše uložené odtlačky prstov a nebudete môcť pomocou nich ďalej odomykať svoj telefón, autorizovať nákupy ani sa prihlasovať do aplikácií.“</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Funkcie ochrany zariadenia nebudú fungovať bez vášho kódu PIN. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Funkcie ochrany zariadenia nebudú fungovať bez vášho kódu PIN. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Funkcie ochrany zariadenia nebudú fungovať bez vášho kódu PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Funkcie ochrany zariadenia nebudú fungovať bez vašej zámky obrazovky.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Funkcie ochrany zariadenia nebudú fungovať bez vašej zámky obrazovky. Z tohto zariadenia sa tiež odstránia vaše uložené odtlačky prstov a nebudete môcť pomocou nich ďalej odomykať svoj telefón, autorizovať nákupy ani sa prihlasovať do aplikácií.“</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Funkcie ochrany zariadenia nebudú fungovať bez vašej zámky obrazovky. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Funkcie ochrany zariadenia nebudú fungovať bez vašej zámky obrazovky. Vaše uložené odtlačky prstov budú tiež odstránené z tohto profilu, takže nebudete môcť odomknúť profil, schvaľovať nákupy ani sa pomocou nich prihlásiť do aplikácií.</string>
   <string name="unlock_disable_frp_warning_content_unknown_profile">Funkcie ochrany zariadenia nebudú fungovať bez vašej zámky obrazovky.</string>
   <string name="unlock_disable_frp_warning_ok">Áno, odstrániť</string>
   <string name="unlock_disable_frp_warning_title">Odstrániť ochranu zariadenia?</string>
@@ -3267,15 +3267,15 @@ Medzitým môžete pokračovať v nastavovaní nového zariadenia %1$s."</strin
   <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámky obrazovky si môžete nastaviť aj svoj odtlačok prsta v časti Nastavenia &gt; Zabezpečenie.</string>
   <string name="unlock_sim_action">Unlock SIM</string>
   <string name="unmount_inform_text">Ukladací priestor USB bude odpojený.</string>
-  <string name="unrestricted_app_summary">Povoliť neobmedzený prístup k dátam, keď je zapnutý Šetrič dát</string>
+  <string name="unrestricted_app_summary">Povoliť neobmedzený prístup k dátam, keď je zapnutý Šetrič dát</string>
   <string name="unrestricted_app_title">Neobmedzené využitie dát</string>
-  <string name="unrestricted_data_saver">Neobmedzený prístup k dátam</string>
+  <string name="unrestricted_data_saver">Neobmedzený prístup k dátam</string>
   <string name="untitled_apn">Bez názvu</string>
   <string name="update_lock_service_name">Update lock service</string>
   <string name="usage">Využitie</string>
   <string name="usage_access">Prístup k využitiu</string>
   <string name="usage_access_description">Prístup k využitiu umožňuje aplikácii sledovať, aké ďalšie aplikácie používate, ako často ich používate, a taktiež nastavenia jazyka, operátora a ďalšie podrobnosti.</string>
-  <string name="usage_access_title">Prístup k dátam o používaní</string>
+  <string name="usage_access_title">Prístup k dátam o používaní</string>
   <string name="usage_stats_label">Štatistiky používania</string>
   <string name="usage_time_label">Doba použitia</string>
   <string name="usage_type_actual_power">Pozorovaná spotreba energie</string>
@@ -3353,13 +3353,13 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="user_admin">Správca</string>
   <string name="user_cannot_add_accounts_message">Profily s obmedzeniami nemôžu pridávať účty</string>
   <string name="user_cannot_manage_message">Používateľov môže spravovať iba vlastník telefónu.</string>
-  <string name="user_confirm_remove_message">Všetky aplikácie a dáta budú odstránené.</string>
-  <string name="user_confirm_remove_self_message">Prídete o svoj priestor a dáta v tomto telefóne. Táto akcia sa nedá vrátiť späť.</string>
+  <string name="user_confirm_remove_message">Všetky aplikácie a dáta budú odstránené.</string>
+  <string name="user_confirm_remove_self_message">Prídete o svoj priestor a dáta v tomto telefóne. Táto akcia sa nedá vrátiť späť.</string>
   <string name="user_confirm_remove_self_title">Chcete odstrániť svoj profil?</string>
   <string name="user_confirm_remove_title">Odstrániť používateľa?</string>
-  <string name="user_credential_title">Podrobnosti o povereniach</string>
+  <string name="user_credential_title">Podrobnosti o povereniach</string>
   <string name="user_credentials">Poverenia používateľa</string>
-  <string name="user_credentials_summary">Zobraziť a zmeniť uložené poverenia</string>
+  <string name="user_credentials_summary">Zobraziť a zmeniť uložené poverenia</string>
   <string name="user_delete_button">Odstrániť</string>
   <string name="user_delete_user_description">Odstrániť používateľa</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -3377,7 +3377,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="user_dict_settings_context_menu_delete_title">Odstrániť</string>
   <string name="user_dict_settings_context_menu_edit_title">Upraviť</string>
   <string name="user_dict_settings_edit_dialog_title">Upraviť slovo</string>
-  <string name="user_dict_settings_empty_text">V používateľskom slovníku sa nenachádzajú žiadne slová. Slovo môžete pridať klepnutím na tlačidlo Pridať (+).</string>
+  <string name="user_dict_settings_empty_text">V používateľskom slovníku sa nenachádzajú žiadne slová. Slovo môžete pridať klepnutím na tlačidlo Pridať (+).</string>
   <string name="user_dict_settings_more_languages">Ďalšie jazyky...</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Osobný slovník</string>
@@ -3403,7 +3403,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="user_new_user_name">Nový používateľ</string>
   <string name="user_nickname">Prezývka</string>
   <string name="user_picture_title">ID fotografie</string>
-  <string name="user_profile_confirm_remove_message">Všetky aplikácie a dáta budú odstránené.</string>
+  <string name="user_profile_confirm_remove_message">Všetky aplikácie a dáta budú odstránené.</string>
   <string name="user_profile_confirm_remove_title">Odstrániť tento profil?</string>
   <string name="user_remove_user">Odstrániť používateľa</string>
   <string name="user_remove_user_menu">Odstrániť zo zariadenia (%1$s)</string>
@@ -3432,7 +3432,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="vibrate_on_touch_title">Vibrovať pri klepnutí</string>
   <string name="vibrate_when_ringing_title">Pri hovoroch aj vibrovať</string>
   <string name="virtual_keyboard_category">Virtuálna klávesnica</string>
-  <string name="vision_settings_description">Zariadenie môžete prispôsobiť, aby zodpovedalo vašim potrebám. Tieto funkcie dostupnosti môžete neskôr zmeniť v Nastaveniach.</string>
+  <string name="vision_settings_description">Zariadenie môžete prispôsobiť, aby zodpovedalo vašim potrebám. Tieto funkcie dostupnosti môžete neskôr zmeniť v Nastaveniach.</string>
   <string name="vision_settings_title">Nastavenia viditeľnosti</string>
   <string name="voice_call_volume_action">Hlasitosť hovoru</string>
   <string name="voice_category">Reč</string>
@@ -3440,7 +3440,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="voice_input_output_settings_title">Nastavenia hlasového vstupu a výstupu</string>
   <string name="voice_input_settings">Nastavenia hlasového vstupu</string>
   <string name="voice_input_settings_title">Hlasový vstup</string>
-  <string name="voice_interaction_security_warning">Táto služba hlasového vstupu bude môcť neustále monitorovať hlas a ovládať za vás aplikácie so zapnutým hlasovým vstupom. Pochádza z aplikácie %s. Chcete povoliť používanie tejto služby?</string>
+  <string name="voice_interaction_security_warning">Táto služba hlasového vstupu bude môcť neustále monitorovať hlas a ovládať za vás aplikácie so zapnutým hlasovým vstupom. Pochádza z aplikácie %s. Chcete povoliť používanie tejto služby?</string>
   <string name="voice_interactor_preference_summary">Úplná aktivácia kľúčových slov a interakcia</string>
   <string name="voice_recognizer_preference_summary">Jednoduchý prevod reči na text</string>
   <string name="voice_search_settings_title">Hlasové vyhľadávanie</string>
@@ -3478,7 +3478,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="vpn_l2tp_secret">Tajný kľúč L2TP</string>
   <string name="vpn_lockdown_config_error">Vždy zapnutá sieť VPN vyžaduje adresu IP pre server aj DNS.</string>
   <string name="vpn_lockdown_none">Žiadna</string>
-  <string name="vpn_lockdown_summary">Vyberte profil VPN, ku ktorému chcete mať vždy pripojenie. Sieťová premávka bude povolená len v prípade pripojenia k tejto sieti VPN.</string>
+  <string name="vpn_lockdown_summary">Vyberte profil VPN, ku ktorému chcete mať vždy pripojenie. Sieťová premávka bude povolená len v prípade pripojenia k tejto sieti VPN.</string>
   <string name="vpn_menu_delete">Odstrániť profil</string>
   <string name="vpn_menu_edit">Upraviť profil</string>
   <string name="vpn_menu_lockdown">Vždy zapnutá VPN</string>
@@ -3493,7 +3493,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="vpn_not_used">(nepoužité)</string>
   <string name="vpn_password">Heslo</string>
   <string name="vpn_replace">Nahradiť</string>
-  <string name="vpn_replace_always_on_vpn_message">K sieti VPN ste sa už pripojili. Ak sa pripojíte k inej sieti, vaša súčasná sieť VPN bude nahradená.</string>
+  <string name="vpn_replace_always_on_vpn_message">K sieti VPN ste sa už pripojili. Ak sa pripojíte k inej sieti, vaša súčasná sieť VPN bude nahradená.</string>
   <string name="vpn_replace_always_on_vpn_title">Nahradiť existujúce VPN?</string>
   <string name="vpn_routes">Presmerovávacie trasy (napr. 10.0.0.0/8)</string>
   <string name="vpn_save">Uložiť</string>
@@ -3507,7 +3507,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="vpn_type">Typ</string>
   <string name="vpn_username">Používateľské meno</string>
   <string name="vpn_version">Verzia %s</string>
-  <string name="vr_listener_security_warning_summary">%1$s bude možné spustiť pri používaní aplikácií v režime virtuálnej reality.</string>
+  <string name="vr_listener_security_warning_summary">%1$s bude možné spustiť pri používaní aplikácií v režime virtuálnej reality.</string>
   <string name="vr_listener_security_warning_title">Umožniť službe VR prístup do služby %1$s?</string>
   <string name="vr_listeners_title">Pomocné služby VR</string>
   <string name="vt_provisioned_switch_string">Poskytované videohovory</string>
@@ -3523,8 +3523,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wallpaper_suggestion_title">Zmena tapety</string>
   <string name="watch_wifi_settings">Wi-Fi hodiniek</string>
   <string name="wear_developer_options">Vývojárske Wear nastavenia</string>
-  <string name="web_action_enable_summary">Otvárajte odkazy v podporovaných aplikáciách, a to dokonca aj vtedy, keď aplikácie nemáte na zariadení nainštalované</string>
-  <string name="web_action_enable_title">Otváranie odkazov v aplikáciách</string>
+  <string name="web_action_enable_summary">Otvárajte odkazy v podporovaných aplikáciách, a to dokonca aj vtedy, keď aplikácie nemáte na zariadení nainštalované</string>
+  <string name="web_action_enable_title">Otváranie odkazov v aplikáciách</string>
   <string name="web_action_section_title">Nenainštalované aplikácie</string>
   <string name="webview_license_title">Licencia systému WebView</string>
   <string name="wfc_provisioned_switch_string">Poskytované volanie cez Wi-Fi</string>
@@ -3551,13 +3551,13 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dát. pripoj. na mob. sieť vtedy, keď bude slabý signál Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
-  <string name="wifi_and_mobile_skipped_message">""Ak preskočíte pripojenie Wi‑Fi:
+  <string name="wifi_and_mobile_skipped_message">""Ak preskočíte pripojenie Wi-Fi:
 
-"&lt;li&gt;v&amp;#225;&amp;#353; telef&amp;#243;n nebude pripojen&amp;#253; k&amp;#160;internetu;&lt;/li&gt;"
+"váš telefón nebude pripojený k internetu"
 
-"&lt;li&gt;aktualiz&amp;#225;cie softv&amp;#233;ru z&amp;#237;skate a&amp;#382; po pripojen&amp;#237; k&amp;#160;internetu;&lt;/li&gt;"
+"aktualizácie softvéru získate až po pripojení k internetu"
 
-"&lt;li&gt;nebudete m&amp;#244;c&amp;#357; zatia&amp;#318; aktivova&amp;#357; funkcie ochrany zariadenia.&lt;/li&gt;"</string>
+"nebudete môcť zatiaľ aktivovať funkcie ochrany zariadenia."</string>
   <string name="wifi_ap_band_config">Vybrať pásmo pre prístupový bod</string>
   <string name="wifi_ap_choose_2G">Pásmo 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Pásmo 5 GHz</string>
@@ -3565,8 +3565,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_automatically_connect_summary">Umožniť asistentovi Wi‑Fi automaticky sa pripojiť k otvoreným sieťam, ktoré určí ako vysokokvalitné</string>
   <string name="wifi_automatically_connect_title">Automaticky používať otvor. siete Wi‑Fi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Použiť iba siete s dobrým pripojením k internetu</string>
-  <string name="wifi_band_24ghz">2,4 GHz</string>
-  <string name="wifi_band_5ghz">5 GHz</string>
+  <string name="wifi_band_24ghz">2,4 GHz</string>
+  <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Režim volania cez Wi-Fi</string>
   <string name="wifi_calling_mode_title">Predvoľba volania</string>
   <string name="wifi_calling_off_explanation">Ak je zapnuté volanie Wi-Fi, váš telefón môže smerovať volania cez siete Wi-Fi alebo cez sieť vášho operátora. Závisí to od vašich nastavení a od toho, ktorý signál je silnejší. Pred zapnutím tejto funkcie kontaktujte svojho operátora a informujte sa o poplatkoch a ďalších podrobnostiach.</string>
@@ -3648,7 +3648,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_ip_settings_menu_cancel">Zrušiť</string>
   <string name="wifi_ip_settings_menu_save">Uložiť</string>
   <string name="wifi_limit_optimizations_summary">Obmedz. využitie batérie sieťou Wi-Fi</string>
-  <string name="wifi_logging">Wi-Fi Verbose Logging</string>
+  <string name="wifi_logging">Podrobné protokolovanie Wi-Fi</string>
   <string name="wifi_max_battery_use">%s%%</string>
   <string name="wifi_menu_advanced">Rozšírené</string>
   <string name="wifi_menu_configure">Konfigurácia</string>
@@ -3669,8 +3669,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_network_forgetting">Zabúdanie...</string>
   <string name="wifi_network_prefix_length">Dĺžka sieťovej predpony</string>
   <string name="wifi_no_domain_warning">Je potrebné zadať doménu.</string>
-  <string name="wifi_no_internet">Žiadny prístup k internetu.</string>
-  <string name="wifi_no_internet_no_reconnect">Nenašiel sa žiadny prístup k internetu, preto nedôjde k automatickému opätovnému pripojeniu.</string>
+  <string name="wifi_no_internet">Žiadny prístup k internetu.</string>
+  <string name="wifi_no_internet_no_reconnect">Nenašiel sa žiadny prístup k internetu, preto nedôjde k automatickému opätovnému pripojeniu.</string>
   <string name="wifi_not_in_range">Mimo dosah</string>
   <string name="wifi_notify_open_networks">Upozornenia na siete</string>
   <string name="wifi_notify_open_networks_summary">Upozorniť, keď bude dostupná verejná sieť</string>
@@ -3699,7 +3699,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_quick_toggle_summary">Zapnúť Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Uložené</string>
-  <string name="wifi_sap_no_channel_error">V tejto krajine nie je pásmo 5 GHz k dispozícii</string>
+  <string name="wifi_sap_no_channel_error">V tejto krajine nie je pásmo 5 GHz k dispozícii</string>
   <string name="wifi_save">Uložiť</string>
   <string name="wifi_saved_access_points_label">Uložené siete</string>
   <string name="wifi_saved_access_points_titlebar">Uložené siete</string>
@@ -3708,7 +3708,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_scan">Vyhľadať</string>
   <string name="wifi_scan_always_confirm_allow">Povoliť</string>
   <string name="wifi_scan_always_confirm_deny">Odmietnuť</string>
-  <string name="wifi_scan_always_turnoff_message">Ak chcete toto nastavenie vypnúť, prejdite na položku Rozšírené v rozšírenej ponuke.</string>
+  <string name="wifi_scan_always_turnoff_message">Ak chcete toto nastavenie vypnúť, prejdite na položku Rozšírené v rozšírenej ponuke.</string>
   <string name="wifi_scan_always_turnon_message">"Aplikácia %1$s chce zapnúť vyhľadávanie sietí (z dôvodu dosiahnutia vyššej presnosti určovania polohy aj z iných dôvodov) a hľadať siete aj v prípade, že je vypnutý modul Wi-Fi.
 
 Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadávať siete?"</string>
@@ -3733,7 +3733,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_select_network_message">Vyberte sieť</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi aktívne v režime spánku</string>
   <string name="wifi_setting_sleep_policy_error">Pri zmene nastavení sa vyskytol problém</string>
-  <string name="wifi_setting_sleep_policy_title">Wi-Fi zapnuté aj v režime spánku</string>
+  <string name="wifi_setting_sleep_policy_title">Wi-Fi zapnuté aj v režime spánku</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">Nastavenia Wi-Fi</string>
   <string name="wifi_settings_summary">Umožňuje nastaviť a spravovať prístupové body bezdrôtovej siete</string>
@@ -3742,9 +3742,9 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_setup_back">Späť</string>
   <string name="wifi_setup_cancel">Zrušiť</string>
   <string name="wifi_setup_connect">Pripojiť</string>
-  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavovaní, klepnite na možnosť &lt;b&gt;&amp;#270;alej&lt;/b&gt;".
+  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavovaní, klepnite na možnosť ďalej".
 
-Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#382;nos&amp;#357; "&lt;b&gt;Sp&amp;#228;&amp;#357;&lt;/b&gt;."</string>
+Ak sa chcete pripojiť k inej sieti Wi-Fi, klepnite na možnosť "Späť."</string>
   <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
   <string name="wifi_setup_detail">Podrobnosti siete</string>
   <string name="wifi_setup_eap_not_supported">Počas inštalácie nie je možné konfigurovať pripojenie k sieti Wi-Fi cez protokol EAP. Po inštalácii to môžete vykonať v sekcii Nastavenia &gt; Bezdrôtové pripojenie a siete.</string>
@@ -3761,7 +3761,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="wifi_setup_status_new_network">Pripojiť k novej sieti</string>
   <string name="wifi_setup_status_proceed_to_next">Prejsť na ďalší krok</string>
   <string name="wifi_setup_status_scanning">Vyhľadávanie sietí...</string>
-  <string name="wifi_setup_status_select_network">Klepnutím na sieť sa k nej pripojíte</string>
+  <string name="wifi_setup_status_select_network">Klepnutím na sieť sa k nej pripojíte</string>
   <string name="wifi_setup_status_unsecured_network">Pripojenie k nezabezpečenej sieti</string>
   <string name="wifi_setup_title">Nastavenie Wi-Fi</string>
   <string name="wifi_setup_title_add_network">Pridanie siete</string>
@@ -3770,7 +3770,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="wifi_setup_title_editing_network">Pripojenie k sieti Wi-Fi %s</string>
   <string name="wifi_setup_wizard_title">Vyberte sieť Wi-Fi</string>
   <string name="wifi_setup_wps">Automatické nastavenie (WPS)</string>
-  <string name="wifi_shared">Zdieľať s ostatnými používateľmi zariadenia</string>
+  <string name="wifi_shared">Zdieľať s ostatnými používateľmi zariadenia</string>
   <string name="wifi_show_advanced">Rozšírené možnosti</string>
   <string name="wifi_show_password">Zobrazovať heslo</string>
   <string name="wifi_signal">Sila signálu</string>
@@ -3822,7 +3822,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="wizard_finish">Dokončiť</string>
   <string name="wizard_next">Ďalej</string>
   <string name="work_mode_label">Pracovný režim</string>
-  <string name="work_mode_summary">Bude fungovať pracovný profil vrátane aplikácií, synchronizácie na pozadí a súvisiacich funkcií</string>
+  <string name="work_mode_summary">Bude fungovať pracovný profil vrátane aplikácií, synchronizácie na pozadí a súvisiacich funkcií</string>
   <string name="work_profile_confirm_remove_message">Ak budete pokračovať, všetky aplikácie a údaje v tomto profile budú odstránené.</string>
   <string name="work_profile_confirm_remove_title">Odstrániť pracovný profil?</string>
   <string name="work_profile_usage_access_warning">Deaktivovaním prístupu k spotrebe dát pre túto aplikáciu nezabránite správcovi v sledovaní údajov o spotrebe dát pre aplikácie vo vašom pracovnom profile.</string>
@@ -3841,10 +3841,10 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="write_tag">Zapísať</string>
   <string name="wrong_pin_code_pukked">Nesprávny kód PIN SIM karty. Teraz musíte kontaktovať svojho operátora, aby vám odomkol zariadenie.</string>
   <string name="yes">Áno</string>
-  <string name="zen_access_disabled_package_warning">Musí zostať zapnuté, pretože je zapnutý prístup k upozorneniam</string>
-  <string name="zen_access_empty_text">Prístup k nastaveniu Nerušiť si nevyžiadali žiadne nainštalované aplikácie</string>
+  <string name="zen_access_disabled_package_warning">Musí zostať zapnuté, pretože je zapnutý prístup k upozorneniam</string>
+  <string name="zen_access_empty_text">Prístup k nastaveniu Nerušiť si nevyžiadali žiadne nainštalované aplikácie</string>
   <string name="zen_access_revoke_warning_dialog_summary">Všetky pravidlá typu Nerušiť vytvorené touto aplikáciou budú odstránené.</string>
-  <string name="zen_access_revoke_warning_dialog_title">Odvolať prístup k nastaveniu Nerušiť pre aplikáciu %1$s?</string>
+  <string name="zen_access_revoke_warning_dialog_title">Odvolať prístup k nastaveniu Nerušiť pre aplikáciu %1$s?</string>
   <string name="zen_access_warning_dialog_summary">Aplikácia bude môcť vypnúť alebo zapnúť nastavenie Nerušiť a meniť súvisiace nastavenia.</string>
   <string name="zen_access_warning_dialog_title">Povoliť prístup k nastaveniu Nerušiť pre aplikáciu %1$s?</string>
   <string name="zen_event_rule_enabled_toast">Automatické pravidlo bolo nastavené na Nerušiť počas určitých udalostí</string>
@@ -3855,7 +3855,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="zen_mode_all_messages">Všetky správy</string>
   <string name="zen_mode_all_visual_interruptions">Vypnuté</string>
   <string name="zen_mode_automation_settings_title">Automatické pravidlá</string>
-  <string name="zen_mode_automation_suggestion_summary">Stíšenie zariadenia v určitom čase</string>
+  <string name="zen_mode_automation_suggestion_summary">Stíšenie zariadenia v určitom čase</string>
   <string name="zen_mode_automation_suggestion_title">Nastaviť rozvrh režimu Nerušiť</string>
   <string name="zen_mode_calls">Hovory</string>
   <string name="zen_mode_choose_rule_type">Výber typu pravidla</string>
@@ -3878,7 +3878,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="zen_mode_from_anyone">Od kohokoľvek</string>
   <string name="zen_mode_from_contacts">Iba od kontaktov</string>
   <string name="zen_mode_from_none">Žiadne</string>
-  <string name="zen_mode_from_starred">Iba od kontaktov s hviezdičkou</string>
+  <string name="zen_mode_from_starred">Iba od kontaktov s hviezdičkou</string>
   <string name="zen_mode_messages">Správy</string>
   <string name="zen_mode_no_visual_interruptions">Keď je obrazovka zapnutá alebo vypnutá</string>
   <string name="zen_mode_option_alarms">Iba budíky</string>
@@ -3897,7 +3897,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
 %2$s"</string>
   <string name="zen_mode_rule_type">Typ pravidla</string>
   <string name="zen_mode_rule_type_unknown">Neznáme</string>
-  <string name="zen_mode_schedule_alarm_summary">Zastaviť v čase ukončenia alebo v čase spustenia ďalšieho budíka (podľa toho, čo nastane skôr)</string>
+  <string name="zen_mode_schedule_alarm_summary">Zastaviť v čase ukončenia alebo v čase spustenia ďalšieho budíka (podľa toho, čo nastane skôr)</string>
   <string name="zen_mode_schedule_alarm_title">Budík môže prepísať čas ukončenia</string>
   <string name="zen_mode_schedule_rule_days">Dni</string>
   <string name="zen_mode_schedule_rule_days_all">Každý deň</string>
@@ -3922,7 +3922,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
   <string name="zen_mode_when_every_night">Každú noc</string>
   <string name="zen_mode_when_never">Nikdy</string>
   <string name="zen_mode_when_weeknights">Noci cez týždeň</string>
-  <string name="zen_schedule_rule_enabled_toast">Automatické pravidlo bolo nastavené na Nerušiť v určitých časoch</string>
+  <string name="zen_schedule_rule_enabled_toast">Automatické pravidlo bolo nastavené na Nerušiť v určitých časoch</string>
   <string name="zen_schedule_rule_type_name">Pravidlo pre časové obdobie</string>
   <string name="zone_auto">Automatické časové pásmo</string>
   <string name="zone_auto_summaryOff">Použiť časové pásmo zo siete</string>
@@ -4071,7 +4071,7 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
      <string name="pref_bluetooth_turningOn">Zapínanie Bluetooth…</string>
      <string name="pref_bluetooth_unavailable">Nedostupné</string>
      <string name="pref_brightness">Nastavenie jasu</string>
-     <string name="pref_btSnoopLog">Bluetooth snoop logging</string>
+     <string name="pref_btSnoopLog">Protokolovanie Bluetooth zväzkov</string>
      <string name="pref_bugReport">Správa o chybách v menu</string>
      <string name="pref_buttons_launch_app">Spustiť aplikáciu</string>
      <string name="pref_callForwarding">Presmerovanie hovorov</string>
@@ -4094,11 +4094,11 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
      <string name="pref_dataRoaming_dialogTitle">Upozornenie</string>
      <string name="pref_dataUsage">Spotreba dát</string>
      <string name="pref_dateTime">Dátum a čas</string>
-     <string name="pref_debugLayout">Debug layouts</string>
-     <string name="pref_debugOverBluetooth">Debug over Bluetooth</string>
-     <string name="pref_debugOverWifi">Debug over Wi-Fi</string>
-     <string name="pref_debugOverdraw">Debug overdraw</string>
-     <string name="pref_debugTiming">Debug GPU profiling</string>
+     <string name="pref_debugLayout">Ladiť rozloženia</string>
+     <string name="pref_debugOverBluetooth">Ladenie cez Bluetooth</string>
+     <string name="pref_debugOverWifi">Ladenie cez Wi-Fi</string>
+     <string name="pref_debugOverdraw">Ladiť prekreslenie</string>
+     <string name="pref_debugTiming">Ladiť profilovanie GPU</string>
      <string name="pref_defaultSms">Predvolená SMS aplikácia</string>
      <string name="pref_deviceAdministration">Správa zariadenia</string>
      <string name="pref_deviceAdministrators">Správcovia zariadenia</string>
@@ -4187,8 +4187,8 @@ Ak sa chcete pripoji&amp;#357; k&amp;#160;inej sieti Wi-Fi, klepnite na mo&amp;#
      <string name="pref_watchRingtone">Vyzváňací tón hodiniek</string>
      <string name="pref_wearDeveloperOptions">Vývojárske nastavenia Wear</string>
      <string name="pref_wifi">Wi-Fi</string>
-     <string name="pref_wifiLogging">Wi-Fi Verbose Logging</string>
-     <string name="pref_wifi_old">Wi-Fi (deprecated)</string>
+     <string name="pref_wifiLogging">Podrobné protokolovanie Wi-Fi</string>
+     <string name="pref_wifi_old">Wi-Fi (zastarané)</string>
      <string name="pref_wristGestures">Gestá zápästím</string>
      <string name="pref_write_settings_title">Upraviť systémové nastavenia</string>
      <string name="pref_yolo">Inteligentný zámok pre heslá</string>
@@ -4239,7 +4239,7 @@ a ďalšie situácie"</string>
      <string name="wifi_connection_action_on">Zapnuté</string>
      <string name="wifi_connection_failure">Chyba pripojenia</string>
      <string name="wifi_connection_last_used">Naposledy použité</string>
-     <string name="wifi_connection_no_internet">Žiaden internet</string>
+     <string name="wifi_connection_no_internet">Žiadny internet</string>
      <string name="wifi_connection_saved">Uložené</string>
      <string name="wifi_connection_title">Pripojenie</string>
      <string name="wifi_continue_on_phone">Pokračujte na telefóne</string>
