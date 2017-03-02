@@ -2,6 +2,18 @@
 
 up=/home/ingbrzy/ZenWatch3-SLOVAK/Slovak
 
+if [ "$1" == "asus" ]; then
+  mode="asus"
+elif [ "$1" == "huawei" ]; then
+  mode="huawei";
+else
+  echo "Define target device!";
+  exit;
+fi
+
+rm -rf $up/output/*.apk	
+rm -rf $up/output/*.zip	
+
 $up/RRO-2.0-SK/AnalogComplicationWatchFace.apk/RRO.sh
 $up/RRO-2.0-SK/asuswatchinfoprovider.apk/RRO.sh
 $up/RRO-2.0-SK/AsusWatchManagerWear.apk/RRO.sh
@@ -44,24 +56,16 @@ $up/RRO-2.0-SK/ClockworkFlashlight.apk/RRO.sh
 $up/RRO-2.0-SK/Calculator.apk/RRO.sh	
 
 
-if [ "$1" == "asus" ]; then
-  mode="asus"
-elif [ "$1" == "huawei" ]; then
-  mode="huawei";
-else
-  echo "Define target device!";
-fi
-
 if [ "$mode" == "asus" ]; then
   	mv $up/output/*.apk $up/output/ZenWatch3/system/vendor/overlay/
-	echo "Making zip..."
+	echo "Making zip for ZenWatch3..."
 	cd $up/output/ZenWatch3/
 	zip -r $up/output/ZenWatch3_SK_langpack.zip * > /dev/null  
 fi
 
 if [ "$mode" == "huawei" ]; then
   mv $up/output/*.apk $up/output/Huawei-watch/system/vendor/overlay/
-	echo "Making zip..."
+	echo "Making zip for Huawei Watch..."
 	rm -rf $up/output/Huawei-watch/system/vendor/overlay/AsusWatchManagerWear-overlay.apk	
 	rm -rf $up/output/Huawei-watch/system/vendor/overlay/asuswatchinfoprovider-overlay.apk	
 	cd $up/output/Huawei-watch/
@@ -69,5 +73,3 @@ if [ "$mode" == "huawei" ]; then
 fi
 
 
-
-echo "RRO apk are done!";
