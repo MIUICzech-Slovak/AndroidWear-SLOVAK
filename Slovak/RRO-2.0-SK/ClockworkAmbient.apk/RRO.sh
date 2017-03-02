@@ -17,10 +17,10 @@ $aapt package -m -J gen/ -M AndroidManifest.xml -S res/ -I $up/tools/android.jar
 
 echo "Building overlay.apk";
 
-$aapt package -f -M AndroidManifest.xml -S res/ -I $up/tools/android.jar -F ClockworkAmbient-overlay.apk
+$aapt package -f -M AndroidManifest.xml -S res/ -I $up/tools/android.jar -F $up/output/ClockworkAmbient-overlay.apk
 
 echo "Signing overlay.apk";
 
-java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem ClockworkAmbient-overlay.apk			
+java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem $up/output/ClockworkAmbient-overlay.apk			
 
 echo "RRO apk is done!";

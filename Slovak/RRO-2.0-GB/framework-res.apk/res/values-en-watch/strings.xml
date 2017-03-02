@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="android_upgrading_apk">"Aplikácia &lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android" id="NUMBER_0"&gt;%1$d&lt;/xliff:g&gt; z &lt;xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android" id="NUMBER_1"&gt;%2$d&lt;/xliff:g&gt;."</string>
-  <string name="permgrouplab_sensors">"Senzory"</string>
-</resources>

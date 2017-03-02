@@ -17,10 +17,10 @@ $aapt package -m -J gen/ -M AndroidManifest.xml -S res/ -I $up/tools/android.jar
 
 echo "Building overlay.apk";
 
-$aapt package -f -M AndroidManifest.xml -S res/ -I $up/tools/android.jar -F DailyTracking-overlay.apk
+$aapt package -f -M AndroidManifest.xml -S res/ -I $up/tools/android.jar -F $up/output/DailyTracking-overlay.apk
 
 echo "Signing overlay.apk";
 
-java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem DailyTracking-overlay.apk			
+java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem $up/output/DailyTracking-overlay.apk			
 
 echo "RRO apk is done!";

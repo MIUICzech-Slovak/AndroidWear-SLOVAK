@@ -1,0 +1,41 @@
+assert(getprop("ro.product.device") == "swift" || getprop("ro.build.product") == "swift" || getprop("ro.product.name") == "swift" ||
+	abort("This package is for \"swift\" devices; this is a \"" + getprop("ro.product.device") + "\"."););
+ifelse(is_mounted("/system"), unmount("/system"));
+show_progress(1.000000, 0);
+ui_print(" ");
+ui_print(" ");
+ui_print("ASUS-ZenWatch-3-SLOVAK LANGUAGE PACK Installer by ingbrzy");
+ui_print("WW_WI503Q_MWF76_20161216");
+ui_print(" ");
+ui_print(" ");
+ui_print(" ");
+ui_print(" ");
+ui_print(" ");
+mount("ext4", "EMMC", "/dev/block/platform/soc/7824900.sdhci/by-name/system", "/system", "max_batch_time=0,commit=1,data=ordered,barrier=1,errors=panic,nodelalloc");
+set_progress(0.200000);
+ui_print("Extracting translated apks...");
+ui_print(" ");
+set_progress(0.500000);
+ui_print("Delete useless AsusWellness.apk");
+delete_recursive("/system/app/AsusWellness");
+delete_recursive("/system/vendor/overlay");
+delete("/system/priv-app/AsusWatchManagerWear/oat/arm/AsusWatchManagerWear.odex");
+package_extract_dir("system", "/system");
+set_progress(0.900000);
+ui_print("Cleaning Cache");
+delete_recursive("/cache");
+ui_print("Clearing Dalvik");
+delete_recursive("/data/dalvik-cache");
+ui_print("Done");
+ifelse(is_mounted("/system"), unmount("/system"));
+set_progress(1.000000);
+ui_print("SLOVAK lang installed for ZenWatch-3 WW_WI503Q_MWF76_20161216");
+
+
+
+
+
+
+
+
+

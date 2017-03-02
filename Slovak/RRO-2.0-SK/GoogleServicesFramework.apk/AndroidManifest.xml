@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gsf.overlay" platformBuildVersionCode="23" platformBuildVersionName="6.0">
-    <overlay android:priority="100" android:targetPackage="com.google.android.gsf"/>
+    <overlay android:priority="999" android:targetPackage="com.google.android.gsf"/>
 </manifest>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.providers.media.overlay" platformBuildVersionCode="23" platformBuildVersionName="6.0">
-    <overlay android:priority="100" android:targetPackage="com.android.providers.media"/>
+    <overlay android:priority="999" android:targetPackage="com.android.providers.media"/>
 </manifest>
