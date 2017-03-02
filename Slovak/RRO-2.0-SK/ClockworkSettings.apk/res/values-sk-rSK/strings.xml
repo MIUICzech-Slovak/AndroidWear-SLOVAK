@@ -2594,10 +2594,10 @@ Ak chcete použiť pripnutie obrazovky:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Odstrániť</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Meno</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia telefónu môžete pomocou senzora Nexus Imprint autorizovať nákupy a prístup do aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Zámka obrazovky bola zakázaná. Ďalšie informácie získate od správcu vašej organizácie. &lt;annotation id="admin_details"&gt;&amp;#270;al&amp;#353;ie podrobnosti&lt;/annotation&gt;"
+  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia telefónu môžete pomocou senzora Nexus Imprint autorizovať nákupy a prístup do aplikácií. Ďalšie informácie</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Zámka obrazovky bola zakázaná. Ďalšie informácie získate od správcu vašej organizácie. Ďalšie podrobnosti"
 
-Na&amp;#271;alej m&amp;#244;&amp;#382;ete pomocou odtla&amp;#269;ku prsta schva&amp;#318;ova&amp;#357; n&amp;#225;kupy a&amp;#160;pr&amp;#237;stup do aplik&amp;#225;ci&amp;#237;. "&lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;"</string>
+Naďalej môžete pomocou otlačku prsta schvaľovať nákupy a prístup do aplikácií. "Ďalšie informácie"</string>
   <string name="security_settings_fingerprint_enroll_done">Hotovo</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registrácia nebola dokončená</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Registrácia odtlačku prsta nefungovala. Skúste to znova alebo použite iný prst.</string>
@@ -2930,15 +2930,15 @@ Aplikácie môžete neskôr opätovne nainštalovať, no ich údaje uložené na
 
 Všetky údaje v úložisku ^1 budú vymazané. Odporúčame ich najskôr zálohovať. 
 
-"&lt;b&gt;Z&amp;#225;lohovanie fotiek a in&amp;#253;ch m&amp;#233;di&amp;#237;&lt;/b&gt;" 
-Medi&amp;#225;lne s&amp;#250;bory presu&amp;#328;te do in&amp;#233;ho &amp;#250;lo&amp;#382;iska v zariaden&amp;#237; alebo ich pomocou k&amp;#225;bla USB preneste do po&amp;#269;&amp;#237;ta&amp;#269;a. 
+"Zálohovanie fotiek a iných médií" 
+Mediálne súbory presuňte do iného úložiska v zariadení alebo ich pomocou kábla USB preneste do počítača. 
 
-"&lt;b&gt;Z&amp;#225;lohovanie aplik&amp;#225;ci&amp;#237;&lt;/b&gt;" 
-V&amp;#353;etky aplik&amp;#225;cie v &amp;#250;lo&amp;#382;isku ^1 sa odin&amp;#353;taluj&amp;#250; a ich &amp;#250;daje sa vyma&amp;#382;&amp;#250;. Ak si chcete tieto aplik&amp;#225;cie ponecha&amp;#357;, presu&amp;#328;te ich do in&amp;#233;ho &amp;#250;lo&amp;#382;iska v zariaden&amp;#237;."</string>
+"Zálohovanie aplikácií" 
+Všetky aplikácie v úložisku ^1 sa odinštalujú a ich údaje sa vymažú. Ak si chcete tieto aplikácie ponechať, presuňte ich do iného úložiska v zariadení."</string>
   <string name="storage_internal_title">Úložisko zariadenia</string>
-  <string name="storage_internal_unmount_details">"&lt;b&gt;Ke&amp;#271; toto &amp;#250;lo&amp;#382;isko ^1 odpoj&amp;#237;te, prestan&amp;#250; fungova&amp;#357; aplik&amp;#225;cie, ktor&amp;#233; s&amp;#250; v &amp;#328;om ulo&amp;#382;en&amp;#233;. Medi&amp;#225;lne s&amp;#250;bory nebud&amp;#250; dostupn&amp;#233;, k&amp;#253;m ho op&amp;#228;&amp;#357; nepripoj&amp;#237;te.&lt;/b&gt;" 
+  <string name="storage_internal_unmount_details">"Keď toto úložisko ^1 odpojíte, prestanú fungovať aplikácie, ktoré sú v ňom uložené. Mediálne súbory nebudú dostupné, kým ho opäť nepripojíte." 
 
-Toto &amp;#250;lo&amp;#382;isko ^1 je naform&amp;#225;tovan&amp;#233; tak, aby fungovalo iba v tomto zariaden&amp;#237;.""</string>
+Toto úložisko ^1 je naformátované tak, aby fungovalo iba v tomto zariadení.""</string>
   <string name="storage_label">Úložisko</string>
   <string name="storage_low_summary">Niektoré systémové funkcie, ako je synchronizácia, nemusia fungovať správne. Skúste získať ukladací priestor odstránením alebo uvoľnením položiek, ako sú aplikácie alebo obsah médií.</string>
   <string name="storage_low_title">Nedostatok ukladacieho priestoru</string>
@@ -2979,11 +2979,11 @@ Toto &amp;#250;lo&amp;#382;isko ^1 je naform&amp;#225;tovan&amp;#233; tak, aby f
 
 Po naformátovaní bude úložisko ^1 fungovať iba v tomto zariadení. 
 
-"&lt;b&gt;Form&amp;#225;tovan&amp;#237;m vyma&amp;#382;ete v&amp;#353;etky &amp;#250;daje v &amp;#250;lo&amp;#382;isku ^1.&lt;/b&gt; Ak chcete zabr&amp;#225;ni&amp;#357; strate &amp;#250;dajov, odpor&amp;#250;&amp;#269;ame ich z&amp;#225;lohova&amp;#357;."</string>
+"Formátovaním vymažete všetky údaje v úložisku ^1. Ak chcete zabrániť strate údajov, odporúčame ich zálohovať."</string>
   <string name="storage_wizard_format_confirm_next">Vymazať a formátovať</string>
   <string name="storage_wizard_format_confirm_public_body">""Táto akcia vyžaduje, aby úložisko ^1 bolo naformátované. 
 
-"&lt;b&gt;Form&amp;#225;tovan&amp;#237;m vyma&amp;#382;ete v&amp;#353;etky d&amp;#225;ta v &amp;#250;lo&amp;#382;isku ^1.&lt;/b&gt; Ak chcete zabr&amp;#225;ni&amp;#357; strate d&amp;#225;t, odpor&amp;#250;&amp;#269;ame ich z&amp;#225;lohova&amp;#357;."</string>
+"Formátovaním vymažete všetky údaje v úložisku ^1. Ak chcete zabrániť strate údajov, odporúčame ich zálohovať."</string>
   <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>
   <string name="storage_wizard_format_confirm_title">Naformátovať ako inter. úložisko</string>
   <string name="storage_wizard_format_progress_body">Počas formátovania úložisko ^1 neodoberajte.</string>
@@ -3096,8 +3096,8 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="sync_menu_sync_now">Synchronizovať</string>
   <string name="sync_one_time_sync">"Klepnutím synchronizujete (
 %1$s)"</string>
-  <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;V&amp;#237;ta v&amp;#225;s slu&amp;#382;ba Google Sync&lt;/font&gt;" 
-Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a umo&amp;#382;&amp;#328;uje v&amp;#225;m tak pristupova&amp;#357; ku kontaktom, stretnutiam a &amp;#271;al&amp;#353;&amp;#237;m inform&amp;#225;ci&amp;#225;m, nech ste kdeko&amp;#318;vek.""</string>
+  <string name="sync_plug">"Víta vás služba Google Sync. 
+Spoločnosť Google pomocou nej synchronizuje údaje a umožňuje vám tak pristupovať ku kontaktom, stretnutiam a ďalším informáciám, nech ste kdekoľvek."</string>
   <string name="system_alert_window_access_title">Vykresľovanie cez ďalšie aplikácie</string>
   <string name="system_alert_window_apps_title">Aplikácie</string>
   <string name="system_alert_window_off">Nie</string>
