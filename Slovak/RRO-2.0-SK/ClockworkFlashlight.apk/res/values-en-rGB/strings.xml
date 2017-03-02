@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dismiss_overlay_button_label">Ukončiť</string>
+    <string name="generic_cancel">Zrušiť</string>
+    <string name="generic_yes">Áno</string>
+    <string name="time_difference_now">teraz</string>
+    <string name="flashlight_app_name">Svietidlo</string>
+</resources>
