@@ -58,6 +58,8 @@ fi
 if [ "$mode" == "huawei" ]; then
   mv $up/output/*.apk $up/output/Huawei-watch/system/vendor/overlay/
 	echo "Making zip..."
+	rm -rf $up/output/Huawei-watch/system/vendor/overlay/AsusWatchManagerWear-overlay.apk	
+	rm -rf $up/output/Huawei-watch/system/vendor/overlay/asuswatchinfoprovider-overlay.apk	
 	zip -q -r -y $up/output/HuaweiWatch_SK_langpack.zip $up/output/Huawei-watch/ > /dev/null  
 fi
 
