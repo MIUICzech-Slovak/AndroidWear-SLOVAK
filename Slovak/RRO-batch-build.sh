@@ -41,4 +41,26 @@ $up/RRO-2.0-SK/WearHandwriting.apk/RRO.sh
 $up/RRO-2.0-SK/WearKeyboard.apk/RRO.sh
 $up/RRO-2.0-SK/WristGesturesTutorial.apk/RRO.sh	
 
+if [ "$1" == "asus" ]; then
+  mode="asus"
+elif [ "$1" == "huawei" ]; then
+  mode="huawei";
+else
+  echo "Define target device!";
+fi
+
+if [ "$mode" == "asus" ]; then
+  mv $up/output/*.apk $up/output/ZenWatch3/system/vendor/overlay/
+	echo "Making zip..."
+	zip -q -r -y $up/output/ZenWatch3_SK_langpack.zip $up/output/ZenWatch3/ > /dev/null  
+fi
+
+if [ "$mode" == "huawei" ]; then
+  mv $up/output/*.apk $up/output/Huawei-watch/system/vendor/overlay/
+	echo "Making zip..."
+	zip -q -r -y $up/output/HuaweiWatch_SK_langpack.zip $up/output/Huawei-watch/ > /dev/null  
+fi
+
+
+
 echo "RRO apk are done!";
