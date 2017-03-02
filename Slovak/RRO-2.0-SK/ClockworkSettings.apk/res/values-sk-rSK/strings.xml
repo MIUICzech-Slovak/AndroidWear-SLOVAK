@@ -3551,13 +3551,13 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
   <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dát. pripoj. na mob. sieť vtedy, keď bude slabý signál Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
   <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
-  <string name="wifi_and_mobile_skipped_message">""Ak preskočíte pripojenie Wi‑Fi:
+  <string name="wifi_and_mobile_skipped_message">""Ak preskočíte pripojenie Wi-Fi:
 
-"&lt;li&gt;v&amp;#225;&amp;#353; telef&amp;#243;n nebude pripojen&amp;#253; k&amp;#160;internetu;&lt;/li&gt;"
+"váš telefón nebude pripojený k internetu"
 
-"&lt;li&gt;aktualiz&amp;#225;cie softv&amp;#233;ru z&amp;#237;skate a&amp;#382; po pripojen&amp;#237; k&amp;#160;internetu;&lt;/li&gt;"
+"aktualizácie softvéru získate až po pripojení k internetu"
 
-"&lt;li&gt;nebudete m&amp;#244;c&amp;#357; zatia&amp;#318; aktivova&amp;#357; funkcie ochrany zariadenia.&lt;/li&gt;"</string>
+"nebudete môcť zatiaľ aktivovať funkcie ochrany zariadenia."</string>
   <string name="wifi_ap_band_config">Vybrať pásmo pre prístupový bod</string>
   <string name="wifi_ap_choose_2G">Pásmo 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Pásmo 5 GHz</string>
