@@ -54,7 +54,7 @@ $up/RRO-2.0-SK/WearKeyboard.apk/RRO.sh
 $up/RRO-2.0-SK/WristGesturesTutorial.apk/RRO.sh	
 $up/RRO-2.0-SK/ClockworkFlashlight.apk/RRO.sh	
 $up/RRO-2.0-SK/Calculator.apk/RRO.sh	
-
+$up/RRO-2.0-SK/Maintenance.apk/RRO.sh	
 
 if [ "$mode" == "asus" ]; then
   	mv $up/output/*.apk $up/output/ZenWatch3/system/vendor/overlay/
