@@ -25,4 +25,4 @@ echo "Signing overlay.apk";
 
 java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem $up/output/ClockworkSettings-overlay.apk			
 
-echo "RRO apk is done!";
+

@@ -15,14 +15,16 @@ key_pk8=$testkey_pk8;
 
 echo "Creating R.java from strings";
 
-$aapt package -m -J $path/gen/ -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar
+$aapt package -m -J $path/gen/ -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar > /dev/null 
 
 echo "Building overlay.apk";
 
-$aapt package -f -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar -F $up/output/AnalogComplicationWatchFace-overlay.apk
+$aapt package -f -M $path/AndroidManifest.xml -S $path/res/ -I $up/tools/android.jar -F $up/output/AnalogComplicationWatchFace-overlay.apk > /dev/null 
 
 echo "Signing overlay.apk";
 
-java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem $up/output/AnalogComplicationWatchFace-overlay.apk			
+java -Xmx4048m -jar $up/tools/apksigner.jar sign --key $key_pk8 --cert $key_pem $up/output/AnalogComplicationWatchFace-overlay.apk > /dev/null 		
 
-echo "RRO apk is done!";
+
+
+
